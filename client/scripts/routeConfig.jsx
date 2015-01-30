@@ -6,7 +6,7 @@ var DefaultRoute = require('react-router').DefaultRoute; //needed for jsx when t
 
 /*Component references, will be used for routes*/
 var RootComponent = require('./components/root.jsx');
-var MapComponent = require('./components/map.jsx');
+var MapComponent = require('./components/map/map.jsx');
 var AboutComponent = require('./components/about.jsx');
 
 var AsDBRootComponent = require('./components/asdb/root.jsx');

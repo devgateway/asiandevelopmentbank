@@ -5,42 +5,32 @@ var Reflux = require('reflux');
 var MapActions = require('../actions/mapActions');
 
 
-module.exports=Reflux.createStore({
+module.exports = Reflux.createStore({
 
-    // Initial setup
-    init: function() {
-       this.state = {zoomLevel:1};
-       this.listenTo(MapActions.zoomChange, this.onZoomChange);
-    },
+  listenables: MapActions,
 
+  onChangeBounds: function(newBounds) {
+    this.update({ bounds: newBounds });
+  },
 
-    onAddLayer:function(layerURL){
-        // Pass on to listeners
-        // update state, then
-        this.output();
-    },
+  onChangeBoundsUser: function(newBounds) {
+    this.update({ bounds: newBounds }, { silent: true });
+  },
 
-
-    onZoomChange: function(changeBy) {
-    debugger;
-        console.log(changeBy);
-        assign(this.state, {zoomLevel: this.state.zoomLevel + changeBy});
-        this.output();
-    },
-
-    // Callback
-    output: function() {
-  // Pass on to listening components
-        this.trigger(this.serialize());
-    },
-
-    serialize: function() {
-
-        return  this.state
-    },
-
-    getInitialState: function() {
-       return this.serialize();
+  update: function(assignable, options) {
+    options = options || {};
+    console.log('updating state: ', assignable);
+    this.state = assign(this.state, assignable);
+    if (!options.silent) {
+      this.trigger(this.state);
     }
+  },
+
+  getInitialState: function() {
+    return (this.state = {
+      bounds: [ [40, -75],
+                [41, -74] ]
+    });
+  }
 
 });

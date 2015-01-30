@@ -2,10 +2,10 @@
 /*http://facebook.github.io/react/docs/component-specs.html*/
 var React = require('react');
 var Router = require('react-router');
-var MapStore = require('../stores/mapStore.js');
+var MapStore = require('../../stores/mapStore.js');
 var Reflux = require('reflux');
 var Link = Router.Link;
-var MapActions = require('../actions/mapActions.js')
+var MapActions = require('../../actions/mapActions.js')
 
 
 module.exports  = React.createClass({
