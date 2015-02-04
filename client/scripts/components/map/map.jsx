@@ -1,65 +1,55 @@
+'use strict';
 
-/*http://facebook.github.io/react/docs/component-specs.html*/
-var React = require('react');
+var React = require('react/addons');
 var Router = require('react-router');
-var MapStore = require('../../stores/mapStore.js');
+var MapStore = require('../../stores/mapViewStore.js');
 var Reflux = require('reflux');
 var Link = Router.Link;
-var MapControls = require('./controls.jsx')
-
-module.exports  = React.createClass({
-    //statics 
-  	mixins: [Reflux.connect(MapStore,"mapSatus")],
-
-    componentDidMount: function() {
-    	console.log('----------- componentDidMount -------------');
-    	this.getDOMNode().querySelector('.map').appendChild(this.map.getContainer());
-    	this.map.fitWorld();
-    	
-
-    },
+var MapActions = require('../../actions/mapViewActions.js');
 
 
-	componentWillMount :function(){
-		   	var map = this.map = L.map(document.createElement('div'), {
-    		layers: [
-    		L.tileLayer(
-    			'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-    			{attribution: '&copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>'})
-    		]
-    	});
-    	
- 
-	},
+module.exports = React.createClass({
 
-    componentWillUnmount: function() {
-   		console.log('----------- componentWillUnmount -------------');
-    	this.map.off('click', this.onMapClick);
-    	this.map = null;
-    },
+  mixins: [Reflux.connect(MapStore)],
 
-    onMapClick: function() {
-        // Do some wonderful map things...
-    },
+  componentWillMount: function() {
+    this.map = L.map(document.createElement('div'), {
+      layers: [L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')]
+    });
+  },
 
+  componentDidMount: function() {
+    var mapContainer = this.map.getContainer();
+    this.getDOMNode().appendChild(mapContainer);
+    mapContainer.classList.add('map');
+    mapContainer.style.position = 'absolute';
+    this.map.on('moveend', this.onChangeBounds, this);
+    this.repositionMap();
+  },
 
-    setZoom:function(){
-    	this.map.setZoom(this.state.mapSatus.zoomLevel);
-    	
-    },
+  componentDidUpdate: function(oldProps, oldState) {
+    this.repositionMap();
+  },
 
-   	componentDidUpdate:function( prevProps,  prevState){
-		console.log('componentDidUpdate');
-		this.setZoom();
-	},
+  componentWillUnmount: function() {
+    this.map.off();
+    this.map.remove();
+    delete this.map;
+  },
 
-    render: function() {
-    	console.log('----------- render -------------');
-    	return (
-    		<div>
-	    		<div className='map'></div>
-    			<span><MapControls step={-1}><p>-</p></MapControls></span> -  <span><MapControls step={1}><p>+</p></MapControls></span>
-    		</div>
-    		);
-    }
+  getLeafletMap: function() {
+    return this.map;
+  },
+
+  onChangeBounds: function(e) {
+    MapActions.changeBounds.user(this.map.getBounds());
+  },
+
+  repositionMap: function() {
+    this.map.fitBounds(this.state.bounds);
+  },
+
+  render: function() {
+    return <div></div>
+  }
 });

@@ -2,7 +2,7 @@
 
 var assign = require('object-assign');
 var Reflux = require('reflux');
-var MapActions = require('../actions/mapActions');
+var MapActions = require('../actions/mapViewActions');
 
 
 module.exports = Reflux.createStore({
@@ -19,7 +19,6 @@ module.exports = Reflux.createStore({
 
   update: function(assignable, options) {
     options = options || {};
-    console.log('updating state: ', assignable);
     this.state = assign(this.state, assignable);
     if (!options.silent) {
       this.trigger(this.state);
@@ -28,8 +27,8 @@ module.exports = Reflux.createStore({
 
   getInitialState: function() {
     return (this.state = {
-      bounds: [ [40, -75],
-                [41, -74] ]
+      bounds: [ [61, 195],
+                [-24, 20] ]
     });
   }
 

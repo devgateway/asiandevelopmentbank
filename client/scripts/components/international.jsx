@@ -1,0 +1,43 @@
+'use strict';
+
+var React = require('react');
+var Reflux = require('reflux');
+var Link = require('react-router').Link;
+var PointLayer = require('./map/pointLayer.jsx');
+var CountryActions = require('../actions/countryActions');
+var CountryStore = require('../stores/countryStore');
+
+
+module.exports  = React.createClass({
+
+  mixins: [Reflux.connect(CountryStore)],
+
+  componentWillMount: CountryActions.load,
+
+  popup: function(country) {
+    var d = country.properties;
+    return (
+      <div className='country-summary'>
+        <h3>
+          {/*<Link to='country' params={{countryId: 0}}>*/}
+            {d.name}
+          {/*</Link>*/}
+        </h3>
+        <p>Total Commitments: <strong>{d.totals.commitments.amount}</strong></p>
+        <p>
+          {/*<Link to='country' params={{countryId: d.name}}>View country page</Link>*/}
+        </p>
+      </div>
+    );
+  },
+
+  render: function() {
+    return (
+      <PointLayer
+        getMap={this.props.getMap}
+        geojson={this.state}
+        popup={this.popup} />
+    );
+  }
+
+});

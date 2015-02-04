@@ -6,9 +6,15 @@ var Link = require('react-router').Link;
 
 module.exports  = React.createClass({
 
+  propTypes: {
+    id: React.PropTypes.number,
+    name: React.PropTypes.string,
+    totalCommitments: React.PropTypes.number,
+  },
+
   render: function() {
     return (
-      <p>country list...</p>
+      <p>hello</p>
     );
   }
 

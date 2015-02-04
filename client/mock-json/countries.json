@@ -1,10 +1,35 @@
-[
-  {
-    "id": 0,
-    "name": "China"
-  },
-  {
-    "id": 1,
-    "name": "India"
-  }
-]
+{
+  "link": "/countries/",
+  "countries": [
+    {
+      "link": "/countries/01234/",
+      "name": "China",
+      "latlng": [104, 34],
+      "totals": {
+        "commitments": {
+          "amount": 11200000,
+          "unit": "USD"
+        },
+        "projects": {
+          "amount": 2,
+          "unit": null
+        }
+      }
+    },
+    {
+      "link": "/countries/01235/",
+      "name": "India",
+      "latlng": [79, 24],
+      "totals": {
+        "commitments": {
+          "amount": 11200000,
+          "unit": "USD"
+        },
+        "projects": {
+          "amount": 225,
+          "unit": null
+        }
+      }
+    }
+  ]
+}

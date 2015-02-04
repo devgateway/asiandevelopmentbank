@@ -3,16 +3,18 @@
 var React = require('react');
 var Reflux = require('reflux');
 var Link = require('react-router').Link;
-var MapComponent = require('../map/asdbMap.jsx');
-var RouteHandler = require('react-router').RouteHandler;
 
 module.exports  = React.createClass({
 
+  propTypes: {
+    id: React.PropTypes.number,
+    name: React.PropTypes.string,
+    totalCommitments: React.PropTypes.number,
+  },
+
   render: function() {
     return (
-      <MapComponent>
-        <RouteHandler {...this.props}/>
-      </MapComponent>
+      <p>hello</p>
     );
   }
 

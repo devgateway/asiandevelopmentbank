@@ -1,26 +1,24 @@
 'use strict';
 
 var React = require('react');
+var Reflux = require('reflux');
+var Link = require('react-router').Link;
+var MapComponent = require('./map/map.jsx');
 var RouteHandler = require('react-router').RouteHandler;
-var HeaderComponent=require('./header.jsx')
-var TestComponent = require('./test.jsx')
 
+module.exports  = React.createClass({
 
-module.exports = React.createClass({
- 
+  getMap: function() {
+    return this.refs.map;
+  },
+
   render: function() {
     return (
-     <div className="main">
-        <HeaderComponent/>
-        <div className='row'>
-          <div className='col-lg-4 col-md-2'>
-            <TestComponent />
-          </div>
-          <div className='col-lg-8'>
-			      <RouteHandler {...this.props}/>
-          </div>
-    		</div>
+      <div>
+        <MapComponent ref="map" />
+        <RouteHandler {...this.props} getMap={this.getMap} />
       </div>
     );
   }
+
 });
