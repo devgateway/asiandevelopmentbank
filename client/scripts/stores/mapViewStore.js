@@ -9,6 +9,10 @@ module.exports = Reflux.createStore({
 
   listenables: MapActions,
 
+  onResetBounds: function() {
+    this.update(this.getInitialState());
+  },
+
   onChangeBounds: function(newBounds) {
     this.update({ bounds: newBounds });
   },

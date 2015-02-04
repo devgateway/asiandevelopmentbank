@@ -4,6 +4,7 @@ var React = require('react');
 var Reflux = require('reflux');
 var Link = require('react-router').Link;
 var PointLayer = require('./map/pointLayer.jsx');
+var MapViewActions = require('../actions/mapViewActions');
 var CountryActions = require('../actions/countryActions');
 var CountryStore = require('../stores/countryStore');
 
@@ -13,6 +14,8 @@ module.exports  = React.createClass({
   mixins: [Reflux.connect(CountryStore)],
 
   componentWillMount: CountryActions.load,
+
+  componentDidMount: MapViewActions.resetBounds,
 
   popup: function(country) {
     var d = country.properties;
