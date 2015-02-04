@@ -5,20 +5,62 @@ var Reflux = require('reflux');
 var CountryActions = require('../actions/countryActions');
 
 
-function _countriesToGeoJSON(rawCountries) {
+function countryToFeature(rawCountry) {
+  return {
+    type: 'Feature',
+    id: rawCountry.id,
+    geometry: {
+      type: 'Point',
+      coordinates: rawCountry.latlng
+    },
+    properties: rawCountry
+  };
+}
+
+function countriesToGeoJSON(rawCountries) {
   return {
     type: 'FeatureCollection',
-    features: rawCountries.countries.map(function(country) {
-      return {
-        type: 'Feature',
-        geometry: {
-          type: 'Point',
-          coordinates: country.latlng
-        },
-        properties: country
-      };
-    })
+    features: rawCountries.countries.map(countryToFeature)
   };
+}
+
+
+function getCountry(geojson, countryId) {
+  var result;
+  geojson.features.forEach(function(country) {
+    if (country.id === countryId) { result = country; }
+  });
+  return result;
+}
+
+
+function removeCountry(state, countryId) {
+  var country = getCountry(state, countryId);
+  if (!country) { return assign({}, state); }
+  var featuresWithout = [];
+  state.features.forEach(function(someCountry) {
+    if (someCountry !== country) {
+      featuresWithout.push(someCountry);
+    }
+  });
+  return assign({}, state, {features: featuresWithout});
+}
+
+
+function mergeGeoJSON(state, geojson) {
+  state = state || { type: 'FeatureCollection', features: [] };
+  var allCountries = geojson.features.map(function(country) {
+    return getCountry(state, country.id) || country;
+  });
+  return assign({}, state, { features: allCountries });
+}
+
+
+function mergeCountry(state, countryFeature) {
+  state = state || { type: 'FeatureCollection', features: [] };
+  var updatedFeatures = removeCountry(state, countryFeature.id);
+  updatedFeatures.features.push(countryFeature);
+  return updatedFeatures;
 }
 
 
@@ -31,7 +73,7 @@ module.exports = Reflux.createStore({
   },
 
   onLoadCompleted: function(data) {
-    this.state = _countriesToGeoJSON(data);
+    this.state = mergeGeoJSON(this.state, countriesToGeoJSON(data));
     this.trigger(this.state);
   },
 
@@ -43,12 +85,17 @@ module.exports = Reflux.createStore({
     console.log('load a country plz');
   },
 
-  onLoadCountryCompleted: function() {
-    console.log('loaded a country');
+  onLoadCountryCompleted: function(data) {
+    this.state = mergeCountry(this.state, countryToFeature(data));
+    this.trigger(this.state);
   },
 
   onLoadCountryFailed: function() {
     console.log('could not load that country');
+  },
+
+  getCountry: function(countryId) {
+    return getCountry(this.state, countryId);
   },
 
   getInitialState: function() {

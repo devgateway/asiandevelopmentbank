@@ -1,0 +1,17 @@
+{
+  "id": "01234",
+  "link": "/countries/01234/",
+  "name": "China",
+  "info": "Afghanistan is a founding member of ADB, which was established in 1966. ADB Resumed its partnership with the Government of Afghanistan after a hiatus from 1980 to 2001.",
+  "bounds": [[55, 148], [13, 60]],
+  "projects": [
+    {
+      "name": "Water and Sanitation",
+      "link": "/projects/012345/"
+    },
+    {
+      "name": "Water and Sanitation",
+      "link": "/projects/012346/"
+    }
+  ]
+}

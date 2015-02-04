@@ -1,0 +1,17 @@
+{
+  "id": "01235",
+  "link": "/countries/01235/",
+  "name": "India",
+  "info": "Afghanistan is a founding member of ADB, which was established in 1966. ADB Resumed its partnership with the Government of Afghanistan after a hiatus from 1980 to 2001.",
+  "bounds": [[35, 100], [6, 55]],
+  "projects": [
+    {
+      "name": "Water and Sanitation",
+      "link": "/projects/012345/"
+    },
+    {
+      "name": "Water and Sanitation",
+      "link": "/projects/012346/"
+    }
+  ]
+}
