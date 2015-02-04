@@ -19,13 +19,13 @@ module.exports  = React.createClass({
     return (
       <div className='country-summary'>
         <h3>
-          {/*<Link to='country' params={{countryId: 0}}>*/}
+          <Link to='country' params={{countryId: d.id}}>
             {d.name}
-          {/*</Link>*/}
+          </Link>
         </h3>
         <p>Total Commitments: <strong>{d.totals.commitments.amount}</strong></p>
         <p>
-          {/*<Link to='country' params={{countryId: d.name}}>View country page</Link>*/}
+          <Link to='country' params={{countryId: d.id}}>View country page</Link>
         </p>
       </div>
     );

@@ -2,6 +2,7 @@
   "link": "/countries/",
   "countries": [
     {
+      "id": "01234",
       "link": "/countries/01234/",
       "name": "China",
       "latlng": [104, 34],
@@ -17,6 +18,7 @@
       }
     },
     {
+      "id": "01235",
       "link": "/countries/01235/",
       "name": "India",
       "latlng": [79, 24],

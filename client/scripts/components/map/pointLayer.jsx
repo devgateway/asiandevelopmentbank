@@ -9,7 +9,6 @@ var Link = Router.Link;
 module.exports = React.createClass({
 
   componentDidMount: function() {
-    this.popupEl = document.createElement('div');
     this.addLayerToMap(this.props);
   },
 
@@ -28,17 +27,33 @@ module.exports = React.createClass({
     var options = {};
     if (props.popup) {
       options.onEachFeature = function(feature, layer) {
-        layer.bindPopup(this.popupEl);
-        React.render(props.popup(feature), this.popupEl);
+        layer.bindPopup('');
+        layer.on('popupopen', function(e) {
+          this.renderPopup(e.popup, feature, props.popup);
+        }.bind(this))
       }.bind(this);
     }
     this.layer = L.geoJson(props.geojson, options);
     this.props.getMap().map.addLayer(this.layer);
   },
 
+  renderPopup: function(popup, feature, popupFn) {
+    this.popupFn = popupFn;
+    this.setState(feature); // triggers a re-render
+    popup.setContent(this.getDOMNode().innerHTML);
+  },
+
+  popupFn: function() {
+    // this gets overridden
+    return <div></div>;
+  },
+
   render: function() {
-    // TODO: we don't actually want to return anything...
-    return <span></span>;
+    return (
+      <div>
+        {this.popupFn(this.state)}
+      </div>
+    );
   }
 
 });
