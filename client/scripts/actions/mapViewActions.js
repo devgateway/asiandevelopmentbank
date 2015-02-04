@@ -3,5 +3,5 @@ var Reflux = require('reflux');
 
 module.exports = Reflux.createActions({
   changeBounds: {children: ['user']},
-  resetBounds: {asyncResult: false},
+  resetBounds: {},
 });
