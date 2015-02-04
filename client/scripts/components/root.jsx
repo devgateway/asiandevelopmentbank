@@ -3,7 +3,8 @@
 var React = require('react');
 var Reflux = require('reflux');
 var Link = require('react-router').Link;
-var MapComponent = require('./map/map.jsx');
+var Map = require('./map/map.jsx');
+var Header = require('./header.jsx');
 var RouteHandler = require('react-router').RouteHandler;
 
 module.exports  = React.createClass({
@@ -15,7 +16,8 @@ module.exports  = React.createClass({
   render: function() {
     return (
       <div>
-        <MapComponent ref="map" />
+        <Map ref="map" />
+        <Header />
         <RouteHandler {...this.props} getMap={this.getMap} />
       </div>
     );

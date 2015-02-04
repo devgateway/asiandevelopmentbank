@@ -5,6 +5,7 @@ var Reflux = require('reflux');
 var Link = require('react-router').Link;
 var PointLayer = require('./map/pointLayer.jsx');
 var MapViewActions = require('../actions/mapViewActions');
+var MetaActions = require('../actions/pageMetaActions');
 var CountryActions = require('../actions/countryActions');
 var CountryStore = require('../stores/countryStore');
 
@@ -15,7 +16,11 @@ module.exports  = React.createClass({
 
   componentWillMount: CountryActions.load,
 
-  componentDidMount: MapViewActions.resetBounds,
+  componentDidMount: function() {
+    MapViewActions.resetBounds()
+    console.log('st');
+    MetaActions.setTitle('International');
+  },
 
   popup: function(country) {
     var d = country.properties;

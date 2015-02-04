@@ -4,6 +4,7 @@ var React = require('react');
 var Reflux = require('reflux');
 var Link = require('react-router').Link;
 var CountryActions = require('../actions/countryActions');
+var MetaActions = require('../actions/pageMetaActions');
 var CountryStore = require('../stores/countryStore');
 
 
@@ -23,6 +24,9 @@ module.exports  = React.createClass({
     var thisCountry = CountryStore.getCountry(this.props.params.countryId);
     if (thisCountry) {
       this.props.getMap().map.fitBounds(thisCountry.properties.bounds);
+      MetaActions.setTitle(thisCountry.properties.name);
+    } else {
+      MetaActions.setTitle('(loading country...)');
     }
     return (
       <p>hello</p>
