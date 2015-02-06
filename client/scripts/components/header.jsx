@@ -12,12 +12,20 @@ module.exports  = React.createClass({
 
   render: function() {
     return (
-      <header className="map-header">
-        <h1>
-          <Link to="international">AsDB Phase II</Link>
-          <small>» {this.state.title}</small>
-        </h1>
-      </header>
+      <nav className="nav navbar-inverse navbar-fixed-top map-header">
+        <div className="container">
+          <div className="navbar-header">
+            <button type="button" className="navbar-toggle collapsed">
+              <span className="sr-only">Toggle Navigation</span>
+              <span className="icon-bar"></span>
+            </button>
+            <Link to="international" className="navbar-brand">AsDB Phase II</Link>
+            <ul className="nav navbar-nav">
+              <li className="active"><a>{this.state.title}</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
     );
   }
 
