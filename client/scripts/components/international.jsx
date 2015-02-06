@@ -17,8 +17,7 @@ module.exports  = React.createClass({
   componentWillMount: CountryActions.load,
 
   componentDidMount: function() {
-    MapViewActions.resetBounds()
-    console.log('st');
+    MapViewActions.resetBounds();
     MetaActions.setTitle('International');
   },
 

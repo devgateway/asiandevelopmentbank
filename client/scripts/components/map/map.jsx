@@ -14,7 +14,7 @@ module.exports = React.createClass({
 
   componentWillMount: function() {
     this.map = L.map(document.createElement('div'), {
-      layers: [L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png')]
+      layers: [L.tileLayer('http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png')]
     });
   },
 
@@ -42,7 +42,12 @@ module.exports = React.createClass({
   },
 
   onChangeBounds: function(e) {
-    MapActions.changeBounds.user(this.map.getBounds());
+    var mapBounds = this.map.getBounds(),
+        simpleBounds = [
+          [mapBounds.getNorth(), mapBounds.getEast()],
+          [mapBounds.getSouth(), mapBounds.getWest()]
+        ];
+    MapActions.changeBounds.user(simpleBounds);
   },
 
   repositionMap: function() {
