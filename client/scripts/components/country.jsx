@@ -2,7 +2,6 @@
 
 var React = require('react');
 var Reflux = require('reflux');
-var Link = require('react-router').Link;
 var TopoLayer = require('./map/topoLayer.jsx');
 var CountryActions = require('../actions/countryActions');
 var MapViewActions = require('../actions/mapViewActions');
@@ -31,19 +30,17 @@ module.exports  = React.createClass({
     var thisCountry = CountryStore.getCountry(this.props.params.countryId),
         hasLoaded = !!thisCountry;  // cast to bool, false if thisCountry is undefined
 
+    // update the app title. TODO: research title-managing libs
     if (hasLoaded) {
       MetaActions.setTitle(thisCountry.properties.name);
-      MapViewActions.changeBounds(thisCountry.properties.bounds);
+      MapViewActions.changeBounds(thisCountry.properties.bounds, {debounceKey: 'country' + this.props.params.countryId});
     } else {
-      // update the app title. TODO: research title-managing libs
       MetaActions.setTitle('(loading country...)');
     }
 
-    return thisCountry ? (
-      <TopoLayer
-        getMap={this.props.getMap}
-        topojson={thisCountry.properties.topojson} />
-    ) : <div className="hidden"></div>;
+    return thisCountry
+      ? <TopoLayer getMap={this.props.getMap} topojson={thisCountry.properties.topojson} />
+      : <div className="hidden"></div>;
   }
 
 });
