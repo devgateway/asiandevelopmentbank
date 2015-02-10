@@ -3,6 +3,7 @@
 var React = require('react');
 var Reflux = require('reflux');
 var Link = require('react-router').Link;
+var TopoLayer = require('./map/topoLayer.jsx');
 var CountryActions = require('../actions/countryActions');
 var MapViewActions = require('../actions/mapViewActions');
 var MetaActions = require('../actions/pageMetaActions');
@@ -38,10 +39,11 @@ module.exports  = React.createClass({
       MetaActions.setTitle('(loading country...)');
     }
 
-    // TODO: render something for the country...
-    return (
-      <p>hello</p>
-    );
+    return thisCountry ? (
+      <TopoLayer
+        getMap={this.props.getMap}
+        topojson={thisCountry.properties.topojson} />
+    ) : <div className="hidden"></div>;
   }
 
 });
