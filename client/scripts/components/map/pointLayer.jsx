@@ -17,12 +17,12 @@ module.exports = React.createClass({
   },
 
   componentWillUnmount: function() {
-    this.props.getMap().map.removeLayer(this.layer);
+    this.props.getMap().removeLayer(this.layer);
   },
 
   addLayerToMap: function(props) {
-    if (this.props.getMap().map.hasLayer(this.layer)) {
-      this.props.getMap().map.removeLayer(this.layer);
+    if (this.props.getMap().hasLayer(this.layer)) {
+      this.props.getMap().removeLayer(this.layer);
     }
     var options = {};
     if (props.popup) {
@@ -34,7 +34,7 @@ module.exports = React.createClass({
       }.bind(this);
     }
     this.layer = L.geoJson(props.geojson, options);
-    this.props.getMap().map.addLayer(this.layer);
+    this.props.getMap().addLayer(this.layer);
   },
 
   renderPopup: function(popup, feature, popupFn) {

@@ -10,17 +10,14 @@ var RouteHandler = require('react-router').RouteHandler;
 
 module.exports  = React.createClass({
 
-  getMap: function() {
-    return this.refs.map;
-  },
-
   render: function() {
     return (
       <div>
-        <Map ref="map" />
         <Header />
+        <Map>
+          <RouteHandler {...this.props} />
+        </Map>
         <Footer />
-        <RouteHandler {...this.props} getMap={this.getMap} />
       </div>
     );
   }
