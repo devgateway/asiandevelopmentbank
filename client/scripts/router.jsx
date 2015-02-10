@@ -1,6 +1,16 @@
 'use strict';
 
+
+// circular import handling: indirection via getter function that is called later
+module.exports = {
+  get: function() {
+    return router;
+  }
+};
+
+
 var React = require('react');
+var Router = require('react-router');
 var Route = require('react-router').Route;
 var DefaultRoute = require('react-router').DefaultRoute;
 
@@ -12,7 +22,7 @@ var CountryProjects = require('./components/countryProjects.jsx');
 var Project = require('./components/project.jsx');
 
 
-module.exports = (
+var routes = (
   <Route name="main" path="/" handler={Root}>
     <Route name="international" path="/" handler={International} />
     <Route name="country" path="/countries/:countryId" handler={Country}>
@@ -21,3 +31,9 @@ module.exports = (
     <Route name="project" path="/projects/:projectId" handler={Project} />
   </Route>
 );
+
+
+var router = Router.create({
+  routes: routes,
+  // location: Router.HistoryLocation  // <- uncomment to enable pushstate (no hash in url)
+});
