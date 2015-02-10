@@ -59,3 +59,13 @@ Once you have all of the prerequisites installed, you can run the project locall
 ...and then open [localhost:9010](http://localhost:9010/) in a browser.
 
 That command will continue to run in the background, reloading and recompiling files as they change. If you have installed the LiveReload browser extension, your web browser will automatically refresh when you save files.
+
+
+Tools Used
+----------
+
+  * [browserify](http://browserify.org/) for javascript modules (eg. `var react = require('react');`).
+  * [react](https://facebook.github.io/react/) javascript component UI framework and jsx
+  * [react-router](https://github.com/rackt/react-router/) does some magic to map URLs to views of the app, rendering the correct components.
+  * [reflux](https://github.com/spoike/refluxjs) event and data flow via Actions and Stores
+  * [leaflet](http://leafletjs.com/) for the map
