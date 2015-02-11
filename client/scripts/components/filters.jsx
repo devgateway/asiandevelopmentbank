@@ -3,6 +3,8 @@
 var assign = require('object-assign');
 var React = require('react/addons');
 var Reflux = require('reflux');
+var FiltersViewActions = require('../actions/filtersViewActions');
+var FiltersViewStore = require('../stores/filtersViewStore');
 
 
 var filters = [
@@ -57,47 +59,13 @@ var filters = [
 ];
 
 
-var FilterViewActions = Reflux.createActions([
-  'activate',
-  'deactivate'
-]);
-
-
-var FilterViewStore = Reflux.createStore({
-  listenables: FilterViewActions,
-
-  onActivate: function(filterViewId) {
-    this.update({currentlyActive: filterViewId});
-  },
-
-  onDeactivate: function(filterViewId) {
-    if (filterViewId !== this.state.currentlyActive) {
-      console.warn('can\'t deactivate not-active filter view', filterViewId);
-      return;
-    }
-    this.update({currentlyActive: null});
-  },
-
-  update: function(spec) {
-    this.state = assign({}, this.state, spec);
-    this.trigger(this.state);
-  },
-
-  getInitialState: function() {
-    return (this.state = {
-      currentlyActive: null
-    });
-  }
-});
-
-
 var FilterNavButton = React.createClass({
   toggleMe: function(e) {
     if (e) { e.preventDefault() };  // if this is coming from a click event
     if (this.props.active) {
-      FilterViewActions.deactivate(this.props.id);
+      FiltersViewActions.deactivate(this.props.id);
     } else {
-      FilterViewActions.activate(this.props.id);
+      FiltersViewActions.activate(this.props.id);
     }
   },
 
@@ -128,7 +96,7 @@ var FilterBody = React.createClass({
 
 module.exports = React.createClass({
 
-  mixins: [Reflux.connect(FilterViewStore)],
+  mixins: [Reflux.connect(FiltersViewStore)],
 
   render: function() {
 
