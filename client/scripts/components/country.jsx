@@ -10,12 +10,16 @@ var MetaActions = require('../actions/pageMetaActions');
 var CountryStore = require('../stores/countryStore');
 
 
-function locationsToMultiPoint(locations) {
+function locationsToMultiPoint(project) {
   return {
+    id: project.id,
     type: 'Feature',
     geometry: {
       type: 'MultiPoint',
-      coordinates: locations
+      coordinates: project.locations
+    },
+    properties: {
+      name: project.name
     }
   };
 }
@@ -48,6 +52,16 @@ module.exports  = React.createClass({
     });
   },
 
+  locationPopup: function(location) {
+    var d = location.properties;
+    return (
+      <div className='location-summary'>
+        <h3>{d.name}</h3>
+        <p>{location.geometry.coordinates.length - 1} other locations</p>
+      </div>
+    );
+  },
+
   styleTopoLayer: function(layer) {
     return {
       color: 'hsl(220, 100%, 10%)',
@@ -70,16 +84,17 @@ module.exports  = React.createClass({
     MetaActions.setTitle(thisCountry.properties.name);
     MapViewActions.changeBounds(thisCountry.properties.bounds, {debounceKey: 'country' + thisCountry.id});
 
-    var projectSites = thisCountry.properties.projects.map(function(project, i) {
+    var projectSites = thisCountry.properties.projects.map(function(project) {
       // This loop could potentially become a performance bottleneck.
       // If it does, we can put all the projects on one layer and one component.
       // Maybe a big FeatureCollection of MultiPoints?
       return (
         <PointLayer
-          key={i}
+          key={project.id}
           getMap={this.props.getMap}
           pin={this.locationPin}
-          geojson={locationsToMultiPoint(project.locations)} />
+          popup={this.locationPopup}
+          geojson={locationsToMultiPoint(project)} />
       );
     }, this);
 
