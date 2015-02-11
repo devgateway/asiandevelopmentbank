@@ -25,22 +25,36 @@ module.exports  = React.createClass({
     }
   },
 
-  render: function() {
+  styleTopoLayer: function(layer) {
+    return {
+      color: 'hsl(220, 100%, 10%)',
+      weight: 3,
+      dashArray: '1, 3',
+      fill: false,
+      clickable: false
+    };
+  },
 
+  render: function() {
     var thisCountry = CountryStore.getCountry(this.props.params.countryId),
         hasLoaded = !!thisCountry;  // cast to bool, false if thisCountry is undefined
 
     // update the app title. TODO: research title-managing libs
     if (hasLoaded) {
       MetaActions.setTitle(thisCountry.properties.name);
-      MapViewActions.changeBounds(thisCountry.properties.bounds, {debounceKey: 'country' + this.props.params.countryId});
+      MapViewActions.changeBounds(thisCountry.properties.bounds, {debounceKey: 'country' + thisCountry.id});
+
+      return (
+        <TopoLayer
+          getMap={this.props.getMap}
+          style={this.styleTopoLayer}
+          topojson={thisCountry.properties.topojson} />
+      );
+
     } else {
       MetaActions.setTitle('(loading country...)');
+      return <div className="hidden"></div>
     }
-
-    return thisCountry
-      ? <TopoLayer getMap={this.props.getMap} topojson={thisCountry.properties.topojson} />
-      : <div className="hidden"></div>;
   }
 
 });

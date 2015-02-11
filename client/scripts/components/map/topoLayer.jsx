@@ -38,6 +38,10 @@ module.exports = React.createClass({
 
     var options = {};  // options for L.geoJson
 
+    if (props.style) {
+      options.style = props.style;
+    }
+
     var eachFeatureTasks = [];
 
     // optionally do something on marker double-click (like navigate to a page)
