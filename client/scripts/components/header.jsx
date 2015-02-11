@@ -6,7 +6,7 @@ var Link = require('react-router').Link;
 var MetaStore = require('../stores/pageMetaStore');
 
 
-module.exports  = React.createClass({
+module.exports = React.createClass({
 
   mixins: [Reflux.connect(MetaStore)],
 
