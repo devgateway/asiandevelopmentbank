@@ -7,12 +7,33 @@
   "bounds": [[35, 100], [6, 55]],
   "projects": [
     {
+      "id": "012345",
+      "link": "/projects/012345/",
       "name": "Water and Sanitation",
-      "link": "/projects/012345/"
+      "locations": [
+        [80, 27],
+        [81, 26.3],
+        [84, 26]
+      ]
     },
     {
+      "id": "012346",
+      "link": "/projects/012346/",
       "name": "Water and Sanitation",
-      "link": "/projects/012346/"
+      "locations": [
+        [75, 20],
+        [77, 20.3],
+        [75.5, 22.4]
+      ]
+    },
+    {
+      "id": "012347",
+      "link": "/projects/012347/",
+      "name": "Water and Sanitation",
+      "locations": [
+        [83, 17.8],
+        [83.5, 18.2]
+      ]
     }
   ]
 }

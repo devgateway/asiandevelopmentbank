@@ -45,6 +45,15 @@
 }
 
 
+// project location markers
+.project-location-marker {
+  border-radius: 8px;
+  background-color: hsla(220, 100%, 10%, 0.6);
+  border: 1px solid hsla(0, 0, 100%, 0.8);
+  box-shadow: 0 0 0 3px hsla(220, 100%, 10%, 0.3);
+}
+
+
 // general nav
 $nav-vpad: 9px;
 
