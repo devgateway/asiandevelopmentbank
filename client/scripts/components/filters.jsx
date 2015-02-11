@@ -119,15 +119,37 @@ var FilterNavButton = React.createClass({
 });
 
 
+var FilterBody = React.createClass({
+  render: function() {
+    return <h3>{this.props.name}</h3>
+  }
+});
+
+
 module.exports = React.createClass({
 
   mixins: [Reflux.connect(FilterViewStore)],
 
   render: function() {
+
     var buttons = filters.map(function(filter) {
       var isActive = filter.id === this.state.currentlyActive;
       return <FilterNavButton key={filter.id} {...filter} active={isActive} />;
     }, this);
+
+    var activeFilter;
+    if (this.state.currentlyActive) {
+      filters.forEach(function(filter) {
+        if (filter.id === this.state.currentlyActive) {
+          activeFilter = (
+            <div className="filters-body">
+              <FilterBody {...filter} />
+            </div>
+          );
+        }
+      }, this);
+    }
+
     return (
       <div className="filters">
 
@@ -141,6 +163,8 @@ module.exports = React.createClass({
             {buttons}
           </ul>
         </div>
+
+        {activeFilter}
 
       </div>
     );

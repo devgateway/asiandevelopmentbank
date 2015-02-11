@@ -101,7 +101,14 @@ $nav-vpad: 9px;
   color: #fff;
   background-color: $darkblue-bg;
 
+  h3 {
+    margin: 0 10px 10px 15px;
+    padding-top: 15px;
+    text-transform: uppercase;
+  }
+
   .filters-nav {
+    float: left;
     padding-bottom: 40px;
     background: transparentize($darkblue, 0.5);  // stacked, so just a bit darker
     .glyphicon {
@@ -110,11 +117,8 @@ $nav-vpad: 9px;
   }
 
   .filters-title {
-    margin: 0 10px 10px 15px;
-    padding-top: 15px;
     color: $accent;
     font-size: 18px;
-    text-transform: uppercase;
   }
 
   .nav-button {
@@ -147,6 +151,14 @@ $nav-vpad: 9px;
     }
     &:first-child a {
       border-top: 1px solid hsla(0, 0, 80%, 0.2);
+    }
+  }
+
+  .filters-body {
+    float: left;
+    padding: 0 40px 40px 30px;
+    h3 {
+      margin: 0;
     }
   }
 
