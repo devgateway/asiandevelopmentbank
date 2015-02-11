@@ -4,6 +4,7 @@ var React = require('react');
 var Reflux = require('reflux');
 var TopoLayer = require('./map/topoLayer.jsx');
 var PointLayer = require('./map/pointLayer.jsx');
+var Filters = require('./filters.jsx');
 var CountryActions = require('../actions/countryActions');
 var MapViewActions = require('../actions/mapViewActions');
 var MetaActions = require('../actions/pageMetaActions');
@@ -99,12 +100,13 @@ module.exports  = React.createClass({
     }, this);
 
     return (
-      <div className="hidden">
+      <div>
         <TopoLayer
           getMap={this.props.getMap}
           style={this.styleTopoLayer}
           topojson={thisCountry.properties.topojson} />
         {projectSites}
+        <Filters />
       </div>
     );
   }
