@@ -1,15 +1,6 @@
 'use strict';
 var React = require('react');
-var Router = require('react-router'); // or var Router = ReactRouter; in browsers
-var routes=require('./routes.jsx');
-
-
-var router = Router.create({
-  routes: routes,
- // location: Router.HistoryLocation  // <- uncomment to enable pushstate (no hash in url)
-});
-
-window.r = router;
+var router = require('./router.jsx').get();  // function indirection to avoid circular import issues
 
 
 router.run(function(Handler, state) {

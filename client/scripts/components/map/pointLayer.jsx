@@ -21,23 +21,54 @@ module.exports = React.createClass({
   },
 
   addLayerToMap: function(props) {
+    // remove any existing layer so we can render fresh
     if (this.props.getMap().hasLayer(this.layer)) {
       this.props.getMap().removeLayer(this.layer);
     }
-    var options = {};
+
+    var options = {};  // options for L.geoJson
+
+    // pin callback must give a leaflet-style maker. it would be nice to wrap
+    // this in a component abstraction, but I don't know how right now.
+    if (props.pin) {
+      options.pointToLayer = props.pin;
+    }
+
+    var eachFeatureTasks = [];
+
+    // popup callback should return contents as a leaflet component
     if (props.popup) {
-      options.onEachFeature = function(feature, layer) {
+      eachFeatureTasks.push(function(feature, layer) {
         layer.bindPopup('');
         layer.on('popupopen', function(e) {
           this.renderPopup(e.popup, feature, props.popup);
         }.bind(this))
-      }.bind(this);
+      }.bind(this));
     }
+
+    // optionally do something on marker double-click (like navigate to a page)
+    if (props.dblclick) {
+      eachFeatureTasks.push(function(feature, layer) {
+        layer.on('dblclick', function(e) {
+          // pass in a ref to the feature, since that's probably the most useful
+          props.dblclick(feature, layer, e);
+        }.bind(this));
+      }.bind(this));
+    }
+
+    options.onEachFeature = function(feature, layer) {
+      eachFeatureTasks.forEach(function(task) {
+        task(feature, layer);
+      }.bind(this))
+    }
+
     this.layer = L.geoJson(props.geojson, options);
     this.props.getMap().addLayer(this.layer);
   },
 
   renderPopup: function(popup, feature, popupFn) {
+    // this component renders, in react terms, _as its popup_. It's hidden from
+    // the normal document flow, and copied into the open L.popup's content.
     this.popupFn = popupFn;
     this.setState(feature); // triggers a re-render
     popup.setContent(this.getDOMNode().innerHTML);
@@ -50,7 +81,7 @@ module.exports = React.createClass({
 
   render: function() {
     return (
-      <div>
+      <div className="hidden">
         {this.popupFn(this.state)}
       </div>
     );
