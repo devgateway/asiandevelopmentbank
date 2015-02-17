@@ -23,8 +23,8 @@ var Project = require('./components/project.jsx');
 
 
 var routes = (
-  <Route name="main" path="/" handler={Root}>
-    <Route name="international" path="/" handler={International} />
+  <Route name="international" path="/" handler={Root}>
+    <DefaultRoute handler={International} />
     <Route name="country" path="/countries/:countryId" handler={Country}>
       <Route name="country-projects" path="projects/" handler={CountryProjects} />
     </Route>
