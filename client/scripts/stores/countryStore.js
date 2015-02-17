@@ -5,6 +5,8 @@ var Reflux = require('reflux');
 var CountryActions = require('../actions/countryActions');
 
 
+// TODO: replace these ad-hoc functions with an actual way of dealing with data
+
 function countryToFeature(rawCountry) {
   return {
     type: 'Feature',
@@ -78,11 +80,11 @@ module.exports = Reflux.createStore({
   },
 
   onLoadFailed: function() {
-    console.log('booooooo');
+    console.error('booooooo loading countreis failed');
   },
 
   onLoadCountry: function(countryId) {
-    console.log('load a country plz');
+    console.log('add a spinner?');
   },
 
   onLoadCountryCompleted: function(data) {
@@ -91,7 +93,7 @@ module.exports = Reflux.createStore({
   },
 
   onLoadCountryFailed: function() {
-    console.log('could not load that country');
+    console.error('could not load that country');
   },
 
   getCountry: function(countryId) {
