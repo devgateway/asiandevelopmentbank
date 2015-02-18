@@ -45,6 +45,20 @@
 }
 
 
+// project location markers
+.project-location-marker {
+  border-radius: 8px;
+  background-color: hsla(220, 100%, 10%, 0.6);
+  border: 1px solid hsla(0, 0, 100%, 0.8);
+  box-shadow: 0 0 0 3px hsla(220, 100%, 10%, 0.3);
+}
+
+
+// general colour
+$darkblue: hsl(220, 100%, 10%);
+$darkblue-bg: transparentize($darkblue, 0.2);
+$accent: #fb0;
+
 // general nav
 $nav-vpad: 9px;
 
@@ -60,14 +74,14 @@ $nav-vpad: 9px;
   }
   .navbar-brand {
     height: (50px - ($nav-vpad * 4));
-    color: #fb0;
+    color: $accent;
   }
 }
 
 
 // Footer component
 .map-footer {
-  background-color: hsla(220, 100%, 10%, 0.8);
+  background-color: $darkblue-bg;
 
   .navbar-text {
     margin-top: 0;
@@ -75,4 +89,77 @@ $nav-vpad: 9px;
     padding-top: $nav-vpad;
     padding-bottom: $nav-vpad;
   }
+}
+
+
+// Filters styles
+.filters {
+  position: absolute;
+  top: 120px;
+  left: 60px;
+
+  color: #fff;
+  background-color: $darkblue-bg;
+
+  h3 {
+    margin: 0 10px 10px 15px;
+    padding-top: 15px;
+    text-transform: uppercase;
+  }
+
+  .filters-nav {
+    float: left;
+    padding-bottom: 40px;
+    background: transparentize($darkblue, 0.5);  // stacked, so just a bit darker
+    .glyphicon {
+      padding-right: 5px;
+    }
+  }
+
+  .filters-title {
+    color: $accent;
+    font-size: 18px;
+  }
+
+  .nav-button {
+    margin: 0;
+    a {
+      padding: 10px 20px;
+      color: #fff;
+    }
+    &.active a,
+    a:hover,
+    a:focus {
+      background-color: hsla(0, 0, 80%, 0.2);
+    }
+    &.active a {
+      color: $accent;
+      font-weight: bold;
+    }
+  }
+  .nav-button-main {
+    text-transform: uppercase;
+    .glyphicon {
+      padding: 10px 8px 12px 0;
+      font-size: 28px;
+      vertical-align: middle;
+    }
+    a {
+      padding: 0 20px;
+      color: desaturate(lighten($darkblue, 60%), 50%);
+      border-bottom: 1px solid hsla(0, 0, 80%, 0.2);
+    }
+    &:first-child a {
+      border-top: 1px solid hsla(0, 0, 80%, 0.2);
+    }
+  }
+
+  .filters-body {
+    float: left;
+    padding: 0 40px 40px 30px;
+    h3 {
+      margin: 0;
+    }
+  }
+
 }

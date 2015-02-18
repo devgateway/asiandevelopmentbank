@@ -13,6 +13,7 @@
     "reflux": "~0.2.4",
     "reqwest": "~1.1.5",
     "superagent": "~0.21.0"
+    "topojson": "~1.6.18"
   },
   "devDependencies": {
     "rimraf": "~2.2.8",
