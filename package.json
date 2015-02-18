@@ -1,5 +1,6 @@
 {
   "name": "asdb-phase-ii",
+  "repository": "https://github.com/devgateway/asdb-gis-dashboard",
   "version": "0.0.1",
   "dependencies": {
     "cookie": "~0.1.2",
@@ -8,9 +9,9 @@
     "node-jsx": "~0.12.4",
     "object-assign": "~1.0.0",
     "react": "~0.12.0",
-    "react-router": "^0.11.6",
-    "reflux": "^0.2.4",
-    "reqwest": "^1.1.5",
+    "react-router": "~0.12.0",
+    "reflux": "~0.2.4",
+    "reqwest": "~1.1.5",
     "superagent": "~0.21.0"
   },
   "devDependencies": {
@@ -23,7 +24,7 @@
     "grunt-styleguide": "~0.2.17",
     "grunt-autoprefixer": "~1.0.1",
     "grunt-contrib-htmlmin": "~0.3.0",
-    "minifyify": "~5.0.0",
+    "minifyify": "~6.1.3",
     "grunt-browserify": "~3.2.0",
     "grunt-usemin": "2.1.1",
     "grunt-jsdoc": "beta",

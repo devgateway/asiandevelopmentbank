@@ -12,15 +12,15 @@ function logFailure(err, message) {
 module.exports = {
 
   getAllCountries: function() {
-    return request({ url: 'mock-json/countries.json' }).fail(logFailure);
+    return request({ url: 'json/countries.json' }).fail(logFailure);
   },
 
   getCountry: function(countryId) {
-    return request({ url: 'mock-json/countries/' + countryId + '.json' }).fail(logFailure);
+    return request({ url: 'json/countries/' + countryId + '.json' }).fail(logFailure);
   },
 
   getProject: function(projectId) {
-    return request({ url: 'mock-json/projects/' + projectId + '.json' }).fail(logFailure);
+    return request({ url: 'json/projects/' + projectId + '.json' }).fail(logFailure);
   }
 
 };

@@ -25,6 +25,7 @@ var taskConfig = function(grunt) {
           'docs/styleguide/public/images',
           'styles/fonts/**/*.{woff,otf,ttf,eot,svg}',
           'images/**/*.{webp}',
+          'json/**/*.json',
           '!*.js',
           '*.{ico,png,txt}',
           '*.html'
