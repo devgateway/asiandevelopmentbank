@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JSDoc: Index</title>
+
+  <script src="scripts/prettify/prettify.js"> </script>
+  <script src="scripts/prettify/lang-css.js"> </script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+  <link rel="stylesheet/less" type="text/css" href="styles/jsdoc.less" />
+  <script type="text/javascript" src="scripts/less.js"></script>
+</head>
+
+<body>
+
+  <div id="main">
+
+    <h1 class="page-title">Index</h1>
+
+    
+
+
+  
+
+
+  <h3> </h3>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  <section>
+    <article><h1>AsDB GIS Dashboard</h1><h2>Local Dev Setup</h2><h3>Prerequisites</h3><ol>
+<li><p><a href="http://nodejs.org/"><strong>nodejs</strong></a></p>
+<p>The project requires the nodejs javascript runtime to compile assets.</p>
+</li>
+<li><p><a href="http://gruntjs.com/"><strong>grunt</strong></a></p>
+<pre class="prettyprint source lang-bash"><code>$ npm install -g grunt</code></pre><p>Dev and build tasks are handled by the grunt task runner</p>
+</li>
+<li><p><a href="http://bower.io/"><strong>bower</strong></a></p>
+<pre class="prettyprint source lang-bash"><code>$ npm install -g bower</code></pre><p>Front-end library dependencies are handled by bower</p>
+</li>
+<li><p><strong>dependencies</strong></p>
+<p>nodejs dependencies:</p>
+<pre class="prettyprint source lang-bash"><code>(asdb-gis-dashboard/) $ npm install</code></pre><p>front-end dependencies:</p>
+<pre class="prettyprint source lang-bash"><code>(asdb-gis-dashboard/) $ bower install</code></pre></li>
+</ol>
+<h4>Recommended:</h4><ul>
+<li><p><a href="https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi">React Developer Tools</a> browser extension for chrome</p>
+</li>
+<li><p><a href="http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-">LiveReload</a> browser extension for chrome, firefox, and safari</p>
+</li>
+</ul>
+<h3>Running the dev environment</h3><p>Once you have all of the prerequisites installed, you can run the project locally:</p>
+<pre class="prettyprint source lang-bash"><code>(asdb-gis-dashboard/) $ grunt serve</code></pre><p>...and then open <a href="http://localhost:9010/">localhost:9010</a> in a browser.</p>
+<p>That command will continue to run in the background, reloading and recompiling files as they change. If you have installed the LiveReload browser extension, your web browser will automatically refresh when you save files.</p>
+<h4>Running the unit tests</h4><p>After installing the prerequisites, simply:</p>
+<pre class="prettyprint source lang-bash"><code>(asdb-gis-dashboard/) $ grunt test</code></pre><p>That command will run all <code>jest</code> unit tests, and also perform static analysis with <code>jshint</code>.</p>
+<p>To only run <code>jest</code> unit tests, either of</p>
+<pre class="prettyprint source lang-bash"><code>(asdb-gis-dashboard/) $ grunt jest
+(asdb-gis-dashboard/) $ npm test</code></pre><p>...will work.</p>
+<h2>Staging</h2><p>An online preview of the site can be published to GitHub Pages with a few steps. An intro to github pages can be found <a href="https://pages.github.com/">here</a>. For this project, it's useful to modify a few steps:</p>
+<h3>Setup</h3><ol>
+<li>Clone a second copy of the repository from github.</li>
+<li>Checkout the <code>gh-pages</code> branch (<code>git fetch --all</code>; <code>git checkout gh-pages</code>)</li>
+</ol>
+<h3>Pushing a new version</h3><ol>
+<li>In the source copy of the repo (no the one where you checked out gh-pages), run <code>grunt build</code>.</li>
+<li>Note the sha-1 hash of the last commit (use <code>git log</code>, copy the first 6 chars of the hash).</li>
+<li>In the gh-pages repo, create a new folder with the name of that hash (<code>mkdir 0c32a8</code>).</li>
+<li>Copy the built site into that folder <code>cp -r ../asdb-src/dist/* 0c32a8/</code>.</li>
+<li>Fix <code>index.html</code> to use relative paths for <code>&lt;script&gt;</code> and <code>&lt;link&gt;</code> tags (remove the leading '/').</li>
+<li>Commit the folder (<code>git add 0c32a8</code>; `git commit -m &quot;publish site at 0c32a8&quot;).</li>
+<li>Push to github (<code>git push origin gh-pages</code>).</li>
+</ol>
+<p>The published version should be available at <code>http://devgateway.github.io/asdb-gis-dashboard/0c32a8/</code>.</p>
+<p>Note the commit hash from earlier at the end of the url -- this should let us push new experimental versions as previews and demos without having to take down older versions and breaking links.</p>
+<h2>Tools Used</h2><ul>
+<li><a href="http://browserify.org/">browserify</a> for javascript modules (eg. <code>var react = require('react');</code>).</li>
+<li><a href="https://facebook.github.io/react/">react</a> javascript component UI framework and jsx</li>
+<li><a href="https://github.com/rackt/react-router/">react router</a> does some magic to map URLs to views of the app, rendering the correct components.</li>
+<li><a href="https://github.com/spoike/refluxjs">reflux</a> event and data flow via Actions and Stores</li>
+<li><a href="http://leafletjs.com/">leaflet</a> for the map</li>
+<li><a href="http://facebook.github.io/jest/">jest</a> for unit tests</li>
+</ul>
+<h3>Routing Quickstart</h3><p>This project uses <a href="https://github.com/rackt/react-router/">react-router</a> for URL routing, which integrates with <code>react</code> and also handles rendering the right components for us. The best documentation is available from React Router itself, but here is a very quick AsDB-GIS-specific overview to get started:</p>
+<h4>Routes (<a href="client/scripts/router.jsx">router.jsx</a>)</h4><p>React Router provides JSX components to model your URL hierarchy and the components responsible for rendering a given page.</p>
+<p>The route setup for country views of this project looks <a href="client/scripts/router.jsx">something like</a>:</p>
+<pre class="prettyprint source lang-jsx"><code>var RootComponent = require('./components/root.jsx');
+var InternationalComponent = require('./components/international.jsx');
+var CountryComponent = require('./components/country.jsx');
+
+var routes = (
+  &lt;Route name=&quot;main&quot; path=&quot;/&quot; handler={RootComponent}>
+    &lt;DefaultRoute handler={InternationalComponent} />
+    &lt;Route name=&quot;country&quot; path=&quot;/countries/:countryId&quot; handler={CountryComponent} />
+  &lt;/Route>
+);</code></pre><p>This <strong>nested</strong> structure is a little different from most URL routing libraries: multiple handlers will usually be involved in rendering a single page. The page at <code>/</code> will involve <a href="client/scripts/components/root.jsx"><code>RootComponent</code></a> and <a href="client/scripts/components/international.jsx"><code>InternationalComponent</code></a>; <code>/countries/01234</code> will involve <a href="client/scripts/components/root.jsx"><code>RootComponent</code></a> and <code>CountryComponent</code>.</p>
+<p>The trick here is to use React Router's <code>&lt;RouteHandler /&gt;</code> somewhere when you render <code>RootComponent</code>. React-Router will then insert a child component there according to the routes specification.</p>
+<p>The <a href="https://github.com/rackt/react-router/blob/master/docs/guides/overview.md">React Router Guide</a> has probably a much clearer explanation.</p>
+<h5>Getting URL parameters to child components</h5><p>URL parameters will be available to the top-level handler in <code>this.props.params</code>. Therefore, in our <code>RootComponent</code>, when we render <code>&lt;RouteHandler /&gt;</code>, we just pass our props onto the child components: <code>&lt;RouteHandler {...this.props} /&gt;</code>.</p>
+<h3>Jest tests</h3><p>Jest will find all tests in folders called <code>__tests__</code>, which should be created next to the modules they test.</p>
+<p>By default, jest will try to automatically mock all dependencies for a module. This can be problematic for <code>react</code> and <code>reflux</code> modules, so for now, to make things work, we can just add:</p>
+<pre class="prettyprint source lang-javascript"><code>jest.autoMockOff()</code></pre><p>...to the top of test files.</p>
+<p>It may be useful to write jsx in test files when testing components. Jest won't find files with a <code>.jsx</code> extension for tests automatically, so the solution is to name the file <code>whatever-test.js</code> and add a special comment on the first line:</p>
+<pre class="prettyprint source lang-javascript"><code>/** @jsx React.DOM */
+
+// rest of test file...</code></pre><p>The <code>.js</code> file will then be processed as if it had the <code>.jsx</code> extension.</p>
+<h4>Resources for writing new tests:</h4><ul>
+<li>Jest's <a href="http://facebook.github.io/jest/docs/getting-started.html">Getting Started</a> example</li>
+<li>Jest's <a href="http://facebook.github.io/jest/docs/tutorial-react.html">React</a> example</li>
+<li>Jasmine test assertion library's <a href="http://jasmine.github.io/2.2/introduction.html">Introduction</a></li>
+</ul>
+<h2>Resources Used</h2><ul>
+<li>Flags: <a href="https://www.gosquared.com/resources/flag-icons/">GoSquared</a> (<a href="client/images/flags/LICENSE.txt">license</a>)</li>
+</ul>
+<h2>Acquiring Data for Dashboard</h2><h3>Downloading Data</h3><h4>Info</h4><p>The script for downloading the data is ~/scripts/download.sh. It is currently a Bash shell script, </p>
+<p>although there are plans to convert it to a Python script for the sake of consistency. It </p>
+<p>downloads a master list of xml files from an IATI-hosted repository (currently at </p>
+<p>https://raw.githubusercontent.com/idsdata/IATI-Urls-Snapshot/master/asdb), sanitizes the list to </p>
+<p>remove irrelevant files, and then downloads the xml files. </p>
+<h4>Running the script</h4><p>The script is run with the following command (from within the same directory):</p>
+<pre class="prettyprint source lang-bash"><code>./download.sh</code></pre><h4>Output</h4><p>Upon successful completion of the script, the iati-activities xml files should be in ~/data/xml.</p>
+<h3>Processing Data</h3><h4>Info</h4><p>The main script for processing data is ~/process_data.py. The auxiliary scripts are </p>
+<p>~/scripts/country_aggregate.py, ~/scripts/country_detail.py, and ~/scripts/project_detail.py</p>
+<h4>Running the scripts</h4><ul>
+<li><p>To run the script for processing country aggregate data:</p>
+<pre class="prettyprint source lang-bash"><code>python process_data.py country_aggregate</code></pre></li>
+<li><p>To run the script for processing country detail data:</p>
+<pre class="prettyprint source lang-bash"><code>python process_data.py country_detail</code></pre></li>
+<li><p>To run the script for processing project detail data:</p>
+<pre class="prettyprint source lang-bash"><code>python process_data.py project_detail</code></pre></li>
+</ul>
+<h4>Output</h4><p>Upon successful completion of the scripts, you should see the following in ~/client/json</p>
+<ul>
+<li>countries.json with country aggregate data</li>
+<li>a countries directory containing individual json files with country detail data</li>
+<li>a projects directory containing individual json files with project detail data</li>
+</ul></article>
+  </section>
+
+
+
+
+
+
+  </div>
+  <div class="api-mobile-bar"></div>
+  <nav class="navigation">
+    <div class="api-button-wrapper">
+      <a class="api-nav-toggle" href="#">
+        <span></span>
+      </a>
+    </div>
+    <div class="scroll-wrapper">
+      <h2><a href="index.html">Index</a></h2><h3>Global</h3><ul><li><a href="global.html#Set_">Set_</a></li></ul>
+    </div>
+  </nav>
+
+  <br clear="both">
+  <script type="text/javascript" src="scripts/jquery.js"></script>
+  <script type="text/javascript" src="scripts/linenumber.js"> </script>
+  <script type="text/javascript" src="scripts/main.js"></script>
+
+</body>
+</html>
