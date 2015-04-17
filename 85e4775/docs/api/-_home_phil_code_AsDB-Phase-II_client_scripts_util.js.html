@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JSDoc: Source: /home/phil/code/AsDB-Phase-II/client/scripts/util.js</title>
+
+  <script src="scripts/prettify/prettify.js"> </script>
+  <script src="scripts/prettify/lang-css.js"> </script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+  <link rel="stylesheet/less" type="text/css" href="styles/jsdoc.less" />
+  <script type="text/javascript" src="scripts/less.js"></script>
+</head>
+
+<body>
+
+  <div id="main">
+
+    <h1 class="page-title">Source: /home/phil/code/AsDB-Phase-II/client/scripts/util.js</h1>
+
+    
+
+
+  
+  <section>
+    <article>
+      <pre class="prettyprint source"><code>'use strict';
+
+/**
+ * Python-inspired set class
+ *
+ * Backed by a normal javascript Object
+ */
+function DGSet(initial) {
+  if (!(this instanceof DGSet)) { return new DGSet(initial); }
+  this._map = {};
+  this.length = 0;
+  initial &amp;&amp; this.update(initial);
+}
+
+/**
+ * Decorator to ensure that the .length property is consistent
+ */
+function updatesLength(fn) {
+  return function() {
+    var result = fn.apply(this, arguments);
+    this.length = this.asArray().length;
+    return result;
+  };
+}
+
+DGSet.prototype.add = updatesLength(function(el) {
+  this._map[el] = null;
+});
+
+DGSet.prototype.update = updatesLength(function(other) {
+  other = other instanceof DGSet ? other.asArray() : other;
+  other.forEach(function(el) {
+    this._map[el] = null;
+  }, this);
+});
+
+DGSet.prototype.remove = updatesLength(function(el) {
+  delete this._map[el];
+});
+
+DGSet.prototype.difference_update = updatesLength(function(other) {
+  other = other instanceof DGSet ? other.asArray() : other;
+  other.forEach(function(el) {
+    delete this._map[el];
+  }, this);
+});
+
+DGSet.prototype.copy = function() {
+  return new DGSet(this.asArray());
+};
+
+DGSet.prototype.clear = updatesLength(function() {
+  this._map = {};
+});
+
+DGSet.prototype.asArray = function() {
+  return Object.keys(this._map);
+};
+
+DGSet.prototype.toString = function() {
+  return 'DGSet' + this.asArray();
+};
+
+module.exports = {
+    DGSet: DGSet,
+};
+</code></pre>
+    </article>
+  </section>
+
+
+
+
+
+  </div>
+  <div class="api-mobile-bar"></div>
+  <nav class="navigation">
+    <div class="api-button-wrapper">
+      <a class="api-nav-toggle" href="#">
+        <span></span>
+      </a>
+    </div>
+    <div class="scroll-wrapper">
+      <h2><a href="index.html">Index</a></h2><h3>Global</h3><ul><li><a href="global.html#DGSet">DGSet</a></li><li><a href="global.html#updatesLength">updatesLength</a></li></ul>
+    </div>
+  </nav>
+
+  <br clear="both">
+  <script type="text/javascript" src="scripts/jquery.js"></script>
+  <script type="text/javascript" src="scripts/linenumber.js"> </script>
+  <script type="text/javascript" src="scripts/main.js"></script>
+
+</body>
+</html>
