@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          111.21364, 
+          37.26588
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7265", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Zhongyang Xian", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.84673, 
+          37.61784
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7266", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Yuci Qu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.0, 
+          37.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7267", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Shanxi Sheng", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.65205, 
+          36.69721
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7268", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Qin Xian", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.89311, 
+          37.39619
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7269", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Liulin Xian", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.37874, 
+          36.63478
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7270", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Licheng Xian", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.08783, 
+          37.43597
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7271", 
+      "properties": {
+        "approvalDate": "2013-03-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 56840863.43, 
+        "id": "44013-013", 
+        "info": "The proposed project will improve energy efficiency and reduce emission of greenhouse gases and other pollutants in Shanxi province by introducing and expanding district heating in five urban areas\u2026", 
+        "locationName": "Jinzhong Shi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SHANXI ENERGY EFFICIENCY AND ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China"
+  }, 
+  "type": "FeatureCollection"
+}

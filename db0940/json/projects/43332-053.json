@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.63129, 
+          26.5867
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7447", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 180000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43332-053", 
+        "info": "Tranche 4 of the Investment Program will finance procurement of (i) environmental protection and (ii) railway safety enhancement", 
+        "locationName": "Guizhou Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "RAILWAY ENERGY EFFICIENCY AND SAFETY ENHANCEMENT INVESTMENT PROGRAM-TRANCHE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.55278, 
+          29.56278
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7448", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 180000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43332-053", 
+        "info": "Tranche 4 of the Investment Program will finance procurement of (i) environmental protection and (ii) railway safety enhancement", 
+        "locationName": "Chongqing", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "RAILWAY ENERGY EFFICIENCY AND SAFETY ENHANCEMENT INVESTMENT PROGRAM-TRANCHE 4"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China"
+  }, 
+  "type": "FeatureCollection"
+}

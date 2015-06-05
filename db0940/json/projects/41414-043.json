@@ -1,0 +1,590 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.03333, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1164", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Th\u00e1i Thi\u00ean", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.6, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1165", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "T\u00e2n Qu\u00ed T\u00e2y", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.51667, 
+          10.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1166", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "T\u00e2n B\u1eedu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.96667, 
+          10.71667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1167", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Ph\u01b0\u1edbc Long", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.8, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1168", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Ph\u01b0\u1edbc Kh\u00e1nh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.95, 
+          10.65
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1169", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Ph\u01b0\u1edbc An", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.71667, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1170", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Nh\u01a1n \u0110\u1ee9c", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.53333, 
+          10.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1171", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "M\u1ef9 Y\u00ean", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.65, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1172", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "\u0110a Ph\u01b0\u1edbc", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.56667, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1173", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "B\u00ecnh Ch\u00e1nh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.73333, 
+          10.65
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1174", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "\u1ea4p Th\u1edbi H\u00f2a", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.78333, 
+          10.63333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1175", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "\u1ea4p B\u00ecnh Ch\u00e1nh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.55, 
+          10.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1176", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u00ean B\u00ecnh Ch\u00e1nh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.75, 
+          10.61667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1177", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u00ean Nha B\u00e8", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.9, 
+          10.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1178", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u00ean C\u1ea7n Gi\u1edd", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.66667, 
+          10.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1179", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u1ec7n C\u1ea7n Giu\u1ed9c", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1180", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u1ec7n B\u1ebfn L\u1ee9c", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          10.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1181", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u1ec7n Long Th\u00e0nh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.91667, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1182", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Huy\u1ec7n Nh\u01a1n Tr\u1ea1ch", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.56704, 
+          10.64163
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1183", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Phuoc Ly", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.60871, 
+          10.64445
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1184", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Long Thuong", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.62334, 
+          10.66795
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1185", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Hung Long", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.85732, 
+          10.67815
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1186", 
+      "properties": {
+        "approvalDate": "2011-05-05", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 1534297.73, 
+        "id": "41414-043", 
+        "info": "The Project will construct a 57.1 kilometer (km) expressway between Ben Luc and Long Thah in the south of Ho Chi Minh City (HCMC), which is a short link of the GMS Southern Economic Corridor\u2026", 
+        "locationName": "Vinh Thanh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-GMS BEN LUC-LONG THANH EXPRESSWAY PROJECT - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

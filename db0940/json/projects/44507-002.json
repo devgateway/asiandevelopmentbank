@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1359", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44507-002", 
+        "info": "The project entails the use of an ADF project loan of $20 million to fund the establishment of a Project Development Facility (PDF) that would help bring bankable PPP projects to the market", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "PUBLIC-PRIVATE PARTNERSHIP SUPPORT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

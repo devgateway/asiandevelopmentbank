@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          77.58333, 
+          31.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3146", 
+      "properties": {
+        "approvalDate": "2010-03-12", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 59100000.0, 
+        "disbursementAmount": 45525860.03, 
+        "id": "41627-033", 
+        "info": "Tranche 2 investments will include the final contract package for the 111 MW Sawra Kuddu project that was not included in Tranche 1, consisting of certain civil works (diversion barrage, power intake\u2026", 
+        "locationName": "Shimla district", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIMACHAL PRADESH CLEAN ENERGY DEVT INVESTMENT PROG-TR.2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

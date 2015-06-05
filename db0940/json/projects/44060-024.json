@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          68.0, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4043", 
+      "properties": {
+        "approvalDate": "2014-10-29", 
+        "closingDate": null, 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 122000000.0, 
+        "id": "44060-024", 
+        "info": "This is the second Tranche of a Multitranche financing facility (of up to $500 million) to support SME lending", 
+        "locationName": "Kazakhstan", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "SMALL AND MEDIUM ENTERPRISE INVESTMENT PROGRAM - TRANCHE 2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KZ", 
+  "properties": {
+    "bounds": [
+      46.47827884900002, 
+      40.58465566000008, 
+      87.3237960210001, 
+      55.434550273000085
+    ], 
+    "name": "Kazakhstan"
+  }, 
+  "type": "FeatureCollection"
+}

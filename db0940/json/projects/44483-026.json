@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.24784, 
+          40.99747
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5171", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "Namangan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.47176, 
+          41.0072
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5172", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "T\u016draq\u016drghon Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.51162, 
+          40.99984
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5173", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "T\u016drag\u016drghon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.82833, 
+          40.73872
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5174", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "Pungan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.11478, 
+          40.86654
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5175", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "Pop Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.67257, 
+          40.9983
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5176", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "Namangan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.24005, 
+          40.97096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5177", 
+      "properties": {
+        "approvalDate": "2013-04-16", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 268799.31, 
+        "id": "44483-026", 
+        "info": "The components for financing under the Loan 2965-UZB are:\n\n(i) Road development", 
+        "locationName": "Chust Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECOND CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM-PROJECT 2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

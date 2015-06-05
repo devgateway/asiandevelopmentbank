@@ -1,0 +1,965 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.43484, 
+          28.7185
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7123", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Yangjiatuo", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.59974, 
+          29.7678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7124", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Huangxi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.67974, 
+          29.34073
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7125", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Shicao", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.55967, 
+          29.53038
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7126", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Wulongshan", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.39261, 
+          29.81351
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7127", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Baisheng", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.686, 
+          29.651
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7128", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Houba", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.90006, 
+          29.10521
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7129", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Maoba", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.85198, 
+          31.03777
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7130", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Yunyang Xian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.79512, 
+          28.90068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7131", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Youyang Tujiazu Miaozu Zizhixian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.55237, 
+          31.0897
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7132", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Yanglu", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.01297, 
+          28.49476
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7133", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Xiushan Tujiazu Miaozu Zizhixian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.89561, 
+          31.1171
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7134", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Wushan Xian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.332, 
+          29.66059
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7135", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Fuling Qu", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.34369, 
+          30.95425
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7136", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Fengjie Xian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.87406, 
+          30.05705
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7137", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Chongqing Shi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.73138, 
+          31.8845
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7138", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Chengkou Xian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.48688, 
+          29.55083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7139", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Baitao", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.3216, 
+          31.41898
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7140", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Longjing", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.88728, 
+          31.08943
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7141", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Longjing", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.09742, 
+          31.12464
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7142", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Hongtu", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.62397, 
+          31.09024
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7143", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Caotang", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.25641, 
+          30.77977
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7144", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Qinglong", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.73958, 
+          31.3777
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7145", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Nongba", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.88042, 
+          30.74358
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7146", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Nixi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.96809, 
+          30.70508
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7147", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Qingshui", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.89743, 
+          30.65843
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7148", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Yaoling", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.01424, 
+          31.18599
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7149", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Xiping", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.85507, 
+          31.04429
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7150", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Baishui", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.1405, 
+          29.7349
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7151", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Houba", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.96006, 
+          28.98108
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7152", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Ganxi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.15556, 
+          30.71293
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7153", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Tuxiang", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.70265, 
+          29.43632
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7154", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Qianjiang Qu", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.02685, 
+          28.26356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7155", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Meijiang", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.95114, 
+          28.89331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7156", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Mawang", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.96414, 
+          28.75716
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7157", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Longtan", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.79377, 
+          31.22238
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7158", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Jiangkou", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.79636, 
+          29.05551
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7159", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Heishui", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.89081, 
+          31.84904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7160", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 48831504.010000005, 
+        "id": "42012-013", 
+        "info": "The project will demonstrate the following:  (i) Stronger water sector enterprises. The project will strengthen water enterprises and promote the integration of urban-rural water supply systems", 
+        "locationName": "Gaoguan", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING URBAN-RURAL INFRASTRUCTURE DEVT.DEMONSTRATION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China"
+  }, 
+  "type": "FeatureCollection"
+}

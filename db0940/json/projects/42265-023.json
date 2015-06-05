@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.7458, 
+          26.1844
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3472", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 81000000.0, 
+        "disbursementAmount": 3931429.79, 
+        "id": "42265-023", 
+        "info": "The MFF adopts a strategic and integrated approach to sustainable urban environmental improvement in Guwahati and Dibrugarh, Assam, including water supply, wastewater treatment, solid waste\u2026", 
+        "locationName": "Guwahati", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ASSAM URBAN INFRASTRUCTURE INVESTMENT PROJECT-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          94.90837, 
+          27.47989
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3473", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 81000000.0, 
+        "disbursementAmount": 3931429.79, 
+        "id": "42265-023", 
+        "info": "The MFF adopts a strategic and integrated approach to sustainable urban environmental improvement in Guwahati and Dibrugarh, Assam, including water supply, wastewater treatment, solid waste\u2026", 
+        "locationName": "Dibrugarh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ASSAM URBAN INFRASTRUCTURE INVESTMENT PROJECT-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.28472, 
+          40.35667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5112", 
+      "properties": {
+        "approvalDate": "2010-05-01", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 34371696.04, 
+        "id": "42489-033", 
+        "info": "The Project will rehabilitate and expand the water supply and wastewater management systems in Andijan and Kokand cities and water supply systems in Fergana, Margilan, and Rishtan cities, which are\u2026", 
+        "locationName": "Rishton", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.9425, 
+          40.52861
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5113", 
+      "properties": {
+        "approvalDate": "2010-05-01", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 34371696.04, 
+        "id": "42489-033", 
+        "info": "The Project will rehabilitate and expand the water supply and wastewater management systems in Andijan and Kokand cities and water supply systems in Fergana, Margilan, and Rishtan cities, which are\u2026", 
+        "locationName": "Kokand", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.72472, 
+          40.47111
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5114", 
+      "properties": {
+        "approvalDate": "2010-05-01", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 34371696.04, 
+        "id": "42489-033", 
+        "info": "The Project will rehabilitate and expand the water supply and wastewater management systems in Andijan and Kokand cities and water supply systems in Fergana, Margilan, and Rishtan cities, which are\u2026", 
+        "locationName": "Margilan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.78432, 
+          40.38421
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5115", 
+      "properties": {
+        "approvalDate": "2010-05-01", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 34371696.04, 
+        "id": "42489-033", 
+        "info": "The Project will rehabilitate and expand the water supply and wastewater management systems in Andijan and Kokand cities and water supply systems in Fergana, Margilan, and Rishtan cities, which are\u2026", 
+        "locationName": "Fergana", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.34424, 
+          40.78206
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5116", 
+      "properties": {
+        "approvalDate": "2010-05-01", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 34371696.04, 
+        "id": "42489-033", 
+        "info": "The Project will rehabilitate and expand the water supply and wastewater management systems in Andijan and Kokand cities and water supply systems in Fergana, Margilan, and Rishtan cities, which are\u2026", 
+        "locationName": "Andijan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

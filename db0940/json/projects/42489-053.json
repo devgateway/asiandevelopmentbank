@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.72472, 
+          40.47111
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5205", 
+      "properties": {
+        "approvalDate": "2014-02-27", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 42000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42489-053", 
+        "info": "The current sewerage system in Fergana and Margilan is also used by Tashlak and nearby districts", 
+        "locationName": "Margilan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:WATER SUPPLY&SANITATION SERVICES INVESTMENT PROGRAM-TRANCHE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.78432, 
+          40.38421
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5206", 
+      "properties": {
+        "approvalDate": "2014-02-27", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 42000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42489-053", 
+        "info": "The current sewerage system in Fergana and Margilan is also used by Tashlak and nearby districts", 
+        "locationName": "Fergana", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:WATER SUPPLY&SANITATION SERVICES INVESTMENT PROGRAM-TRANCHE 4"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

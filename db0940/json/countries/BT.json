@@ -1,0 +1,1365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6515", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25280000.0, 
+        "disbursementAmount": 24005077.04, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6516", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25280000.0, 
+        "disbursementAmount": 24005077.04, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Tsirang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.13333, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6517", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25280000.0, 
+        "disbursementAmount": 24005077.04, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Wangdue Phodrang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.61667, 
+          26.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6518", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Samdrup Jongkhar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.98333, 
+          26.86667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6519", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Panbang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.24836, 
+          26.81771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6520", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Nganglam New", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.55, 
+          27.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6521", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Chhukha Dzongkhag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6522", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.41667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6523", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Sarpang Dzongkhag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.36667, 
+          27.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6524", 
+      "properties": {
+        "approvalDate": "2009-12-14", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 38760000.0, 
+        "disbursementAmount": 31936293.150000002, 
+        "id": "39225-022", 
+        "info": "The Project will upgrade or construct five critical sections (about 180 kilometers [km]) of the southern east-west highway, including (i) Manitar-Raidak, (ii) Raidak-Lhamoizingkha, (iii)\u2026", 
+        "locationName": "Pemagatshel Dzongkhag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD NETWORK PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.64191, 
+          27.46609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6525", 
+      "properties": {
+        "approvalDate": "2006-10-30", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 24600000.0, 
+        "disbursementAmount": 23420218.890000004, 
+        "id": "38049-013", 
+        "info": "The objective of the project is to improve urban infrastructure and urban services management in the two cities Thimphu and Phuentsholing and Dagana Town, which will contribute to increasing the\u2026", 
+        "locationName": "Thimphu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.87688, 
+          27.07529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6526", 
+      "properties": {
+        "approvalDate": "2006-10-30", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 24600000.0, 
+        "disbursementAmount": 23420218.890000004, 
+        "id": "38049-013", 
+        "info": "The objective of the project is to improve urban infrastructure and urban services management in the two cities Thimphu and Phuentsholing and Dagana Town, which will contribute to increasing the\u2026", 
+        "locationName": "Daga", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.39048, 
+          26.85892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6527", 
+      "properties": {
+        "approvalDate": "2006-10-30", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 24600000.0, 
+        "disbursementAmount": 23420218.890000004, 
+        "id": "38049-013", 
+        "info": "The objective of the project is to improve urban infrastructure and urban services management in the two cities Thimphu and Phuentsholing and Dagana Town, which will contribute to increasing the\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.55, 
+          27.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6528", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Chhukha Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6529", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Tsirang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.41667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6530", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Sarpang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.23333, 
+          27.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6531", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Mongar Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.08333, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6532", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Samtse Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.61667, 
+          26.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6533", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Samdrup Jongkhar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.85, 
+          27.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6534", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Zhemgang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.75, 
+          27.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6535", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Trashigang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.70886, 
+          27.91313
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6536", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Gasa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.45466, 
+          27.58468
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6537", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Trashi Yangste", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.54151, 
+          27.08602
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6538", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Tsimalakha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.18333, 
+          27.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6539", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 12009564.55, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Lhuentse Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6540", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 51000000.0, 
+        "disbursementAmount": 51000000.0, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6541", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 51000000.0, 
+        "disbursementAmount": 51000000.0, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Tsirang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.13333, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6542", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 51000000.0, 
+        "disbursementAmount": 51000000.0, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Wangdue Phodrang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6543", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 29000000.0, 
+        "disbursementAmount": 29409852.25, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6544", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 29000000.0, 
+        "disbursementAmount": 29409852.25, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Tsirang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.13333, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6545", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 29000000.0, 
+        "disbursementAmount": 29409852.25, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Wangdue Phodrang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.24836, 
+          26.81771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6546", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Nganglam New", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.64191, 
+          27.46609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6547", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Thimphu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.61667, 
+          26.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6548", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Samdrup Jongkhar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.42317, 
+          26.91389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6549", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.39048, 
+          26.85892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6550", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.46836, 
+          26.88389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6551", 
+      "properties": {
+        "approvalDate": "2012-08-06", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 6920000.0, 
+        "disbursementAmount": 2182508.49, 
+        "id": "44239-013", 
+        "info": "The project is to improve infrastructure for the Bumthang, Gelephu, and Yonphula domestic airports. It aims to expand initial developments undertaken by the Government of Bhutan at these airports", 
+        "locationName": "Gelephu Airport", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.51457, 
+          27.256
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6552", 
+      "properties": {
+        "approvalDate": "2012-08-06", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 6920000.0, 
+        "disbursementAmount": 2182508.49, 
+        "id": "44239-013", 
+        "info": "The project is to improve infrastructure for the Bumthang, Gelephu, and Yonphula domestic airports. It aims to expand initial developments undertaken by the Government of Bhutan at these airports", 
+        "locationName": "Yongphulla Airport", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.74651, 
+          27.56299
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6553", 
+      "properties": {
+        "approvalDate": "2012-08-06", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 6920000.0, 
+        "disbursementAmount": 2182508.49, 
+        "id": "44239-013", 
+        "info": "The project is to improve infrastructure for the Bumthang, Gelephu, and Yonphula domestic airports. It aims to expand initial developments undertaken by the Government of Bhutan at these airports", 
+        "locationName": "Bathpalathang Airport", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6554", 
+      "properties": {
+        "approvalDate": "2013-01-30", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 8340000.0, 
+        "disbursementAmount": 7956436.51, 
+        "id": "45260-001", 
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC TRADE FACILITATION PROGRAM (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6555", 
+      "properties": {
+        "approvalDate": "2013-01-30", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 8340000.0, 
+        "disbursementAmount": 7956436.51, 
+        "id": "45260-001", 
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC TRADE FACILITATION PROGRAM (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6556", 
+      "properties": {
+        "approvalDate": "2013-01-30", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 8340000.0, 
+        "disbursementAmount": 7956436.51, 
+        "id": "45260-001", 
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC TRADE FACILITATION PROGRAM (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6557", 
+      "properties": {
+        "approvalDate": "2013-03-21", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 14190000.0, 
+        "disbursementAmount": 14215475.36, 
+        "id": "46371-001", 
+        "info": "The proposed program  involves a budget support for the Government of Bhutan which is currently facing weakening growth prospects as well as challenges in macroeconomic management", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENING ECONOMIC MANAGEMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6558", 
+      "properties": {
+        "approvalDate": "2013-10-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 39000000.0, 
+        "disbursementAmount": 34953464.97, 
+        "id": "37399-043", 
+        "info": "The Green Power Development Project was approved on 29 October 2008. It includes two components: (i) hydropower development and (ii) rural electrification", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT - ADDITIONAL FINANCING"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6559", 
+      "properties": {
+        "approvalDate": "2013-01-30", 
+        "closingDate": "2013-03-26", 
+        "commitmentAmount": 3330000.0, 
+        "disbursementAmount": 3330000.0, 
+        "id": "45260-001", 
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Completion", 
+        "title": "SASEC TRADE FACILITATION PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6560", 
+      "properties": {
+        "approvalDate": "2013-01-30", 
+        "closingDate": "2013-03-26", 
+        "commitmentAmount": 3330000.0, 
+        "disbursementAmount": 3330000.0, 
+        "id": "45260-001", 
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Completion", 
+        "title": "SASEC TRADE FACILITATION PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6561", 
+      "properties": {
+        "approvalDate": "2013-01-30", 
+        "closingDate": "2013-03-26", 
+        "commitmentAmount": 3330000.0, 
+        "disbursementAmount": 3330000.0, 
+        "id": "45260-001", 
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Completion", 
+        "title": "SASEC TRADE FACILITATION PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6562", 
+      "properties": {
+        "approvalDate": "2013-03-21", 
+        "closingDate": "2013-03-21", 
+        "commitmentAmount": 20810000.0, 
+        "disbursementAmount": 20810000.0, 
+        "id": "46371-001", 
+        "info": "The proposed program  involves a budget support for the Government of Bhutan which is currently facing weakening growth prospects as well as challenges in macroeconomic management", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENING ECONOMIC MANAGEMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6563", 
+      "properties": {
+        "approvalDate": "2008-02-19", 
+        "closingDate": "2012-12-21", 
+        "commitmentAmount": 6000000.0, 
+        "disbursementAmount": 6000000.0, 
+        "id": "39221-022", 
+        "info": "The overall objective of the proposed MSME SDP is to promote the expansion and growth of a vibrant MSME sector and encourage private sector development for broad-based, sustainable economic growth\u2026", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Completion", 
+        "title": "MICRO, SMALL, AND MEDIUM-SIZED ENTERPRISE SECTOR D"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6564", 
+      "properties": {
+        "approvalDate": "2008-02-19", 
+        "closingDate": "2014-09-29", 
+        "commitmentAmount": 8296645.5, 
+        "disbursementAmount": 8296645.5, 
+        "id": "39221-022", 
+        "info": "The overall objective of the proposed MSME SDP is to promote the expansion and growth of a vibrant MSME sector and encourage private sector development for broad-based, sustainable economic growth\u2026", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Completion", 
+        "title": "MICRO, SMALL, AND MEDIUM-SIZED ENTERPRISE SECTOR D"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.58333, 
+          27.6
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6565", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Thimphu Dzongkhag", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.42317, 
+          26.91389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6566", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.39048, 
+          26.85892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6567", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.64191, 
+          27.46609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6568", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Thimphu", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BT", 
+  "properties": {
+    "bounds": [
+      88.73006677200013, 
+      26.69614939400016, 
+      92.08877648900014, 
+      28.358398930786294
+    ], 
+    "name": "Bhutan"
+  }, 
+  "type": "FeatureCollection"
+}

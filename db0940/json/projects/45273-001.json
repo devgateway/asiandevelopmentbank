@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4915", 
+      "properties": {
+        "approvalDate": "2012-06-20", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 13000000.0, 
+        "id": "45273-001", 
+        "info": "Brick manufacturing process is energy intensive and a main source of greenhouse gas (GHG) emission and fine particulate pollution in Bangladesh", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "FINANCING BRICK KILN EFFICIENCY IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4916", 
+      "properties": {
+        "approvalDate": "2012-06-20", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19975115.43, 
+        "id": "45273-001", 
+        "info": "Brick manufacturing process is energy intensive and a main source of greenhouse gas (GHG) emission and fine particulate pollution in Bangladesh", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "FINANCING BRICK KILN EFFICIENCY IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

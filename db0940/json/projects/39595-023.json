@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.35, 
+          21.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "562", 
+      "properties": {
+        "approvalDate": "2007-10-09", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 27860000.0, 
+        "disbursementAmount": 22020110.32, 
+        "id": "39595-023", 
+        "info": "The main objective of the proposed project is to expand the generating capacity of Electricity of Viet Nam (EVN) in order to help mitigate shortage of power in Northern Viet Nam and to support\u2026", 
+        "locationName": "M\u00f4ng D\u01b0\u01a1ng", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MONG DUONG 1 THERMAL POWER INVESTMENT PROGRAM - LOAN 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.42543, 
+          21.15064
+        ], 
+        "type": "Point"
+      }, 
+      "id": "563", 
+      "properties": {
+        "approvalDate": "2007-10-09", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 27860000.0, 
+        "disbursementAmount": 22020110.32, 
+        "id": "39595-023", 
+        "info": "The main objective of the proposed project is to expand the generating capacity of Electricity of Viet Nam (EVN) in order to help mitigate shortage of power in Northern Viet Nam and to support\u2026", 
+        "locationName": "X\u00e3 B\u00ecnh D\u00e2n", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MONG DUONG 1 THERMAL POWER INVESTMENT PROGRAM - LOAN 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}
