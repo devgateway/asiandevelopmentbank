@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.91667, 
+          19.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "456", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Ngh\u1ec7 An", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.83333, 
+          11.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "457", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Ninh Thu\u1eadn", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "458", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          20.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "459", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Thanh H\u00f3a", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.75, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "460", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "\u00d0\u1eafk N\u00f4ng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.91667, 
+          15.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "461", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Qu\u1ea3ng Nam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

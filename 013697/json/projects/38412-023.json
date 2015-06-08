@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.53974, 
+          26.12388
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3300", 
+      "properties": {
+        "approvalDate": "2011-05-10", 
+        "closingDate": "2016-07-31", 
+        "commitmentAmount": 56900000.0, 
+        "disbursementAmount": 18151000.619999997, 
+        "id": "38412-023", 
+        "info": "The components for financing under the Project are (i) development of flood and riverbank erosion risk management (FRERM) planning, institutional and knowledge bases, (ii)establishment of\u2026", 
+        "locationName": "Palasbari", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-ASSAM INTEGRATED FLOOD & RIVERBANK RISK MGMT. INV. PROG-T1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

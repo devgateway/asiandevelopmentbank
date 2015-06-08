@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4311", 
+      "properties": {
+        "approvalDate": "2010-12-10", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 3306225.7700000005, 
+        "id": "41243-012", 
+        "info": "The project will strengthen the hospital sector in Ulaanbaatar and improve drug safety nationwide", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FOURTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

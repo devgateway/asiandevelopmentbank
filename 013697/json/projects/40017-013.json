@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          113.26468, 
+          41.51998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6930", 
+      "properties": {
+        "approvalDate": "2009-05-25", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 23940098.6, 
+        "id": "40017-013", 
+        "info": "Most of the water management problems in the People's Republic of China (PRC), particularly for coastal cities, are the result of a fragmented approach to development", 
+        "locationName": "Shaohai Lake", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "QINGDAO WATER RESOURCES & WETLAND PROTECTION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.26861, 
+          36.63167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6931", 
+      "properties": {
+        "approvalDate": "2009-05-25", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 23940098.6, 
+        "id": "40017-013", 
+        "info": "Most of the water management problems in the People's Republic of China (PRC), particularly for coastal cities, are the result of a fragmented approach to development", 
+        "locationName": "Qingdao Shi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "QINGDAO WATER RESOURCES & WETLAND PROTECTION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.24417, 
+          36.13722
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6932", 
+      "properties": {
+        "approvalDate": "2009-05-25", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 23940098.6, 
+        "id": "40017-013", 
+        "info": "Most of the water management problems in the People's Republic of China (PRC), particularly for coastal cities, are the result of a fragmented approach to development", 
+        "locationName": "Jiaozhou Wan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "QINGDAO WATER RESOURCES & WETLAND PROTECTION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.00333, 
+          36.28389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6933", 
+      "properties": {
+        "approvalDate": "2009-05-25", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 23940098.6, 
+        "id": "40017-013", 
+        "info": "Most of the water management problems in the People's Republic of China (PRC), particularly for coastal cities, are the result of a fragmented approach to development", 
+        "locationName": "Jiaozhou", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "QINGDAO WATER RESOURCES & WETLAND PROTECTION"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.29581, 
+          21.09913
+        ], 
+        "type": "Point"
+      }, 
+      "id": "812", 
+      "properties": {
+        "approvalDate": "2010-11-09", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 902850000.0, 
+        "disbursementAmount": 730891221.54, 
+        "id": "39595-033", 
+        "info": "1. Finance the contract for Engineering design, Procurement and Construction.\n2. Finance the consulting service (project implementation consultant) for Tranche 2. \n3", 
+        "locationName": "Ph\u01b0\u1eddng M\u00f4ng D\u01b0\u01a1ng", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MONG DUONG 1 THERMAL POWER PROJECT - TRANCHE 2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

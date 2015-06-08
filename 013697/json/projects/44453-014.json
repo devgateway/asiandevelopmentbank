@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3756", 
+      "properties": {
+        "approvalDate": "2012-11-06", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 400000000.0, 
+        "disbursementAmount": 400000000.0, 
+        "id": "44453-014", 
+        "info": "The proposed program seeks to facilitate implementation of a comprehensive fiscal consolidation program in West Bengal", 
+        "locationName": "State of West Bengal", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "WEST BENGAL DEVELOPMENT FINANCE PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

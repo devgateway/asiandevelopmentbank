@@ -1,0 +1,2796 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.34843, 
+          38.37137
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6123", 
+      "properties": {
+        "approvalDate": "2008-12-26", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 54770000.0, 
+        "disbursementAmount": 39805796.81, 
+        "id": "42189-012", 
+        "info": "The Nurek 500 kV Switchyard Reconstruction Project (the Project) will build a new Nurek 500 kV switchyard on a new site within the Nurek Hydroelectric Power Plant (HEPP) complex to replace the\u2026", 
+        "locationName": "Nurek Dam", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NUREK 500 KV SWITCHYARD RECONSTRUCTION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.70885, 
+          38.71731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6124", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Obigarm", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6125", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nimichi-Poyen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.15082, 
+          39.01084
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6126", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Novobod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.26273, 
+          39.01079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6127", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kaznok", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.50538, 
+          39.08611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6128", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kalanak", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.28867, 
+          38.98381
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6129", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kadara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6130", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.73692, 
+          38.69331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6131", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.8, 
+          39.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6132", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Tojikobod District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6133", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6134", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.08629, 
+          38.87272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6135", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Nurobod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6136", 
+      "properties": {
+        "approvalDate": "2009-08-07", 
+        "closingDate": "2013-08-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19999854.62, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rudaki", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJ (P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.235, 
+          38.50417
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6137", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Regor", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.13209, 
+          38.29432
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6138", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Pastakon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.55975, 
+          37.41763
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6139", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Yakkadin", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.53106, 
+          37.49167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6140", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Jilikul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.66398, 
+          37.34812
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6141", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Dusti", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.71443, 
+          37.33594
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6142", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Pervoye Maya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.61773, 
+          37.41037
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6143", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Tel'man", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.24005, 
+          37.4724
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6144", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Sovetobod", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.79585, 
+          40.26598
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6145", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Qayroqqum", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.3502, 
+          40.66992
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6146", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Shaydon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.74396, 
+          40.42716
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6147", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Ghafurov District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.3502, 
+          40.69364
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6148", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Nohiyai Asht", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.26299, 
+          37.49623
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6149", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Qabodiyon District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.70115, 
+          37.36052
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6150", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Qumsangir District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.47444, 
+          37.55438
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6151", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Jilikul District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.48479, 
+          37.5529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6152", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Nuri Vakhsh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.13849, 
+          37.26206
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6153", 
+      "properties": {
+        "approvalDate": "2010-09-16", 
+        "closingDate": "2017-04-30", 
+        "commitmentAmount": 122000000.0, 
+        "disbursementAmount": 35016467.81, 
+        "id": "43150-022", 
+        "info": "The Project will help Tajikistan achieve energy security. It will improve regional connectivity and support power trade", 
+        "locationName": "Shahritus", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL POWER TRANSMISSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.70885, 
+          38.71731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6154", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Obigarm", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6155", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nimichi-Poyen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.15082, 
+          39.01084
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6156", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Novobod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.26273, 
+          39.01079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6157", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kaznok", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.50538, 
+          39.08611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6158", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kalanak", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.28867, 
+          38.98381
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6159", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kadara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6160", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.73692, 
+          38.69331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6161", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.8, 
+          39.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6162", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Tojikobod District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6163", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6164", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.08629, 
+          38.87272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6165", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Nurobod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6166", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rudaki", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.70885, 
+          38.71731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6167", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Obigarm", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6168", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nimichi-Poyen", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.15082, 
+          39.01084
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6169", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Novobod", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.26273, 
+          39.01079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6170", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kaznok", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.50538, 
+          39.08611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6171", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kalanak", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.28867, 
+          38.98381
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6172", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kadara", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6173", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.73692, 
+          38.69331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6174", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.8, 
+          39.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6175", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Tojikobod District", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6176", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6177", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.08629, 
+          38.87272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6178", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Nurobod", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6179", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-01-19", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rudaki", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.61126, 
+          37.19041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6180", 
+      "properties": {
+        "approvalDate": "2007-02-22", 
+        "closingDate": "2011-03-15", 
+        "commitmentAmount": 21500000.0, 
+        "disbursementAmount": 18900033.46, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Qizil Qal'ah", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWR TRANSMISSION INTERCONNECTION PROJ (TAJIK COMPONENT)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.857, 
+          36.72896
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6181", 
+      "properties": {
+        "approvalDate": "2007-02-22", 
+        "closingDate": "2011-03-15", 
+        "commitmentAmount": 21500000.0, 
+        "disbursementAmount": 18900033.46, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Kunduz", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWR TRANSMISSION INTERCONNECTION PROJ (TAJIK COMPONENT)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.64001, 
+          36.00118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6182", 
+      "properties": {
+        "approvalDate": "2007-02-22", 
+        "closingDate": "2011-03-15", 
+        "commitmentAmount": 21500000.0, 
+        "disbursementAmount": 18900033.46, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Puli Khumri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWR TRANSMISSION INTERCONNECTION PROJ (TAJIK COMPONENT)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.33333, 
+          38.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6183", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8800000.0, 
+        "disbursementAmount": 3042614.3899999997, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Vahdat", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6184", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8800000.0, 
+        "disbursementAmount": 3042614.3899999997, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.75, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6185", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8800000.0, 
+        "disbursementAmount": 3042614.3899999997, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Varzob District", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6186", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8800000.0, 
+        "disbursementAmount": 3042614.3899999997, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Nohiyai Rudaki", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.3167, 
+          38.55
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6187", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8800000.0, 
+        "disbursementAmount": 3042614.3899999997, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Faizobod District", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.56667, 
+          37.7747
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6188", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Yokhsu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.64424, 
+          38.77634
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6189", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Sayod", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.41456, 
+          37.65191
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6190", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Somonchi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.55488, 
+          37.7788
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6191", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Qurbonshahid", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.56057, 
+          37.61293
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6192", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Metintuqay", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.62226, 
+          37.92785
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6193", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Vose' District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.8086, 
+          38.01318
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6194", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Kulob District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.33277, 
+          37.52526
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6195", 
+      "properties": {
+        "approvalDate": "2007-11-02", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22283549.630000003, 
+        "id": "40046-013", 
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods", 
+        "locationName": "Farkhor District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6196", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 40900000.0, 
+        "disbursementAmount": 40870040.16, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6197", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 40900000.0, 
+        "disbursementAmount": 40870040.16, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.57632, 
+          39.291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6198", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 40900000.0, 
+        "disbursementAmount": 40870040.16, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nohiyai Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6199", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 40900000.0, 
+        "disbursementAmount": 40870040.16, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nimichi-Poyen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.19155, 
+          39.21966
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6200", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 40900000.0, 
+        "disbursementAmount": 40870040.16, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.16667, 
+          38.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6201", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Tursunzoda District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6202", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.23163, 
+          38.51271
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6203", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Tursunzoda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77974, 
+          38.5577
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6204", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.42, 
+          38.7
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6205", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Shahrinaw District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.50698, 
+          38.66909
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6206", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Nohiyai Hisor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6207", 
+      "properties": {
+        "approvalDate": "2011-01-20", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 90130896.77, 
+        "id": "42052-022", 
+        "info": "CAREC Corridor 3 covers almost 7,000 km of roads and runs across Central Asia in the north-south direction, linking the Russian Federation to the Persian Gulf", 
+        "locationName": "Nohiyai Rudaki", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(DUSHANBE-UZBEKISTAN BORDER)IMPROV"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6208", 
+      "properties": {
+        "approvalDate": "2011-04-13", 
+        "closingDate": "2014-09-04", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 45000000.0, 
+        "id": "44061-012", 
+        "info": "The Program aims to strengthen public resource management in Tajikistan through improved tax policy and administration, more effective and efficient social safety net programs, and improved public\u2026", 
+        "locationName": "Tajikistan", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENING PUBLIC RESOURCE MANAGEMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.56667, 
+          39.51667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6209", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 42101418.27, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Sarazm", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.60931, 
+          39.49524
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6210", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 42101418.27, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Panjakent", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.51182, 
+          39.41831
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6211", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 42101418.27, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Khushikat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.53766, 
+          39.39406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6212", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 42101418.27, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Ayni", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.78884, 
+          39.29536
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6213", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 42101418.27, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Aini District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.79159, 
+          39.37452
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6214", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 42101418.27, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Panjakent District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.79254, 
+          39.48564
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6215", 
+      "properties": {
+        "approvalDate": "2013-04-24", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 9202000.0, 
+        "disbursementAmount": 250691.04, 
+        "id": "46124-001", 
+        "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
+        "locationName": "Karamyk", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.7265, 
+          40.12238
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6216", 
+      "properties": {
+        "approvalDate": "2013-04-24", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 9202000.0, 
+        "disbursementAmount": 250691.04, 
+        "id": "46124-001", 
+        "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
+        "locationName": "Guliston", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6217", 
+      "properties": {
+        "approvalDate": "2013-08-19", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 1911396.6600000001, 
+        "id": "45229-001", 
+        "info": "The project will leverage Tajikistan's sound microfinance system to provide credit for households and microenterprises for energy efficient and environment-friendly homes.\n\nThe grant will comprise\u2026", 
+        "locationName": "Tajikistan", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "ACCESS TO GREEN FINANCE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.64416, 
+          37.80396
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6218", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 11702461.83, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Vose'", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.97531, 
+          38.34194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6219", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 11702461.83, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Khovaling", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.62226, 
+          37.92785
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6220", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 11702461.83, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Vose' District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.10587, 
+          38.40851
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6221", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 11702461.83, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Khovaling District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.57632, 
+          39.291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6222", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 11702461.83, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Nohiyai Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.937, 
+          37.8839
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6223", 
+      "properties": {
+        "approvalDate": "2013-12-23", 
+        "closingDate": "2021-01-31", 
+        "commitmentAmount": 136000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46418-001", 
+        "info": "The proposed Project will increase supply of renewable energy to national and regional power systems", 
+        "locationName": "Golovnaya Power Plant", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "GOLOVNAYA 240-MEGAWATT HYDROPOWER PLANT REHABILITA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.33333, 
+          38.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6224", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8300000.0, 
+        "disbursementAmount": 7643117.46, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Vahdat", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6225", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8300000.0, 
+        "disbursementAmount": 7643117.46, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.75, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6226", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8300000.0, 
+        "disbursementAmount": 7643117.46, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Varzob District", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6227", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8300000.0, 
+        "disbursementAmount": 7643117.46, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Nohiyai Rudaki", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.3167, 
+          38.55
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6228", 
+      "properties": {
+        "approvalDate": "2007-04-16", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 8300000.0, 
+        "disbursementAmount": 7643117.46, 
+        "id": "37530-013", 
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
+        "locationName": "Faizobod District", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6229", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2014-03-25", 
+        "commitmentAmount": 12500000.0, 
+        "disbursementAmount": 12458599.51, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6230", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2014-03-25", 
+        "commitmentAmount": 12500000.0, 
+        "disbursementAmount": 12458599.51, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.57632, 
+          39.291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6231", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2014-03-25", 
+        "commitmentAmount": 12500000.0, 
+        "disbursementAmount": 12458599.51, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nohiyai Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6232", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2014-03-25", 
+        "commitmentAmount": 12500000.0, 
+        "disbursementAmount": 12458599.51, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nimichi-Poyen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.19155, 
+          39.21966
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6233", 
+      "properties": {
+        "approvalDate": "2007-11-03", 
+        "closingDate": "2014-03-25", 
+        "commitmentAmount": 12500000.0, 
+        "disbursementAmount": 12458599.51, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TJ", 
+  "metadata": {
+    "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+    "download_date": "2015-06-03 18:11:54", 
+    "quarter": "Q1 2015", 
+    "run_date": "2015-06-08 19:14:14"
+  }, 
+  "properties": {
+    "bounds": [
+      67.34269006300022, 
+      36.67864084900019, 
+      75.16412479700008, 
+      41.039976705000086
+    ], 
+    "name": "Tajikistan"
+  }, 
+  "type": "FeatureCollection"
+}

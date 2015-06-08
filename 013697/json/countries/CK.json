@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          200.21333, 
+          -21.20556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3984", 
+      "properties": {
+        "approvalDate": "2009-05-05", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 8630000.0, 
+        "disbursementAmount": 8419791.71, 
+        "id": "40287-013", 
+        "info": "The Project will rehabilitate and expand the capacity of Avatiu port", 
+        "locationName": "Avatiu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "AVATIU PORT DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          200.21333, 
+          -21.20556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3985", 
+      "properties": {
+        "approvalDate": "2009-05-05", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 6880000.0, 
+        "disbursementAmount": 7037345.83, 
+        "id": "40287-013", 
+        "info": "The Project will rehabilitate and expand the capacity of Avatiu port", 
+        "locationName": "Avatiu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "AVATIU PORT DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          200.21333, 
+          -21.20556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3986", 
+      "properties": {
+        "approvalDate": "2011-12-30", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 4454906.83, 
+        "id": "40287-013", 
+        "info": "The Project will rehabilitate and expand the capacity of Avatiu port", 
+        "locationName": "Avatiu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "AVATIU PORT DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          200.21484, 
+          -21.24842
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3987", 
+      "properties": {
+        "approvalDate": "2013-09-16", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 6000000.0, 
+        "disbursementAmount": 5983423.03, 
+        "id": "42503-023", 
+        "info": "Subprogram 2 will build on subprogram 1, which facilitated infrastructure investment in a period of constrained revenue, leveraged improvement in priority-setting processes for infrastructure\u2026", 
+        "locationName": "Cook Islands", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "ECONOMIC RECOVERY SUPPORT PROGRAM-SUBPROGRAM 2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CK", 
+  "metadata": {
+    "data_origin": "http://www.adb.org/iati/iati-activities-ck.xml", 
+    "download_date": "2015-06-03 18:11:53", 
+    "quarter": "Q1 2015", 
+    "run_date": "2015-06-08 19:14:14"
+  }, 
+  "properties": {
+    "bounds": [
+      194.17546634200005, 
+      -21.93889739399988, 
+      202.68718509200005, 
+      -8.94670989399988
+    ], 
+    "name": "Cook Islands"
+  }, 
+  "type": "FeatureCollection"
+}
