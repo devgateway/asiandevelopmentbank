@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.24836, 
+          26.81771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6546", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Nganglam New", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.64191, 
+          27.46609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6547", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Thimphu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.61667, 
+          26.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6548", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Samdrup Jongkhar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.42317, 
+          26.91389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6549", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.39048, 
+          26.85892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6550", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2259797.67, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BT", 
+  "properties": {
+    "bounds": [
+      88.73006677200013, 
+      26.69614939400016, 
+      92.08877648900014, 
+      28.358398930786294
+    ], 
+    "name": "Bhutan"
+  }, 
+  "type": "FeatureCollection"
+}

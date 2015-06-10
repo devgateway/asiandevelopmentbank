@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.00889, 
+          26.99382
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3859", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 668590.74, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Jaisalmer", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          28.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3860", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 668590.74, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Bikaner", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.5, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3861", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 668590.74, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Barmer", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.18177, 
+          27.35333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3862", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 668590.74, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Bhadla", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.75, 
+          26.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3863", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 668590.74, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Jodhpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

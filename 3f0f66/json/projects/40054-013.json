@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.58333, 
+          27.6
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6565", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Thimphu Dzongkhag", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.42317, 
+          26.91389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6566", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.39048, 
+          26.85892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6567", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Phuentsholing", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.64191, 
+          27.46609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6568", 
+      "properties": {
+        "approvalDate": "2008-12-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4700000.0, 
+        "disbursementAmount": 2399377.08, 
+        "id": "40054-013", 
+        "info": "The Project is aimed at enhancing the benefits of ICT and regional cooperation for inclusive growth and poverty reduction by increasing the supply of affordable broadband, skilled ICT manpower, and\u2026", 
+        "locationName": "Thimphu", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC INFORMATION HIGHWAY PROJECT (BHUTAN)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BT", 
+  "properties": {
+    "bounds": [
+      88.73006677200013, 
+      26.69614939400016, 
+      92.08877648900014, 
+      28.358398930786294
+    ], 
+    "name": "Bhutan"
+  }, 
+  "type": "FeatureCollection"
+}

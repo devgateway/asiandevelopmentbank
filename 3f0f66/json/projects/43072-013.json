@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          172.97696, 
+          1.3278
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1911", 
+      "properties": {
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 468407.51, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Tarawa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.9336, 
+          1.35046
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1912", 
+      "properties": {
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 468407.51, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Betio Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          173.12689, 
+          1.36273
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1913", 
+      "properties": {
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 468407.51, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Bikenibeu Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.98034, 
+          1.32678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1914", 
+      "properties": {
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 468407.51, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Bairiki Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KI", 
+  "properties": {
+    "bounds": [
+      165, 
+      -11.46111419099988, 
+      195, 
+      4.723089911000102
+    ], 
+    "name": "Kiribati"
+  }, 
+  "type": "FeatureCollection"
+}

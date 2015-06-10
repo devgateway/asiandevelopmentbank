@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4092", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4093", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4094", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4095", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Chuyskaya Oblast'", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

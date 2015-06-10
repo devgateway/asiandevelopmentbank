@@ -1,0 +1,590 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          124.11667, 
+          7.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1957", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Lanao Del Sur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0, 
+          6.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1958", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Sulu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          119.49982, 
+          4.73215
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1959", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Tawi-Tawi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.95, 
+          13.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1960", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Marinduque", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.08333, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1961", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Mindoro Occidental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.48901, 
+          12.56783
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1962", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Mindoro Oriental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          118.5549, 
+          9.42206
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1963", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Palawan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.52311, 
+          12.47943
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1964", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Romblon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.03333, 
+          6.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1965", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Basilan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.66667, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1966", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Zamboanga Del Norte", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.88333, 
+          14.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1967", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Camarines Norte", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.48333, 
+          13.63333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1968", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Camarines Sur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.0421, 
+          12.9098
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1969", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Sorsogon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.83333, 
+          10.46667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1970", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Negros Occidental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.0, 
+          9.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1971", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Negros Oriental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.31917, 
+          11.13
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1972", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Eastern Samar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.5704, 
+          11.2424
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1973", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Leyte", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.4634, 
+          12.4997
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1974", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Northern Samar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.93333, 
+          11.53333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1975", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Samar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.36667, 
+          7.53333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1976", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Zamboanga Sibugay", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.3194, 
+          7.9043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1977", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Zamboanga Del Sur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.25, 
+          7.46667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1978", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Maguindanao", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.39264, 
+          7.10844
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1979", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Maguindanao", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PH", 
+  "properties": {
+    "bounds": [
+      116.95492597700016, 
+      4.655707098000107, 
+      126.61768639400017, 
+      21.122381903000033
+    ], 
+    "name": "Philippines"
+  }, 
+  "type": "FeatureCollection"
+}
