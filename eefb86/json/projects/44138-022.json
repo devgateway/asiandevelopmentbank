@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.75,
+          16.5
+        ],
+        "type": "Point"
+      },
+      "id": "7763",
+      "properties": {
+        "approvalDate": "2013-10-11",
+        "closingDate": "2022-06-30",
+        "commitmentAmount": 60000000.0,
+        "disbursementAmount": 2013090.73,
+        "id": "44138-022",
+        "info": "The Greater Mekong Subregion (GMS) East West Economic Corridor (EWEC) provides a conduit for Lao agricultural surpluses to reach the neighboring countries of Thailand and Vietnam and even beyond",
+        "locationName": "Khoueng Savannakhet",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "GMS EAST-WEST ECON CORRIDOR AGRICULTURE INFRASTRUCTURE SECTORPROJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.25,
+          15.75
+        ],
+        "type": "Point"
+      },
+      "id": "7764",
+      "properties": {
+        "approvalDate": "2013-10-11",
+        "closingDate": "2022-06-30",
+        "commitmentAmount": 60000000.0,
+        "disbursementAmount": 2013090.73,
+        "id": "44138-022",
+        "info": "The Greater Mekong Subregion (GMS) East West Economic Corridor (EWEC) provides a conduit for Lao agricultural surpluses to reach the neighboring countries of Thailand and Vietnam and even beyond",
+        "locationName": "Salavan",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "GMS EAST-WEST ECON CORRIDOR AGRICULTURE INFRASTRUCTURE SECTORPROJ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LA",
+  "properties": {
+    "bounds": [
+      100.0970732020001,
+      13.91545664500012,
+      107.66436324000011,
+      22.49604400700011
+    ],
+    "name": "Lao PDR"
+  },
+  "type": "FeatureCollection"
+}

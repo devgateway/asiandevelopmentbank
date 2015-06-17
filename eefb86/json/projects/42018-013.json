@@ -1,0 +1,1465 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.81667,
+          33.36389
+        ],
+        "type": "Point"
+      },
+      "id": "7012",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Dinghuzhen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.70278,
+          33.76389
+        ],
+        "type": "Point"
+      },
+      "id": "7013",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Damiao",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.70278,
+          33.83611
+        ],
+        "type": "Point"
+      },
+      "id": "7014",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Gaolouzhen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15556,
+          33.89167
+        ],
+        "type": "Point"
+      },
+      "id": "7015",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Zhihe",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.31944,
+          33.90833
+        ],
+        "type": "Point"
+      },
+      "id": "7016",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Xieji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.40278,
+          31.83333
+        ],
+        "type": "Point"
+      },
+      "id": "7017",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Longtang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.07271,
+          32.6535
+        ],
+        "type": "Point"
+      },
+      "id": "7018",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Lulong",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.88333,
+          32.95
+        ],
+        "type": "Point"
+      },
+      "id": "7019",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Sixiang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.55583,
+          31.75694
+        ],
+        "type": "Point"
+      },
+      "id": "7020",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Qiaotouji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.75,
+          31.65
+        ],
+        "type": "Point"
+      },
+      "id": "7021",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Zhonghan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.56667,
+          33.85
+        ],
+        "type": "Point"
+      },
+      "id": "7022",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Yugou",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.48333,
+          33.9
+        ],
+        "type": "Point"
+      },
+      "id": "7023",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Youji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.51667,
+          30.68333
+        ],
+        "type": "Point"
+      },
+      "id": "7024",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Yezhai",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.01667,
+          30.1
+        ],
+        "type": "Point"
+      },
+      "id": "7025",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Yaodu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.54903,
+          34.26258
+        ],
+        "type": "Point"
+      },
+      "id": "7026",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Xuzhou Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.87222,
+          33.75278
+        ],
+        "type": "Point"
+      },
+      "id": "7027",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Huangwei",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.73333,
+          30.525
+        ],
+        "type": "Point"
+      },
+      "id": "7028",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Ducun",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.11583,
+          34.00417
+        ],
+        "type": "Point"
+      },
+      "id": "7029",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Caocun",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.43558,
+          33.14786
+        ],
+        "type": "Point"
+      },
+      "id": "7030",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Bengbu Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.55911,
+          30.66266
+        ],
+        "type": "Point"
+      },
+      "id": "7031",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Anqing Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.0,
+          32.0
+        ],
+        "type": "Point"
+      },
+      "id": "7032",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Anhui Sheng",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.41388,
+          30.30431
+        ],
+        "type": "Point"
+      },
+      "id": "7033",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Chizhou Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.90153,
+          31.09457
+        ],
+        "type": "Point"
+      },
+      "id": "7034",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Zhongjieling",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.78188,
+          30.78233
+        ],
+        "type": "Point"
+      },
+      "id": "7035",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Mamiao",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.81507,
+          30.75342
+        ],
+        "type": "Point"
+      },
+      "id": "7036",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Shipai",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63784,
+          34.00254
+        ],
+        "type": "Point"
+      },
+      "id": "7037",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Liangzhuang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.64244,
+          33.9996
+        ],
+        "type": "Point"
+      },
+      "id": "7038",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Houma",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.75012,
+          33.56477
+        ],
+        "type": "Point"
+      },
+      "id": "7039",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Dachen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.85897,
+          33.14568
+        ],
+        "type": "Point"
+      },
+      "id": "7040",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "XIbakou",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.15707,
+          34.18045
+        ],
+        "type": "Point"
+      },
+      "id": "7041",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Xuzhou",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.90889,
+          33.04611
+        ],
+        "type": "Point"
+      },
+      "id": "7042",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Xiaoxi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.72333,
+          33.17417
+        ],
+        "type": "Point"
+      },
+      "id": "7043",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Xiaowei",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.86582,
+          33.1386
+        ],
+        "type": "Point"
+      },
+      "id": "7044",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Wuhe Chengguanzhen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.95,
+          33.66667
+        ],
+        "type": "Point"
+      },
+      "id": "7045",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Wafang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          31.68333
+        ],
+        "type": "Point"
+      },
+      "id": "7046",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Tongyanghe",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.35,
+          30.85
+        ],
+        "type": "Point"
+      },
+      "id": "7047",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Tiantang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.00932,
+          32.68497
+        ],
+        "type": "Point"
+      },
+      "id": "7048",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Tianchang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.20569,
+          33.8697
+        ],
+        "type": "Point"
+      },
+      "id": "7049",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Suzhou Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.1,
+          33.7
+        ],
+        "type": "Point"
+      },
+      "id": "7050",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Shantouji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.18897,
+          32.63001
+        ],
+        "type": "Point"
+      },
+      "id": "7051",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Renheji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.16641,
+          32.60142
+        ],
+        "type": "Point"
+      },
+      "id": "7052",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Qinlan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.12556,
+          33.95611
+        ],
+        "type": "Point"
+      },
+      "id": "7053",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Minxian",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.96378,
+          32.78017
+        ],
+        "type": "Point"
+      },
+      "id": "7054",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Mingguang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.30285,
+          31.71622
+        ],
+        "type": "Point"
+      },
+      "id": "7055",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Lu'an Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.06667,
+          33.65
+        ],
+        "type": "Point"
+      },
+      "id": "7056",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Liuwei",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.26583,
+          33.92861
+        ],
+        "type": "Point"
+      },
+      "id": "7057",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Langan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.27805,
+          31.94664
+        ],
+        "type": "Point"
+      },
+      "id": "7058",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Hefei Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.31056,
+          33.31056
+        ],
+        "type": "Point"
+      },
+      "id": "7059",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Guzhen Chengguanzhen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.63333,
+          33.73333
+        ],
+        "type": "Point"
+      },
+      "id": "7060",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Fengmiaoji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.86944,
+          33.7
+        ],
+        "type": "Point"
+      },
+      "id": "7061",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Dazhuang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.03778,
+          31.25028
+        ],
+        "type": "Point"
+      },
+      "id": "7062",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Daoshichong",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.46306,
+          31.82194
+        ],
+        "type": "Point"
+      },
+      "id": "7063",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Cuozhen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          118.08813,
+          32.60084
+        ],
+        "type": "Point"
+      },
+      "id": "7064",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Chuzhou Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.58333,
+          33.95
+        ],
+        "type": "Point"
+      },
+      "id": "7065",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Chaoyangji",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.83214,
+          31.43136
+        ],
+        "type": "Point"
+      },
+      "id": "7066",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Chaohu Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.86667,
+          31.6
+        ],
+        "type": "Point"
+      },
+      "id": "7067",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Chaohu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.71667,
+          33.53333
+        ],
+        "type": "Point"
+      },
+      "id": "7068",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Changgou",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.70833,
+          33.36694
+        ],
+        "type": "Point"
+      },
+      "id": "7069",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 170045478.55,
+        "id": "42018-013",
+        "info": "The Project is located in Anhui Province and is designed to promote inclusive growth and balanced development, and improve resource efficiency and environmental sustainability",
+        "locationName": "Caogou",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ANHUI INTEGRATED TRANSPORT SECTOR IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "name": "China"
+  },
+  "type": "FeatureCollection"
+}

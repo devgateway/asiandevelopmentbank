@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333,
+          16.16667
+        ],
+        "type": "Point"
+      },
+      "id": "813",
+      "properties": {
+        "approvalDate": "2010-09-27",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 120000000.0,
+        "disbursementAmount": 113403648.79,
+        "id": "39538-023",
+        "info": "The SRCGFP will support  the agenda of the Government of Viet Nam for state-owned enterprise (SOE) reform by equitizing and transforming general corporations",
+        "locationName": "Vietnam",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SOE REFORM & CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333,
+          16.16667
+        ],
+        "type": "Point"
+      },
+      "id": "814",
+      "properties": {
+        "approvalDate": "2010-09-27",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 2726191.2,
+        "id": "39538-023",
+        "info": "The SRCGFP will support  the agenda of the Government of Viet Nam for state-owned enterprise (SOE) reform by equitizing and transforming general corporations",
+        "locationName": "Vietnam",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SOE REFORM AND CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "name": "Vietnam"
+  },
+  "type": "FeatureCollection"
+}

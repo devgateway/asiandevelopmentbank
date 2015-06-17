@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.33333,
+          38.83333
+        ],
+        "type": "Point"
+      },
+      "id": "6496",
+      "properties": {
+        "approvalDate": "2007-04-16",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 8300000.0,
+        "disbursementAmount": 7490102.68,
+        "id": "37530-013",
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased",
+        "locationName": "Vahdat",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "RURAL DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.77,
+          38.75
+        ],
+        "type": "Point"
+      },
+      "id": "6497",
+      "properties": {
+        "approvalDate": "2007-04-16",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 8300000.0,
+        "disbursementAmount": 7490102.68,
+        "id": "37530-013",
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased",
+        "locationName": "Roghun District",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "RURAL DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          68.75,
+          38.75
+        ],
+        "type": "Point"
+      },
+      "id": "6498",
+      "properties": {
+        "approvalDate": "2007-04-16",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 8300000.0,
+        "disbursementAmount": 7490102.68,
+        "id": "37530-013",
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased",
+        "locationName": "Varzob District",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "RURAL DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544,
+          38.35096
+        ],
+        "type": "Point"
+      },
+      "id": "6499",
+      "properties": {
+        "approvalDate": "2007-04-16",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 8300000.0,
+        "disbursementAmount": 7490102.68,
+        "id": "37530-013",
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased",
+        "locationName": "Nohiyai R\u016bdak\u00ed",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "RURAL DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.3167,
+          38.55
+        ],
+        "type": "Point"
+      },
+      "id": "6500",
+      "properties": {
+        "approvalDate": "2007-04-16",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 8300000.0,
+        "disbursementAmount": 7490102.68,
+        "id": "37530-013",
+        "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased",
+        "locationName": "Faizobod District",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "RURAL DEVELOPMENT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TJ",
+  "properties": {
+    "bounds": [
+      67.34269006300022,
+      36.67864084900019,
+      75.16412479700008,
+      41.039976705000086
+    ],
+    "name": "Tajikistan"
+  },
+  "type": "FeatureCollection"
+}

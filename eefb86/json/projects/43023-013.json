@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.95932,
+          21.9358
+        ],
+        "type": "Point"
+      },
+      "id": "7255",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 17733344.11,
+        "id": "43023-013",
+        "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026",
+        "locationName": "Fangchenggang Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.6166,
+          21.95006
+        ],
+        "type": "Point"
+      },
+      "id": "7256",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 17733344.11,
+        "id": "43023-013",
+        "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026",
+        "locationName": "Qinzhou Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.0,
+          21.5
+        ],
+        "type": "Point"
+      },
+      "id": "7257",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 200000000.0,
+        "disbursementAmount": 17733344.11,
+        "id": "43023-013",
+        "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026",
+        "locationName": "Beihai Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "name": "China"
+  },
+  "type": "FeatureCollection"
+}

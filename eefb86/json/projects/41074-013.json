@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          110.10184,
+          -0.03365
+        ],
+        "type": "Point"
+      },
+      "id": "2220",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "Tayan",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.25,
+          0.25
+        ],
+        "type": "Point"
+      },
+      "id": "2221",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "Kabupaten Sanggau",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.95,
+          0.38333
+        ],
+        "type": "Point"
+      },
+      "id": "2222",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "Ngabang",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.5,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "2223",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "West Kalimantan",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.43589,
+          0.83194
+        ],
+        "type": "Point"
+      },
+      "id": "2224",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "Bengkayang",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.75917,
+          0.42373
+        ],
+        "type": "Point"
+      },
+      "id": "2225",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "Kabupaten Landak",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.66393,
+          1.06911
+        ],
+        "type": "Point"
+      },
+      "id": "2226",
+      "properties": {
+        "approvalDate": "2013-10-17",
+        "closingDate": "2016-07-31",
+        "commitmentAmount": 49500000.0,
+        "disbursementAmount": 18186122.8,
+        "id": "41074-013",
+        "info": "The proposed project is perfectly aligned with ADB's Energy Sector Assessment Strategy and Roadmap, which supports investment in strategic transmission assets that connects regions or countries\u2026",
+        "locationName": "Kabupaten Bengkayang",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "WEST KALIMANTAN POWER GRID STRENGTHENING PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "ID",
+  "properties": {
+    "bounds": [
+      95.01270592500012,
+      -10.922621351999808,
+      140.97762699400008,
+      5.910101630000099
+    ],
+    "name": "Indonesia"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.40744,
+          23.7104
+        ],
+        "type": "Point"
+      },
+      "id": "4875",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Dhaka",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.83168,
+          22.3384
+        ],
+        "type": "Point"
+      },
+      "id": "4876",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Chittagong",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.36542,
+          23.81093
+        ],
+        "type": "Point"
+      },
+      "id": "4877",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Dhaka District",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.58333,
+          23.75
+        ],
+        "type": "Point"
+      },
+      "id": "4878",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Narayanganj District",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.00987,
+          23.4417
+        ],
+        "type": "Point"
+      },
+      "id": "4879",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Comilla District",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.31667,
+          22.96667
+        ],
+        "type": "Point"
+      },
+      "id": "4880",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Feni District",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.96333,
+          22.4875
+        ],
+        "type": "Point"
+      },
+      "id": "4881",
+      "properties": {
+        "approvalDate": "2013-04-03",
+        "closingDate": "2018-03-31",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1003188.78,
+        "id": "45174-001",
+        "info": "The TA Loan is to develop the design for the Dhaka-Chittagong Expressway ready for financing under a private-public partnership scheme and assist the Roads and Highways Department in engaging\u2026",
+        "locationName": "Chittagong District",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA-CHITTAGONG EXPRESSWAY PUB-PRIV PARTNERSHIP DESIGN PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

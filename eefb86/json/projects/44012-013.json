@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          118.18333,
+          39.63333
+        ],
+        "type": "Point"
+      },
+      "id": "7260",
+      "properties": {
+        "approvalDate": "2012-03-06",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 97450000.0,
+        "id": "44012-013",
+        "info": "The project is designed to provide a suitable financing mechanism and finance energy efficiency projects in selected energy-intensive industries and ESCOs",
+        "locationName": "Tangshan",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "HEBEI ENERGY EFFICIENCY IMPROVEMENT & EMISSION REDUCTION PRJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.0,
+          39.0
+        ],
+        "type": "Point"
+      },
+      "id": "7261",
+      "properties": {
+        "approvalDate": "2012-03-06",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 97450000.0,
+        "id": "44012-013",
+        "info": "The project is designed to provide a suitable financing mechanism and finance energy efficiency projects in selected energy-intensive industries and ESCOs",
+        "locationName": "Hebei",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "HEBEI ENERGY EFFICIENCY IMPROVEMENT & EMISSION REDUCTION PRJ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "name": "China"
+  },
+  "type": "FeatureCollection"
+}

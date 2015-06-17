@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          73.1,
+          6.23333
+        ],
+        "type": "Point"
+      },
+      "id": "1558",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Shaviyani Atholhu",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667,
+          -0.63333
+        ],
+        "type": "Point"
+      },
+      "id": "1559",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Seenu Atholhu",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.42472,
+          -0.29663
+        ],
+        "type": "Point"
+      },
+      "id": "1560",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Gnyaviyani Atoll",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.86667,
+          6.61667
+        ],
+        "type": "Point"
+      },
+      "id": "1561",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Haa Dhaalu Atholhu",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.0,
+          7.0
+        ],
+        "type": "Point"
+      },
+      "id": "1562",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Haa Alifu Atholhu",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667,
+          0.41667
+        ],
+        "type": "Point"
+      },
+      "id": "1563",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Gaafu Dhaalu Atholhu",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.28333,
+          0.61667
+        ],
+        "type": "Point"
+      },
+      "id": "1564",
+      "properties": {
+        "approvalDate": "2009-01-13",
+        "closingDate": "2013-02-28",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 6276094.05,
+        "id": "41149-013",
+        "info": "The intended impact of the Project is a developed and expanded micro-, small-, and medium-sized enterprise (MSME) subsector leading to broad-based, private sector-led, and sustainable inclusive\u2026",
+        "locationName": "Gaafu Alifu Atholhu",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "PRIVATE SECTOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "MV",
+  "properties": {
+    "bounds": [
+      72.684825066,
+      -0.688571872999901,
+      73.75318444100017,
+      7.107245184000149
+    ],
+    "name": "Maldives"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0,
+          -5.0
+        ],
+        "type": "Point"
+      },
+      "id": "2219",
+      "properties": {
+        "approvalDate": "2012-11-26",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 300000000.0,
+        "disbursementAmount": 300000000.0,
+        "id": "46093-001",
+        "info": "The proposed program will support a key strategic pillar of the government's medium- and long-term development plans to achieve higher and more inclusive economic growth through improved domestic and\u2026",
+        "locationName": "Indonesia",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "INCLUSIVE GROWTH THROUGH IMPROVED CONNECTIVITY PROGRAM-SUBPROG 1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "ID",
+  "properties": {
+    "bounds": [
+      95.01270592500012,
+      -10.922621351999808,
+      140.97762699400008,
+      5.910101630000099
+    ],
+    "name": "Indonesia"
+  },
+  "type": "FeatureCollection"
+}

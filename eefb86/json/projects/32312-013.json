@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.75,
+          16.5
+        ],
+        "type": "Point"
+      },
+      "id": "7822",
+      "properties": {
+        "approvalDate": "2007-03-21",
+        "closingDate": "2014-04-10",
+        "commitmentAmount": 12660000.0,
+        "disbursementAmount": 12649184.04,
+        "id": "32312-013",
+        "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant",
+        "locationName": "Khoueng Savannakhet",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Completion",
+        "title": "BASIC EDUCATION DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          101.33333,
+          20.91667
+        ],
+        "type": "Point"
+      },
+      "id": "7823",
+      "properties": {
+        "approvalDate": "2007-03-21",
+        "closingDate": "2014-04-10",
+        "commitmentAmount": 12660000.0,
+        "disbursementAmount": 12649184.04,
+        "id": "32312-013",
+        "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant",
+        "locationName": "Louangnamtha",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Completion",
+        "title": "BASIC EDUCATION DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333,
+          17.5
+        ],
+        "type": "Point"
+      },
+      "id": "7824",
+      "properties": {
+        "approvalDate": "2007-03-21",
+        "closingDate": "2014-04-10",
+        "commitmentAmount": 12660000.0,
+        "disbursementAmount": 12649184.04,
+        "id": "32312-013",
+        "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant",
+        "locationName": "Khammouan",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Completion",
+        "title": "BASIC EDUCATION DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.0,
+          14.75
+        ],
+        "type": "Point"
+      },
+      "id": "7825",
+      "properties": {
+        "approvalDate": "2007-03-21",
+        "closingDate": "2014-04-10",
+        "commitmentAmount": 12660000.0,
+        "disbursementAmount": 12649184.04,
+        "id": "32312-013",
+        "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant",
+        "locationName": "Champasak",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Completion",
+        "title": "BASIC EDUCATION DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.0,
+          14.66667
+        ],
+        "type": "Point"
+      },
+      "id": "7826",
+      "properties": {
+        "approvalDate": "2007-03-21",
+        "closingDate": "2014-04-10",
+        "commitmentAmount": 12660000.0,
+        "disbursementAmount": 12649184.04,
+        "id": "32312-013",
+        "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant",
+        "locationName": "Attapu",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Completion",
+        "title": "BASIC EDUCATION DEVELOPMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          100.5,
+          20.5
+        ],
+        "type": "Point"
+      },
+      "id": "7827",
+      "properties": {
+        "approvalDate": "2007-03-21",
+        "closingDate": "2014-04-10",
+        "commitmentAmount": 12660000.0,
+        "disbursementAmount": 12649184.04,
+        "id": "32312-013",
+        "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant",
+        "locationName": "Khoueng Bokeo",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Completion",
+        "title": "BASIC EDUCATION DEVELOPMENT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LA",
+  "properties": {
+    "bounds": [
+      100.0970732020001,
+      13.91545664500012,
+      107.66436324000011,
+      22.49604400700011
+    ],
+    "name": "Lao PDR"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.6489,
+          15.10669
+        ],
+        "type": "Point"
+      },
+      "id": "7760",
+      "properties": {
+        "approvalDate": "2012-08-01",
+        "closingDate": "2018-12-31",
+        "commitmentAmount": 3250000.0,
+        "disbursementAmount": 17134.8,
+        "id": "43316-012",
+        "info": "The project will enhance the competitiveness of Pakse as a regional economic and tourism center of the southern Lao PDR",
+        "locationName": "Muang Phonthong",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "PAKSE URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.81612,
+          15.13139
+        ],
+        "type": "Point"
+      },
+      "id": "7761",
+      "properties": {
+        "approvalDate": "2012-08-01",
+        "closingDate": "2018-12-31",
+        "commitmentAmount": 3250000.0,
+        "disbursementAmount": 17134.8,
+        "id": "43316-012",
+        "info": "The project will enhance the competitiveness of Pakse as a regional economic and tourism center of the southern Lao PDR",
+        "locationName": "Muang Pakxe",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "PAKSE URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.79536,
+          15.11548
+        ],
+        "type": "Point"
+      },
+      "id": "7762",
+      "properties": {
+        "approvalDate": "2012-08-01",
+        "closingDate": "2018-12-31",
+        "commitmentAmount": 3250000.0,
+        "disbursementAmount": 17134.8,
+        "id": "43316-012",
+        "info": "The project will enhance the competitiveness of Pakse as a regional economic and tourism center of the southern Lao PDR",
+        "locationName": "Xe Don",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "PAKSE URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LA",
+  "properties": {
+    "bounds": [
+      100.0970732020001,
+      13.91545664500012,
+      107.66436324000011,
+      22.49604400700011
+    ],
+    "name": "Lao PDR"
+  },
+  "type": "FeatureCollection"
+}

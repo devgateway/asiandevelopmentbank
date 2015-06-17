@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          125.66667,
+          -8.55
+        ],
+        "type": "Point"
+      },
+      "id": "7866",
+      "properties": {
+        "approvalDate": "2008-03-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 5402108.96,
+        "id": "38189-022",
+        "info": "The Project will (i) check, and refurbish, replace and install (as required) up to 35 primary and secondary distribution master meters; (ii)  check and replace, as necessary, up to 51 kilometers of\u2026",
+        "locationName": "D\u00edli",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DILI URBAN WATER SUPPLY SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.57361,
+          -8.55861
+        ],
+        "type": "Point"
+      },
+      "id": "7867",
+      "properties": {
+        "approvalDate": "2008-03-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 5402108.96,
+        "id": "38189-022",
+        "info": "The Project will (i) check, and refurbish, replace and install (as required) up to 35 primary and secondary distribution master meters; (ii)  check and replace, as necessary, up to 51 kilometers of\u2026",
+        "locationName": "Dili",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DILI URBAN WATER SUPPLY SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.53472,
+          -8.53833
+        ],
+        "type": "Point"
+      },
+      "id": "7868",
+      "properties": {
+        "approvalDate": "2008-03-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 5402108.96,
+        "id": "38189-022",
+        "info": "The Project will (i) check, and refurbish, replace and install (as required) up to 35 primary and secondary distribution master meters; (ii)  check and replace, as necessary, up to 51 kilometers of\u2026",
+        "locationName": "Comoro",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DILI URBAN WATER SUPPLY SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.75,
+          -8.83333
+        ],
+        "type": "Point"
+      },
+      "id": "7869",
+      "properties": {
+        "approvalDate": "2008-03-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 5402108.96,
+        "id": "38189-022",
+        "info": "The Project will (i) check, and refurbish, replace and install (as required) up to 35 primary and secondary distribution master meters; (ii)  check and replace, as necessary, up to 51 kilometers of\u2026",
+        "locationName": "East Timor",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DILI URBAN WATER SUPPLY SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.52472,
+          -8.54667
+        ],
+        "type": "Point"
+      },
+      "id": "7870",
+      "properties": {
+        "approvalDate": "2008-03-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 5402108.96,
+        "id": "38189-022",
+        "info": "The Project will (i) check, and refurbish, replace and install (as required) up to 35 primary and secondary distribution master meters; (ii)  check and replace, as necessary, up to 51 kilometers of\u2026",
+        "locationName": "Dom Aleixo",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DILI URBAN WATER SUPPLY SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.51667,
+          -8.55
+        ],
+        "type": "Point"
+      },
+      "id": "7871",
+      "properties": {
+        "approvalDate": "2008-03-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 5402108.96,
+        "id": "38189-022",
+        "info": "The Project will (i) check, and refurbish, replace and install (as required) up to 35 primary and secondary distribution master meters; (ii)  check and replace, as necessary, up to 51 kilometers of\u2026",
+        "locationName": "Comoro",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DILI URBAN WATER SUPPLY SECTOR PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TL",
+  "properties": {
+    "bounds": [
+      124.03003991000011,
+      -9.501227721999896,
+      127.31324303500011,
+      -8.135023695999834
+    ],
+    "name": "Timor-Leste"
+  },
+  "type": "FeatureCollection"
+}

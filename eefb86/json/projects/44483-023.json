@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.21627,
+          41.26465
+        ],
+        "type": "Point"
+      },
+      "id": "5124",
+      "properties": {
+        "approvalDate": "2011-12-01",
+        "closingDate": "2015-03-31",
+        "commitmentAmount": 130000000.0,
+        "disbursementAmount": 54756720.49,
+        "id": "44483-023",
+        "info": "The proposed second investment program will increase domestic and international trade",
+        "locationName": "Tashkent",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "2ND CAREC 2 ROAD INVESTMENT PROGRAM-TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.2,
+          41.4
+        ],
+        "type": "Point"
+      },
+      "id": "5125",
+      "properties": {
+        "approvalDate": "2011-12-01",
+        "closingDate": "2015-03-31",
+        "commitmentAmount": 130000000.0,
+        "disbursementAmount": 54756720.49,
+        "id": "44483-023",
+        "info": "The proposed second investment program will increase domestic and international trade",
+        "locationName": "Toshkent Tumani",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "2ND CAREC 2 ROAD INVESTMENT PROGRAM-TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826,
+          40.51506
+        ],
+        "type": "Point"
+      },
+      "id": "5126",
+      "properties": {
+        "approvalDate": "2011-12-01",
+        "closingDate": "2015-03-31",
+        "commitmentAmount": 130000000.0,
+        "disbursementAmount": 54756720.49,
+        "id": "44483-023",
+        "info": "The proposed second investment program will increase domestic and international trade",
+        "locationName": "Osh",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "2ND CAREC 2 ROAD INVESTMENT PROGRAM-TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.08,
+          40.37
+        ],
+        "type": "Point"
+      },
+      "id": "5127",
+      "properties": {
+        "approvalDate": "2011-12-01",
+        "closingDate": "2015-03-31",
+        "commitmentAmount": 130000000.0,
+        "disbursementAmount": 54756720.49,
+        "id": "44483-023",
+        "info": "The proposed second investment program will increase domestic and international trade",
+        "locationName": "Kara-Suu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "2ND CAREC 2 ROAD INVESTMENT PROGRAM-TRANCHE 1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "UZ",
+  "properties": {
+    "bounds": [
+      55.975838663000076,
+      37.18514740000002,
+      73.14864058400016,
+      45.55871897400006
+    ],
+    "name": "Uzbekistan"
+  },
+  "type": "FeatureCollection"
+}

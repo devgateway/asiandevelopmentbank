@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          122.82528,
+          41.99083
+        ],
+        "type": "Point"
+      },
+      "id": "7283",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Xinmin",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.36667,
+          41.26472
+        ],
+        "type": "Point"
+      },
+      "id": "7284",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Huanren",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.11278,
+          41.68917
+        ],
+        "type": "Point"
+      },
+      "id": "7285",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Heishan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.36861,
+          40.39417
+        ],
+        "type": "Point"
+      },
+      "id": "7286",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Gaizhou",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.65889,
+          42.01556
+        ],
+        "type": "Point"
+      },
+      "id": "7287",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Fuxin",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.76389,
+          41.50194
+        ],
+        "type": "Point"
+      },
+      "id": "7288",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Waitoushan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.52083,
+          42.05056
+        ],
+        "type": "Point"
+      },
+      "id": "7289",
+      "properties": {
+        "approvalDate": "2013-01-07",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 15203698.85,
+        "id": "44021-013",
+        "info": "The proposed project aims to promote balanced and environmentally sustainable urbanization; narrow the rural-urban gap; and improve living conditions by supporting the development of five key\u2026",
+        "locationName": "Shenbei Xinqu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED DEVELOPMENT OF KEY TOWNSHIPS IN CENTRAL LIAONING"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "name": "China"
+  },
+  "type": "FeatureCollection"
+}

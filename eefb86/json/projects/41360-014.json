@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333,
+          16.16667
+        ],
+        "type": "Point"
+      },
+      "id": "1536",
+      "properties": {
+        "approvalDate": "2013-11-22",
+        "closingDate": "2014-07-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 50992920.0,
+        "id": "41360-014",
+        "info": "The Subprogram seeks to assist sustainable high economic growth in Viet Nam, by supporting the development and competitiveness of small and medium-sized enterprises (SMEs)",
+        "locationName": "Vietnam",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "SECOND SMALL & MEDIUM-SIZED ENTERPRISES DEVELOPMENT PROGRAM - SUB"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "name": "Vietnam"
+  },
+  "type": "FeatureCollection"
+}

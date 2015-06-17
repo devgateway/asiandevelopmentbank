@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          96.0,
+          21.0
+        ],
+        "type": "Point"
+      },
+      "id": "2053",
+      "properties": {
+        "approvalDate": "2013-01-14",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 575500000.0,
+        "disbursementAmount": 511529441.32,
+        "id": "46372-001",
+        "info": "The policy-based loan will support Myanmar's re-engagement with global markets through key reform priorities aimed at generating broad-based, sustainable and inclusive economic growth",
+        "locationName": "Myanmar [Burma]",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Completion",
+        "title": "SUPPORT FOR MYANMAR'S REFORMS FOR INCLUSIVE GROWTH PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "MM",
+  "properties": {
+    "bounds": [
+      92.17497277900006,
+      9.790716864000132,
+      101.1738550210001,
+      28.53846588100005
+    ],
+    "name": "Myanmar"
+  },
+  "type": "FeatureCollection"
+}

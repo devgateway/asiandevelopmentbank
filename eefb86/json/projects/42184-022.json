@@ -1,0 +1,190 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          101.04813,
+          43.23245
+        ],
+        "type": "Point"
+      },
+      "id": "4297",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Urt",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.2,
+          43.2
+        ],
+        "type": "Point"
+      },
+      "id": "4298",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Ihbulag",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.13451,
+          44.88689
+        ],
+        "type": "Point"
+      },
+      "id": "4299",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Saynshand",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.75611,
+          43.64477
+        ],
+        "type": "Point"
+      },
+      "id": "4300",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Tsogttsetsiy",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          101.0471,
+          43.22369
+        ],
+        "type": "Point"
+      },
+      "id": "4301",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Gurvantes",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.42471,
+          43.56447
+        ],
+        "type": "Point"
+      },
+      "id": "4302",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Dalandzadgad",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777,
+          43.7193
+        ],
+        "type": "Point"
+      },
+      "id": "4303",
+      "properties": {
+        "approvalDate": "2010-06-07",
+        "closingDate": "2015-05-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 11321762.469999999,
+        "id": "42184-022",
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026",
+        "locationName": "Zamiin Uud",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "MN",
+  "properties": {
+    "bounds": [
+      87.73570886300013,
+      41.58614491800003,
+      119.90702681500011,
+      52.129584046000076
+    ],
+    "name": "Mongolia"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.097,
+          9.538
+        ],
+        "type": "Point"
+      },
+      "id": "7477",
+      "properties": {
+        "approvalDate": "2013-06-24",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 4680000.0,
+        "disbursementAmount": 328500.21,
+        "id": "44469-013",
+        "info": "The proposed Yap Renewable Energy Development Project (Project) will support development of the power system in State of Yap (Yap), Federated States of Micronesia (FSM) in order to reduce dependency\u2026",
+        "locationName": "State of Yap",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "YAP RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          138.097,
+          9.538
+        ],
+        "type": "Point"
+      },
+      "id": "7478",
+      "properties": {
+        "approvalDate": "2013-06-24",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 4360000.0,
+        "disbursementAmount": 0.0,
+        "id": "44469-013",
+        "info": "The proposed Yap Renewable Energy Development Project (Project) will support development of the power system in State of Yap (Yap), Federated States of Micronesia (FSM) in order to reduce dependency\u2026",
+        "locationName": "State of Yap",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "YAP RENEWABLE ENERGY DEVELOPMENT PROJECT(SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "FM",
+  "properties": {
+    "bounds": [
+      138.06381269600016,
+      0.918158270000148,
+      163.04656009200008,
+      9.775580145000134
+    ],
+    "name": "Micronesia, Federated States of"
+  },
+  "type": "FeatureCollection"
+}

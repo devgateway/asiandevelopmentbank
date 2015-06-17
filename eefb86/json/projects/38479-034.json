@@ -1,0 +1,440 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          110.10184,
+          -0.03365
+        ],
+        "type": "Point"
+      },
+      "id": "2188",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Sanggau",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.0,
+          -7.5
+        ],
+        "type": "Point"
+      },
+      "id": "2189",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Jawa Tengah",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.5099,
+          -7.7394
+        ],
+        "type": "Point"
+      },
+      "id": "2190",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Jawa Timur",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.5,
+          0.0
+        ],
+        "type": "Point"
+      },
+      "id": "2191",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Kalimantan Barat",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.5,
+          0.5
+        ],
+        "type": "Point"
+      },
+      "id": "2192",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Kalimantan Timur",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.71583,
+          -7.27139
+        ],
+        "type": "Point"
+      },
+      "id": "2193",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Banjarnegara",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.18917,
+          -7.37833
+        ],
+        "type": "Point"
+      },
+      "id": "2194",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Banyumas",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.48333,
+          -7.75
+        ],
+        "type": "Point"
+      },
+      "id": "2195",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Kebumen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          111.04611,
+          -7.9125
+        ],
+        "type": "Point"
+      },
+      "id": "2196",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Wonogiri",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          110.75,
+          -2.0
+        ],
+        "type": "Point"
+      },
+      "id": "2197",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Ketapang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.25,
+          1.5
+        ],
+        "type": "Point"
+      },
+      "id": "2198",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Sambas",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          115.0348,
+          -3.3179
+        ],
+        "type": "Point"
+      },
+      "id": "2199",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Banjar",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.36578,
+          2.83816
+        ],
+        "type": "Point"
+      },
+      "id": "2200",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Bulungan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.24917,
+          -7.44333
+        ],
+        "type": "Point"
+      },
+      "id": "2201",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Kota Purwokerto",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          109.0,
+          0.9
+        ],
+        "type": "Point"
+      },
+      "id": "2202",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Kota Singkawang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          112.6896,
+          -8.2807
+        ],
+        "type": "Point"
+      },
+      "id": "2203",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Malang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.25728,
+          4.21845
+        ],
+        "type": "Point"
+      },
+      "id": "2204",
+      "properties": {
+        "approvalDate": "2012-05-07",
+        "closingDate": "2016-08-31",
+        "commitmentAmount": 180000000.0,
+        "disbursementAmount": 21686861.05,
+        "id": "38479-034",
+        "info": "The proposed Project  will improve strategic national road corridors in northern Kalimantan and southern Java to support economic growth in these two less developed and poorer areas of Indonesia",
+        "locationName": "Nunukan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL ROADS DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "ID",
+  "properties": {
+    "bounds": [
+      95.01270592500012,
+      -10.922621351999808,
+      140.97762699400008,
+      5.910101630000099
+    ],
+    "name": "Indonesia"
+  },
+  "type": "FeatureCollection"
+}

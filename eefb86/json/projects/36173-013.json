@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          79.84778,
+          6.93194
+        ],
+        "type": "Point"
+      },
+      "id": "122",
+      "properties": {
+        "approvalDate": "2009-12-18",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 80000000.0,
+        "disbursementAmount": 15475633.299999999,
+        "id": "36173-013",
+        "info": "The Project is designed to improve the urban environment and public health for the urban and suburban residents in Colombo through improvements to wastewater management services",
+        "locationName": "Colombo",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "GREATER COLOMBO WASTEWATER MANAGMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.84778,
+          6.93194
+        ],
+        "type": "Point"
+      },
+      "id": "123",
+      "properties": {
+        "approvalDate": "2009-12-18",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 7475006.11,
+        "id": "36173-013",
+        "info": "The Project is designed to improve the urban environment and public health for the urban and suburban residents in Colombo through improvements to wastewater management services",
+        "locationName": "Colombo",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "GREATER COLOMBO WASTEWATER MANAGEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LK",
+  "properties": {
+    "bounds": [
+      79.65577233200005,
+      5.92373281500015,
+      81.89031009200008,
+      9.829575914000145
+    ],
+    "name": "Sri Lanka"
+  },
+  "type": "FeatureCollection"
+}

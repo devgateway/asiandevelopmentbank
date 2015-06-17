@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          41.63593,
+          41.64159
+        ],
+        "type": "Point"
+      },
+      "id": "8064",
+      "properties": {
+        "approvalDate": "2012-04-18",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 140000000.0,
+        "disbursementAmount": 12837448.350000001,
+        "id": "41122-043",
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026",
+        "locationName": "Batumi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.0,
+          41.66667
+        ],
+        "type": "Point"
+      },
+      "id": "8065",
+      "properties": {
+        "approvalDate": "2012-04-18",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 140000000.0,
+        "disbursementAmount": 12837448.350000001,
+        "id": "41122-043",
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026",
+        "locationName": "Ajaria",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.83333,
+          41.75
+        ],
+        "type": "Point"
+      },
+      "id": "8066",
+      "properties": {
+        "approvalDate": "2012-04-18",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 140000000.0,
+        "disbursementAmount": 12837448.350000001,
+        "id": "41122-043",
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026",
+        "locationName": "Kobuletis Raioni",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.87481,
+          41.80316
+        ],
+        "type": "Point"
+      },
+      "id": "8067",
+      "properties": {
+        "approvalDate": "2012-04-18",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 140000000.0,
+        "disbursementAmount": 12837448.350000001,
+        "id": "41122-043",
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026",
+        "locationName": "K'obulet'i",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "GE",
+  "properties": {
+    "bounds": [
+      39.985976355423105,
+      41.044110820000114,
+      46.694803101000076,
+      43.57584259000011
+    ],
+    "name": "Georgia"
+  },
+  "type": "FeatureCollection"
+}

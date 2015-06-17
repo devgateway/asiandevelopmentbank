@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          178.44149,
+          -18.14161
+        ],
+        "type": "Point"
+      },
+      "id": "7850",
+      "properties": {
+        "approvalDate": "2011-09-09",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 9700000.0,
+        "disbursementAmount": 7381802.4799999995,
+        "id": "44172-022",
+        "info": "The Tonga-Fiji Submarine Cable Project will provide a submarine fiber optic cable system linking Tonga to Fiji  where an existing international submarine cable system will provide onward\u2026",
+        "locationName": "Suva",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "TONGA-FIJI SUBMARINE CABLE PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          178.33333,
+          -18.08333
+        ],
+        "type": "Point"
+      },
+      "id": "7851",
+      "properties": {
+        "approvalDate": "2011-09-09",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 9700000.0,
+        "disbursementAmount": 7381802.4799999995,
+        "id": "44172-022",
+        "info": "The Tonga-Fiji Submarine Cable Project will provide a submarine fiber optic cable system linking Tonga to Fiji  where an existing international submarine cable system will provide onward\u2026",
+        "locationName": "Province of Rewa",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "TONGA-FIJI SUBMARINE CABLE PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          184.8,
+          -21.13333
+        ],
+        "type": "Point"
+      },
+      "id": "7852",
+      "properties": {
+        "approvalDate": "2011-09-09",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 9700000.0,
+        "disbursementAmount": 7381802.4799999995,
+        "id": "44172-022",
+        "info": "The Tonga-Fiji Submarine Cable Project will provide a submarine fiber optic cable system linking Tonga to Fiji  where an existing international submarine cable system will provide onward\u2026",
+        "locationName": "Tongatapu",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "TONGA-FIJI SUBMARINE CABLE PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          184.7982,
+          -21.13938
+        ],
+        "type": "Point"
+      },
+      "id": "7853",
+      "properties": {
+        "approvalDate": "2011-09-09",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 9700000.0,
+        "disbursementAmount": 7381802.4799999995,
+        "id": "44172-022",
+        "info": "The Tonga-Fiji Submarine Cable Project will provide a submarine fiber optic cable system linking Tonga to Fiji  where an existing international submarine cable system will provide onward\u2026",
+        "locationName": "Nuku'alofa",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "TONGA-FIJI SUBMARINE CABLE PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TO",
+  "properties": {
+    "bounds": [
+      183.78069095100005,
+      -22.33879973799992,
+      186.0857446620001,
+      -15.55950286299992
+    ],
+    "name": "Tonga"
+  },
+  "type": "FeatureCollection"
+}

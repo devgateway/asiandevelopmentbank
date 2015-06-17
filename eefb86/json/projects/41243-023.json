@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324,
+          47.90771
+        ],
+        "type": "Point"
+      },
+      "id": "4320",
+      "properties": {
+        "approvalDate": "2013-02-07",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 871946.3200000001,
+        "id": "41243-023",
+        "info": "The Asian Development Bank (ADB) approved the original project in 2010  which was designed to improve health sector efficiency, governance, and drug safety focusing on three key areas: hospital\u2026",
+        "locationName": "Ulan Bator",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "FOURTH HEALTH SECTOR DEVELOPMKENT PROJECT-ADDITIONAL FINANCING(SF"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.58806,
+          48.07639
+        ],
+        "type": "Point"
+      },
+      "id": "4321",
+      "properties": {
+        "approvalDate": "2013-02-07",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 871946.3200000001,
+        "id": "41243-023",
+        "info": "The Asian Development Bank (ADB) approved the original project in 2010  which was designed to improve health sector efficiency, governance, and drug safety focusing on three key areas: hospital\u2026",
+        "locationName": "Songino Khairkhan",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "FOURTH HEALTH SECTOR DEVELOPMKENT PROJECT-ADDITIONAL FINANCING(SF"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "MN",
+  "properties": {
+    "bounds": [
+      87.73570886300013,
+      41.58614491800003,
+      119.90702681500011,
+      52.129584046000076
+    ],
+    "name": "Mongolia"
+  },
+  "type": "FeatureCollection"
+}

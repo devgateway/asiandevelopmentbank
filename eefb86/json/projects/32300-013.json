@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          76.94924,
+          8.4855
+        ],
+        "type": "Point"
+      },
+      "id": "2675",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 102535799.58,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Thiruvananthapuram",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.21667,
+          10.51667
+        ],
+        "type": "Point"
+      },
+      "id": "2676",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 102535799.58,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Thrissur",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.58469,
+          8.88113
+        ],
+        "type": "Point"
+      },
+      "id": "2677",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 102535799.58,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Kollam",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.7804,
+          11.24802
+        ],
+        "type": "Point"
+      },
+      "id": "2678",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 102535799.58,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Kozhikode",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.26022,
+          9.93988
+        ],
+        "type": "Point"
+      },
+      "id": "2679",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 102535799.58,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Kochi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

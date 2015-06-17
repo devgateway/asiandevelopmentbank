@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          141.0088,
+          -2.61192
+        ],
+        "type": "Point"
+      },
+      "id": "5755",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 20254285.310000002,
+        "id": "42135-013",
+        "info": "The Project will remove the infrastructure bottleneck along the northern transport corridor connecting West Sepik Province (WSP) of Papua New Guinea and Papua Province of Indonesia, and improve the\u2026",
+        "locationName": "Wutung",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "PILOT BORDER TRADE AND INVESTMENT DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          142.0,
+          -3.5
+        ],
+        "type": "Point"
+      },
+      "id": "5756",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 20254285.310000002,
+        "id": "42135-013",
+        "info": "The Project will remove the infrastructure bottleneck along the northern transport corridor connecting West Sepik Province (WSP) of Papua New Guinea and Papua Province of Indonesia, and improve the\u2026",
+        "locationName": "West Sepik Province",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "PILOT BORDER TRADE AND INVESTMENT DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PG",
+  "properties": {
+    "bounds": [
+      140.84921106000016,
+      -11.636325778999847,
+      155.96753991,
+      -1.346368096999882
+    ],
+    "name": "Papua New Guinea"
+  },
+  "type": "FeatureCollection"
+}

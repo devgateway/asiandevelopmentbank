@@ -1,0 +1,640 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.23778,
+          35.11833
+        ],
+        "type": "Point"
+      },
+      "id": "1688",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Jabal os Saraj",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          67.4241,
+          37.2214
+        ],
+        "type": "Point"
+      },
+      "id": "1689",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Hairatan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.5092,
+          35.01661
+        ],
+        "type": "Point"
+      },
+      "id": "1690",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Giawah-ye Pa'in",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.58002,
+          37.11664
+        ],
+        "type": "Point"
+      },
+      "id": "1691",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Fayzabad",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.4976,
+          35.06602
+        ],
+        "type": "Point"
+      },
+      "id": "1692",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Durnamah",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.90664,
+          37.00254
+        ],
+        "type": "Point"
+      },
+      "id": "1693",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Baharak",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.27427,
+          34.49376
+        ],
+        "type": "Point"
+      },
+      "id": "1694",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Bagrami",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          66.0,
+          33.0
+        ],
+        "type": "Point"
+      },
+      "id": "1695",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Islamic Republic of Afghanistan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.26964,
+          35.1459
+        ],
+        "type": "Point"
+      },
+      "id": "1696",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Gul Bahar",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.89999,
+          37.03761
+        ],
+        "type": "Point"
+      },
+      "id": "1697",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Baharak",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.61222,
+          37.21347
+        ],
+        "type": "Point"
+      },
+      "id": "1698",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Faizabad",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.32819,
+          34.49347
+        ],
+        "type": "Point"
+      },
+      "id": "1699",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Bagrami",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.47342,
+          35.10575
+        ],
+        "type": "Point"
+      },
+      "id": "1700",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Koh Band",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.39984,
+          35.01368
+        ],
+        "type": "Point"
+      },
+      "id": "1701",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Mahmud-e Raqi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.63337,
+          35.04224
+        ],
+        "type": "Point"
+      },
+      "id": "1702",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Nijrab",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          67.54203,
+          37.12746
+        ],
+        "type": "Point"
+      },
+      "id": "1703",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Kaldar",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.18465,
+          35.10862
+        ],
+        "type": "Point"
+      },
+      "id": "1704",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Jabal us Saraj",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          67.21497,
+          36.84655
+        ],
+        "type": "Point"
+      },
+      "id": "1705",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Nahri Shahi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          67.1157,
+          36.70993
+        ],
+        "type": "Point"
+      },
+      "id": "1706",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Mazar-e Sharif",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.57242,
+          34.9789
+        ],
+        "type": "Point"
+      },
+      "id": "1707",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Nijrab",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          67.11087,
+          36.70904
+        ],
+        "type": "Point"
+      },
+      "id": "1708",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Mazar-e Sharif",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.34,
+          35.01
+        ],
+        "type": "Point"
+      },
+      "id": "1709",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Mahmoud Raqi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.3,
+          35.11667
+        ],
+        "type": "Point"
+      },
+      "id": "1710",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Kohistan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.41667,
+          34.5
+        ],
+        "type": "Point"
+      },
+      "id": "1711",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Wilayat-e Kabul",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.29167,
+          35.06481
+        ],
+        "type": "Point"
+      },
+      "id": "1712",
+      "properties": {
+        "approvalDate": "2011-10-19",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 189000000.0,
+        "disbursementAmount": 87703136.98000002,
+        "id": "44482-022",
+        "info": "The proposed Project will promote regional cooperation and integration and improved access to social and economic opportunities in Afghanistan",
+        "locationName": "Jamalaghah",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-TRNSPRT NETWRK DEVL INVSTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "AF",
+  "properties": {
+    "bounds": [
+      60.48677779100012,
+      29.38660532600005,
+      74.89230676300014,
+      38.473673402000145
+    ],
+    "name": "Afghanistan"
+  },
+  "type": "FeatureCollection"
+}

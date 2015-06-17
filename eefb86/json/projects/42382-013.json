@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          124.72222,
+          42.73722
+        ],
+        "type": "Point"
+      },
+      "id": "6962",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2016-03-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 53487091.0,
+        "id": "42382-013",
+        "info": "The project aims to help promote balanced and environmentally sustainable urbanization; narrow the urban-rural gap; and improve production, employment, and living conditions in small cities and towns\u2026",
+        "locationName": "Xifeng",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "LIAONING SMALL CITIES & TOWNS DEVT DEMONSTRATION SECTOR PROJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          123.0,
+          41.0
+        ],
+        "type": "Point"
+      },
+      "id": "6963",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2016-03-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 53487091.0,
+        "id": "42382-013",
+        "info": "The project aims to help promote balanced and environmentally sustainable urbanization; narrow the urban-rural gap; and improve production, employment, and living conditions in small cities and towns\u2026",
+        "locationName": "Liaoning",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "LIAONING SMALL CITIES & TOWNS DEVT DEMONSTRATION SECTOR PROJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          122.36861,
+          40.39417
+        ],
+        "type": "Point"
+      },
+      "id": "6964",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2016-03-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 53487091.0,
+        "id": "42382-013",
+        "info": "The project aims to help promote balanced and environmentally sustainable urbanization; narrow the urban-rural gap; and improve production, employment, and living conditions in small cities and towns\u2026",
+        "locationName": "Gaizhou",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "LIAONING SMALL CITIES & TOWNS DEVT DEMONSTRATION SECTOR PROJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.36667,
+          41.16528
+        ],
+        "type": "Point"
+      },
+      "id": "6965",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2016-03-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 53487091.0,
+        "id": "42382-013",
+        "info": "The project aims to help promote balanced and environmentally sustainable urbanization; narrow the urban-rural gap; and improve production, employment, and living conditions in small cities and towns\u2026",
+        "locationName": "Linghai",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "LIAONING SMALL CITIES & TOWNS DEVT DEMONSTRATION SECTOR PROJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.99811,
+          41.73858
+        ],
+        "type": "Point"
+      },
+      "id": "6966",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2016-03-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 53487091.0,
+        "id": "42382-013",
+        "info": "The project aims to help promote balanced and environmentally sustainable urbanization; narrow the urban-rural gap; and improve production, employment, and living conditions in small cities and towns\u2026",
+        "locationName": "Donggang",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "LIAONING SMALL CITIES & TOWNS DEVT DEMONSTRATION SECTOR PROJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          119.74318,
+          41.12789
+        ],
+        "type": "Point"
+      },
+      "id": "6967",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2016-03-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 53487091.0,
+        "id": "42382-013",
+        "info": "The project aims to help promote balanced and environmentally sustainable urbanization; narrow the urban-rural gap; and improve production, employment, and living conditions in small cities and towns\u2026",
+        "locationName": "Kazuo Mongolian Autonomous County",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "LIAONING SMALL CITIES & TOWNS DEVT DEMONSTRATION SECTOR PROJ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "name": "China"
+  },
+  "type": "FeatureCollection"
+}

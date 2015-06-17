@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          85.39055,
+          26.12259
+        ],
+        "type": "Point"
+      },
+      "id": "3592",
+      "properties": {
+        "approvalDate": "2013-03-25",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 6014820.300000001,
+        "id": "41603-023",
+        "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026",
+        "locationName": "Muzaffarpur",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.00385,
+          24.79686
+        ],
+        "type": "Point"
+      },
+      "id": "3593",
+      "properties": {
+        "approvalDate": "2013-03-25",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 6014820.300000001,
+        "id": "41603-023",
+        "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026",
+        "locationName": "Gaya",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.89707,
+          26.15216
+        ],
+        "type": "Point"
+      },
+      "id": "3594",
+      "properties": {
+        "approvalDate": "2013-03-25",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 6014820.300000001,
+        "id": "41603-023",
+        "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026",
+        "locationName": "Darbhanga",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.97183,
+          25.24446
+        ],
+        "type": "Point"
+      },
+      "id": "3595",
+      "properties": {
+        "approvalDate": "2013-03-25",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 6014820.300000001,
+        "id": "41603-023",
+        "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026",
+        "locationName": "Bhagalpur",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

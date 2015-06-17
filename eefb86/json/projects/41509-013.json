@@ -1,0 +1,515 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          146.9672,
+          -7.0106
+        ],
+        "type": "Point"
+      },
+      "id": "5832",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Morobe Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.0,
+          -5.25
+        ],
+        "type": "Point"
+      },
+      "id": "5833",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Kompiam District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          149.91667,
+          -6.08333
+        ],
+        "type": "Point"
+      },
+      "id": "5834",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Kandrian District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.5,
+          -5.5
+        ],
+        "type": "Point"
+      },
+      "id": "5835",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Enga Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.75,
+          -4.0
+        ],
+        "type": "Point"
+      },
+      "id": "5836",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "East Sepik Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.58333,
+          -6.5
+        ],
+        "type": "Point"
+      },
+      "id": "5837",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Eastern Highlands Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.13333,
+          -5.98333
+        ],
+        "type": "Point"
+      },
+      "id": "5838",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Bonga",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.31494,
+          -10.55262
+        ],
+        "type": "Point"
+      },
+      "id": "5839",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Milne Bay Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.37042,
+          -10.31664
+        ],
+        "type": "Point"
+      },
+      "id": "5840",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Gurney",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.64642,
+          -10.33673
+        ],
+        "type": "Point"
+      },
+      "id": "5841",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Bubuleta",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.16667,
+          -5.38333
+        ],
+        "type": "Point"
+      },
+      "id": "5842",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Lagaip-Porgera District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.08333,
+          -10.25
+        ],
+        "type": "Point"
+      },
+      "id": "5843",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Alotau District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.15,
+          -5.53333
+        ],
+        "type": "Point"
+      },
+      "id": "5844",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Mul-Baiyer District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.15,
+          -5.98333
+        ],
+        "type": "Point"
+      },
+      "id": "5845",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Tambul-Nebilyer District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          155.56583,
+          -6.22806
+        ],
+        "type": "Point"
+      },
+      "id": "5846",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Central Bougainville District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          149.82605,
+          -5.87833
+        ],
+        "type": "Point"
+      },
+      "id": "5847",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "West New Britain Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.25,
+          -5.75
+        ],
+        "type": "Point"
+      },
+      "id": "5848",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Western Highlands Province",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          149.58333,
+          -5.66667
+        ],
+        "type": "Point"
+      },
+      "id": "5849",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Talasea District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          155.0,
+          -6.0
+        ],
+        "type": "Point"
+      },
+      "id": "5850",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "Bougainville",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          155.68455,
+          -6.74604
+        ],
+        "type": "Point"
+      },
+      "id": "5851",
+      "properties": {
+        "approvalDate": "2012-03-15",
+        "closingDate": "2020-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 4404641.96,
+        "id": "41509-013",
+        "info": "The project will strengthen rural health systems in selected areas by expanding the coverage and improving the quality of primary health care in partnership with state and other service providers",
+        "locationName": "South Bougainville District",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "RURAL PRIMARY HEALTH SERVICES DELIVERY PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PG",
+  "properties": {
+    "bounds": [
+      140.84921106000016,
+      -11.636325778999847,
+      155.96753991,
+      -1.346368096999882
+    ],
+    "name": "Papua New Guinea"
+  },
+  "type": "FeatureCollection"
+}

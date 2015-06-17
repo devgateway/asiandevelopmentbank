@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0,
+          -5.0
+        ],
+        "type": "Point"
+      },
+      "id": "2227",
+      "properties": {
+        "approvalDate": "2013-11-29",
+        "closingDate": "2014-03-31",
+        "commitmentAmount": 400000000.0,
+        "disbursementAmount": 400000000.0,
+        "id": "46093-004",
+        "info": "The proposed subprogram 2 will support the continuation of reforms on the second strategic pillar of the MP3EI achieved under the first subprogram",
+        "locationName": "Indonesia",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "INCLUSIVE GROWTH THRU IMPROVED CONNECTIVITY PROGRAM,SUBPROGRAM 2"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "ID",
+  "properties": {
+    "bounds": [
+      95.01270592500012,
+      -10.922621351999808,
+      140.97762699400008,
+      5.910101630000099
+    ],
+    "name": "Indonesia"
+  },
+  "type": "FeatureCollection"
+}

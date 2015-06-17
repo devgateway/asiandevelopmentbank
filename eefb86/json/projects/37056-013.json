@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          81.63333,
+          21.23333
+        ],
+        "type": "Point"
+      },
+      "id": "2670",
+      "properties": {
+        "approvalDate": "2006-03-20",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 46108000.0,
+        "disbursementAmount": 32443927.45,
+        "id": "37056-013",
+        "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026",
+        "locationName": "Raipur",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "Chhattisgarh Irrigation Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          82.02331,
+          19.0836
+        ],
+        "type": "Point"
+      },
+      "id": "2671",
+      "properties": {
+        "approvalDate": "2006-03-20",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 46108000.0,
+        "disbursementAmount": 32443927.45,
+        "id": "37056-013",
+        "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026",
+        "locationName": "Jagdalpur",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "Chhattisgarh Irrigation Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          82.1566,
+          22.07402
+        ],
+        "type": "Point"
+      },
+      "id": "2672",
+      "properties": {
+        "approvalDate": "2006-03-20",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 46108000.0,
+        "disbursementAmount": 32443927.45,
+        "id": "37056-013",
+        "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026",
+        "locationName": "Bilaspur",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "Chhattisgarh Irrigation Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.19537,
+          23.11892
+        ],
+        "type": "Point"
+      },
+      "id": "2673",
+      "properties": {
+        "approvalDate": "2006-03-20",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 46108000.0,
+        "disbursementAmount": 32443927.45,
+        "id": "37056-013",
+        "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026",
+        "locationName": "Ambikapur",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "Chhattisgarh Irrigation Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          82.0,
+          21.5
+        ],
+        "type": "Point"
+      },
+      "id": "2674",
+      "properties": {
+        "approvalDate": "2006-03-20",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 46108000.0,
+        "disbursementAmount": 32443927.45,
+        "id": "37056-013",
+        "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026",
+        "locationName": "State of Chhattisgarh",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "Chhattisgarh Irrigation Development Project"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

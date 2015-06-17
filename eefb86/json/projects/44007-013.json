@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.33333,
+          28.01667
+        ],
+        "type": "Point"
+      },
+      "id": "7293",
+      "properties": {
+        "approvalDate": "2013-03-19",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4207578.85,
+        "id": "44007-013",
+        "info": "The Jiangxi Fuzhou Municipal Government (FMG) proposes a project with the following components: (i) an urban transport hub which will be part of the new Xiangpu Railway's Jiangxi\nFuzhou Railway\u2026",
+        "locationName": "Xu Jiang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "JIANGXI FUZHOU URBAN INTEGRATED INFRASTRUCTURE IMPROVEMENT PROJEC"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.3529,
+          27.99662
+        ],
+        "type": "Point"
+      },
+      "id": "7294",
+      "properties": {
+        "approvalDate": "2013-03-19",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4207578.85,
+        "id": "44007-013",
+        "info": "The Jiangxi Fuzhou Municipal Government (FMG) proposes a project with the following components: (i) an urban transport hub which will be part of the new Xiangpu Railway's Jiangxi\nFuzhou Railway\u2026",
+        "locationName": "Xidajie",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "JIANGXI FUZHOU URBAN INTEGRATED INFRASTRUCTURE IMPROVEMENT PROJEC"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "name": "China"
+  },
+  "type": "FeatureCollection"
+}
