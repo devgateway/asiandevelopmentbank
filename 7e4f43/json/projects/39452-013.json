@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4752", 
+      "properties": {
+        "approvalDate": "2011-09-11", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 25000000.0, 
+        "disbursementAmount": 973286.06, 
+        "id": "39452-013", 
+        "info": "The project seeks to improve transparency and accountability of public service delivery in tax and land record administration in Bangladesh with the help of information and communication technology\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING GOVERNANCE MANAGEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

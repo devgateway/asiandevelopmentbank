@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          44.44477, 
+          40.15865
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1841", 
+      "properties": {
+        "approvalDate": "2011-05-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 48640000.0, 
+        "disbursementAmount": 15841647.89, 
+        "id": "42417-023", 
+        "info": "The investment program targets a range of urban connectivity and mobility improvements in all parts of Armenia, aiming to improve transport efficiency, reliability, and safety, and reduce\u2026", 
+        "locationName": "Argavand", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE URBAN DEVL INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          44.45121, 
+          40.14932
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1842", 
+      "properties": {
+        "approvalDate": "2011-05-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 48640000.0, 
+        "disbursementAmount": 15841647.89, 
+        "id": "42417-023", 
+        "info": "The investment program targets a range of urban connectivity and mobility improvements in all parts of Armenia, aiming to improve transport efficiency, reliability, and safety, and reduce\u2026", 
+        "locationName": "Karmir Blur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE URBAN DEVL INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          44.48099, 
+          40.1297
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1843", 
+      "properties": {
+        "approvalDate": "2011-05-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 48640000.0, 
+        "disbursementAmount": 15841647.89, 
+        "id": "42417-023", 
+        "info": "The investment program targets a range of urban connectivity and mobility improvements in all parts of Armenia, aiming to improve transport efficiency, reliability, and safety, and reduce\u2026", 
+        "locationName": "Nerkin Shengavit'", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE URBAN DEVL INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AM", 
+  "properties": {
+    "bounds": [
+      43.436293986000095, 
+      38.86370127400009, 
+      46.602612346000086, 
+      41.29045237300015
+    ], 
+    "name": "Armenia"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,315 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          134.621, 
+          7.503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1685", 
+      "properties": {
+        "approvalDate": "2011-10-06", 
+        "closingDate": "2015-02-28", 
+        "commitmentAmount": 12600000.0, 
+        "disbursementAmount": 12600000.0, 
+        "id": "44031-013", 
+        "info": "The program will support reform of the water and sanitation sector, with a focus on improving policy and legal frameworks, financial sustainability, and capacity\u2026", 
+        "locationName": "Palau", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "WATER SECTOR IMPROVEMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.621, 
+          7.503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1686", 
+      "properties": {
+        "approvalDate": "2011-10-06", 
+        "closingDate": "2015-02-28", 
+        "commitmentAmount": 3400000.0, 
+        "disbursementAmount": 3472734.4, 
+        "id": "44031-013", 
+        "info": "The program will support reform of the water and sanitation sector, with a focus on improving policy and legal frameworks, financial sustainability, and capacity\u2026", 
+        "locationName": "Palau", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "WATER SECTOR IMPROVEMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.45201, 
+          7.33163
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1687", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 26900000.0, 
+        "disbursementAmount": 232298.33, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "Malakal Island", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.51866, 
+          7.36698
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1688", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 26900000.0, 
+        "disbursementAmount": 232298.33, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "State of Airai", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.4785, 
+          7.339
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1689", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 26900000.0, 
+        "disbursementAmount": 232298.33, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "State of Koror", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.6345, 
+          7.494
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1690", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 26900000.0, 
+        "disbursementAmount": 232298.33, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "State of Melekeok", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.54267, 
+          7.36177
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1691", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 26900000.0, 
+        "disbursementAmount": 232298.33, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "Kesebalau", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.45201, 
+          7.33163
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1692", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 1900000.0, 
+        "disbursementAmount": 181600.0, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "Malakal Island", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.51866, 
+          7.36698
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1693", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 1900000.0, 
+        "disbursementAmount": 181600.0, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "State of Airai", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.4785, 
+          7.339
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1694", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 1900000.0, 
+        "disbursementAmount": 181600.0, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "State of Koror", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.6345, 
+          7.494
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1695", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 1900000.0, 
+        "disbursementAmount": 181600.0, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "State of Melekeok", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.54267, 
+          7.36177
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1696", 
+      "properties": {
+        "approvalDate": "2014-03-28", 
+        "closingDate": "2022-08-31", 
+        "commitmentAmount": 1900000.0, 
+        "disbursementAmount": 181600.0, 
+        "id": "42439-013", 
+        "info": "The project will provide priority sanitation infrastructure identified in the Koror\u2013Airai Sanitation Master Plan (KASMP)", 
+        "locationName": "Kesebalau", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KOROR-AIRAI SANITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PW", 
+  "properties": {
+    "bounds": [
+      131.13111412900005, 
+      2.949042059000149, 
+      134.7273429907992, 
+      8.096617828631437
+    ], 
+    "name": "Palau"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          62.0, 
+          34.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1735", 
+      "properties": {
+        "approvalDate": "2006-03-09", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14500000.0, 
+        "disbursementAmount": 12634785.129999999, 
+        "id": "36252-013", 
+        "info": "The overall Project goal is to improve rural livelihoods through strengthened integrated water resources management (IWRM); improved irrigation service delivery; and enhanced agricultural practices\u2026", 
+        "locationName": "Herat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN BASINS WATER RESOURCES MANAGEMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.0, 
+          34.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1736", 
+      "properties": {
+        "approvalDate": "2006-03-09", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14500000.0, 
+        "disbursementAmount": 12634785.129999999, 
+        "id": "36252-013", 
+        "info": "The overall Project goal is to improve rural livelihoods through strengthened integrated water resources management (IWRM); improved irrigation service delivery; and enhanced agricultural practices\u2026", 
+        "locationName": "Ghowr", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN BASINS WATER RESOURCES MANAGEMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.75, 
+          35.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1737", 
+      "properties": {
+        "approvalDate": "2006-03-09", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14500000.0, 
+        "disbursementAmount": 12634785.129999999, 
+        "id": "36252-013", 
+        "info": "The overall Project goal is to improve rural livelihoods through strengthened integrated water resources management (IWRM); improved irrigation service delivery; and enhanced agricultural practices\u2026", 
+        "locationName": "Badghis", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN BASINS WATER RESOURCES MANAGEMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.08969, 
+          35.04995
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1738", 
+      "properties": {
+        "approvalDate": "2006-03-09", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14500000.0, 
+        "disbursementAmount": 12634785.129999999, 
+        "id": "36252-013", 
+        "info": "The overall Project goal is to improve rural livelihoods through strengthened integrated water resources management (IWRM); improved irrigation service delivery; and enhanced agricultural practices\u2026", 
+        "locationName": "Rod-e Murghab", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN BASINS WATER RESOURCES MANAGEMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.4163, 
+          34.38112
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1739", 
+      "properties": {
+        "approvalDate": "2006-03-09", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14500000.0, 
+        "disbursementAmount": 12634785.129999999, 
+        "id": "36252-013", 
+        "info": "The overall Project goal is to improve rural livelihoods through strengthened integrated water resources management (IWRM); improved irrigation service delivery; and enhanced agricultural practices\u2026", 
+        "locationName": "Harirud", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN BASINS WATER RESOURCES MANAGEMENT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

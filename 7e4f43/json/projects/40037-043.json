@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          146.98469, 
+          -6.72208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5852", 
+      "properties": {
+        "approvalDate": "2012-04-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 84983961.14, 
+        "id": "40037-043", 
+        "info": "The overall project will expand the cargo handling capacity of PNG's largest sea port at Lae, the capital of Morobe province", 
+        "locationName": "Lae", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LAE PORT DEVELOPMENT PROJECT-ADDITIONAL FINANCING"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          146.98469, 
+          -6.72208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5853", 
+      "properties": {
+        "approvalDate": "2012-04-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 4120000.0, 
+        "disbursementAmount": 4063684.75, 
+        "id": "40037-043", 
+        "info": "The overall project will expand the cargo handling capacity of PNG's largest sea port at Lae, the capital of Morobe province", 
+        "locationName": "Lae", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LAE PORT DEVELOPMENT PROJECT-ADDITIONAL FINANCING"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PG", 
+  "properties": {
+    "bounds": [
+      140.84921106000016, 
+      -11.636325778999847, 
+      155.96753991, 
+      -1.346368096999882
+    ], 
+    "name": "Papua New Guinea"
+  }, 
+  "type": "FeatureCollection"
+}

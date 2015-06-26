@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          68.71512, 
+          35.94458
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1784", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Pul-e Khumri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.65967, 
+          35.61527
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1785", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Doshi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.97287, 
+          35.47093
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1786", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Khinjan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.17192, 
+          34.76782
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1787", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Kalakan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.11738, 
+          34.72843
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1788", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Mir Bachah Kot", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.93637, 
+          34.54807
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1789", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Paghman", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.19813, 
+          34.84288
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1790", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Qarah Bagh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.03642, 
+          34.66382
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1791", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Shakar Darah", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.33321, 
+          34.92794
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1792", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Bagram", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.13412, 
+          34.98448
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1793", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Charikar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.18465, 
+          35.10862
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1794", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Jabal us Saraj", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.15827, 
+          35.27398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1795", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Salang", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.64001, 
+          36.00118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1796", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Puli Khumri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.91667, 
+          34.46666
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1797", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 99000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46392-001", 
+        "info": "The proposed project will construct a 500-kV transmission line about 225 km long across the Hindukush mountain range between the northern town of Dashte Alwan and Kabul at the southern end", 
+        "locationName": "Arghandeh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTH-SOUTH POWER TRANSMISSION ENHANCEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

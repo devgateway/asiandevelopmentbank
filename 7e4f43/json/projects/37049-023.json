@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.61861, 
+          -6.90389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2131", 
+      "properties": {
+        "approvalDate": "2009-04-22", 
+        "closingDate": "2016-05-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 4760087.42, 
+        "id": "37049-023", 
+        "info": "The Project's objective is to improve water availability and improve integrated water resources managment", 
+        "locationName": "Bandung", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-INTGRTD CITARUM WATER RESOURCES MGT INVESTMENT PROG-PRJ1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.61639, 
+          -6.90472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2132", 
+      "properties": {
+        "approvalDate": "2009-04-22", 
+        "closingDate": "2016-05-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 4760087.42, 
+        "id": "37049-023", 
+        "info": "The Project's objective is to improve water availability and improve integrated water resources managment", 
+        "locationName": "Kelurahan Citarum", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-INTGRTD CITARUM WATER RESOURCES MGT INVESTMENT PROG-PRJ1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.11722, 
+          -6.29528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2133", 
+      "properties": {
+        "approvalDate": "2009-04-22", 
+        "closingDate": "2016-05-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 4760087.42, 
+        "id": "37049-023", 
+        "info": "The Project's objective is to improve water availability and improve integrated water resources managment", 
+        "locationName": "Saluran Irigasi Tarum Barat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-INTGRTD CITARUM WATER RESOURCES MGT INVESTMENT PROG-PRJ1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.61861, 
+          -6.90389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2134", 
+      "properties": {
+        "approvalDate": "2009-04-22", 
+        "closingDate": "2016-05-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 16225173.780000001, 
+        "id": "37049-023", 
+        "info": "The Project's objective is to improve water availability and improve integrated water resources managment", 
+        "locationName": "Bandung", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-INTEGRATED CITARUM WATER RESOURCES MGT INVESTMENT PROG-PROJ 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.61639, 
+          -6.90472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2135", 
+      "properties": {
+        "approvalDate": "2009-04-22", 
+        "closingDate": "2016-05-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 16225173.780000001, 
+        "id": "37049-023", 
+        "info": "The Project's objective is to improve water availability and improve integrated water resources managment", 
+        "locationName": "Kelurahan Citarum", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-INTEGRATED CITARUM WATER RESOURCES MGT INVESTMENT PROG-PROJ 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.11722, 
+          -6.29528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2136", 
+      "properties": {
+        "approvalDate": "2009-04-22", 
+        "closingDate": "2016-05-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 16225173.780000001, 
+        "id": "37049-023", 
+        "info": "The Project's objective is to improve water availability and improve integrated water resources managment", 
+        "locationName": "Saluran Irigasi Tarum Barat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-INTEGRATED CITARUM WATER RESOURCES MGT INVESTMENT PROG-PROJ 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

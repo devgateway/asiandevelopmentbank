@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          102.81853, 
+          25.29437
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6806", 
+      "properties": {
+        "approvalDate": "2008-03-26", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 80000000.0, 
+        "id": "40052-013", 
+        "info": "The impact of the Project will be improved urban environment, public health, and quality of life for urban residents and sustained economic development in the city, through the provision of safe and\u2026", 
+        "locationName": "Kunming Shi", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "KUNMING QINGSHUIHAI WATER SUPPLY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.71833, 
+          25.03889
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6807", 
+      "properties": {
+        "approvalDate": "2008-03-26", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 80000000.0, 
+        "id": "40052-013", 
+        "info": "The impact of the Project will be improved urban environment, public health, and quality of life for urban residents and sustained economic development in the city, through the provision of safe and\u2026", 
+        "locationName": "Kunming", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "KUNMING QINGSHUIHAI WATER SUPPLY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.10722, 
+          25.60167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6808", 
+      "properties": {
+        "approvalDate": "2008-03-26", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 80000000.0, 
+        "id": "40052-013", 
+        "info": "The impact of the Project will be improved urban environment, public health, and quality of life for urban residents and sustained economic development in the city, through the provision of safe and\u2026", 
+        "locationName": "Qingshui Hai", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "KUNMING QINGSHUIHAI WATER SUPPLY PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China"
+  }, 
+  "type": "FeatureCollection"
+}

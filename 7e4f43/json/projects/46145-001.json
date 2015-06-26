@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.6, 
+          42.3
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4034", 
+      "properties": {
+        "approvalDate": "2013-05-28", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 125000000.0, 
+        "disbursementAmount": 31450906.48, 
+        "id": "46145-001", 
+        "info": "The project will rehabilitate a 37-km four-lane asphalt-paved Category 1 road section in Kazakhstan, a part of the road connecting Tashkent, the capital of Uzbekistan, and Shymkent, one of the major\u2026", 
+        "locationName": "Shymkent", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC Corridor 3(Shymkent- Tashkent Section)ROAD IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.75, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4035", 
+      "properties": {
+        "approvalDate": "2013-05-28", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 125000000.0, 
+        "disbursementAmount": 31450906.48, 
+        "id": "46145-001", 
+        "info": "The project will rehabilitate a 37-km four-lane asphalt-paved Category 1 road section in Kazakhstan, a part of the road connecting Tashkent, the capital of Uzbekistan, and Shymkent, one of the major\u2026", 
+        "locationName": "Sayram Audany", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC Corridor 3(Shymkent- Tashkent Section)ROAD IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.41, 
+          41.759
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4036", 
+      "properties": {
+        "approvalDate": "2013-05-28", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 125000000.0, 
+        "disbursementAmount": 31450906.48, 
+        "id": "46145-001", 
+        "info": "The project will rehabilitate a 37-km four-lane asphalt-paved Category 1 road section in Kazakhstan, a part of the road connecting Tashkent, the capital of Uzbekistan, and Shymkent, one of the major\u2026", 
+        "locationName": "Kazygurt District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC Corridor 3(Shymkent- Tashkent Section)ROAD IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KZ", 
+  "properties": {
+    "bounds": [
+      46.47827884900002, 
+      40.58465566000008, 
+      87.3237960210001, 
+      55.434550273000085
+    ], 
+    "name": "Kazakhstan"
+  }, 
+  "type": "FeatureCollection"
+}

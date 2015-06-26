@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.56667, 
+          18.35
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1449", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 130000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43319-043", 
+        "info": "The project will enhance the competitiveness of towns along the East West Economic Corridor (EWEC) and the Southern Economic Corridor (SEC) and support the development of the GMS transport corridors\u2026", 
+        "locationName": "M\u1ed9c B\u00e0i", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.60065, 
+          16.61406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1450", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 130000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43319-043", 
+        "info": "The project will enhance the competitiveness of towns along the East West Economic Corridor (EWEC) and the Southern Economic Corridor (SEC) and support the development of the GMS transport corridors\u2026", 
+        "locationName": "Lao B\u1ea3o", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.10031, 
+          16.81625
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1451", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 130000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43319-043", 
+        "info": "The project will enhance the competitiveness of towns along the East West Economic Corridor (EWEC) and the Southern Economic Corridor (SEC) and support the development of the GMS transport corridors\u2026", 
+        "locationName": "Dong Ha", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}
