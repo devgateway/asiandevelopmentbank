@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6577", 
+      "properties": {
+        "approvalDate": "2014-10-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 7000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46064-002", 
+        "info": "The proposed Technical and Vocational Education and Training Sector Development Program (TVETSDP) seeks to support the Government of Cambodia in improving access to, and relevance and quality of, the\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "TECHNICAL& VOCATIONAL EDUCATION& TRAINING SECTOR DEVT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6578", 
+      "properties": {
+        "approvalDate": "2014-10-27", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46064-002", 
+        "info": "The proposed Technical and Vocational Education and Training Sector Development Program (TVETSDP) seeks to support the Government of Cambodia in improving access to, and relevance and quality of, the\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "TECHNICAL& VOCATIONAL EDUCATION& TRAINING SECTOR DEVT PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

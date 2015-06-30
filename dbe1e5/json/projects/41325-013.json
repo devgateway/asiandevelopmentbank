@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          101.0, 
+          15.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1913", 
+      "properties": {
+        "approvalDate": "2011-02-14", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "41325-013", 
+        "info": "The Capital Market Development Program (CMDP) will support the government\u2019s key reform priorities aimed at higher and sustainable investment growth and transformation to a higher income economy,\u2026", 
+        "locationName": "Thailand", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "CAPITAL MARKET DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TH", 
+  "properties": {
+    "bounds": [
+      97.35140100100008, 
+      5.62989003500013, 
+      105.65099776200006, 
+      20.4450064090001
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-th.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Thailand"
+  }, 
+  "type": "FeatureCollection"
+}

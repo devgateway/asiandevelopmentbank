@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          116.53972, 
+          23.32024
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7716", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2020-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 81666.67, 
+        "id": "46079-002", 
+        "info": "The project will help protect water resources and improve water security in Chaonan District, Shantou Municipality, Guangdong Province", 
+        "locationName": "Shantou Shi", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          116.309, 
+          23.21587
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7717", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2020-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 81666.67, 
+        "id": "46079-002", 
+        "info": "The project will help protect water resources and improve water security in Chaonan District, Shantou Municipality, Guangdong Province", 
+        "locationName": "Jinxi", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          116.44423, 
+          23.13822
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7718", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2020-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 81666.67, 
+        "id": "46079-002", 
+        "info": "The project will help protect water resources and improve water security in Chaonan District, Shantou Municipality, Guangdong Province", 
+        "locationName": "Dalongxi Erba Shuiku", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          116.44278, 
+          23.22167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7719", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2020-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 81666.67, 
+        "id": "46079-002", 
+        "info": "The project will help protect water resources and improve water security in Chaonan District, Shantou Municipality, Guangdong Province", 
+        "locationName": "Chaonan Qu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          116.35013, 
+          23.1839
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7720", 
+      "properties": {
+        "approvalDate": "2014-05-30", 
+        "closingDate": "2020-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 81666.67, 
+        "id": "46079-002", 
+        "info": "The project will help protect water resources and improve water security in Chaonan District, Shantou Municipality, Guangdong Province", 
+        "locationName": "Qiufeng Shuiku", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

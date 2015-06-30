@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.91667, 
+          14.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "580", 
+      "properties": {
+        "approvalDate": "2006-12-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 34906158.449999996, 
+        "id": "34341-013", 
+        "info": "The Project objectives and activities include: (i) formulating technically sound and socially relevant SFM plans for over 3 million ha of natural forests and plantations on bare land", 
+        "locationName": "Kon Tum", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "FORESTS FOR LIVELIHOOD IMPRVMNT IN THE CNTRAL HGHLANDSSECTOR PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.08333, 
+          13.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "581", 
+      "properties": {
+        "approvalDate": "2006-12-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 34906158.449999996, 
+        "id": "34341-013", 
+        "info": "The Project objectives and activities include: (i) formulating technically sound and socially relevant SFM plans for over 3 million ha of natural forests and plantations on bare land", 
+        "locationName": "Tinh Phu Yen", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "FORESTS FOR LIVELIHOOD IMPRVMNT IN THE CNTRAL HGHLANDSSECTOR PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.08333, 
+          11.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "582", 
+      "properties": {
+        "approvalDate": "2006-12-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 34906158.449999996, 
+        "id": "34341-013", 
+        "info": "The Project objectives and activities include: (i) formulating technically sound and socially relevant SFM plans for over 3 million ha of natural forests and plantations on bare land", 
+        "locationName": "Tinh Lam Dong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "FORESTS FOR LIVELIHOOD IMPRVMNT IN THE CNTRAL HGHLANDSSECTOR PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.25, 
+          13.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "583", 
+      "properties": {
+        "approvalDate": "2006-12-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 34906158.449999996, 
+        "id": "34341-013", 
+        "info": "The Project objectives and activities include: (i) formulating technically sound and socially relevant SFM plans for over 3 million ha of natural forests and plantations on bare land", 
+        "locationName": "Gia Lai", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "FORESTS FOR LIVELIHOOD IMPRVMNT IN THE CNTRAL HGHLANDSSECTOR PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.25, 
+          12.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "584", 
+      "properties": {
+        "approvalDate": "2006-12-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 34906158.449999996, 
+        "id": "34341-013", 
+        "info": "The Project objectives and activities include: (i) formulating technically sound and socially relevant SFM plans for over 3 million ha of natural forests and plantations on bare land", 
+        "locationName": "Tinh Dak Lak", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "FORESTS FOR LIVELIHOOD IMPRVMNT IN THE CNTRAL HGHLANDSSECTOR PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.75, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "585", 
+      "properties": {
+        "approvalDate": "2006-12-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 34906158.449999996, 
+        "id": "34341-013", 
+        "info": "The Project objectives and activities include: (i) formulating technically sound and socially relevant SFM plans for over 3 million ha of natural forests and plantations on bare land", 
+        "locationName": "Dak Nong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "FORESTS FOR LIVELIHOOD IMPRVMNT IN THE CNTRAL HGHLANDSSECTOR PROJ"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

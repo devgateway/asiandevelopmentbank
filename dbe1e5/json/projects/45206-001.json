@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2524", 
+      "properties": {
+        "approvalDate": "2012-11-02", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 11000000.0, 
+        "disbursementAmount": 2038059.25, 
+        "id": "45206-001", 
+        "info": "The project impact will be accelerated expansion of areas covered by irrigation, drainage and flood control infrastructure", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "WATER RESOURCES PROJECT PREPARATORY FACILITY"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}

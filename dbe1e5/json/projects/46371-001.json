@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6795", 
+      "properties": {
+        "approvalDate": "2013-03-21", 
+        "closingDate": "2013-03-21", 
+        "commitmentAmount": 20810000.0, 
+        "disbursementAmount": 20810000.0, 
+        "id": "46371-001", 
+        "info": "The proposed program  involves a budget support for the Government of Bhutan which is currently facing weakening growth prospects as well as challenges in macroeconomic management", 
+        "locationName": "Bhutan", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENING ECONOMIC MANAGEMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BT", 
+  "properties": {
+    "bounds": [
+      88.73006677200013, 
+      26.69614939400016, 
+      92.08877648900014, 
+      28.358398930786294
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Bhutan"
+  }, 
+  "type": "FeatureCollection"
+}

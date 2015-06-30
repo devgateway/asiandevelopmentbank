@@ -1,0 +1,646 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          102.5, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4384", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Ovorhangay", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.0, 
+          43.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4385", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Omnogovi", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.0, 
+          50.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4386", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Hovsgol Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.5, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4387", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Hentiy Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.08333, 
+          49.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4388", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Erdenet", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4389", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Middle Govi", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.0, 
+          44.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4390", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "East Gobi Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          115.0, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4391", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "East Aimak", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.92278, 
+          49.48667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4392", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Darhan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          93.0, 
+          49.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4393", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Uvs Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.5, 
+          47.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4394", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Hovd Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4395", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Govi-Altay Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4396", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Dzavhan Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.64194, 
+          48.00556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4397", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Khovd", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          48.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4398", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bayan-Olgiy Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.5, 
+          49.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4399", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bulgan Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.53472, 
+          48.8125
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4400", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bulgan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4401", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Arhangay Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.5, 
+          46.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4402", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Govi-Sumber", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          99.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4403", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bayanhongor Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.91667, 
+          47.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4404", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Ulaanbaatar Hot", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4405", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          47.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4406", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Central", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.5, 
+          46.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4407", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Suhbaatar Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          49.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4408", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 705115.3200000001, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Selenge Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

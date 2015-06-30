@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          67.11087, 
+          36.70904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1578", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2013-04-05", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Mazar-e Sharif", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.4241, 
+          37.2214
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1579", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2013-04-05", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Hairatan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.54203, 
+          37.12746
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1580", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2013-04-05", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Kaldar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.21497, 
+          36.84655
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1581", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2013-04-05", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Nahri Shahi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.1157, 
+          36.70993
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1582", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2013-04-05", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Mazar-e Sharif", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2599", 
+      "properties": {
+        "approvalDate": "2014-07-11", 
+        "closingDate": "2022-06-30", 
+        "commitmentAmount": 180000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44219-014", 
+        "info": "The project will contribute to Nepal s energy development objectives by (i) scaling up the on-grid and off-grid renewable energy supply, (ii) facilitating cross-border power exchange, (iii)\u2026", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH ASIA SUBREGIONAL ECONOMIC COOPERATION PWR SYS EXPANSION PRO"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4351", 
+      "properties": {
+        "approvalDate": "2008-12-11", 
+        "closingDate": "2015-03-06", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9995257.71, 
+        "id": "39254-022", 
+        "info": "The Education Sector Reform Project will build on the achievements of three previous projects that supported major sector reforms, helped the Government to reorient the education system to the needs\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "EDUCATION SECTOR REFORM PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

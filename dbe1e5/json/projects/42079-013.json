@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117, 
+          21.0245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1148", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 170000000.0, 
+        "disbursementAmount": 1845716.06, 
+        "id": "42079-013", 
+        "info": "The project seeks to establish a new model university (NMU) focused on international standard teaching and research in science and technology", 
+        "locationName": "Hanoi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "UNIV OF SCI & TECH OF HANOI DEVL (NEW MODEL UNIV) PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117, 
+          21.0245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1149", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 2162611.57, 
+        "id": "42079-013", 
+        "info": "The project seeks to establish a new model university (NMU) focused on international standard teaching and research in science and technology", 
+        "locationName": "Hanoi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "UNIV OF SCI & TECH OF HANOI DEVL (NEW MODEL UNIV) PROJ-HARD TERM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

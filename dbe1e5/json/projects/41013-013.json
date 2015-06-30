@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          20.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "833", 
+      "properties": {
+        "approvalDate": "2009-04-17", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 56808820.39, 
+        "id": "41013-013", 
+        "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
+        "locationName": "Tinh Thanh Hoa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.76667, 
+          19.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "834", 
+      "properties": {
+        "approvalDate": "2009-04-17", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 56808820.39, 
+        "id": "41013-013", 
+        "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
+        "locationName": "Thanh Hoa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.37697, 
+          21.10116
+        ], 
+        "type": "Point"
+      }, 
+      "id": "835", 
+      "properties": {
+        "approvalDate": "2009-04-17", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 56808820.39, 
+        "id": "41013-013", 
+        "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
+        "locationName": "Mat Son", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.85, 
+          19.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "836", 
+      "properties": {
+        "approvalDate": "2009-04-17", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 56808820.39, 
+        "id": "41013-013", 
+        "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
+        "locationName": "Ham Rong", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

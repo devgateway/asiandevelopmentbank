@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4706", 
+      "properties": {
+        "approvalDate": "2007-11-01", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 105506188.15, 
+        "id": "37017-013", 
+        "info": "The Good Governance Program is expected to contribute to economic growth and enhanced public access to effective public services to the citizens of Bangladesh", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "GOOD GOVERNANCE PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

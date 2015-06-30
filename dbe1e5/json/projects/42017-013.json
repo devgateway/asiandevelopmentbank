@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          128.87529, 
+          47.72143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7347", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 199606007.06, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Yichun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.16667, 
+          48.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7348", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 199606007.06, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Wudalianchi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.9677, 
+          49.34575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7349", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 199606007.06, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Nenjiang Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.21774, 
+          49.17414
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7350", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 199606007.06, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Nenjiang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.85, 
+          48.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7351", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 199606007.06, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Longzhen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

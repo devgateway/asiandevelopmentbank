@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4409", 
+      "properties": {
+        "approvalDate": "2014-03-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46312-001", 
+        "info": "The proposed project will deliver four outputs to modernize the payment system in Mongolia", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "PAYMENT SYSTEM MODERNIZATION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

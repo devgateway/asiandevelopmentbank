@@ -1,0 +1,296 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          72.25972, 
+          33.78
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5430", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Ghazi Barotha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.34361, 
+          31.54972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5431", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Lahore", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.53333, 
+          27.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5432", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Jarwar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.40447, 
+          30.475
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5433", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Dera Ghazi Khan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.63477, 
+          30.05614
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5434", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Dera Ghazi Khan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.2957, 
+          31.6149
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5435", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Ravi Town", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.48269, 
+          30.97433
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5436", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Toba Tek Singh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.13065, 
+          28.30623
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5437", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Sadiqabad", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.89506, 
+          27.69223
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5438", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Rohri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.44583, 
+          30.80806
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5439", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Okara", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.59798, 
+          30.37053
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5440", 
+      "properties": {
+        "approvalDate": "2008-05-20", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 220000000.0, 
+        "disbursementAmount": 154331898.42, 
+        "id": "37192-033", 
+        "info": "Pakistan's power system continues to operate under stressed conditions", 
+        "locationName": "Loralai", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-POWER TRANSMISSION ENHANCEMENT INVESTMENT PROGRAM-PROJ II"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PK", 
+  "properties": {
+    "bounds": [
+      60.8443787030001, 
+      23.694525458000058, 
+      77.0489709880002, 
+      37.054483541000096
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Pakistan"
+  }, 
+  "type": "FeatureCollection"
+}

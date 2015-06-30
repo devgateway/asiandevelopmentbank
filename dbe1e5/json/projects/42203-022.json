@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          102.33333, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7879", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2017-08-31", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 13294668.430000002, 
+        "id": "42203-022", 
+        "info": "The Project will address sector constraints by rehabilitating existing irrigation facilities and, where appropriate, developing new ones, as well as rehabilitating and upgrading rural access roads\u2026", 
+        "locationName": "Khoueng Phongsali", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTHERN RURAL INFRASTRUCTURE DEVELOPMENT SECTOR P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          20.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7880", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2017-08-31", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 13294668.430000002, 
+        "id": "42203-022", 
+        "info": "The Project will address sector constraints by rehabilitating existing irrigation facilities and, where appropriate, developing new ones, as well as rehabilitating and upgrading rural access roads\u2026", 
+        "locationName": "Khoueng Oudomxai", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTHERN RURAL INFRASTRUCTURE DEVELOPMENT SECTOR P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.33333, 
+          20.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7881", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2017-08-31", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 13294668.430000002, 
+        "id": "42203-022", 
+        "info": "The Project will address sector constraints by rehabilitating existing irrigation facilities and, where appropriate, developing new ones, as well as rehabilitating and upgrading rural access roads\u2026", 
+        "locationName": "Louangnamtha", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTHERN RURAL INFRASTRUCTURE DEVELOPMENT SECTOR P"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.5, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7882", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2017-08-31", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 13294668.430000002, 
+        "id": "42203-022", 
+        "info": "The Project will address sector constraints by rehabilitating existing irrigation facilities and, where appropriate, developing new ones, as well as rehabilitating and upgrading rural access roads\u2026", 
+        "locationName": "Khoueng Bokeo", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NORTHERN RURAL INFRASTRUCTURE DEVELOPMENT SECTOR P"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "LA", 
+  "properties": {
+    "bounds": [
+      100.0970732020001, 
+      13.91545664500012, 
+      107.66436324000011, 
+      22.49604400700011
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Lao PDR"
+  }, 
+  "type": "FeatureCollection"
+}

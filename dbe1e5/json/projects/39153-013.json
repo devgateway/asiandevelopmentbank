@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.85, 
+          30.3
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7137", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 145975610.19, 
+        "id": "39153-013", 
+        "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
+        "locationName": "Lichuan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.0, 
+          31.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7138", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 145975610.19, 
+        "id": "39153-013", 
+        "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
+        "locationName": "Hubei", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.87406, 
+          30.05705
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7139", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 145975610.19, 
+        "id": "39153-013", 
+        "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
+        "locationName": "Chongqing Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.55278, 
+          29.56278
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7140", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 145975610.19, 
+        "id": "39153-013", 
+        "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
+        "locationName": "Chongqing", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

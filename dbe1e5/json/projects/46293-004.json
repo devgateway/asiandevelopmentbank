@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6580", 
+      "properties": {
+        "approvalDate": "2014-12-18", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46293-004", 
+        "info": "The project will have the following outputs: (i) last-mile tourism access infrastructure improved, (ii) environmental services in cross-border tourism centers improved, (iii) institutional capacity\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS TOURISM INFRASTRUCTURE FOR INCLUSIVE GROWTH PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

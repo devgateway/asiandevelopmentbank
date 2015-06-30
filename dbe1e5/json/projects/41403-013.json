@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6581", 
+      "properties": {
+        "approvalDate": "2014-12-18", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 34000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41403-013", 
+        "info": "Output 1: Existing water supply systems improved in seven towns. Output 2: New water supply system provided for Stung Treng. Output 3: Water supply coverage increased in Siem Reap", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN WATER SUPPLY PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

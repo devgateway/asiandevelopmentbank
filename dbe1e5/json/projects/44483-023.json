@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.21627, 
+          41.26465
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5247", 
+      "properties": {
+        "approvalDate": "2011-12-01", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 130000000.0, 
+        "disbursementAmount": 68222219.39, 
+        "id": "44483-023", 
+        "info": "The proposed second investment program will increase domestic and international trade", 
+        "locationName": "Tashkent", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "2ND CAREC 2 ROAD INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.2, 
+          41.4
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5248", 
+      "properties": {
+        "approvalDate": "2011-12-01", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 130000000.0, 
+        "disbursementAmount": 68222219.39, 
+        "id": "44483-023", 
+        "info": "The proposed second investment program will increase domestic and international trade", 
+        "locationName": "Toshkent Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "2ND CAREC 2 ROAD INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

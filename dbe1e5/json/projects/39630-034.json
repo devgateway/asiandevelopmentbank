@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          76.72113, 
+          31.04184
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3521", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 76000000.0, 
+        "disbursementAmount": 48731773.15, 
+        "id": "39630-034", 
+        "info": "A Framework Financing Agreement (FFA) for Multitranche Financing Facility (MFF) of the Investment Program was signed on 29 February 2008 among ADB, India, and Power Grid Corporation of India Limited\u2026", 
+        "locationName": "Nalagarh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL POWER GRID DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.80898, 
+          15.59154
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3522", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 76000000.0, 
+        "disbursementAmount": 48731773.15, 
+        "id": "39630-034", 
+        "info": "A Framework Financing Agreement (FFA) for Multitranche Financing Facility (MFF) of the Investment Program was signed on 29 February 2008 among ADB, India, and Power Grid Corporation of India Limited\u2026", 
+        "locationName": "Mapuca", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL POWER GRID DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.87, 
+          20.4
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3523", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 76000000.0, 
+        "disbursementAmount": 48731773.15, 
+        "id": "39630-034", 
+        "info": "A Framework Financing Agreement (FFA) for Multitranche Financing Facility (MFF) of the Investment Program was signed on 29 February 2008 among ADB, India, and Power Grid Corporation of India Limited\u2026", 
+        "locationName": "Daman and Diu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL POWER GRID DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.03333, 
+          20.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3524", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 76000000.0, 
+        "disbursementAmount": 48731773.15, 
+        "id": "39630-034", 
+        "info": "A Framework Financing Agreement (FFA) for Multitranche Financing Facility (MFF) of the Investment Program was signed on 29 February 2008 among ADB, India, and Power Grid Corporation of India Limited\u2026", 
+        "locationName": "Union Territory of Dadra and Nagar Haveli", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL POWER GRID DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.87476, 
+          31.63661
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3525", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 76000000.0, 
+        "disbursementAmount": 48731773.15, 
+        "id": "39630-034", 
+        "info": "A Framework Financing Agreement (FFA) for Multitranche Financing Facility (MFF) of the Investment Program was signed on 29 February 2008 among ADB, India, and Power Grid Corporation of India Limited\u2026", 
+        "locationName": "Amritsar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL POWER GRID DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.77215, 
+          30.15927
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3526", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 76000000.0, 
+        "disbursementAmount": 48731773.15, 
+        "id": "39630-034", 
+        "info": "A Framework Financing Agreement (FFA) for Multitranche Financing Facility (MFF) of the Investment Program was signed on 29 February 2008 among ADB, India, and Power Grid Corporation of India Limited\u2026", 
+        "locationName": "Abdullahpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL POWER GRID DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 3"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

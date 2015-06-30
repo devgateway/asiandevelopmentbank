@@ -1,0 +1,871 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          25.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3047", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Shivpuri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.96431, 
+          22.23406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3048", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Harda", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          23.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3049", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Vidisha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.5, 
+          23.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3050", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Ujjain", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.0, 
+          24.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3051", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Tikamgarh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.25, 
+          23.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3052", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Shajapur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          23.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3053", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Sehore", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.0, 
+          24.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3054", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Satna", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.5, 
+          24.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3055", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Rewa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.16667, 
+          23.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3056", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Ratlam", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.75, 
+          23.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3057", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Rajgarh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.08333, 
+          23.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3058", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Raisen", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.16667, 
+          22.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3059", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Narsimhapur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.5, 
+          26.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3060", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Morena", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.25, 
+          24.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3061", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Mandsaur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          22.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3062", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Jhabua", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.95, 
+          23.16
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3063", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Jabalpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75, 
+          22.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3064", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Indore", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.5, 
+          22.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3065", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Hoshangabad", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.2, 
+          26.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3066", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Gwalior", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.5, 
+          24.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3067", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Guna", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.58333, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3068", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "East Nimar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.25, 
+          22.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3069", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Dhar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.16667, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3070", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Dewas", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.58333, 
+          23.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3071", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Damoh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.41667, 
+          23.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3072", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Bhopal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.75, 
+          26.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3073", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Bhind", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.83333, 
+          21.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3074", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Betul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.96163, 
+          24.04449
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3075", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Banda", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.18777, 
+          24.17139
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3076", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Bina", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.0, 
+          25.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3077", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Sheopur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.87, 
+          24.47
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3078", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Neemuch", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.61028, 
+          21.82306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3079", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Khargone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.91805, 
+          22.02485
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3080", 
+      "properties": {
+        "approvalDate": "2009-05-27", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 166000000.0, 
+        "disbursementAmount": 125036611.82, 
+        "id": "32298-063", 
+        "info": "ADB will provide support for the investment program in the form of a multitranche financing facility (MFF)", 
+        "locationName": "Barwani", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 5"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

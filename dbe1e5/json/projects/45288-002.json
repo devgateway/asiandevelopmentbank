@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          74.0, 
+          30.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4017", 
+      "properties": {
+        "approvalDate": "2014-11-28", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 50000000.0, 
+        "id": "45288-002", 
+        "info": "A policy-based loan of $200 million for the Punjab Development Finance Program that seeks to facilitate implementation of a comprehensive fiscal consolidation program in Punjab", 
+        "locationName": "Punjab", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "PUNJAB DEVELOPMENT FINANCE PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

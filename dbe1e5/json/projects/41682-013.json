@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          101.52893, 
+          13.77367
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1909", 
+      "properties": {
+        "approvalDate": "2010-06-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 77100000.0, 
+        "disbursementAmount": 50562028.71999999, 
+        "id": "41682-013", 
+        "info": "The Greater Mekong Subregion (GMS) Highway Expansion Project will upgrade 178 kilometers (km) of two-lane national highways to four-lane divided highway standard", 
+        "locationName": "Phanom Sarakham", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION HIGHWAY EXPANSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.20243, 
+          16.75496
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1910", 
+      "properties": {
+        "approvalDate": "2010-06-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 77100000.0, 
+        "disbursementAmount": 50562028.71999999, 
+        "id": "41682-013", 
+        "info": "The Greater Mekong Subregion (GMS) Highway Expansion Project will upgrade 178 kilometers (km) of two-lane national highways to four-lane divided highway standard", 
+        "locationName": "Lom Sak", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION HIGHWAY EXPANSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.43064, 
+          16.82333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1911", 
+      "properties": {
+        "approvalDate": "2010-06-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 77100000.0, 
+        "disbursementAmount": 50562028.71999999, 
+        "id": "41682-013", 
+        "info": "The Greater Mekong Subregion (GMS) Highway Expansion Project will upgrade 178 kilometers (km) of two-lane national highways to four-lane divided highway standard", 
+        "locationName": "Amphoe Wang Thong", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION HIGHWAY EXPANSION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.09198, 
+          13.76833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1912", 
+      "properties": {
+        "approvalDate": "2010-06-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 77100000.0, 
+        "disbursementAmount": 50562028.71999999, 
+        "id": "41682-013", 
+        "info": "The Greater Mekong Subregion (GMS) Highway Expansion Project will upgrade 178 kilometers (km) of two-lane national highways to four-lane divided highway standard", 
+        "locationName": "Sa Kaeo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION HIGHWAY EXPANSION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TH", 
+  "properties": {
+    "bounds": [
+      97.35140100100008, 
+      5.62989003500013, 
+      105.65099776200006, 
+      20.4450064090001
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-th.xml", 
+      "download_date": "2015-06-30 10:55:46", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:55"
+    }, 
+    "name": "Thailand"
+  }, 
+  "type": "FeatureCollection"
+}

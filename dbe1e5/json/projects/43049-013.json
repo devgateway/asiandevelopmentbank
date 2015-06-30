@@ -1,0 +1,921 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          102.44474, 
+          23.73385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7575", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Honghe Hani and Yi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.20159, 
+          24.97649
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7576", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Kunming", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          99.95536, 
+          26.76798
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7577", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Lijiang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.86482, 
+          25.39333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7578", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Qujing", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.61577, 
+          27.40352
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7579", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Zhaotong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          116.6071, 
+          33.20824
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7580", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Bozhou", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          115.66846, 
+          33.33266
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7581", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Fuyang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.2244, 
+          46.52319
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7582", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Daqing", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          127.70283, 
+          45.63737
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7583", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Harbin", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          131.85911, 
+          47.46615
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7584", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Hegang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.9677, 
+          49.34575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7585", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Heihe", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          130.62389, 
+          46.29557
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7586", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Jiamusi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          133.13466, 
+          45.93103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7587", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Jixi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          129.20375, 
+          44.06148
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7588", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Mudanjiang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.56451, 
+          47.65992
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7589", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Qiqihar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          133.61799, 
+          47.13028
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7590", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Shuangyashan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.63244, 
+          46.85859
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7591", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Suihua", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.90083, 
+          35.1525
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7592", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Jiaozuo", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.75861, 
+          34.51722
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7593", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Kaifeng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.23306, 
+          35.28306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7594", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Xinxiang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.01056, 
+          34.71528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7595", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Zhengzhou", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          98.46133, 
+          25.32508
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7596", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Baoshan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.20889, 
+          25.47819
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7597", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Chuxiong Yi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          99.95, 
+          26.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7598", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Dali Bai", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          98.37763, 
+          24.3824
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7599", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Dehong Dai and Jingpo", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.83259, 
+          45.57493
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7600", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Baicheng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.37, 
+          44.82389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7601", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Changchun", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.22861, 
+          43.55861
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7602", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Jilin", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.07456, 
+          42.92528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7603", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Liaoyuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.44722, 
+          43.38389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7604", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Siping", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.47944, 
+          45.12833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7605", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Songyuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.76806, 
+          42.4875
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7606", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Tonghua", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.09806, 
+          36.28975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7607", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Guyuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.51315, 
+          37.32829
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7608", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Wuzhong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.0893, 
+          38.27662
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7609", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Yinchuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.77593, 
+          37.49588
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7610", 
+      "properties": {
+        "approvalDate": "2012-12-05", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 17688519.41, 
+        "id": "43049-013", 
+        "info": "The impact of the project will be enhanced food security and increased farmers' income. The outcome will be increased agricultural productivity in the project area", 
+        "locationName": "Zhongwei", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMPREHENSIVE AGRICULTURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

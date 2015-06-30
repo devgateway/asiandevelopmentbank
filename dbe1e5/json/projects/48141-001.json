@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          178.0, 
+          -18.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6629", 
+      "properties": {
+        "approvalDate": "2014-12-12", 
+        "closingDate": "2020-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "48141-001", 
+        "info": "The project will have two outputs: (i) Rehabilitated and climate-resilient land and maritime transport infrastructure and (ii) Efficient project management support and institutional\u2026", 
+        "locationName": "Fiji", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "TRANSPORT INFRASTRUCTURE INVESTEMENT SECTOR"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "FJ", 
+  "properties": {
+    "bounds": [
+      165, 
+      -21.711114190999893, 
+      195, 
+      -12.475274346999882
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-fj.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "Fiji"
+  }, 
+  "type": "FeatureCollection"
+}

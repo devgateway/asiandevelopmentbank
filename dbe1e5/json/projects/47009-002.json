@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.61667, 
+          23.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7725", 
+      "properties": {
+        "approvalDate": "2015-03-19", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47009-002", 
+        "info": "The proposed project will improve the supply of skilled workers in Baise municipality in Guangxi Zhuang Autonomous Region (GZAR) to support the transformation of the local economy, meet the demands\u2026", 
+        "locationName": "Baise Shi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGXI BAISE VOCATIONAL EDUCATION DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-06-30 10:55:45", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-06-30 10:56:56"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}
