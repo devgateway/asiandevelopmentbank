@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          125.48972,
+          -8.56944
+        ],
+        "type": "Point"
+      },
+      "id": "8189",
+      "properties": {
+        "approvalDate": "2012-01-27",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 4779397.13,
+        "id": "45139-001",
+        "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026",
+        "locationName": "Tibar",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.45833,
+          -8.47111
+        ],
+        "type": "Point"
+      },
+      "id": "8190",
+      "properties": {
+        "approvalDate": "2012-01-27",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 4779397.13,
+        "id": "45139-001",
+        "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026",
+        "locationName": "Baucau",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.75,
+          -8.83333
+        ],
+        "type": "Point"
+      },
+      "id": "8191",
+      "properties": {
+        "approvalDate": "2012-01-27",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 4779397.13,
+        "id": "45139-001",
+        "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026",
+        "locationName": "East Timor",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.51667,
+          -8.55
+        ],
+        "type": "Point"
+      },
+      "id": "8192",
+      "properties": {
+        "approvalDate": "2012-01-27",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 4779397.13,
+        "id": "45139-001",
+        "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026",
+        "locationName": "Comoro",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TL",
+  "properties": {
+    "bounds": [
+      124.03003991000011,
+      -9.501227721999896,
+      127.31324303500011,
+      -8.135023695999834
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tl.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Timor-Leste"
+  },
+  "type": "FeatureCollection"
+}

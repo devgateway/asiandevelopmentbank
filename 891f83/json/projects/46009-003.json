@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.0,
+          13.75
+        ],
+        "type": "Point"
+      },
+      "id": "6523",
+      "properties": {
+        "approvalDate": "2014-04-23",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 6531554.08,
+        "id": "46009-003",
+        "info": "The project, using funds provided under an Additional Financing Loan, will assist the Royal Government of Cambodia (RGC) to meet urgent reconstruction priorities created by the 2013 flood, in\u2026",
+        "locationName": "Banteay Meanchey",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "FLOOD DAMAGE EMERGENCY RECONSTRUCTION PROJECT-ADDITIONAL FINANCIN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.08333,
+          12.91667
+        ],
+        "type": "Point"
+      },
+      "id": "6524",
+      "properties": {
+        "approvalDate": "2014-04-23",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 6531554.08,
+        "id": "46009-003",
+        "info": "The project, using funds provided under an Additional Financing Loan, will assist the Royal Government of Cambodia (RGC) to meet urgent reconstruction priorities created by the 2013 flood, in\u2026",
+        "locationName": "Battambang Province",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "FLOOD DAMAGE EMERGENCY RECONSTRUCTION PROJECT-ADDITIONAL FINANCIN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.25,
+          12.05
+        ],
+        "type": "Point"
+      },
+      "id": "6525",
+      "properties": {
+        "approvalDate": "2014-04-23",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 6531554.08,
+        "id": "46009-003",
+        "info": "The project, using funds provided under an Additional Financing Loan, will assist the Royal Government of Cambodia (RGC) to meet urgent reconstruction priorities created by the 2013 flood, in\u2026",
+        "locationName": "Kampong Cham",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "FLOOD DAMAGE EMERGENCY RECONSTRUCTION PROJECT-ADDITIONAL FINANCIN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          12.83333
+        ],
+        "type": "Point"
+      },
+      "id": "6526",
+      "properties": {
+        "approvalDate": "2014-04-23",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 6531554.08,
+        "id": "46009-003",
+        "info": "The project, using funds provided under an Additional Financing Loan, will assist the Royal Government of Cambodia (RGC) to meet urgent reconstruction priorities created by the 2013 flood, in\u2026",
+        "locationName": "Kampong Thom",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "FLOOD DAMAGE EMERGENCY RECONSTRUCTION PROJECT-ADDITIONAL FINANCIN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.5,
+          14.16667
+        ],
+        "type": "Point"
+      },
+      "id": "6527",
+      "properties": {
+        "approvalDate": "2014-04-23",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 6531554.08,
+        "id": "46009-003",
+        "info": "The project, using funds provided under an Additional Financing Loan, will assist the Royal Government of Cambodia (RGC) to meet urgent reconstruction priorities created by the 2013 flood, in\u2026",
+        "locationName": "\u014et\u00e2r M\u00e9anchey",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "FLOOD DAMAGE EMERGENCY RECONSTRUCTION PROJECT-ADDITIONAL FINANCIN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.0,
+          13.5
+        ],
+        "type": "Point"
+      },
+      "id": "6528",
+      "properties": {
+        "approvalDate": "2014-04-23",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 6531554.08,
+        "id": "46009-003",
+        "info": "The project, using funds provided under an Additional Financing Loan, will assist the Royal Government of Cambodia (RGC) to meet urgent reconstruction priorities created by the 2013 flood, in\u2026",
+        "locationName": "Siem Reap",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "FLOOD DAMAGE EMERGENCY RECONSTRUCTION PROJECT-ADDITIONAL FINANCIN"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KH",
+  "properties": {
+    "bounds": [
+      102.31342370600012,
+      10.415773620000081,
+      107.61051639900009,
+      14.704581605000087
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Cambodia"
+  },
+  "type": "FeatureCollection"
+}

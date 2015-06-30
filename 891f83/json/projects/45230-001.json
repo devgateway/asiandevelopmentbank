@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          45.0,
+          40.25
+        ],
+        "type": "Point"
+      },
+      "id": "1858",
+      "properties": {
+        "approvalDate": "2013-01-25",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 10048551.15,
+        "id": "45230-001",
+        "info": "The program comprises an integrated approach to enable women entrepreneurs and micro, small, and medium-sized enterprises (MSMEs) in Armenia to play a greater role in economic development",
+        "locationName": "Armenia",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "WOMEN'S ENTREPRENEURSHIP SUPPORT SECTOR DEVELOPMENT PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          45.0,
+          40.25
+        ],
+        "type": "Point"
+      },
+      "id": "1859",
+      "properties": {
+        "approvalDate": "2013-01-25",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 8009370.0,
+        "id": "45230-001",
+        "info": "The program comprises an integrated approach to enable women entrepreneurs and micro, small, and medium-sized enterprises (MSMEs) in Armenia to play a greater role in economic development",
+        "locationName": "Armenia",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "WOMEN'S ENTREPRENEURSHIP SUPPORT SECTOR DEVELOPMENT PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "AM",
+  "properties": {
+    "bounds": [
+      43.436293986000095,
+      38.86370127400009,
+      46.602612346000086,
+      41.29045237300015
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-am.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:43"
+    },
+    "name": "Armenia"
+  },
+  "type": "FeatureCollection"
+}

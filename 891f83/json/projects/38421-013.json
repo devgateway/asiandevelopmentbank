@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "6316",
+      "properties": {
+        "approvalDate": "2008-12-08",
+        "closingDate": "2009-04-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 21193566.05,
+        "id": "38421-013",
+        "info": "The PED Program will support the Government's private sector development agenda, including institutional capacity\u2026",
+        "locationName": "Cambodia",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Completion",
+        "title": "PROMOTING ECONOMIC DIVERSIFICATION PROGRAM - SP 1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KH",
+  "properties": {
+    "bounds": [
+      102.31342370600012,
+      10.415773620000081,
+      107.61051639900009,
+      14.704581605000087
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Cambodia"
+  },
+  "type": "FeatureCollection"
+}

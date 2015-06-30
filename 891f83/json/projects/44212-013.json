@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "5110",
+      "properties": {
+        "approvalDate": "2014-06-29",
+        "closingDate": "2020-12-31",
+        "commitmentAmount": 52000000.0,
+        "disbursementAmount": 3013993.28,
+        "id": "44212-013",
+        "info": "The project will strengthen climate resilience and disaster preparedness in eight vulnerable coastal pourashavas (secondary towns) of Bangladesh",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "COASTAL TOWNS ENVIRONMENTAL INFRASTRUCTURE PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

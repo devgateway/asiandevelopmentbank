@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          162.02554,
+          -10.50494
+        ],
+        "type": "Point"
+      },
+      "id": "4320",
+      "properties": {
+        "approvalDate": "2006-11-17",
+        "closingDate": "2013-10-18",
+        "commitmentAmount": 350000.0,
+        "disbursementAmount": 350000.0,
+        "id": "39581-012",
+        "info": "The Project is expected to increase economic growth and reduce poverty in the project area by (i) improving the accessibility of rural residents to markets, as well as economic and social services;\u2026",
+        "locationName": "Warihito",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          161.55918,
+          -10.29101
+        ],
+        "type": "Point"
+      },
+      "id": "4321",
+      "properties": {
+        "approvalDate": "2006-11-17",
+        "closingDate": "2013-10-18",
+        "commitmentAmount": 350000.0,
+        "disbursementAmount": 350000.0,
+        "id": "39581-012",
+        "info": "The Project is expected to increase economic growth and reduce poverty in the project area by (i) improving the accessibility of rural residents to markets, as well as economic and social services;\u2026",
+        "locationName": "Wainari'i",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          161.78517,
+          -10.55751
+        ],
+        "type": "Point"
+      },
+      "id": "4322",
+      "properties": {
+        "approvalDate": "2006-11-17",
+        "closingDate": "2013-10-18",
+        "commitmentAmount": 350000.0,
+        "disbursementAmount": 350000.0,
+        "id": "39581-012",
+        "info": "The Project is expected to increase economic growth and reduce poverty in the project area by (i) improving the accessibility of rural residents to markets, as well as economic and social services;\u2026",
+        "locationName": "Makira-Ulawa Province",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "SB",
+  "properties": {
+    "bounds": [
+      155.50798587300008,
+      -12.290622653999918,
+      168.8258569670002,
+      -6.599867445999806
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Solomon Islands"
+  },
+  "type": "FeatureCollection"
+}

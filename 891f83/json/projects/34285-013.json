@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          187.44928,
+          -13.77987
+        ],
+        "type": "Point"
+      },
+      "id": "4072",
+      "properties": {
+        "approvalDate": "2006-06-05",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 8060000.0,
+        "disbursementAmount": 7671846.25,
+        "id": "34285-013",
+        "info": "The objective of the Project is to establish an equitable and effective education system that will enhance learning outcomes of young people for further study, work and adult life",
+        "locationName": "Fagaloa",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "EDUCATION SECTOR PROJECT II"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "WS",
+  "properties": {
+    "bounds": [
+      187.21741783900012,
+      -14.05282968499999,
+      188.56230716200008,
+      -13.46282317499994
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ws.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Samoa"
+  },
+  "type": "FeatureCollection"
+}

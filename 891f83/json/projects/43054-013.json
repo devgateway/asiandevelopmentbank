@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.2,
+          39.13333
+        ],
+        "type": "Point"
+      },
+      "id": "7497",
+      "properties": {
+        "approvalDate": "2012-03-06",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 34924552.15,
+        "id": "43054-013",
+        "info": "The project will support the Tianjin municipal government (TMG) to implement green growth demonstration activities in the coastal areas surrounding the Hai River estuary that will contribute to a\u2026",
+        "locationName": "Tianjin Shi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "HAI RIVER ESTUARY AREA POLLUTION CONTROL & ECOSYSTEM REHAB PRJ"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          117.71667,
+          38.95
+        ],
+        "type": "Point"
+      },
+      "id": "7498",
+      "properties": {
+        "approvalDate": "2012-03-06",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 34924552.15,
+        "id": "43054-013",
+        "info": "The project will support the Tianjin municipal government (TMG) to implement green growth demonstration activities in the coastal areas surrounding the Hai River estuary that will contribute to a\u2026",
+        "locationName": "Hai He",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "HAI RIVER ESTUARY AREA POLLUTION CONTROL & ECOSYSTEM REHAB PRJ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

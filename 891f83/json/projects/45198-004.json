@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.47403,
+          15.57364
+        ],
+        "type": "Point"
+      },
+      "id": "1401",
+      "properties": {
+        "approvalDate": "2013-11-08",
+        "closingDate": "2019-07-31",
+        "commitmentAmount": 95000000.0,
+        "disbursementAmount": 300537.67,
+        "id": "45198-004",
+        "info": "The Secondar Cities Development Project in Ha Tiinh, Tam Ky and Buon Ma Thuot, focusses on flood risk reduction, urban environment improvement and provides project management and capacity building\u2026",
+        "locationName": "Tam Ky",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECONDARYCITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.9057,
+          18.34282
+        ],
+        "type": "Point"
+      },
+      "id": "1402",
+      "properties": {
+        "approvalDate": "2013-11-08",
+        "closingDate": "2019-07-31",
+        "commitmentAmount": 95000000.0,
+        "disbursementAmount": 300537.67,
+        "id": "45198-004",
+        "info": "The Secondar Cities Development Project in Ha Tiinh, Tam Ky and Buon Ma Thuot, focusses on flood risk reduction, urban environment improvement and provides project management and capacity building\u2026",
+        "locationName": "Ha Tinh",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECONDARYCITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.03775,
+          12.66747
+        ],
+        "type": "Point"
+      },
+      "id": "1403",
+      "properties": {
+        "approvalDate": "2013-11-08",
+        "closingDate": "2019-07-31",
+        "commitmentAmount": 95000000.0,
+        "disbursementAmount": 300537.67,
+        "id": "45198-004",
+        "info": "The Secondar Cities Development Project in Ha Tiinh, Tam Ky and Buon Ma Thuot, focusses on flood risk reduction, urban environment improvement and provides project management and capacity building\u2026",
+        "locationName": "Buon Ma Thuot",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECONDARYCITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:43"
+    },
+    "name": "Vietnam"
+  },
+  "type": "FeatureCollection"
+}

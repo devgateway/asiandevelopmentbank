@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "4714",
+      "properties": {
+        "approvalDate": "2008-10-21",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 83000000.0,
+        "disbursementAmount": 81644060.7,
+        "id": "40517-013",
+        "info": "The Public-Private Infrastructure Development Facility (PPIDF) includes and $82 million loan from ADB's ordinary capital resources (OCR), an $83 million equivalent loan from ADB's special funds\u2026",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "4715",
+      "properties": {
+        "approvalDate": "2008-10-21",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 82000000.0,
+        "disbursementAmount": 82000000.0,
+        "id": "40517-013",
+        "info": "The Public-Private Infrastructure Development Facility (PPIDF) includes and $82 million loan from ADB's ordinary capital resources (OCR), an $83 million equivalent loan from ADB's special funds\u2026",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

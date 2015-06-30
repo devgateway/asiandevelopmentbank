@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          85.3206,
+          27.70169
+        ],
+        "type": "Point"
+      },
+      "id": "2361",
+      "properties": {
+        "approvalDate": "2010-10-26",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 1623954.42,
+        "id": "44058-013",
+        "info": "The project will improve the quality of urban life in the capital city of Nepal by delivering a more efficient, safe, and sustainable urban transport system (UTS),2 favoring local economic growth and\u2026",
+        "locationName": "Kathmandu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "KATHMANDU SUSTAINABLE URBAN TRANSPORT PROJECT (SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "NP",
+  "properties": {
+    "bounds": [
+      80.03028772000005,
+      26.343767802000087,
+      88.1690674240001,
+      30.416904195000086
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Nepal"
+  },
+  "type": "FeatureCollection"
+}

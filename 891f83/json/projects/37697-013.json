@@ -1,0 +1,196 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          100.71806,
+          46.19444
+        ],
+        "type": "Point"
+      },
+      "id": "4366",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Bayanhongor",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          113.27917,
+          46.68056
+        ],
+        "type": "Point"
+      },
+      "id": "4367",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Baruun-Urt",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.775,
+          46.26389
+        ],
+        "type": "Point"
+      },
+      "id": "4368",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Arvayheer",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          96.25833,
+          46.37222
+        ],
+        "type": "Point"
+      },
+      "id": "4369",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Altai",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324,
+          47.90771
+        ],
+        "type": "Point"
+      },
+      "id": "4370",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Ulan Bator",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.08333,
+          49.03333
+        ],
+        "type": "Point"
+      },
+      "id": "4371",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Erdenet",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.53472,
+          48.8125
+        ],
+        "type": "Point"
+      },
+      "id": "4372",
+      "properties": {
+        "approvalDate": "2007-08-27",
+        "closingDate": "2015-07-01",
+        "commitmentAmount": 35230000.0,
+        "disbursementAmount": 32669163.33,
+        "id": "37697-013",
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026",
+        "locationName": "Bulgan",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "MN",
+  "properties": {
+    "bounds": [
+      87.73570886300013,
+      41.58614491800003,
+      119.90702681500011,
+      52.129584046000076
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Mongolia"
+  },
+  "type": "FeatureCollection"
+}

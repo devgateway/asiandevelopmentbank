@@ -1,0 +1,296 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.51529,
+          12.78609
+        ],
+        "type": "Point"
+      },
+      "id": "1297",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Huyen Ea Kar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.58333,
+          16.33333
+        ],
+        "type": "Point"
+      },
+      "id": "1298",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Tinh Thua Thien-Hue",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.0,
+          16.75
+        ],
+        "type": "Point"
+      },
+      "id": "1299",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Tinh Quang Tri",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.10031,
+          16.81625
+        ],
+        "type": "Point"
+      },
+      "id": "1300",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Dong Ha",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.22083,
+          16.06778
+        ],
+        "type": "Point"
+      },
+      "id": "1301",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Da Nang",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.25,
+          12.75
+        ],
+        "type": "Point"
+      },
+      "id": "1302",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Tinh Dak Lak",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.03775,
+          12.66747
+        ],
+        "type": "Point"
+      },
+      "id": "1303",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Buon Ma Thuot",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.7387,
+          12.90396
+        ],
+        "type": "Point"
+      },
+      "id": "1304",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Huyen Buon Don",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.66667,
+          11.16667
+        ],
+        "type": "Point"
+      },
+      "id": "1305",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Tinh Binh Duong",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.66349,
+          10.99721
+        ],
+        "type": "Point"
+      },
+      "id": "1306",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Thi Xa Thu Dau Mot",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.41667,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "1307",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 212000000.0,
+        "disbursementAmount": 547948.78,
+        "id": "41456-033",
+        "info": "The project will provide sustainable provision of safe water in Binh Duong Province, Dak Lak Province, Da Nang City, Hai Phong City, Thua Thien Hue Province, Quang Tri Province",
+        "locationName": "Huyen Krong Nang",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:WATER SECTOR INVESTMENT PROGRAM-TRANCHE 2"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:43"
+    },
+    "name": "Vietnam"
+  },
+  "type": "FeatureCollection"
+}

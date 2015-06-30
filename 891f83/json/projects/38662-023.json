@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          110.915,
+          34.52611
+        ],
+        "type": "Point"
+      },
+      "id": "7052",
+      "properties": {
+        "approvalDate": "2008-05-19",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 66700000.0,
+        "disbursementAmount": 56992568.45,
+        "id": "38662-023",
+        "info": "The Henan Sustainable Agriculture and Productivity Improvement Project (the Project) will cover 30 townships, 215 villages, and about 249,660 farmers from 66,200 households in Sanmenxia\u2026",
+        "locationName": "Sanmenxia Shi",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "HENAN SUSTAINABLE AGRICULTURAL AND PRODUCTIVITY IMPROVEMENT PROJ"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          79.44686,
+          29.39743
+        ],
+        "type": "Point"
+      },
+      "id": "2868",
+      "properties": {
+        "approvalDate": "2008-10-23",
+        "closingDate": "2016-01-25",
+        "commitmentAmount": 60000000.0,
+        "disbursementAmount": 38258473.330000006,
+        "id": "38272-023",
+        "info": "The Investment Program aims to provide critically needed urban infrastructure and services",
+        "locationName": "Nainital",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.16025,
+          29.94791
+        ],
+        "type": "Point"
+      },
+      "id": "2869",
+      "properties": {
+        "approvalDate": "2008-10-23",
+        "closingDate": "2016-01-25",
+        "commitmentAmount": 60000000.0,
+        "disbursementAmount": 38258473.330000006,
+        "id": "38272-023",
+        "info": "The Investment Program aims to provide critically needed urban infrastructure and services",
+        "locationName": "Haridwar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.03392,
+          30.32443
+        ],
+        "type": "Point"
+      },
+      "id": "2870",
+      "properties": {
+        "approvalDate": "2008-10-23",
+        "closingDate": "2016-01-25",
+        "commitmentAmount": 60000000.0,
+        "disbursementAmount": 38258473.330000006,
+        "id": "38272-023",
+        "info": "The Investment Program aims to provide critically needed urban infrastructure and services",
+        "locationName": "Dehradun",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

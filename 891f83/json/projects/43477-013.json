@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "5039",
+      "properties": {
+        "approvalDate": "2012-11-29",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 95000000.0,
+        "disbursementAmount": 95000000.0,
+        "id": "43477-013",
+        "info": "The program's impact will be a well functioning financial system that supports basic capital and investment needs, as well as Bangladesh's longer-term economic objectives",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "5040",
+      "properties": {
+        "approvalDate": "2012-11-29",
+        "closingDate": "2015-03-31",
+        "commitmentAmount": 155000000.0,
+        "disbursementAmount": 150251447.04999998,
+        "id": "43477-013",
+        "info": "The program's impact will be a well functioning financial system that supports basic capital and investment needs, as well as Bangladesh's longer-term economic objectives",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "5041",
+      "properties": {
+        "approvalDate": "2012-11-29",
+        "closingDate": "2015-03-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 49525934.16,
+        "id": "43477-013",
+        "info": "The program's impact will be a well functioning financial system that supports basic capital and investment needs, as well as Bangladesh's longer-term economic objectives",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          72.05924,
+          40.22881
+        ],
+        "type": "Point"
+      },
+      "id": "4163",
+      "properties": {
+        "approvalDate": "2012-09-12",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 1051961.79,
+        "id": "44198-013",
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026",
+        "locationName": "Uch-Korgon",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "POWER SECTOR REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.17887,
+          41.2006
+        ],
+        "type": "Point"
+      },
+      "id": "4164",
+      "properties": {
+        "approvalDate": "2012-09-12",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 1051961.79,
+        "id": "44198-013",
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026",
+        "locationName": "Shamaldy-Say",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "POWER SECTOR REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402,
+          41.87079
+        ],
+        "type": "Point"
+      },
+      "id": "4165",
+      "properties": {
+        "approvalDate": "2012-09-12",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 1051961.79,
+        "id": "44198-013",
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026",
+        "locationName": "Toktogul",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "POWER SECTOR REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KG",
+  "properties": {
+    "bounds": [
+      69.22629602000012,
+      39.189236959000084,
+      80.2575606690001,
+      43.261701558000084
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Kyrgyz Republic"
+  },
+  "type": "FeatureCollection"
+}

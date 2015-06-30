@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          70.0,
+          30.0
+        ],
+        "type": "Point"
+      },
+      "id": "5777",
+      "properties": {
+        "approvalDate": "2015-01-27",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 0.0,
+        "id": "48031-001",
+        "info": "The project will strengthen the Government of Pakistan\u2019s capacity to privatize and restructure its designated public sector enterprises (PSEs) by (i) strengthening the privatization program; (ii)\u2026",
+        "locationName": "Pakistan",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Implementation",
+        "title": "PUBLIC SECTOR ENTERPRISE REFORMS PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PK",
+  "properties": {
+    "bounds": [
+      60.8443787030001,
+      23.694525458000058,
+      77.0489709880002,
+      37.054483541000096
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Pakistan"
+  },
+  "type": "FeatureCollection"
+}

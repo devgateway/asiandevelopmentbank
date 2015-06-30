@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          157.19978,
+          -8.22274
+        ],
+        "type": "Point"
+      },
+      "id": "4297",
+      "properties": {
+        "approvalDate": "2012-11-14",
+        "closingDate": "2018-04-30",
+        "commitmentAmount": 10500000.0,
+        "disbursementAmount": 0.0,
+        "id": "44382-022",
+        "info": "Under the proposed project, the Asian Development Bank  will support the development and operation of a submarine fiber optic communication cable system (SCS), linking Solomon Islands to an existing\u2026",
+        "locationName": "Noro",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "BROADBAND FOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.95,
+          -9.43333
+        ],
+        "type": "Point"
+      },
+      "id": "4298",
+      "properties": {
+        "approvalDate": "2012-11-14",
+        "closingDate": "2018-04-30",
+        "commitmentAmount": 10500000.0,
+        "disbursementAmount": 0.0,
+        "id": "44382-022",
+        "info": "Under the proposed project, the Asian Development Bank  will support the development and operation of a submarine fiber optic communication cable system (SCS), linking Solomon Islands to an existing\u2026",
+        "locationName": "Honiara",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "BROADBAND FOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          160.70335,
+          -8.76761
+        ],
+        "type": "Point"
+      },
+      "id": "4299",
+      "properties": {
+        "approvalDate": "2012-11-14",
+        "closingDate": "2018-04-30",
+        "commitmentAmount": 10500000.0,
+        "disbursementAmount": 0.0,
+        "id": "44382-022",
+        "info": "Under the proposed project, the Asian Development Bank  will support the development and operation of a submarine fiber optic communication cable system (SCS), linking Solomon Islands to an existing\u2026",
+        "locationName": "Auki",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "BROADBAND FOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          157.19978,
+          -8.22274
+        ],
+        "type": "Point"
+      },
+      "id": "4300",
+      "properties": {
+        "approvalDate": "2012-11-14",
+        "closingDate": "2018-04-30",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 0.0,
+        "id": "44382-022",
+        "info": "Under the proposed project, the Asian Development Bank  will support the development and operation of a submarine fiber optic communication cable system (SCS), linking Solomon Islands to an existing\u2026",
+        "locationName": "Noro",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "BROADBAND FOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.95,
+          -9.43333
+        ],
+        "type": "Point"
+      },
+      "id": "4301",
+      "properties": {
+        "approvalDate": "2012-11-14",
+        "closingDate": "2018-04-30",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 0.0,
+        "id": "44382-022",
+        "info": "Under the proposed project, the Asian Development Bank  will support the development and operation of a submarine fiber optic communication cable system (SCS), linking Solomon Islands to an existing\u2026",
+        "locationName": "Honiara",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "BROADBAND FOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          160.70335,
+          -8.76761
+        ],
+        "type": "Point"
+      },
+      "id": "4302",
+      "properties": {
+        "approvalDate": "2012-11-14",
+        "closingDate": "2018-04-30",
+        "commitmentAmount": 7500000.0,
+        "disbursementAmount": 0.0,
+        "id": "44382-022",
+        "info": "Under the proposed project, the Asian Development Bank  will support the development and operation of a submarine fiber optic communication cable system (SCS), linking Solomon Islands to an existing\u2026",
+        "locationName": "Auki",
+        "sectors": [
+          "Information and communication technology"
+        ],
+        "status": "Implementation",
+        "title": "BROADBAND FOR DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "SB",
+  "properties": {
+    "bounds": [
+      155.50798587300008,
+      -12.290622653999918,
+      168.8258569670002,
+      -6.599867445999806
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Solomon Islands"
+  },
+  "type": "FeatureCollection"
+}

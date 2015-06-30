@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          76.94924,
+          8.4855
+        ],
+        "type": "Point"
+      },
+      "id": "2694",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 104514019.38,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Thiruvananthapuram",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.21667,
+          10.51667
+        ],
+        "type": "Point"
+      },
+      "id": "2695",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 104514019.38,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Thrissur",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.58469,
+          8.88113
+        ],
+        "type": "Point"
+      },
+      "id": "2696",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 104514019.38,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Kollam",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.7804,
+          11.24802
+        ],
+        "type": "Point"
+      },
+      "id": "2697",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 104514019.38,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Kozhikode",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.26022,
+          9.93988
+        ],
+        "type": "Point"
+      },
+      "id": "2698",
+      "properties": {
+        "approvalDate": "2006-12-08",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 221200000.0,
+        "disbursementAmount": 104514019.38,
+        "id": "32300-013",
+        "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities",
+        "locationName": "Kochi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "Kerala Sustainable Urban Development Project"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

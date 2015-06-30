@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          129.51667,
+          42.88333
+        ],
+        "type": "Point"
+      },
+      "id": "7043",
+      "properties": {
+        "approvalDate": "2008-02-26",
+        "closingDate": "2013-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 94800955.36,
+        "id": "40050-013",
+        "info": "The Project will enhance the urban environment and improve public health and quality of life for urban residents in the cities of Changchun, and Yanji, by increasing wastewater coverage, enhancing\u2026",
+        "locationName": "Yanji Shi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "JILIN URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.32278,
+          43.88
+        ],
+        "type": "Point"
+      },
+      "id": "7044",
+      "properties": {
+        "approvalDate": "2008-02-26",
+        "closingDate": "2013-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 94800955.36,
+        "id": "40050-013",
+        "info": "The Project will enhance the urban environment and improve public health and quality of life for urban residents in the cities of Changchun, and Yanji, by increasing wastewater coverage, enhancing\u2026",
+        "locationName": "Changchun",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "JILIN URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

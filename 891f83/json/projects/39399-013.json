@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          83.27714,
+          27.48619
+        ],
+        "type": "Point"
+      },
+      "id": "2319",
+      "properties": {
+        "approvalDate": "2010-05-25",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 12750000.0,
+        "disbursementAmount": 1440473.38,
+        "id": "39399-013",
+        "info": "The Project will develop and improve tourism-related infrastructure in Nepal, India, and Bangladesh",
+        "locationName": "Lumbini",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEV'T PROJ(BAN/IND/NEP)-NEPAL"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.41625,
+          27.5057
+        ],
+        "type": "Point"
+      },
+      "id": "2320",
+      "properties": {
+        "approvalDate": "2010-05-25",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 12750000.0,
+        "disbursementAmount": 1440473.38,
+        "id": "39399-013",
+        "info": "The Project will develop and improve tourism-related infrastructure in Nepal, India, and Bangladesh",
+        "locationName": "Bhairahawa",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEV'T PROJ(BAN/IND/NEP)-NEPAL"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "NP",
+  "properties": {
+    "bounds": [
+      80.03028772000005,
+      26.343767802000087,
+      88.1690674240001,
+      30.416904195000086
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Nepal"
+  },
+  "type": "FeatureCollection"
+}

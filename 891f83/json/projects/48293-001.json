@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          160.2,
+          -9.63333
+        ],
+        "type": "Point"
+      },
+      "id": "4317",
+      "properties": {
+        "approvalDate": "2014-09-11",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 6610000.0,
+        "disbursementAmount": 0.0,
+        "id": "48293-001",
+        "info": "The project will have one output: transport infrastructure in priority locations reconstructed, and climate- and disaster-proofed",
+        "locationName": "Guadalcanal Province",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "TRANSPORT SECTOR FLOOD RECOVERY PROJECT(SF)(ADF-DRF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.96667,
+          -9.44167
+        ],
+        "type": "Point"
+      },
+      "id": "4318",
+      "properties": {
+        "approvalDate": "2014-09-11",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 6610000.0,
+        "disbursementAmount": 0.0,
+        "id": "48293-001",
+        "info": "The project will have one output: transport infrastructure in priority locations reconstructed, and climate- and disaster-proofed",
+        "locationName": "Honiara",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "TRANSPORT SECTOR FLOOD RECOVERY PROJECT(SF)(ADF-DRF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.0,
+          -8.0
+        ],
+        "type": "Point"
+      },
+      "id": "4319",
+      "properties": {
+        "approvalDate": "2014-09-11",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 6610000.0,
+        "disbursementAmount": 0.0,
+        "id": "48293-001",
+        "info": "The project will have one output: transport infrastructure in priority locations reconstructed, and climate- and disaster-proofed",
+        "locationName": "Solomon Islands",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "TRANSPORT SECTOR FLOOD RECOVERY PROJECT(SF)(ADF-DRF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "SB",
+  "properties": {
+    "bounds": [
+      155.50798587300008,
+      -12.290622653999918,
+      168.8258569670002,
+      -6.599867445999806
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "Solomon Islands"
+  },
+  "type": "FeatureCollection"
+}

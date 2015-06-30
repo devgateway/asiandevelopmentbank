@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.17023,
+          36.54696
+        ],
+        "type": "Point"
+      },
+      "id": "7053",
+      "properties": {
+        "approvalDate": "2008-06-26",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 80000000.0,
+        "disbursementAmount": 80000000.0,
+        "id": "40051-013",
+        "info": "The impact of the Project will be sustained urban development and improved quality of life of Baiyin people",
+        "locationName": "Baiyin",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "GANSU BAIYIN URBAN DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:44"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

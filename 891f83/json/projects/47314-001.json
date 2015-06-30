@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          172.984,
+          1.421
+        ],
+        "type": "Point"
+      },
+      "id": "1896",
+      "properties": {
+        "approvalDate": "2014-12-04",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 3000000.0,
+        "disbursementAmount": 3000000.0,
+        "id": "47314-001",
+        "info": "The objective of the program is to achieve macroeconomic stability in the long run through stabilization of Revenue Equalization Revolving Fund s real value, a gradual current fiscal deficit\u2026",
+        "locationName": "Kiribati",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Completion",
+        "title": "STRENGTHENING FISCAL STABILITY PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KI",
+  "properties": {
+    "bounds": [
+      165,
+      -11.46111419099988,
+      195,
+      4.723089911000102
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ki.xml",
+      "download_date": "2015-06-30 17:45:25",
+      "quarter": "Q3 2015",
+      "run_date": "2015-06-30 17:45:43"
+    },
+    "name": "Kiribati"
+  },
+  "type": "FeatureCollection"
+}
