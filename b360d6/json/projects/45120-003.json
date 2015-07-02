@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          66.58333,
+          39.58333
+        ],
+        "type": "Point"
+      },
+      "id": "5324",
+      "properties": {
+        "approvalDate": "2013-11-21",
+        "closingDate": "2019-09-30",
+        "commitmentAmount": 101100000.0,
+        "disbursementAmount": 0.0,
+        "id": "45120-003",
+        "info": "The proposed Samarkand Solar Power Project (the Project) aims to increase renewable energy generation and reduce greenhouse gas emissions (GHG) in Uzbekistan",
+        "locationName": "Samarqand Viloyati",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SAMARKAND SOLAR POWER PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          66.58333,
+          39.58333
+        ],
+        "type": "Point"
+      },
+      "id": "5325",
+      "properties": {
+        "approvalDate": "2013-11-21",
+        "closingDate": "2019-09-30",
+        "commitmentAmount": 8900000.0,
+        "disbursementAmount": 0.0,
+        "id": "45120-003",
+        "info": "The proposed Samarkand Solar Power Project (the Project) aims to increase renewable energy generation and reduce greenhouse gas emissions (GHG) in Uzbekistan",
+        "locationName": "Samarqand Viloyati",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "SAMARKAND SOLAR POWER PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "UZ",
+  "properties": {
+    "bounds": [
+      55.975838663000076,
+      37.18514740000002,
+      73.14864058400016,
+      45.55871897400006
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "Uzbekistan"
+  },
+  "type": "FeatureCollection"
+}

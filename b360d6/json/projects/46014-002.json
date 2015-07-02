@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          160.68569,
+          -8.71109
+        ],
+        "type": "Point"
+      },
+      "id": "4312",
+      "properties": {
+        "approvalDate": "2014-06-16",
+        "closingDate": "2022-03-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46014-002",
+        "info": "The impact of the Project will be improved economic conditions in provincial centers. The outcome of the Project will be an increased supply of reliable, cleaner power to provincial centers by SIEA",
+        "locationName": "Fiu",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "PROVINCIAL RENEWABLE ENERGY PROJECT(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.0,
+          -8.0
+        ],
+        "type": "Point"
+      },
+      "id": "4313",
+      "properties": {
+        "approvalDate": "2014-06-16",
+        "closingDate": "2022-03-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46014-002",
+        "info": "The impact of the Project will be improved economic conditions in provincial centers. The outcome of the Project will be an increased supply of reliable, cleaner power to provincial centers by SIEA",
+        "locationName": "Solomon Islands",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "PROVINCIAL RENEWABLE ENERGY PROJECT(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          160.70335,
+          -8.76761
+        ],
+        "type": "Point"
+      },
+      "id": "4314",
+      "properties": {
+        "approvalDate": "2014-06-16",
+        "closingDate": "2022-03-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46014-002",
+        "info": "The impact of the Project will be improved economic conditions in provincial centers. The outcome of the Project will be an increased supply of reliable, cleaner power to provincial centers by SIEA",
+        "locationName": "Auki",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "PROVINCIAL RENEWABLE ENERGY PROJECT(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          160.68569,
+          -8.71109
+        ],
+        "type": "Point"
+      },
+      "id": "4315",
+      "properties": {
+        "approvalDate": "2014-06-16",
+        "closingDate": "2022-03-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46014-002",
+        "info": "The impact of the Project will be improved economic conditions in provincial centers. The outcome of the Project will be an increased supply of reliable, cleaner power to provincial centers by SIEA",
+        "locationName": "Fiu",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "PROVINCIAL RENEWABLE ENERGY PROJECT(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.0,
+          -8.0
+        ],
+        "type": "Point"
+      },
+      "id": "4316",
+      "properties": {
+        "approvalDate": "2014-06-16",
+        "closingDate": "2022-03-31",
+        "commitmentAmount": 6000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46014-002",
+        "info": "The impact of the Project will be improved economic conditions in provincial centers. The outcome of the Project will be an increased supply of reliable, cleaner power to provincial centers by SIEA",
+        "locationName": "Solomon Islands",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "PROVINCIAL RENEWABLE ENERGY PROJECT(SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "SB",
+  "properties": {
+    "bounds": [
+      155.50798587300008,
+      -12.290622653999918,
+      168.8258569670002,
+      -6.599867445999806
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "Solomon Islands"
+  },
+  "type": "FeatureCollection"
+}

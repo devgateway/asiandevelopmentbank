@@ -1,0 +1,4146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4112", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4113", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4114", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4115", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-10-14", 
+        "commitmentAmount": 8629186.89, 
+        "disbursementAmount": 8159574.4, 
+        "id": "31197-032", 
+        "info": "The Community Based Infrastructure Services Sector Project  (the initial Project) follows a sector lending approach and supports the main objective of the Government of Kyrgyz Republic (Government)\u2026", 
+        "locationName": "Chuyskaya Oblast'", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COMMUNITY-BASED INFRASTRUCTURE SERVICES SECTOR PRO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.18709, 
+          42.46017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4116", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Balykchy", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.30149, 
+          42.84194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4117", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Tokmok", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.99111, 
+          41.42866
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4118", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75659, 
+          42.21552
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4119", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kochkor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.3326, 
+          42.83349
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4120", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kemin", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.33333, 
+          42.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4121", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Chuyskiy Rayon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4122", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.81058, 
+          41.17017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4123", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "At-Bashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.63333, 
+          42.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4124", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Alamedinskiy Rayon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.17805, 
+          42.59496
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4125", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Issyk - Kulskaya", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.27108, 
+          41.56807
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4126", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Tien Shan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.964, 
+          42.636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4127", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Ysyk-Ata", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.31115, 
+          40.55103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4128", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Torugart", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.57973, 
+          42.09757
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4129", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Tong", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75, 
+          42.21667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4130", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kochkor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.8, 
+          41.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4131", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2013-03-11", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "At-Bashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4132", 
+      "properties": {
+        "approvalDate": "2009-08-05", 
+        "closingDate": "2015-03-01", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 21998320.73, 
+        "id": "42399-013", 
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.81058, 
+          41.17017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4133", 
+      "properties": {
+        "approvalDate": "2009-08-05", 
+        "closingDate": "2015-03-01", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 21998320.73, 
+        "id": "42399-013", 
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I", 
+        "locationName": "At-Bashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.18709, 
+          42.46017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4134", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 13500000.0, 
+        "disbursementAmount": 8399479.61, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Balykchy", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4135", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 13500000.0, 
+        "disbursementAmount": 8399479.61, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Issyk Kul", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.39362, 
+          42.49068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4136", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 13500000.0, 
+        "disbursementAmount": 8399479.61, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Karakol", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.08225, 
+          42.64944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4137", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 13500000.0, 
+        "disbursementAmount": 8399479.61, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Cholpon-Ata", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.74586, 
+          41.0376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4138", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2016-03-22", 
+        "commitmentAmount": 51500000.0, 
+        "disbursementAmount": 50418673.05, 
+        "id": "44236-013", 
+        "info": "The Emergency Assistance for Recovery and Reconstruction (EARR) will (i) rebuild damaged houses and improve essential public and community infrastructure, and (ii) restore the country s immediate\u2026", 
+        "locationName": "Bazar-Korgon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "EMERGENCY ASSISTANCE FOR RECOVERY AND RECONSTRUCTI"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4139", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 28100000.0, 
+        "disbursementAmount": 10957502.629999999, 
+        "id": "43456-023", 
+        "info": "While the entire power sector needs modernization, the Government places highest priority on loss reduction and strengthening governance", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4140", 
+      "properties": {
+        "approvalDate": "2009-08-05", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 28000000.0, 
+        "disbursementAmount": 27793072.89, 
+        "id": "42399-013", 
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.81058, 
+          41.17017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4141", 
+      "properties": {
+        "approvalDate": "2009-08-05", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 28000000.0, 
+        "disbursementAmount": 27793072.89, 
+        "id": "42399-013", 
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I", 
+        "locationName": "At-Bashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.18709, 
+          42.46017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4142", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 16500000.0, 
+        "disbursementAmount": 5453986.529999999, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Balykchy", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4143", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 16500000.0, 
+        "disbursementAmount": 5453986.529999999, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Issyk Kul", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.39362, 
+          42.49068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4144", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 16500000.0, 
+        "disbursementAmount": 5453986.529999999, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Karakol", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.08225, 
+          42.64944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4145", 
+      "properties": {
+        "approvalDate": "2009-11-05", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 16500000.0, 
+        "disbursementAmount": 5453986.529999999, 
+        "id": "41548-013", 
+        "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
+        "locationName": "Cholpon-Ata", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.24836, 
+          39.72883
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4146", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Sary-Tash", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.20518, 
+          39.55274
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4147", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Daroot-Korgon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4148", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.79254, 
+          39.48564
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4149", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Karamyk", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.7661, 
+          39.92356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4150", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Sary-Mogol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.55941, 
+          39.85862
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4151", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Alay District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.2001, 
+          39.552
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4152", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Chong-Alay", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.74586, 
+          41.0376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4153", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2016-03-22", 
+        "commitmentAmount": 48500000.0, 
+        "disbursementAmount": 30892368.14, 
+        "id": "44236-013", 
+        "info": "The Emergency Assistance for Recovery and Reconstruction (EARR) will (i) rebuild damaged houses and improve essential public and community infrastructure, and (ii) restore the country s immediate\u2026", 
+        "locationName": "Bazar-Korgon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "EMERGENCY ASSISTANCE FOR RECOVERY AND RECONSTRUCTION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4154", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 16700000.0, 
+        "disbursementAmount": 6232465.26, 
+        "id": "43456-023", 
+        "info": "While the entire power sector needs modernization, the Government places highest priority on loss reduction and strengthening governance", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.0, 
+          41.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4155", 
+      "properties": {
+        "approvalDate": "2011-09-19", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 55000000.0, 
+        "disbursementAmount": 35452192.449999996, 
+        "id": "42399-023", 
+        "info": "The CAREC Corridor 1 (Bishkek-Torugart Road) Project 3 (the project) will help the government improve the 60-km section from At Beit to Torugart at the People's Republic of China (PRC) border", 
+        "locationName": "At-Bashinskiy Rayon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.81058, 
+          41.17017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4156", 
+      "properties": {
+        "approvalDate": "2011-09-19", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 55000000.0, 
+        "disbursementAmount": 35452192.449999996, 
+        "id": "42399-023", 
+        "info": "The CAREC Corridor 1 (Bishkek-Torugart Road) Project 3 (the project) will help the government improve the 60-km section from At Beit to Torugart at the People's Republic of China (PRC) border", 
+        "locationName": "At-Bashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.31115, 
+          40.55103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4157", 
+      "properties": {
+        "approvalDate": "2011-09-19", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 55000000.0, 
+        "disbursementAmount": 35452192.449999996, 
+        "id": "42399-023", 
+        "info": "The CAREC Corridor 1 (Bishkek-Torugart Road) Project 3 (the project) will help the government improve the 60-km section from At Beit to Torugart at the People's Republic of China (PRC) border", 
+        "locationName": "Torugart", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.05924, 
+          40.22881
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4158", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 225054.3, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Uch-Korgon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.17887, 
+          41.2006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4159", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 225054.3, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Shamaldy-Say", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402, 
+          41.87079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4160", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 225054.3, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Toktogul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4161", 
+      "properties": {
+        "approvalDate": "2012-12-20", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 101408.5, 
+        "id": "38298-023", 
+        "info": "The project seeks to improve the quality and relevance of, and equitable access to and effectiveness of, the technical and vocational education and training (TVET) system in the Kyrgyz Republic", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "2ND VOCATIONAL EDUCATION & SKILLS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4162", 
+      "properties": {
+        "approvalDate": "2012-12-20", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 101408.5, 
+        "id": "38298-023", 
+        "info": "The project seeks to improve the quality and relevance of, and equitable access to and effectiveness of, the technical and vocational education and training (TVET) system in the Kyrgyz Republic", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "2ND VOCATIONAL EDUCATION & SKILLS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.05924, 
+          40.22881
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4163", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 1051961.79, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Uch-Korgon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.17887, 
+          41.2006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4164", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 1051961.79, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Shamaldy-Say", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402, 
+          41.87079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4165", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 1051961.79, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Toktogul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.79254, 
+          39.48564
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4166", 
+      "properties": {
+        "approvalDate": "2013-05-22", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 4202000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46124-001", 
+        "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
+        "locationName": "Karamyk", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.7265, 
+          40.12238
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4167", 
+      "properties": {
+        "approvalDate": "2013-05-22", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 4202000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46124-001", 
+        "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
+        "locationName": "Guliston", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.79485, 
+          42.74613
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4168", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jaiyl", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4169", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.86674, 
+          40.59041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4170", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Madaniyat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.84813, 
+          42.81423
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4171", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Kara-Balta", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4172", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.60022, 
+          42.87781
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4173", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Gorod Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4174", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4175", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.08, 
+          40.37
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4176", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Kara-Suu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH RD)IMPROVEMENT PROJECT,PHASE 4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4177", 
+      "properties": {
+        "approvalDate": "2012-12-20", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 1154857.49, 
+        "id": "38298-023", 
+        "info": "The project seeks to improve the quality and relevance of, and equitable access to and effectiveness of, the technical and vocational education and training (TVET) system in the Kyrgyz Republic", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "2ND VOCATIONAL EDUCATION AND SKILLS DEVELOPMENT PR"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4178", 
+      "properties": {
+        "approvalDate": "2012-12-20", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 1154857.49, 
+        "id": "38298-023", 
+        "info": "The project seeks to improve the quality and relevance of, and equitable access to and effectiveness of, the technical and vocational education and training (TVET) system in the Kyrgyz Republic", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "2ND VOCATIONAL EDUCATION AND SKILLS DEVELOPMENT PR"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4179", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4180", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.0, 
+          42.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4181", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4182", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          42.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4183", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Issyk-Kul'skaya Oblast'", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4184", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4185", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4186", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-02-07", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 20000000.0, 
+        "id": "41544-082", 
+        "info": "The Investment Climate Improvement Program, approved by the Asian Development Bank (ADB) in 2008, follows a programmatic approach and envisages three subprograms to assist the government in creating\u2026", 
+        "locationName": "Chuyskaya Oblast'", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM - SUBPROGRA"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4187", 
+      "properties": {
+        "approvalDate": "2014-12-26", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 10800000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42399-024", 
+        "info": "The additional financing of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 (Bishkek Torugart Road) Project 3 will cover the cost overruns that have resulted in a funding gap for\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 1 BISHKEK-TORUGART ROAD PROJECT 3 (ADDL FIN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.31115, 
+          40.55103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4188", 
+      "properties": {
+        "approvalDate": "2014-12-26", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 10800000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42399-024", 
+        "info": "The additional financing of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 (Bishkek Torugart Road) Project 3 will cover the cost overruns that have resulted in a funding gap for\u2026", 
+        "locationName": "Torugart", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 1 BISHKEK-TORUGART ROAD PROJECT 3 (ADDL FIN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402, 
+          41.87079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4189", 
+      "properties": {
+        "approvalDate": "2014-12-26", 
+        "closingDate": "2022-06-30", 
+        "commitmentAmount": 65500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46348-003", 
+        "info": "The project will (i) continue the phased rehabilitation of Toktogul hydroelectric power plant (HPP) by replacing two of the four existing generator and turbine units and associated auxiliary\u2026", 
+        "locationName": "Toktogul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TOKTOGUL REHABILITATION PHASE 2 PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.79254, 
+          39.48564
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4190", 
+      "properties": {
+        "approvalDate": "2013-05-22", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 4202000.0, 
+        "disbursementAmount": 299765.25, 
+        "id": "46124-001", 
+        "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
+        "locationName": "Karamyk", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.7265, 
+          40.12238
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4191", 
+      "properties": {
+        "approvalDate": "2013-05-22", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 4202000.0, 
+        "disbursementAmount": 299765.25, 
+        "id": "46124-001", 
+        "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
+        "locationName": "Guliston", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.79485, 
+          42.74613
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4192", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jaiyl", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4193", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.86674, 
+          40.59041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4194", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Madaniyat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.84813, 
+          42.81423
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4195", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Kara-Balta", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4196", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.60022, 
+          42.87781
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4197", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Gorod Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4198", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4199", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.08, 
+          40.37
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4200", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 698774.6399999999, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Kara-Suu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.99135, 
+          42.19937
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4201", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Ak-Suu", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4202", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4203", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4204", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Chuyskaya Oblast", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          42.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4205", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Issyk-Kulskaya Oblast", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4206", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.73333, 
+          40.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4207", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Kadamjay", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.91032, 
+          42.78387
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4208", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Kichi-Kemin", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.75, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4209", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Lyaylyakskiy Rayon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4210", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4211", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4212", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.56779, 
+          39.93652
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4213", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Sulyukta", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.0, 
+          42.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4214", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.36476, 
+          42.7276
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4215", 
+      "properties": {
+        "approvalDate": "2014-06-19", 
+        "closingDate": "2014-09-08", 
+        "commitmentAmount": 22000000.0, 
+        "disbursementAmount": 22000000.0, 
+        "id": "41544-084", 
+        "info": "Subprogram 3 of the Investment Climate Improvement Program (ICIP) is the last subprogram of the program cluster approved in 2008", 
+        "locationName": "Tyup", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "INVESTMENT CLIMATE IMPROVEMENT PROGRAM-SUBPROGRAM 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4216", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2018-05-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46537-002", 
+        "info": "The policy-based grant will support key policy reforms to strengthen education in the Kyrgyz Republic; the project grant will finance investments that directly link to and support the effective\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING EDUCATION SYSTEM SECTOR DEVELOPMENT_PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4217", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2021-08-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46537-002", 
+        "info": "The policy-based grant will support key policy reforms to strengthen education in the Kyrgyz Republic; the project grant will finance investments that directly link to and support the effective\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING EDUCATION SYSTEM SECTOR DEVELOPMENT_PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4218", 
+      "properties": {
+        "approvalDate": "2014-12-26", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42399-024", 
+        "info": "The additional financing of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 (Bishkek Torugart Road) Project 3 will cover the cost overruns that have resulted in a funding gap for\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR I BISHKEK-TORUGART ROAD PROJECT3 (ADDL FIN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.31115, 
+          40.55103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4219", 
+      "properties": {
+        "approvalDate": "2014-12-26", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42399-024", 
+        "info": "The additional financing of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 (Bishkek Torugart Road) Project 3 will cover the cost overruns that have resulted in a funding gap for\u2026", 
+        "locationName": "Torugart", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR I BISHKEK-TORUGART ROAD PROJECT3 (ADDL FIN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402, 
+          41.87079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4220", 
+      "properties": {
+        "approvalDate": "2014-12-26", 
+        "closingDate": "2022-06-30", 
+        "commitmentAmount": 44500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46348-003", 
+        "info": "The project will (i) continue the phased rehabilitation of Toktogul hydroelectric power plant (HPP) by replacing two of the four existing generator and turbine units and associated auxiliary\u2026", 
+        "locationName": "Toktogul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TOKTOGUL REHABILITATION PHASE 2 PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.18709, 
+          42.46017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4221", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Balykchy", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.30149, 
+          42.84194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4222", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Tokmok", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.0, 
+          42.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4223", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.24274, 
+          42.52277
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4224", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.30068, 
+          40.76994
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4225", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Uzgen", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4226", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4227", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.99111, 
+          41.42866
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4228", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.21228, 
+          42.68108
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4229", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Maymak", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.12793, 
+          40.25684
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4230", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kzyl-Kiya", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.39362, 
+          42.49068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4231", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Karakol", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.67027, 
+          41.62828
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4232", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kara-Kul'", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.84813, 
+          42.81423
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4233", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kara-Balta", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.67585, 
+          42.82469
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4234", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kaindy", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4235", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          42.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4236", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Issyk-Kul'skaya Oblast'", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.44418, 
+          40.3138
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4237", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Gul'cha", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4238", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.74586, 
+          41.0376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4239", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Bazar-Korgon", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.81939, 
+          40.06259
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4240", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4241", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402, 
+          41.87079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4242", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Toktogul", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          42.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4243", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Chuyskaya Oblast'", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.27108, 
+          41.56807
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4244", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Tien Shan", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.18344, 
+          42.70959
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4245", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Ysyk-Kol", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.56779, 
+          39.93652
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4246", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Sulyukta", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4247", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4248", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2013-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.56779, 
+          39.93652
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4249", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Sulyukta", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.75, 
+          39.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4250", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Lyaylyakskiy Rayon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.99111, 
+          41.42866
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4251", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.12793, 
+          40.25684
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4252", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Kzyl-Kiya", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.3326, 
+          42.83349
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4253", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Kemin", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.39362, 
+          42.49068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4254", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Karakol", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4255", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.81939, 
+          40.06259
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4256", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Batken", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.63333, 
+          42.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4257", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Alamedinskiy Rayon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.964, 
+          42.636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4258", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Ysyk-Ata", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.08, 
+          40.37
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4259", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Kara-Suu", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.68, 
+          40.07
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4260", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Nookat", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.58333, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4261", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Kadamjaiskiy Raion", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4262", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Batkenskiy Rayon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          42.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4263", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Tyupskiy Rayon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.30149, 
+          42.84194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4264", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Tokmok", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.24274, 
+          42.52277
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4265", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.33333, 
+          42.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4266", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Sokuluk", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.30068, 
+          40.76994
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4267", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Uzgen", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4268", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.86308, 
+          42.05302
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4269", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Jety-Oguz", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.26057, 
+          42.7957
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4270", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Oktyabr'", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.99135, 
+          42.19937
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4271", 
+      "properties": {
+        "approvalDate": "2007-08-07", 
+        "closingDate": "2014-01-21", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9381978.21, 
+        "id": "39015-042", 
+        "info": "The project will contribute positively to the Kyrgyz Republic's economic growth and poverty reduction by establishing a State Tax Service (STS) that (i) helps promote macroeconomic stability and\u2026", 
+        "locationName": "Ak-Suu", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "TAX ADMINISTRATION REFORM AND MODERNIZATION PROJEC"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4272", 
+      "properties": {
+        "approvalDate": "2007-10-31", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25600000.0, 
+        "disbursementAmount": 25555404.87, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4273", 
+      "properties": {
+        "approvalDate": "2007-10-31", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25600000.0, 
+        "disbursementAmount": 25555404.87, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.57632, 
+          39.291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4274", 
+      "properties": {
+        "approvalDate": "2007-10-31", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25600000.0, 
+        "disbursementAmount": 25555404.87, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nohiyai Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4275", 
+      "properties": {
+        "approvalDate": "2007-10-31", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25600000.0, 
+        "disbursementAmount": 25555404.87, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Nimichi-Poyen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.19155, 
+          39.21966
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4276", 
+      "properties": {
+        "approvalDate": "2007-10-31", 
+        "closingDate": "2014-02-28", 
+        "commitmentAmount": 25600000.0, 
+        "disbursementAmount": 25555404.87, 
+        "id": "39676-023", 
+        "info": "The PRC-Kyrgyz Republic-Tajikistan road corridor, which runs from Irkeshtam on the Kyrgyz Republic border with the People's Republic of China (PRC) to Dushanbe and is approximately 550 kilometers in\u2026", 
+        "locationName": "Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT ("
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-07-02 10:12:13", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-02 10:12:34"
+    }, 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

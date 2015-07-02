@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          147.0,
+          -6.0
+        ],
+        "type": "Point"
+      },
+      "id": "6108",
+      "properties": {
+        "approvalDate": "2006-06-05",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 13925318.61,
+        "id": "39033-022",
+        "info": "The main objective is to assist GoPNG in their fight against HIV/AIDS",
+        "locationName": "Papua New Guinea",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "HIV/AIDS PREVENTION AND CONTROL IN RURAL DEVELOPME"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PG",
+  "properties": {
+    "bounds": [
+      140.84921106000016,
+      -11.636325778999847,
+      155.96753991,
+      -1.346368096999882
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "Papua New Guinea"
+  },
+  "type": "FeatureCollection"
+}

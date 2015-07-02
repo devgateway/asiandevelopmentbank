@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117,
+          21.0245
+        ],
+        "type": "Point"
+      },
+      "id": "1455",
+      "properties": {
+        "approvalDate": "2015-02-09",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 4200000.0,
+        "disbursementAmount": 0.0,
+        "id": "40080-024",
+        "info": "The project will support the effective and sustainable use of the Ha Noi metro line 3, which is now being developed with Asian Development Bank (ADB) assistance",
+        "locationName": "Hanoi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "STRENGTHENING SUSTAINABLE URBAN TRANSPORTFOR HA NOI METRO LINE 3"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Vietnam"
+  },
+  "type": "FeatureCollection"
+}

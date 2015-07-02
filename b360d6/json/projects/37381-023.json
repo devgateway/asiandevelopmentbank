@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          80.4971,
+          8.7514
+        ],
+        "type": "Point"
+      },
+      "id": "362",
+      "properties": {
+        "approvalDate": "2013-02-13",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 7583742.289999999,
+        "id": "37381-023",
+        "info": "The proposed project (the Project) to be funded through additional financing of $40 million from ADB s special fund resources will not change the scope of the original project",
+        "locationName": "Vavuniya",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT-ADDL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.8283,
+          8.0362
+        ],
+        "type": "Point"
+      },
+      "id": "363",
+      "properties": {
+        "approvalDate": "2013-02-13",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 7583742.289999999,
+        "id": "37381-023",
+        "info": "The proposed project (the Project) to be funded through additional financing of $40 million from ADB s special fund resources will not change the scope of the original project",
+        "locationName": "Puttalam",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT-ADDL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.9,
+          8.98333
+        ],
+        "type": "Point"
+      },
+      "id": "364",
+      "properties": {
+        "approvalDate": "2013-02-13",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 7583742.289999999,
+        "id": "37381-023",
+        "info": "The proposed project (the Project) to be funded through additional financing of $40 million from ADB s special fund resources will not change the scope of the original project",
+        "locationName": "Mannar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT-ADDL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.79528,
+          7.57583
+        ],
+        "type": "Point"
+      },
+      "id": "365",
+      "properties": {
+        "approvalDate": "2013-02-13",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 7583742.289999999,
+        "id": "37381-023",
+        "info": "The proposed project (the Project) to be funded through additional financing of $40 million from ADB s special fund resources will not change the scope of the original project",
+        "locationName": "Chilaw",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT-ADDL FINANCING(SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LK",
+  "properties": {
+    "bounds": [
+      79.65577233200005,
+      5.92373281500015,
+      81.89031009200008,
+      9.829575914000145
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Sri Lanka"
+  },
+  "type": "FeatureCollection"
+}

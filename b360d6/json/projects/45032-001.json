@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          166.933,
+          -0.517
+        ],
+        "type": "Point"
+      },
+      "id": "6109",
+      "properties": {
+        "approvalDate": "2012-09-14",
+        "closingDate": "2014-11-21",
+        "commitmentAmount": 4000000.0,
+        "disbursementAmount": 4000000.0,
+        "id": "45032-001",
+        "info": "The proposed program will support the Government's efforts to improve its fiscal performance and the enabling environment for the private sector and facilitate the funding of essential services over\u2026",
+        "locationName": "Nauru",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Completion",
+        "title": "PUBLIC FINANCIAL MANAGEMENT REFORM PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "NR",
+  "properties": {
+    "bounds": [
+      166.90699303500008,
+      -0.551853122999901,
+      166.9582625660001,
+      -0.490411065999922
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-nr.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "Nauru"
+  },
+  "type": "FeatureCollection"
+}

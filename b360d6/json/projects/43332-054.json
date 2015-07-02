@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.63404,
+          26.62685
+        ],
+        "type": "Point"
+      },
+      "id": "7694",
+      "properties": {
+        "approvalDate": "2014-05-30",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 170000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43332-054",
+        "info": "Tranche 4 for $180 million is to finance the introduction of (i) environmental protection equipment, and (ii) railway safety enhancement equipment",
+        "locationName": "Guizhou Sheng",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "RAILWAY ENERGY EFFICIENCY AND SAFETY ENHANCEMENT INVESTMENT PROGRAM - TRANCHE 5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.55278,
+          29.56278
+        ],
+        "type": "Point"
+      },
+      "id": "7695",
+      "properties": {
+        "approvalDate": "2014-05-30",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 170000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43332-054",
+        "info": "Tranche 4 for $180 million is to finance the introduction of (i) environmental protection equipment, and (ii) railway safety enhancement equipment",
+        "locationName": "Chongqing",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "RAILWAY ENERGY EFFICIENCY AND SAFETY ENHANCEMENT INVESTMENT PROGRAM - TRANCHE 5"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

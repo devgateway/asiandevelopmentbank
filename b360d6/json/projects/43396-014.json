@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          122.0,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "2016",
+      "properties": {
+        "approvalDate": "2015-02-12",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 350000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43396-014",
+        "info": "The program supports the government\u2019s key reform priorities aimed at employment generation by increasing competitiveness in the economy with an inclusive approach through the labor market",
+        "locationName": "Philippines",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "INCREASING COMPETITIVENESS FOR INCLUSIVE GROWTH PROGRAM - SUBPROGRAM 2"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PH",
+  "properties": {
+    "bounds": [
+      116.95492597700016,
+      4.655707098000107,
+      126.61768639400017,
+      21.122381903000033
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Philippines"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          172.92079,
+          1.35797
+        ],
+        "type": "Point"
+      },
+      "id": "1888",
+      "properties": {
+        "approvalDate": "2011-03-17",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 8020858.39,
+        "id": "44281-013",
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance",
+        "locationName": "Betio",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          172.97696,
+          1.3278
+        ],
+        "type": "Point"
+      },
+      "id": "1889",
+      "properties": {
+        "approvalDate": "2011-03-17",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 8020858.39,
+        "id": "44281-013",
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance",
+        "locationName": "Tarawa",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          172.97495,
+          1.32926
+        ],
+        "type": "Point"
+      },
+      "id": "1890",
+      "properties": {
+        "approvalDate": "2011-03-17",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 8020858.39,
+        "id": "44281-013",
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance",
+        "locationName": "Bairiki",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          173.12689,
+          1.36273
+        ],
+        "type": "Point"
+      },
+      "id": "1891",
+      "properties": {
+        "approvalDate": "2011-03-17",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 12000000.0,
+        "disbursementAmount": 8020858.39,
+        "id": "44281-013",
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance",
+        "locationName": "Bikenibeu Town",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "ROAD REHABILITATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KI",
+  "properties": {
+    "bounds": [
+      165,
+      -11.46111419099988,
+      195,
+      4.723089911000102
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ki.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Kiribati"
+  },
+  "type": "FeatureCollection"
+}

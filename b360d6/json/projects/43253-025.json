@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.4868,
+          14.67325
+        ],
+        "type": "Point"
+      },
+      "id": "4014",
+      "properties": {
+        "approvalDate": "2014-12-30",
+        "closingDate": "2019-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43253-025",
+        "info": "Project 1 is representative of subprojects to be financed under the investment program",
+        "locationName": "Byadgi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "KARNATAKA INTEGRATED URBAN WATER MANAGEMENT INVESTMENT PROGRAM - TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.92694,
+          14.46693
+        ],
+        "type": "Point"
+      },
+      "id": "4015",
+      "properties": {
+        "approvalDate": "2014-12-30",
+        "closingDate": "2019-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43253-025",
+        "info": "Project 1 is representative of subprojects to be financed under the investment program",
+        "locationName": "Davangere",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "KARNATAKA INTEGRATED URBAN WATER MANAGEMENT INVESTMENT PROGRAM - TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.80716,
+          14.51288
+        ],
+        "type": "Point"
+      },
+      "id": "4016",
+      "properties": {
+        "approvalDate": "2014-12-30",
+        "closingDate": "2019-09-30",
+        "commitmentAmount": 75000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43253-025",
+        "info": "Project 1 is representative of subprojects to be financed under the investment program",
+        "locationName": "Harihar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "KARNATAKA INTEGRATED URBAN WATER MANAGEMENT INVESTMENT PROGRAM - TRANCHE 1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

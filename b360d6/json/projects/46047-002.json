@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.31667,
+          22.81667
+        ],
+        "type": "Point"
+      },
+      "id": "7693",
+      "properties": {
+        "approvalDate": "2014-05-30",
+        "closingDate": "2019-09-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 5000000.0,
+        "id": "46047-002",
+        "info": "The proposed project will help improve the capacity and effectiveness of social services focused technical and vocational education and training (TVET) in Nanning. It will support improvement of No",
+        "locationName": "Nanning",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI NANNING VOCATIONAL EDUCATION DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

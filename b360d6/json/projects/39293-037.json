@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          80.75,
+          7.75
+        ],
+        "type": "Point"
+      },
+      "id": "366",
+      "properties": {
+        "approvalDate": "2013-08-19",
+        "closingDate": "2019-02-28",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 40000000.0,
+        "id": "39293-037",
+        "info": "The proposed results-based lending (RBL) program will support the Government of Sri Lanka in equitably developing its human capital base in order to meet the objectives of the Mahinda Chintana:\u2026",
+        "locationName": "Sri Lanka",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "RBL: EDUCATION SECTOR DEVELOPMENT PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.75,
+          7.75
+        ],
+        "type": "Point"
+      },
+      "id": "367",
+      "properties": {
+        "approvalDate": "2013-08-19",
+        "closingDate": "2019-02-28",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 40748810.4,
+        "id": "39293-037",
+        "info": "The proposed results-based lending (RBL) program will support the Government of Sri Lanka in equitably developing its human capital base in order to meet the objectives of the Mahinda Chintana:\u2026",
+        "locationName": "Sri Lanka",
+        "sectors": [
+          "Education"
+        ],
+        "status": "Implementation",
+        "title": "RBL:EDUCATION SECTOR DEVELOPMENT PROGRAM (SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LK",
+  "properties": {
+    "bounds": [
+      79.65577233200005,
+      5.92373281500015,
+      81.89031009200008,
+      9.829575914000145
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Sri Lanka"
+  },
+  "type": "FeatureCollection"
+}

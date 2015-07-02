@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          70.0,
+          30.0
+        ],
+        "type": "Point"
+      },
+      "id": "5496",
+      "properties": {
+        "approvalDate": "2010-04-29",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 24315929.259999998,
+        "id": "42051-023",
+        "info": "On 13 August 2009, the Government of Pakistan entered into a Framework Financing Agreement with ADB to implement MFF 0031",
+        "locationName": "Pakistan",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "MFF-ENERGY EFFICIENCY INVESTMENT PROGRAM - TRANCHE 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.0,
+          30.0
+        ],
+        "type": "Point"
+      },
+      "id": "5497",
+      "properties": {
+        "approvalDate": "2010-04-29",
+        "closingDate": "2017-03-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 773451.3200000001,
+        "id": "42051-023",
+        "info": "On 13 August 2009, the Government of Pakistan entered into a Framework Financing Agreement with ADB to implement MFF 0031",
+        "locationName": "Pakistan",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "MFF-ENERGY EFFICIENCY INVESTMENT PROGRAM - TRANCHE 1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PK",
+  "properties": {
+    "bounds": [
+      60.8443787030001,
+      23.694525458000058,
+      77.0489709880002,
+      37.054483541000096
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "Pakistan"
+  },
+  "type": "FeatureCollection"
+}

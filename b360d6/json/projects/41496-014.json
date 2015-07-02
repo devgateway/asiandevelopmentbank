@@ -1,0 +1,521 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.45,
+          10.41667
+        ],
+        "type": "Point"
+      },
+      "id": "1322",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Xom Xa Xia",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          10.11667
+        ],
+        "type": "Point"
+      },
+      "id": "1323",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Xom Ta Lua Moi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.95,
+          9.83333
+        ],
+        "type": "Point"
+      },
+      "id": "1324",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Rach Thu Bay",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.08333,
+          10.01667
+        ],
+        "type": "Point"
+      },
+      "id": "1325",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Rach Gia",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.13333,
+          9.88333
+        ],
+        "type": "Point"
+      },
+      "id": "1326",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Minh Hoa",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.65,
+          10.28333
+        ],
+        "type": "Point"
+      },
+      "id": "1327",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Kien Luong",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.16667,
+          10.0
+        ],
+        "type": "Point"
+      },
+      "id": "1328",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Tinh Kien Giang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.91667,
+          10.11667
+        ],
+        "type": "Point"
+      },
+      "id": "1329",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Ngoc Hon Doc",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.48333,
+          10.38333
+        ],
+        "type": "Point"
+      },
+      "id": "1330",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Ha Tien",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.15,
+          9.17694
+        ],
+        "type": "Point"
+      },
+      "id": "1331",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Ca Mau",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.09389,
+          9.92667
+        ],
+        "type": "Point"
+      },
+      "id": "1332",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Song Cai Lon",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.08333,
+          10.01667
+        ],
+        "type": "Point"
+      },
+      "id": "1333",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Thi Xa Rach Gia",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.08333,
+          9.83333
+        ],
+        "type": "Point"
+      },
+      "id": "1334",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Huyen An Bien",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.91667,
+          10.25
+        ],
+        "type": "Point"
+      },
+      "id": "1335",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Huyen Hon Dat",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.16667,
+          9.16667
+        ],
+        "type": "Point"
+      },
+      "id": "1336",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Thi Xa Ca Ma",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.10361,
+          9.92861
+        ],
+        "type": "Point"
+      },
+      "id": "1337",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Huyen Chau Thanh",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.47002,
+          10.40138
+        ],
+        "type": "Point"
+      },
+      "id": "1338",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Ha Tien Township",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.11859,
+          9.86663
+        ],
+        "type": "Point"
+      },
+      "id": "1339",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Tac Cau",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.59,
+          10.24892
+        ],
+        "type": "Point"
+      },
+      "id": "1340",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Huyen Kien Luong",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.10361,
+          9.92778
+        ],
+        "type": "Point"
+      },
+      "id": "1341",
+      "properties": {
+        "approvalDate": "2013-05-23",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 2515769.58,
+        "id": "41496-014",
+        "info": "The Greater Mekong Subregion Southern Coastal Corridor (GMS-SCC) Project is part of the Southern Economic Corridor involving Thailand, Cambodia, and Viet Nam",
+        "locationName": "Song Cai Be",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "GMS SOUTHERN COASTAL CORRIDOR PROJECT-ADDITIONAL FINANCING(SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Vietnam"
+  },
+  "type": "FeatureCollection"
+}

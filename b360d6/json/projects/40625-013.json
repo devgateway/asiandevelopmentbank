@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.73322,
+          36.47444
+        ],
+        "type": "Point"
+      },
+      "id": "7309",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 111823075.47,
+        "id": "40625-013",
+        "info": "The proposed Project is also in line with the key pillars of the new Country Partnership Strategy (CPS) of PRC namely: (i) inclusive growth and balance development, (ii) resource efficiency and\u2026",
+        "locationName": "Lanzhou Shi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "LANZHOU SUSTAINABLE URBAN TRANSPORT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.74443,
+          35.98612
+        ],
+        "type": "Point"
+      },
+      "id": "7310",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 111823075.47,
+        "id": "40625-013",
+        "info": "The proposed Project is also in line with the key pillars of the new Country Partnership Strategy (CPS) of PRC namely: (i) inclusive growth and balance development, (ii) resource efficiency and\u2026",
+        "locationName": "Qilihe Qu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "LANZHOU SUSTAINABLE URBAN TRANSPORT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.7023,
+          36.11657
+        ],
+        "type": "Point"
+      },
+      "id": "7311",
+      "properties": {
+        "approvalDate": "2010-03-30",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 111823075.47,
+        "id": "40625-013",
+        "info": "The proposed Project is also in line with the key pillars of the new Country Partnership Strategy (CPS) of PRC namely: (i) inclusive growth and balance development, (ii) resource efficiency and\u2026",
+        "locationName": "Anning Qu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "LANZHOU SUSTAINABLE URBAN TRANSPORT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

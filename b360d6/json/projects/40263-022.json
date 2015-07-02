@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          159.0,
+          -8.0
+        ],
+        "type": "Point"
+      },
+      "id": "4290",
+      "properties": {
+        "approvalDate": "2009-01-20",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 14000000.0,
+        "disbursementAmount": 12244289.540000003,
+        "id": "40263-022",
+        "info": "The impact of the project will be increased efficiency, safety, and reliability in the transport sector, contributing to economic growth with improved distribution of\u2026",
+        "locationName": "Solomon Islands",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DOMESTIC MARITIME SUPPORT (SECTOR) PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.13696,
+          -8.05379
+        ],
+        "type": "Point"
+      },
+      "id": "4291",
+      "properties": {
+        "approvalDate": "2009-01-20",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 14000000.0,
+        "disbursementAmount": 12244289.540000003,
+        "id": "40263-022",
+        "info": "The impact of the project will be increased efficiency, safety, and reliability in the transport sector, contributing to economic growth with improved distribution of\u2026",
+        "locationName": "Isabel Province",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DOMESTIC MARITIME SUPPORT (SECTOR) PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          159.0,
+          -8.0
+        ],
+        "type": "Point"
+      },
+      "id": "4292",
+      "properties": {
+        "approvalDate": "2009-01-20",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 14000000.0,
+        "disbursementAmount": 12244289.540000003,
+        "id": "40263-022",
+        "info": "The impact of the project will be increased efficiency, safety, and reliability in the transport sector, contributing to economic growth with improved distribution of\u2026",
+        "locationName": "Solomon Islands",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "DOMESTIC MARITIME SUPPORT (SECTOR) PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "SB",
+  "properties": {
+    "bounds": [
+      155.50798587300008,
+      -12.290622653999918,
+      168.8258569670002,
+      -6.599867445999806
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:34"
+    },
+    "name": "Solomon Islands"
+  },
+  "type": "FeatureCollection"
+}

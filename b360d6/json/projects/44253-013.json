@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          122.0,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "2015",
+      "properties": {
+        "approvalDate": "2014-02-14",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 250000000.0,
+        "disbursementAmount": 250000000.0,
+        "id": "44253-013",
+        "info": "The program aims to improve service delivery in the Philippines by assisting the development of efficient and transparent local governments within an adequate and equitable fiscal framework",
+        "locationName": "Philippines",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Completion",
+        "title": "LOCAL GOVERNMENT FINANCE&FISCAL DECENTRALIZATION REFORM PROG-SUB1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PH",
+  "properties": {
+    "bounds": [
+      116.95492597700016,
+      4.655707098000107,
+      126.61768639400017,
+      21.122381903000033
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml",
+      "download_date": "2015-07-02 10:12:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-02 10:12:33"
+    },
+    "name": "Philippines"
+  },
+  "type": "FeatureCollection"
+}
