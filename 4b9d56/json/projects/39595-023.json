@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.35, 
+          21.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "638", 
+      "properties": {
+        "approvalDate": "2007-10-09", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 27860000.0, 
+        "disbursementAmount": 22020110.32, 
+        "id": "39595-023", 
+        "info": "The main objective of the proposed project is to expand the generating capacity of Electricity of Viet Nam (EVN) in order to help mitigate shortage of power in Northern Viet Nam and to support\u2026", 
+        "locationName": "Mong Duong", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MONG DUONG 1 THERMAL POWER INVESTMENT PROGRAM - LOAN 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.42543, 
+          21.15064
+        ], 
+        "type": "Point"
+      }, 
+      "id": "639", 
+      "properties": {
+        "approvalDate": "2007-10-09", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 27860000.0, 
+        "disbursementAmount": 22020110.32, 
+        "id": "39595-023", 
+        "info": "The main objective of the proposed project is to expand the generating capacity of Electricity of Viet Nam (EVN) in order to help mitigate shortage of power in Northern Viet Nam and to support\u2026", 
+        "locationName": "Xa Binh Dan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MONG DUONG 1 THERMAL POWER INVESTMENT PROGRAM - LOAN 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

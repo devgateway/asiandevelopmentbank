@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          77.30216, 
+          31.7672
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3311", 
+      "properties": {
+        "approvalDate": "2011-01-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 208000000.0, 
+        "disbursementAmount": 141567179.54, 
+        "id": "41627-043", 
+        "info": "Himachal Pradesh is a mountainous state with abundant water resources in the five major rivers flowing through the state from the western Himalayas", 
+        "locationName": "Sainj", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-Himachal Pradesh Clean Energy Devt. Investment Program-Trnche"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.41667, 
+          31.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3312", 
+      "properties": {
+        "approvalDate": "2011-01-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 208000000.0, 
+        "disbursementAmount": 141567179.54, 
+        "id": "41627-043", 
+        "info": "Himachal Pradesh is a mountainous state with abundant water resources in the five major rivers flowing through the state from the western Himalayas", 
+        "locationName": "Kinnaur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-Himachal Pradesh Clean Energy Devt. Investment Program-Trnche"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          31.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3313", 
+      "properties": {
+        "approvalDate": "2011-01-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 208000000.0, 
+        "disbursementAmount": 141567179.54, 
+        "id": "41627-043", 
+        "info": "Himachal Pradesh is a mountainous state with abundant water resources in the five major rivers flowing through the state from the western Himalayas", 
+        "locationName": "State of Himachal Pradesh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-Himachal Pradesh Clean Energy Devt. Investment Program-Trnche"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

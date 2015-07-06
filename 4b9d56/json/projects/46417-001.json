@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.78781, 
+          26.91962
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3896", 
+      "properties": {
+        "approvalDate": "2014-05-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 176000000.0, 
+        "disbursementAmount": 13541849.790000001, 
+        "id": "46417-001", 
+        "info": "The proposed ADB loan is to help finance Line 1-Phase B, consisting of the 2.3 km underground portion from Chandpole to Badi Chopar, with two stations for completion and operation by early 2018", 
+        "locationName": "Jaipur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "JAIPUR METRO RAIL LINE 1-PHASE B"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.0893, 
+          38.27662
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7071", 
+      "properties": {
+        "approvalDate": "2009-03-06", 
+        "closingDate": "2015-10-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 95246478.70999998, 
+        "id": "38660-023", 
+        "info": "The Project is aimed to improve environmental management to rehabilitate the ecosystems and increase rural incomes in the Yinchuan area", 
+        "locationName": "Yongning Xian", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA INTEGRATED ECOSYSTEM & AGRICULTURAL DEVT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.31667, 
+          38.46667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7072", 
+      "properties": {
+        "approvalDate": "2009-03-06", 
+        "closingDate": "2015-10-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 95246478.70999998, 
+        "id": "38660-023", 
+        "info": "The Project is aimed to improve environmental management to rehabilitate the ecosystems and increase rural incomes in the Yinchuan area", 
+        "locationName": "Yinchuan Shi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA INTEGRATED ECOSYSTEM & AGRICULTURAL DEVT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.28108, 
+          38.71573
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7073", 
+      "properties": {
+        "approvalDate": "2009-03-06", 
+        "closingDate": "2015-10-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 95246478.70999998, 
+        "id": "38660-023", 
+        "info": "The Project is aimed to improve environmental management to rehabilitate the ecosystems and increase rural incomes in the Yinchuan area", 
+        "locationName": "Helan Xian", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA INTEGRATED ECOSYSTEM & AGRICULTURAL DEVT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.1397, 
+          38.49193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7074", 
+      "properties": {
+        "approvalDate": "2009-03-06", 
+        "closingDate": "2015-10-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 95246478.70999998, 
+        "id": "38660-023", 
+        "info": "The Project is aimed to improve environmental management to rehabilitate the ecosystems and increase rural incomes in the Yinchuan area", 
+        "locationName": "Xixia Qu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA INTEGRATED ECOSYSTEM & AGRICULTURAL DEVT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.24021, 
+          38.47477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7075", 
+      "properties": {
+        "approvalDate": "2009-03-06", 
+        "closingDate": "2015-10-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 95246478.70999998, 
+        "id": "38660-023", 
+        "info": "The Project is aimed to improve environmental management to rehabilitate the ecosystems and increase rural incomes in the Yinchuan area", 
+        "locationName": "Jinfeng Qu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA INTEGRATED ECOSYSTEM & AGRICULTURAL DEVT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.28679, 
+          38.4854
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7076", 
+      "properties": {
+        "approvalDate": "2009-03-06", 
+        "closingDate": "2015-10-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 95246478.70999998, 
+        "id": "38660-023", 
+        "info": "The Project is aimed to improve environmental management to rehabilitate the ecosystems and increase rural incomes in the Yinchuan area", 
+        "locationName": "Xingqing Qu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA INTEGRATED ECOSYSTEM & AGRICULTURAL DEVT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

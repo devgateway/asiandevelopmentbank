@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          79.0, 
+          22.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3868", 
+      "properties": {
+        "approvalDate": "2014-01-22", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 400000000.0, 
+        "disbursementAmount": 210476850.79, 
+        "id": "47083-002", 
+        "info": "The Tranche 1 of the MFF involves a financial intermediary loan of $400 million from the ordinary capital resources of the Asian Development Bank to India Infrastructure Finance Company Limited, to\u2026", 
+        "locationName": "Republic of India", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ACCELERATING INFRASTRUCTURE INVSTMNT FCLTY IN INDIA-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.01408, 
+          31.54685
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3453", 
+      "properties": {
+        "approvalDate": "2011-12-15", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 113000000.0, 
+        "disbursementAmount": 24947489.659999996, 
+        "id": "43464-023", 
+        "info": "The Project proposed for financing under the requested PFR consists of: \n\n1. New Transmission System Assets\n\nA. Transmission Line Construction\ni", 
+        "locationName": "Wangtu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY TRNSMISSION INVSTMNT PRGRM-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.58333, 
+          31.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3454", 
+      "properties": {
+        "approvalDate": "2011-12-15", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 113000000.0, 
+        "disbursementAmount": 24947489.659999996, 
+        "id": "43464-023", 
+        "info": "The Project proposed for financing under the requested PFR consists of: \n\n1. New Transmission System Assets\n\nA. Transmission Line Construction\ni", 
+        "locationName": "Shimla district", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY TRNSMISSION INVSTMNT PRGRM-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          31.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3455", 
+      "properties": {
+        "approvalDate": "2011-12-15", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 113000000.0, 
+        "disbursementAmount": 24947489.659999996, 
+        "id": "43464-023", 
+        "info": "The Project proposed for financing under the requested PFR consists of: \n\n1. New Transmission System Assets\n\nA. Transmission Line Construction\ni", 
+        "locationName": "State of Himachal Pradesh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY TRNSMISSION INVSTMNT PRGRM-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.744, 
+          31.131
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3456", 
+      "properties": {
+        "approvalDate": "2011-12-15", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 113000000.0, 
+        "disbursementAmount": 24947489.659999996, 
+        "id": "43464-023", 
+        "info": "The Project proposed for financing under the requested PFR consists of: \n\n1. New Transmission System Assets\n\nA. Transmission Line Construction\ni", 
+        "locationName": "Hatkoti", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY TRNSMISSION INVSTMNT PRGRM-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.48719, 
+          31.12506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3457", 
+      "properties": {
+        "approvalDate": "2011-12-15", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 113000000.0, 
+        "disbursementAmount": 24947489.659999996, 
+        "id": "43464-023", 
+        "info": "The Project proposed for financing under the requested PFR consists of: \n\n1. New Transmission System Assets\n\nA. Transmission Line Construction\ni", 
+        "locationName": "Gumma", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY TRNSMISSION INVSTMNT PRGRM-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.27735, 
+          31.5805
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3458", 
+      "properties": {
+        "approvalDate": "2011-12-15", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 113000000.0, 
+        "disbursementAmount": 24947489.659999996, 
+        "id": "43464-023", 
+        "info": "The Project proposed for financing under the requested PFR consists of: \n\n1. New Transmission System Assets\n\nA. Transmission Line Construction\ni", 
+        "locationName": "Boktu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY TRNSMISSION INVSTMNT PRGRM-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

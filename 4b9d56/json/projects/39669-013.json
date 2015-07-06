@@ -1,0 +1,271 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          57.5, 
+          43.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5175", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Qo'ng'irot Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.14139, 
+          38.52361
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5176", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Guzar District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          56.18195, 
+          44.78061
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5177", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Daut-ata", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.24806, 
+          38.62083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5178", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "G'uzor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.42861, 
+          39.77472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5179", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Bukhara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.42861, 
+          39.77472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5180", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Bukhara District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          61.72683, 
+          41.6242
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5181", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "To'rtko'l Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          61.16667, 
+          41.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5182", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Hazorasp Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          59.69086, 
+          42.48043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5183", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Nukus Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          59.61028, 
+          42.45306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5184", 
+      "properties": {
+        "approvalDate": "2008-04-14", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 75300000.0, 
+        "disbursementAmount": 59877058.74, 
+        "id": "39669-013", 
+        "info": "The Project aims to develop strategic international highways and improve road sustainability in Uzbekistan", 
+        "locationName": "Nukus", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

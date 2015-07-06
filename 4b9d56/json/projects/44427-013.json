@@ -1,0 +1,621 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          82.58988, 
+          21.72146
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3767", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Seorinarayan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.85275, 
+          21.78484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3768", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Salewara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.16767, 
+          22.28785
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3769", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Ratanpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.63333, 
+          21.23333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3770", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Raipur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.41004, 
+          22.22484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3771", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Pandaria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.8, 
+          21.76667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3772", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Nandghat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.72139, 
+          20.83222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3773", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Kurud", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.36667, 
+          21.63333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3774", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Kodwa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.98012, 
+          21.41879
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3775", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Khairagarh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.54874, 
+          20.70718
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3776", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Dhamtari", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.31667, 
+          21.45
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3777", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Dhamda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.0511, 
+          22.17242
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3778", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Chilpi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.64248, 
+          22.03593
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3779", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Champa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.20578, 
+          20.73081
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3780", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Balod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.28333, 
+          21.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3781", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Anda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.7, 
+          21.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3782", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Janjgir-Champa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.79467, 
+          20.92755
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3783", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Raj Nandgaon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.24746, 
+          22.27974
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3784", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Gidhori", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.26912, 
+          21.13555
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3785", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Chandkhuri", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.85795, 
+          21.21612
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3786", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Umariya", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.89796, 
+          21.08658
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3787", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Tumdibod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.29499, 
+          22.03178
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3788", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Jairamnagar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.35988, 
+          20.88321
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3789", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Funda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.07754, 
+          20.41241
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3790", 
+      "properties": {
+        "approvalDate": "2014-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44427-013", 
+        "info": "The project will improve about 916 kilometers (km) of state roads, in line with the Chhattisgarh Road Master Plan, 2005\u20132016", 
+        "locationName": "Kachche", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CHHATTISGARH STATE ROAD SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

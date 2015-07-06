@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          48.66667, 
+          39.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4521", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 250000000.0, 
+        "disbursementAmount": 34967800.489999995, 
+        "id": "45389-002", 
+        "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
+        "locationName": "Masally District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          48.6654, 
+          39.03532
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4522", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 250000000.0, 
+        "disbursementAmount": 34967800.489999995, 
+        "id": "45389-002", 
+        "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
+        "locationName": "Masally", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          48.5, 
+          39.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4523", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 250000000.0, 
+        "disbursementAmount": 34967800.489999995, 
+        "id": "45389-002", 
+        "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
+        "locationName": "Jalilabad District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          48.49186, 
+          39.20963
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4524", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 250000000.0, 
+        "disbursementAmount": 34967800.489999995, 
+        "id": "45389-002", 
+        "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
+        "locationName": "Dzhalilabad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AZ", 
+  "properties": {
+    "bounds": [
+      44.77455855300022, 
+      38.392644755, 
+      50.62574303500011, 
+      41.89044159000015
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-az.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Azerbaijan"
+  }, 
+  "type": "FeatureCollection"
+}

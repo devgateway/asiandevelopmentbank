@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          111.65222, 
+          40.81056
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7726", 
+      "properties": {
+        "approvalDate": "2015-03-19", 
+        "closingDate": "2020-10-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47052-002", 
+        "info": "The proposed project will introduce a first-of-its-kind low-carbon, low-emissions, and highly energy-efficient district heating system in the eastern part of Hohhot, the capital of the Inner Mongolia\u2026", 
+        "locationName": "Hohhot", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "LOW-CARBON DISTRICT HEATING IN HOHHOT IN INNER MONGOLIA AUTONOMOUS REGION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.6988, 
+          40.79442
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7727", 
+      "properties": {
+        "approvalDate": "2015-03-19", 
+        "closingDate": "2020-10-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47052-002", 
+        "info": "The proposed project will introduce a first-of-its-kind low-carbon, low-emissions, and highly energy-efficient district heating system in the eastern part of Hohhot, the capital of the Inner Mongolia\u2026", 
+        "locationName": "Saihan Qu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "LOW-CARBON DISTRICT HEATING IN HOHHOT IN INNER MONGOLIA AUTONOMOUS REGION"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.66772, 
+          40.86595
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7728", 
+      "properties": {
+        "approvalDate": "2015-03-19", 
+        "closingDate": "2020-10-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47052-002", 
+        "info": "The proposed project will introduce a first-of-its-kind low-carbon, low-emissions, and highly energy-efficient district heating system in the eastern part of Hohhot, the capital of the Inner Mongolia\u2026", 
+        "locationName": "Xincheng Qu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "LOW-CARBON DISTRICT HEATING IN HOHHOT IN INNER MONGOLIA AUTONOMOUS REGION"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

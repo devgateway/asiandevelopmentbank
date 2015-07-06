@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          123.5, 
+          11.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1943", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Visayas", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.0, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1944", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Mindanao", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0, 
+          16.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1945", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Luzon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.64722, 
+          8.48222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1946", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Cagayan de Oro", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.59306, 
+          16.41639
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1947", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Baguio City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.97175, 
+          14.59455
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1948", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "National Capital Region", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PH", 
+  "properties": {
+    "bounds": [
+      116.95492597700016, 
+      4.655707098000107, 
+      126.61768639400017, 
+      21.122381903000033
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Philippines"
+  }, 
+  "type": "FeatureCollection"
+}

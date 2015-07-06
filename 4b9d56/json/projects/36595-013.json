@@ -1,0 +1,296 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          117.28083, 
+          31.86389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7000", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Hefei", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.05225, 
+          31.72671
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7001", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Feixi Xian", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.57236, 
+          31.99496
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7002", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Feidong Xian", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.55, 
+          31.51667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7003", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Chao Lake", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.40417, 
+          31.6975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7004", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Nanfei He", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.32294, 
+          31.77959
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7005", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Baohe Qu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.30232, 
+          31.95158
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7006", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Banqiao He", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.24487, 
+          31.89918
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7007", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Sili He", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.34659, 
+          31.89208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7008", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Ershibu He", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.2555, 
+          31.7949
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7009", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Shiwuli He", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.23903, 
+          31.86731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7010", 
+      "properties": {
+        "approvalDate": "2007-08-28", 
+        "closingDate": "2014-03-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 149999999.99999997, 
+        "id": "36595-013", 
+        "info": "The Project is a key environmental improvement and management initiative of the Hefei municipal government (HMG) to meet national environmental guidelines and ensure Hefei s sustainable growth", 
+        "locationName": "Qing Xi Lu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "ANHUI HEFEI URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

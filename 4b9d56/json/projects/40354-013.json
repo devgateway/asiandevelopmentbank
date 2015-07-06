@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "897", 
+      "properties": {
+        "approvalDate": "2010-09-07", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31274906.3, 
+        "id": "40354-013", 
+        "info": "The Health Human Resources Sector Development Program (HHRSDP) will address key human and financial resource management challenges and constraints in the health sector to improve access and quality\u2026", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH HUMAN RESOURCES SECTOR DEVELOPMENT PROGRAM (PROGRAM LOAN)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "898", 
+      "properties": {
+        "approvalDate": "2010-09-07", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 16740213.48, 
+        "id": "40354-013", 
+        "info": "The Health Human Resources Sector Development Program (HHRSDP) will address key human and financial resource management challenges and constraints in the health sector to improve access and quality\u2026", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH HUMAN RESOURCES SECTOR DEVELOPMENT PROGRAM (PROJECT LOAN)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

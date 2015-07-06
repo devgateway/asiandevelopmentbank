@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.91667, 
+          23.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5049", 
+      "properties": {
+        "approvalDate": "2013-10-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 11318076.919999998, 
+        "id": "44192-014", 
+        "info": "Bangladesh and India are establishing a cross-border link (the interconnection) between the western electrical grid of Bangladesh and the eastern electrical grid of India in 2013 to facilitate the\u2026", 
+        "locationName": "Kushtia District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC BAN-IND ELECTRICAL GRID INTERCONNECTION PROJ-ADD FIN(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.86369, 
+          23.9649
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5050", 
+      "properties": {
+        "approvalDate": "2013-10-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 11318076.919999998, 
+        "id": "44192-014", 
+        "info": "Bangladesh and India are establishing a cross-border link (the interconnection) between the western electrical grid of Bangladesh and the eastern electrical grid of India in 2013 to facilitate the\u2026", 
+        "locationName": "Bheramara", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC BAN-IND ELECTRICAL GRID INTERCONNECTION PROJ-ADD FIN(SF)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

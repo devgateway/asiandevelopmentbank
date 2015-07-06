@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117, 
+          21.0245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "893", 
+      "properties": {
+        "approvalDate": "2010-09-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 34862865.44, 
+        "id": "42080-013", 
+        "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
+        "locationName": "Hanoi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.1, 
+          21.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "894", 
+      "properties": {
+        "approvalDate": "2010-09-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 34862865.44, 
+        "id": "42080-013", 
+        "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
+        "locationName": "Tinh Bac Ninh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.33333, 
+          20.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "895", 
+      "properties": {
+        "approvalDate": "2010-09-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 34862865.44, 
+        "id": "42080-013", 
+        "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
+        "locationName": "Tinh Hai Duong", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.05, 
+          20.81667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "896", 
+      "properties": {
+        "approvalDate": "2010-09-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 34862865.44, 
+        "id": "42080-013", 
+        "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
+        "locationName": "Tinh Hung Yen", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

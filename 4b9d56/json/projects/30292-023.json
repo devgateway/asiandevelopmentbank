@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.58333, 
+          16.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "524", 
+      "properties": {
+        "approvalDate": "2006-12-18", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 74300000.0, 
+        "disbursementAmount": 80294521.11, 
+        "id": "30292-023", 
+        "info": "The project will develop the water resources and promote improved management practices to increase and protect incomes and livelihoods of people in the poorest provinces of the central region", 
+        "locationName": "Tinh Thua Thien-Hue", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "CENTRAL REGION WATER RESOURCES PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          20.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "525", 
+      "properties": {
+        "approvalDate": "2006-12-18", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 74300000.0, 
+        "disbursementAmount": 80294521.11, 
+        "id": "30292-023", 
+        "info": "The project will develop the water resources and promote improved management practices to increase and protect incomes and livelihoods of people in the poorest provinces of the central region", 
+        "locationName": "Tinh Thanh Hoa", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "CENTRAL REGION WATER RESOURCES PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          16.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "526", 
+      "properties": {
+        "approvalDate": "2006-12-18", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 74300000.0, 
+        "disbursementAmount": 80294521.11, 
+        "id": "30292-023", 
+        "info": "The project will develop the water resources and promote improved management practices to increase and protect incomes and livelihoods of people in the poorest provinces of the central region", 
+        "locationName": "Tinh Quang Tri", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "CENTRAL REGION WATER RESOURCES PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.66667, 
+          15.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "527", 
+      "properties": {
+        "approvalDate": "2006-12-18", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 74300000.0, 
+        "disbursementAmount": 80294521.11, 
+        "id": "30292-023", 
+        "info": "The project will develop the water resources and promote improved management practices to increase and protect incomes and livelihoods of people in the poorest provinces of the central region", 
+        "locationName": "Tinh Quang Ngai", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "CENTRAL REGION WATER RESOURCES PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.33333, 
+          17.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "528", 
+      "properties": {
+        "approvalDate": "2006-12-18", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 74300000.0, 
+        "disbursementAmount": 80294521.11, 
+        "id": "30292-023", 
+        "info": "The project will develop the water resources and promote improved management practices to increase and protect incomes and livelihoods of people in the poorest provinces of the central region", 
+        "locationName": "Tinh Quang Binh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "CENTRAL REGION WATER RESOURCES PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.0, 
+          14.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "529", 
+      "properties": {
+        "approvalDate": "2006-12-18", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 74300000.0, 
+        "disbursementAmount": 80294521.11, 
+        "id": "30292-023", 
+        "info": "The project will develop the water resources and promote improved management practices to increase and protect incomes and livelihoods of people in the poorest provinces of the central region", 
+        "locationName": "Tinh Binh Dinh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "CENTRAL REGION WATER RESOURCES PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

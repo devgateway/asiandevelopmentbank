@@ -1,0 +1,696 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          23.13333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7016", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Jingxi Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.46667, 
+          24.63333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7017", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Gantian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.35917, 
+          23.00361
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7018", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Dizhou", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.16667, 
+          24.65
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7019", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "De'e", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.61667, 
+          23.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7020", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Debao Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.61667, 
+          23.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7021", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Youjiang Qu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.61333, 
+          23.89972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7022", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Baise City", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.86614, 
+          23.51728
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7023", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Dingye", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.8, 
+          23.38333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7024", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Napo Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.81833, 
+          23.73056
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7025", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Napo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.08333, 
+          24.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7026", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Lucheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.61667, 
+          24.6
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7027", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Longhuo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.33333, 
+          22.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7028", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Longbang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.51667, 
+          24.4
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7029", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Lingyun Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.56667, 
+          24.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7030", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Leye Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.2437, 
+          24.35406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7031", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Leli", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.4, 
+          24.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7032", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Kechang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.52472, 
+          22.96583
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7033", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Yuexu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.59778, 
+          23.99
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7034", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Yongle", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.05, 
+          24.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7035", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Xilin Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.82916, 
+          23.55341
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7036", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Wucun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.9, 
+          23.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7037", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Tianyang Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.21667, 
+          24.3
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7038", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Tianlin Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.13333, 
+          23.6
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7039", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Tiandong Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.61667, 
+          24.71667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7040", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Shali", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.73303, 
+          23.64402
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7041", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Pohong", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.56667, 
+          23.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7042", 
+      "properties": {
+        "approvalDate": "2008-02-26", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "39149-013", 
+        "info": "The Project will contribute to pro-poor sustainable economic growth in western Guangxi and northern Viet Nam", 
+        "locationName": "Pingguo Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "WESTERN GUANGXI ROADS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

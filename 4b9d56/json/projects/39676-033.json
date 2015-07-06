@@ -1,0 +1,196 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          73.24836, 
+          39.72883
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4146", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Sary-Tash", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.20518, 
+          39.55274
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4147", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Daroot-Korgon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4148", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.79254, 
+          39.48564
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4149", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Karamyk", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.7661, 
+          39.92356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4150", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Sary-Mogol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.55941, 
+          39.85862
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4151", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Alay District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.2001, 
+          39.552
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4152", 
+      "properties": {
+        "approvalDate": "2010-11-05", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 22951578.44, 
+        "id": "39676-033", 
+        "info": "The principal objectives of the project are to reduce transport costs and foster regional cooperation among PRC, Tajikistan and other Central Asian countries", 
+        "locationName": "Chong-Alay", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

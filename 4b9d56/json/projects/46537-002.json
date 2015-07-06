@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4216", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2018-05-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46537-002", 
+        "info": "The policy-based grant will support key policy reforms to strengthen education in the Kyrgyz Republic; the project grant will finance investments that directly link to and support the effective\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING EDUCATION SYSTEM SECTOR DEVELOPMENT_PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4217", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2021-08-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46537-002", 
+        "info": "The policy-based grant will support key policy reforms to strengthen education in the Kyrgyz Republic; the project grant will finance investments that directly link to and support the effective\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING EDUCATION SYSTEM SECTOR DEVELOPMENT_PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

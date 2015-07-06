@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6482", 
+      "properties": {
+        "approvalDate": "2013-08-26", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 15224299.21, 
+        "id": "42305-023", 
+        "info": "The sequence of financial reforms in Cambodia has been guided by the Government's 10-year FSDS", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "THIRD FINANCIAL SECTOR PROGRAM-SUBPROGRAM 2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

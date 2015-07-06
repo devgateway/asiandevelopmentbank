@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4581", 
+      "properties": {
+        "approvalDate": "2007-02-07", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 3000000.0, 
+        "disbursementAmount": 2304373.02, 
+        "id": "36197-013", 
+        "info": "The Project will improve good governance practices in the capital market and the insurance\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "IMPROVEMENT OF CAPITAL MARKET AND INSURANCE GOVERNANCE PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

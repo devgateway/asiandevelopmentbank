@@ -1,0 +1,496 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.66667, 
+          12.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6583", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Kandieng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.09993, 
+          12.23852
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6584", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Trang Traeu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.69622, 
+          12.6
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6585", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Rumlech", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.71536, 
+          12.79025
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6586", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Prasat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.48621, 
+          12.38196
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6587", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Kampong Leang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.65712, 
+          12.82398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6588", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Krasang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.69931, 
+          12.81421
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6589", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Kbel", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.48034, 
+          12.39864
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6590", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Krakor", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.51762, 
+          13.06689
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6591", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Kampreal", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.76476, 
+          11.92304
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6592", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Kampong Leang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.70693, 
+          12.79137
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6593", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Chey", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.81839, 
+          11.93133
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6594", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Chantor", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.2073, 
+          12.46832
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6595", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Chaeung Daeung", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.11928, 
+          12.42872
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6596", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Boeng (1)", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.42063, 
+          12.35118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6597", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Anhchanh Rung", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.82202, 
+          11.99136
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6598", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Phumi Ampil Toek", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          12.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6599", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Krong Stueng Saen", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.55, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6600", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Krong Kampong Chhnang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.06, 
+          12.42
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6601", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 9900000.0, 
+        "disbursementAmount": 9095964.86, 
+        "id": "37287-013", 
+        "info": "The Project will support community mobilization for formulation of development plans and implementation of small scale infrastructure to enhance rural incomes and thereby relieve pressures on the\u2026", 
+        "locationName": "Baray", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "TONLE SAP LOWLANDS RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

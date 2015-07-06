@@ -1,0 +1,196 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          79.0, 
+          16.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2699", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "State of Andhra Pradesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.0, 
+          26.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2700", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "State of Rajasthan", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.41667, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2701", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "State of Odisha", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          19.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2702", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "State of Maharashtra", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          23.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2703", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "Madhya Pradesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.0, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2704", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "State of Gujarat", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.75, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2705", 
+      "properties": {
+        "approvalDate": "2006-12-11", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 1000000000.0, 
+        "disbursementAmount": 800000000.0, 
+        "id": "36343-013", 
+        "info": "The goal of the Program is to develop a sustainable CCS and the objective is to help the Government carry out its CCS reform agenda", 
+        "locationName": "State of Bihar", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL COOPERATIVE CREDIT RESTRUCTURING AND DEVELOPMENT PROGRAM"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

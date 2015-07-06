@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4354", 
+      "properties": {
+        "approvalDate": "2009-10-09", 
+        "closingDate": "2014-08-18", 
+        "commitmentAmount": 17000000.0, 
+        "disbursementAmount": 17000526.6, 
+        "id": "43127-012", 
+        "info": "The financial and economic crisis has forced the Government of Mongolia (the Government) to embark on a process of fiscal adjustment", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "EDUCATION FOR THE POOR - FINANCIAL CRISIS RESPONSE"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

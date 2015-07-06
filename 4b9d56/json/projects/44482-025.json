@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          66.0, 
+          33.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1775", 
+      "properties": {
+        "approvalDate": "2015-01-28", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 109000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44482-025", 
+        "info": "The proposed Tranche 4 will reconstruct the remaining 108 km gap from Beharak to Eshkashim in the envisaged northeastern corridor, which starts at city of Kunduz and connects to the border crossing\u2026", 
+        "locationName": "Afghanistan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:TRANSPORT NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 4"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

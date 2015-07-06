@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          98.2202, 
+          3.7181
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2062", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 33300000.0, 
+        "disbursementAmount": 32403853.1, 
+        "id": "35183-013", 
+        "info": "The Project supports the Government's program to promote sustainable and community-managed freshwater, brackishwater and marine aquaculture development to reduce poverty and increase the food supply\u2026", 
+        "locationName": "Kabupaten Langkat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.97778, 
+          -6.77667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2063", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 33300000.0, 
+        "disbursementAmount": 32403853.1, 
+        "id": "35183-013", 
+        "info": "The Project supports the Government's program to promote sustainable and community-managed freshwater, brackishwater and marine aquaculture development to reduce poverty and increase the food supply\u2026", 
+        "locationName": "Kabupaten Sumedang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.16667, 
+          -3.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2064", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 33300000.0, 
+        "disbursementAmount": 32403853.1, 
+        "id": "35183-013", 
+        "info": "The Project supports the Government's program to promote sustainable and community-managed freshwater, brackishwater and marine aquaculture development to reduce poverty and increase the food supply\u2026", 
+        "locationName": "Kabupaten Ogan Komering Ilir", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.3725, 
+          -6.26583
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2065", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 33300000.0, 
+        "disbursementAmount": 32403853.1, 
+        "id": "35183-013", 
+        "info": "The Project supports the Government's program to promote sustainable and community-managed freshwater, brackishwater and marine aquaculture development to reduce poverty and increase the food supply\u2026", 
+        "locationName": "Kabupaten Karawang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0311, 
+          -4.8249
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2066", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 33300000.0, 
+        "disbursementAmount": 32403853.1, 
+        "id": "35183-013", 
+        "info": "The Project supports the Government's program to promote sustainable and community-managed freshwater, brackishwater and marine aquaculture development to reduce poverty and increase the food supply\u2026", 
+        "locationName": "Kabupaten Buton", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

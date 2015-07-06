@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "891", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 113614366.97000001, 
+        "id": "39538-023", 
+        "info": "The SRCGFP will support  the agenda of the Government of Viet Nam for state-owned enterprise (SOE) reform by equitizing and transforming general corporations", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-SOE REFORM & CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "892", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 2808015.4000000004, 
+        "id": "39538-023", 
+        "info": "The SRCGFP will support  the agenda of the Government of Viet Nam for state-owned enterprise (SOE) reform by equitizing and transforming general corporations", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-SOE REFORM AND CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

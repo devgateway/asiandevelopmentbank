@@ -1,0 +1,596 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          21.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2019", 
+      "properties": {
+        "approvalDate": "2013-01-14", 
+        "closingDate": "2013-03-31", 
+        "commitmentAmount": 575500000.0, 
+        "disbursementAmount": 511529441.32, 
+        "id": "46372-001", 
+        "info": "The policy-based loan will support Myanmar's re-engagement with global markets through key reform priorities aimed at generating broad-based, sustainable and inclusive economic growth", 
+        "locationName": "Myanmar [Burma]", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "SUPPORT FOR MYANMAR'S REFORMS FOR INCLUSIVE GROWTH PROGRAM"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.25, 
+          20.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2020", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Yamethin District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.5, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2021", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Shwebo District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.5, 
+          22.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2022", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Sagaing District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.25, 
+          21.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2023", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Myingyan District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.09768, 
+          16.92406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2024", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Mingaladon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          21.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2025", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Meiktila District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          94.93246, 
+          20.14956
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2026", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Magway", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.0, 
+          22.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2027", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Lower Chindwin District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.25, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2028", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Kyaukse District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2029", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Katha District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.11974, 
+          16.8353
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2030", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Kamayut", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.26945, 
+          17.15123
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2031", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Insein", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.21512, 
+          19.36838
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2032", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Myaydo", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.13944, 
+          16.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2033", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Mayangon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          94.41054, 
+          23.05571
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2034", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Kale District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.06667, 
+          16.85
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2035", 
+      "properties": {
+        "approvalDate": "2014-01-28", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46390-003", 
+        "info": "The project will rehabilitate the distribution network in five townships in Yangon region (Hlaingthaya, Insein, Kamayut, Mayangone, and Mingaladon), four districts in Mandalay region (Kyaukse,\u2026", 
+        "locationName": "Hlaingthaya Township", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER DISTRIBUTION IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.72373, 
+          16.44502
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2036", 
+      "properties": {
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47086-002", 
+        "info": "The project will rehabilitate a key north\u2012south 54.5-kilometer (km) section of road to two lanes with shoulders of appropriate width, suitable for all standard highway\u2026", 
+        "locationName": "Kyaiklat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MAUBIN-PHYAPON ROAD REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.65441, 
+          16.73148
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2037", 
+      "properties": {
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47086-002", 
+        "info": "The project will rehabilitate a key north\u2012south 54.5-kilometer (km) section of road to two lanes with shoulders of appropriate width, suitable for all standard highway\u2026", 
+        "locationName": "Maubin", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MAUBIN-PHYAPON ROAD REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.25, 
+          17.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2038", 
+      "properties": {
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47086-002", 
+        "info": "The project will rehabilitate a key north\u2012south 54.5-kilometer (km) section of road to two lanes with shoulders of appropriate width, suitable for all standard highway\u2026", 
+        "locationName": "Ma-ubin District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MAUBIN-PHYAPON ROAD REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          21.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2039", 
+      "properties": {
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47086-002", 
+        "info": "The project will rehabilitate a key north\u2012south 54.5-kilometer (km) section of road to two lanes with shoulders of appropriate width, suitable for all standard highway\u2026", 
+        "locationName": "Myanmar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MAUBIN-PHYAPON ROAD REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.67882, 
+          16.28543
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2040", 
+      "properties": {
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47086-002", 
+        "info": "The project will rehabilitate a key north\u2012south 54.5-kilometer (km) section of road to two lanes with shoulders of appropriate width, suitable for all standard highway\u2026", 
+        "locationName": "Pyapon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MAUBIN-PHYAPON ROAD REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          95.5, 
+          16.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2041", 
+      "properties": {
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47086-002", 
+        "info": "The project will rehabilitate a key north\u2012south 54.5-kilometer (km) section of road to two lanes with shoulders of appropriate width, suitable for all standard highway\u2026", 
+        "locationName": "Pyapon District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MAUBIN-PHYAPON ROAD REHABILITATION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MM", 
+  "properties": {
+    "bounds": [
+      92.17497277900006, 
+      9.790716864000132, 
+      101.1738550210001, 
+      28.53846588100005
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mm.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Myanmar"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.16831, 
+          42.9251
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7196", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 99967870.65, 
+        "id": "40643-013", 
+        "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
+        "locationName": "Turfan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.90069, 
+          44.42707
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7197", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 99967870.65, 
+        "id": "40643-013", 
+        "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
+        "locationName": "Kuytun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          93.50601, 
+          42.83393
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7198", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 99967870.65, 
+        "id": "40643-013", 
+        "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
+        "locationName": "Kumul", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.30461, 
+          44.00782
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7199", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 99967870.65, 
+        "id": "40643-013", 
+        "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
+        "locationName": "Yan'an Beilu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.13361, 
+          47.84864
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7200", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 99967870.65, 
+        "id": "40643-013", 
+        "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
+        "locationName": "Altay", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

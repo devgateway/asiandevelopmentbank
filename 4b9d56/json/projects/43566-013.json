@@ -1,0 +1,371 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          73.25, 
+          -0.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1477", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "South Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.25, 
+          0.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1478", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "Upper South Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          6.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1479", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "Upper North Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          3.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1480", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "Central Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.25, 
+          2.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1481", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "South Central Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          4.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1482", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "North Central Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          5.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1483", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 5570000.0, 
+        "disbursementAmount": 1177514.5, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "North Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DEVL PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.25, 
+          -0.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1484", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "South Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.25, 
+          0.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1485", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "Upper South Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          6.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1486", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "Upper North Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          3.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1487", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "Central Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.25, 
+          2.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1488", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "South Central Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          4.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1489", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "North Central Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          5.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1490", 
+      "properties": {
+        "approvalDate": "2012-09-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 4450000.0, 
+        "disbursementAmount": 451252.06, 
+        "id": "43566-013", 
+        "info": "The Asian Development Bank initiated the Private Sector Development Project (PSDP) loan in 2008 which was intended to develop and expand the micro-, small-, and medium-sized enterprise (MSME)\u2026", 
+        "locationName": "North Province", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCLUSIVE MICRO,SMALL & MEDIUM-SIZED ENTERPRISE DE"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MV", 
+  "properties": {
+    "bounds": [
+      72.684825066, 
+      -0.688571872999901, 
+      73.75318444100017, 
+      7.107245184000149
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mv.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Maldives"
+  }, 
+  "type": "FeatureCollection"
+}

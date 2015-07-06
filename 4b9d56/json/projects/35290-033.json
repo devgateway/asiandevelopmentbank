@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.88313, 
+          25.56892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3576", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 13761828.46, 
+        "id": "35290-033", 
+        "info": "The Program assists the North Eastern states in achieving improved environment and well-being of urban residents in Agartala, Aizawl, Gangtok, Kohima and Shillong", 
+        "locationName": "Shillong", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH EASTERN REGION CAPITAL CITIES DEVT INVESTMENT PROG-TR2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          94.11099, 
+          25.67467
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3577", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 13761828.46, 
+        "id": "35290-033", 
+        "info": "The Program assists the North Eastern states in achieving improved environment and well-being of urban residents in Agartala, Aizawl, Gangtok, Kohima and Shillong", 
+        "locationName": "Kohima", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH EASTERN REGION CAPITAL CITIES DEVT INVESTMENT PROG-TR2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.61216, 
+          27.32574
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3578", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 13761828.46, 
+        "id": "35290-033", 
+        "info": "The Program assists the North Eastern states in achieving improved environment and well-being of urban residents in Agartala, Aizawl, Gangtok, Kohima and Shillong", 
+        "locationName": "Gangtok", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH EASTERN REGION CAPITAL CITIES DEVT INVESTMENT PROG-TR2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.71791, 
+          23.72894
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3579", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 13761828.46, 
+        "id": "35290-033", 
+        "info": "The Program assists the North Eastern states in achieving improved environment and well-being of urban residents in Agartala, Aizawl, Gangtok, Kohima and Shillong", 
+        "locationName": "Aizawl", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH EASTERN REGION CAPITAL CITIES DEVT INVESTMENT PROG-TR2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.27939, 
+          23.83605
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3580", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 72000000.0, 
+        "disbursementAmount": 13761828.46, 
+        "id": "35290-033", 
+        "info": "The Program assists the North Eastern states in achieving improved environment and well-being of urban residents in Agartala, Aizawl, Gangtok, Kohima and Shillong", 
+        "locationName": "Agartala", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH EASTERN REGION CAPITAL CITIES DEVT INVESTMENT PROG-TR2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

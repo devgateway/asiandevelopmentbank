@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          98.6663, 
+          3.6539
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2148", 
+      "properties": {
+        "approvalDate": "2010-09-21", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 20275510.34, 
+        "id": "39071-013", 
+        "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
+        "locationName": "Kota Medan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.34528, 
+          -7.75944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2149", 
+      "properties": {
+        "approvalDate": "2010-09-21", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 20275510.34, 
+        "id": "39071-013", 
+        "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
+        "locationName": "Kotamadya Yogyakarta", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.51667, 
+          -7.83444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2150", 
+      "properties": {
+        "approvalDate": "2010-09-21", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 20275510.34, 
+        "id": "39071-013", 
+        "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
+        "locationName": "Kabupaten Bantul", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.32333, 
+          -7.68167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2151", 
+      "properties": {
+        "approvalDate": "2010-09-21", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 20275510.34, 
+        "id": "39071-013", 
+        "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
+        "locationName": "Kabupaten Sleman", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          64.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5285", 
+      "properties": {
+        "approvalDate": "2012-08-30", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 23394134.83, 
+        "id": "42107-043", 
+        "info": "The components proposed for financing under the requested periodic financing request 3 (PFR 3) are: \n\n1.  Road Development Component", 
+        "locationName": "Bukhara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM, TRANCHE 3 (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.75, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5286", 
+      "properties": {
+        "approvalDate": "2012-08-30", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 23394134.83, 
+        "id": "42107-043", 
+        "info": "The components proposed for financing under the requested periodic financing request 3 (PFR 3) are: \n\n1.  Road Development Component", 
+        "locationName": "Jondor Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM, TRANCHE 3 (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.1, 
+          39.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5287", 
+      "properties": {
+        "approvalDate": "2012-08-30", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 23394134.83, 
+        "id": "42107-043", 
+        "info": "The components proposed for financing under the requested periodic financing request 3 (PFR 3) are: \n\n1.  Road Development Component", 
+        "locationName": "Romiton Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM, TRANCHE 3 (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.42861, 
+          39.77472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5288", 
+      "properties": {
+        "approvalDate": "2012-08-30", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 23394134.83, 
+        "id": "42107-043", 
+        "info": "The components proposed for financing under the requested periodic financing request 3 (PFR 3) are: \n\n1.  Road Development Component", 
+        "locationName": "Bukhara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM, TRANCHE 3 (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.39921, 
+          39.53542
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5289", 
+      "properties": {
+        "approvalDate": "2012-08-30", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 23394134.83, 
+        "id": "42107-043", 
+        "info": "The components proposed for financing under the requested periodic financing request 3 (PFR 3) are: \n\n1.  Road Development Component", 
+        "locationName": "Bukhoro Tumani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM, TRANCHE 3 (SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.45, 
+          40.13333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5290", 
+      "properties": {
+        "approvalDate": "2012-08-30", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 23394134.83, 
+        "id": "42107-043", 
+        "info": "The components proposed for financing under the requested periodic financing request 3 (PFR 3) are: \n\n1.  Road Development Component", 
+        "locationName": "Gazli", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM, TRANCHE 3 (SF)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          161.0, 
+          -9.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4293", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-03-16", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Malaita Province", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          160.17562, 
+          -9.61933
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4294", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-03-16", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Guadalcanal Island", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          161.78517, 
+          -10.55751
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4295", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-03-16", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Makira-Ulawa Province", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "SB", 
+  "properties": {
+    "bounds": [
+      155.50798587300008, 
+      -12.290622653999918, 
+      168.8258569670002, 
+      -6.599867445999806
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Solomon Islands"
+  }, 
+  "type": "FeatureCollection"
+}

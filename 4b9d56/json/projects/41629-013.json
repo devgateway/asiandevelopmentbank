@@ -1,0 +1,546 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          87.15696, 
+          25.21758
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3232", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Bhagalpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.0, 
+          26.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3233", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Darbhanga", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.99577, 
+          25.8969
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3234", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Madhepura", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.41667, 
+          26.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3235", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Muzaffarpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.7988, 
+          25.25455
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3236", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Nalanda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.5, 
+          24.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3237", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Nawada", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.91329, 
+          25.56266
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3238", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Patna", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.83333, 
+          26.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3239", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Purba Champaran", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.32762, 
+          25.0503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3240", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Rohtas", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.91667, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3241", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Samastipur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.75, 
+          25.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3242", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Saran", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.5, 
+          26.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3243", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Sitamarhi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.35879, 
+          26.22152
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3244", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Siwan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.41667, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3245", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Vaishali", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.2671, 
+          26.29857
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3246", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Araria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.91667, 
+          25.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3247", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Banka", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.60789, 
+          25.04133
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3248", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Bhabua", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.74513, 
+          25.53736
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3249", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Bhojpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.30167, 
+          24.7375
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3250", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Jamui", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.7332, 
+          25.21855
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3251", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Sheikhpura", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.01194, 
+          26.50823
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3252", 
+      "properties": {
+        "approvalDate": "2010-12-22", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 107361075.98, 
+        "id": "41629-013", 
+        "info": "The Bihar State Highways II Project  will build and upgrade about 389 kilometers (km) of state highways identified under the State Highway Development Program in Bihar", 
+        "locationName": "Supaul", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

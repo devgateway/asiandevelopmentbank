@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          114.38946, 
+          30.72619
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7356", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 37367562.410000004, 
+        "id": "42011-013", 
+        "info": "The proposed project is a key urban environmental initiative of Wuhan municipal government (WMG) with nationwide demonstration potential", 
+        "locationName": "Wuhan Shi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "WUHAN URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.26667, 
+          30.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7357", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 37367562.410000004, 
+        "id": "42011-013", 
+        "info": "The proposed project is a key urban environmental initiative of Wuhan municipal government (WMG) with nationwide demonstration potential", 
+        "locationName": "Wuhan", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "WUHAN URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.35327, 
+          30.61093
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7358", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 37367562.410000004, 
+        "id": "42011-013", 
+        "info": "The proposed project is a key urban environmental initiative of Wuhan municipal government (WMG) with nationwide demonstration potential", 
+        "locationName": "Wuchang Qu", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "WUHAN URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.2734, 
+          30.58012
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7359", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 37367562.410000004, 
+        "id": "42011-013", 
+        "info": "The proposed project is a key urban environmental initiative of Wuhan municipal government (WMG) with nationwide demonstration potential", 
+        "locationName": "Hankou", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "WUHAN URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.18927, 
+          30.55486
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7360", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 37367562.410000004, 
+        "id": "42011-013", 
+        "info": "The proposed project is a key urban environmental initiative of Wuhan municipal government (WMG) with nationwide demonstration potential", 
+        "locationName": "Longyang Lake", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "WUHAN URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.22865, 
+          30.54103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7361", 
+      "properties": {
+        "approvalDate": "2010-10-15", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 37367562.410000004, 
+        "id": "42011-013", 
+        "info": "The proposed project is a key urban environmental initiative of Wuhan municipal government (WMG) with nationwide demonstration potential", 
+        "locationName": "Moshui Lake", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "WUHAN URBAN ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}
