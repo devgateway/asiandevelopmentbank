@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.36304, 
+          22.56263
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2438", 
+      "properties": {
+        "approvalDate": "2007-02-21", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 79062443.34, 
+        "id": "29466-023", 
+        "info": "The supplementary loan will support KMC in achieving the scope and objectives of the original Project", 
+        "locationName": "Kolkata", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "KOLKATA ENVIRONMENTAL IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

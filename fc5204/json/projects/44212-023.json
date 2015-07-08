@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4767", 
+      "properties": {
+        "approvalDate": null, 
+        "closingDate": "2014-10-31", 
+        "commitmentAmount": 0.0, 
+        "disbursementAmount": 485624.33999999997, 
+        "id": "44212-023", 
+        "info": "A PDA funded by $3.5 million equivalent from ADBs Special Funds resources will be provided to support the ensuing project", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "COASTAL TOWNS INFRASTRUCTURE IMPROVEMENT PROJECT (PDA)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

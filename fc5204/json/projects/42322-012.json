@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4032", 
+      "properties": {
+        "approvalDate": "2008-12-17", 
+        "closingDate": "2015-01-05", 
+        "commitmentAmount": 3000000.0, 
+        "disbursementAmount": 3000000.0, 
+        "id": "42322-012", 
+        "info": "ADB has secured a $12 million grant to build on the existing social welfare system and assist the Government in (i) designing and implementing emergency measures that specially target mitigating the\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4033", 
+      "properties": {
+        "approvalDate": "2008-12-17", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 9000000.0, 
+        "disbursementAmount": 9000000.0, 
+        "id": "42322-012", 
+        "info": "ADB has secured a $12 million grant to build on the existing social welfare system and assist the Government in (i) designing and implementing emergency measures that specially target mitigating the\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

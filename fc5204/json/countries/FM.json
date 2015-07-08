@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          138.097, 
+          9.538
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7729", 
+      "properties": {
+        "approvalDate": "2013-06-24", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 4680000.0, 
+        "disbursementAmount": 328500.21, 
+        "id": "44469-013", 
+        "info": "The proposed Yap Renewable Energy Development Project (Project) will support development of the power system in State of Yap (Yap), Federated States of Micronesia (FSM) in order to reduce dependency\u2026", 
+        "locationName": "State of Yap", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "YAP RENEWABLE ENERGY DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          138.097, 
+          9.538
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7730", 
+      "properties": {
+        "approvalDate": "2013-06-24", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 4360000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "44469-013", 
+        "info": "The proposed Yap Renewable Energy Development Project (Project) will support development of the power system in State of Yap (Yap), Federated States of Micronesia (FSM) in order to reduce dependency\u2026", 
+        "locationName": "State of Yap", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "YAP RENEWABLE ENERGY DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "FM", 
+  "properties": {
+    "bounds": [
+      138.06381269600016, 
+      0.918158270000148, 
+      163.04656009200008, 
+      9.775580145000134
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-fm.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-08 01:56:47"
+    }, 
+    "name": "Micronesia, Federated States of"
+  }, 
+  "type": "FeatureCollection"
+}

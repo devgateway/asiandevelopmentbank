@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.91667, 
+          14.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1298", 
+      "properties": {
+        "approvalDate": "2013-11-08", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 504543.0, 
+        "id": "44265-013", 
+        "info": "The project will help the government to further reduce maternal and child mortality by addressing access to and quality gaps in commune health stations (CHSs) and hospitals and by strengthening\u2026", 
+        "locationName": "Kon Tum", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEALTH CARE IN THE CENTRAL HIGHLANDS PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.08333, 
+          11.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1299", 
+      "properties": {
+        "approvalDate": "2013-11-08", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 504543.0, 
+        "id": "44265-013", 
+        "info": "The project will help the government to further reduce maternal and child mortality by addressing access to and quality gaps in commune health stations (CHSs) and hospitals and by strengthening\u2026", 
+        "locationName": "Tinh Lam Dong", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEALTH CARE IN THE CENTRAL HIGHLANDS PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.25, 
+          13.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1300", 
+      "properties": {
+        "approvalDate": "2013-11-08", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 504543.0, 
+        "id": "44265-013", 
+        "info": "The project will help the government to further reduce maternal and child mortality by addressing access to and quality gaps in commune health stations (CHSs) and hospitals and by strengthening\u2026", 
+        "locationName": "Gia Lai", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEALTH CARE IN THE CENTRAL HIGHLANDS PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.25, 
+          12.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1301", 
+      "properties": {
+        "approvalDate": "2013-11-08", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 504543.0, 
+        "id": "44265-013", 
+        "info": "The project will help the government to further reduce maternal and child mortality by addressing access to and quality gaps in commune health stations (CHSs) and hospitals and by strengthening\u2026", 
+        "locationName": "Tinh Dak Lak", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEALTH CARE IN THE CENTRAL HIGHLANDS PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.75, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1302", 
+      "properties": {
+        "approvalDate": "2013-11-08", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 504543.0, 
+        "id": "44265-013", 
+        "info": "The project will help the government to further reduce maternal and child mortality by addressing access to and quality gaps in commune health stations (CHSs) and hospitals and by strengthening\u2026", 
+        "locationName": "Dak Nong", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEALTH CARE IN THE CENTRAL HIGHLANDS PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

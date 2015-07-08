@@ -1,0 +1,796 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.95, 
+          13.05
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1420", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "An Hoa", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.93333, 
+          21.4
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1421", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Co Phap", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.63333, 
+          17.35
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1422", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Dai Giang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.08378, 
+          13.08305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1423", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Dong Cam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.68333, 
+          18.45
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1424", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Dong Tay", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.95, 
+          18.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1425", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Hoa Thang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.01667, 
+          14.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1426", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Hoi Khanh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.84041, 
+          20.96739
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1427", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Ho Linh Dam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.97768, 
+          13.78474
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1428", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Ho Nui Mot", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.2458, 
+          18.05805
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1429", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Ky Anh District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.18335, 
+          13.99843
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1430", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "My Thuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.76667, 
+          20.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1431", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Nam Duong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.78107, 
+          14.46469
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1432", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Nhon Khanh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.20666, 
+          15.95603
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1433", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Nhon Tho", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.0913, 
+          14.47813
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1434", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Song Lai Giang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.98333, 
+          11.55
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1435", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Song Quao", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.7, 
+          18.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1436", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Song Tiem", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.9, 
+          11.18333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1437", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Suoi Saloun", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.15228, 
+          16.3636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1438", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tay Nam Son", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.81123, 
+          18.35091
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1439", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Thach Ha District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.22262, 
+          21.23744
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1440", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Thanh Cam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.08333, 
+          11.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1441", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Binh Thuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.91667, 
+          19.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1442", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Nghe An", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.83333, 
+          11.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1443", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Ninh Thuan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.08333, 
+          13.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1444", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Phu Yen", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.91667, 
+          15.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1445", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Quang Nam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.66667, 
+          15.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1446", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Quang Ngai", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          16.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1447", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Quang Tri", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          20.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1448", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Tinh Thanh Hoa", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.25802, 
+          21.14007
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1449", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Van Phong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.14693, 
+          12.96497
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1450", 
+      "properties": {
+        "approvalDate": "2015-01-23", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 85000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37097-044", 
+        "info": "The additional financing will support the upgrading of underdeveloped or outdated productive rural infrastructure (PRI), thus increasing agricultural and rural productivity", 
+        "locationName": "Xa Hoa Phu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED RURAL DEV SECTOR PROJ IN THE CENTRALPROVINCES:ADDNFIN"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-07-06 18:12:35", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:48"
+    }, 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

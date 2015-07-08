@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.90069, 
+          44.42707
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7117", 
+      "properties": {
+        "approvalDate": "2013-11-07", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 182500.0, 
+        "id": "45508-002", 
+        "info": "The project will improve urban infrastructure facilities and the environment in the cities of Kelamayi and Kuitun in the Xinjiang Uygur Autonomous Region (XUAR), which will contribute to sustainable\u2026", 
+        "locationName": "Kuytun", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG INTEGRATED URBAN DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.88724, 
+          45.58473
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7118", 
+      "properties": {
+        "approvalDate": "2013-11-07", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 182500.0, 
+        "id": "45508-002", 
+        "info": "The project will improve urban infrastructure facilities and the environment in the cities of Kelamayi and Kuitun in the Xinjiang Uygur Autonomous Region (XUAR), which will contribute to sustainable\u2026", 
+        "locationName": "Karamay", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "XINJIANG INTEGRATED URBAN DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

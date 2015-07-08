@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.78495, 
+          36.53646
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7723", 
+      "properties": {
+        "approvalDate": "2015-02-27", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46062-002", 
+        "info": "The project will (i) construct centralized water supply and wastewater treatment systems, and a road for a new industrial park; (ii) upgrade skill training courses on technical and vocational\u2026", 
+        "locationName": "Baiyin Shi", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GANSU BAIYIN INTEGRATED URBAN DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-07-06 18:12:34", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-06 18:12:49"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

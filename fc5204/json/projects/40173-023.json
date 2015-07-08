@@ -1,0 +1,1065 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          143.51381, 
+          -5.95502
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5432", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Winja", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.65, 
+          -5.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5433", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Wabag District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.83333, 
+          -6.28333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5434", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Tari District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.12956, 
+          -5.47418
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5435", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Porgera", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.54937, 
+          -6.04392
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5436", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Peane", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.33333, 
+          -6.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5437", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Nipa District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.4412, 
+          -6.18019
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5438", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Nipa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.5, 
+          -5.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5439", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Koroba District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.73661, 
+          -5.70567
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5440", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Koroba", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          144.0, 
+          -5.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5441", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Kompiam District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.55, 
+          -5.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5442", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Kandep District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.50519, 
+          -5.86641
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5443", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Kandep", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.1, 
+          -5.85
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5444", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Ambua Peaks", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.1, 
+          -5.85
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5445", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Ambua Peaks", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.91511, 
+          -5.87054
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5446", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Hiwinda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.38964, 
+          -5.37804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5447", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Muritaka", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.16667, 
+          -5.38333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5448", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Lagaip-Porgera District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.66667, 
+          -6.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5449", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Mendi District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.65134, 
+          -6.17608
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5450", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Mendi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.3518, 
+          -5.98338
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5451", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Margarima", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.79052, 
+          -5.33105
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5452", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 71200000.0, 
+        "disbursementAmount": 45151402.8, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Laiagam", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENTPROGRAM-PROJECT 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.51381, 
+          -5.95502
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5453", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Winja", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.65, 
+          -5.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5454", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Wabag District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.83333, 
+          -6.28333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5455", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Tari District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.12956, 
+          -5.47418
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5456", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Porgera", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.54937, 
+          -6.04392
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5457", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Peane", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.33333, 
+          -6.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5458", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Nipa District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.4412, 
+          -6.18019
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5459", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Nipa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.5, 
+          -5.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5460", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Koroba District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.73661, 
+          -5.70567
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5461", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Koroba", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          144.0, 
+          -5.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5462", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Kompiam District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.55, 
+          -5.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5463", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Kandep District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.50519, 
+          -5.86641
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5464", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Kandep", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.1, 
+          -5.85
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5465", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Ambua Peaks", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.1, 
+          -5.85
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5466", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Ambua Peaks", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.91511, 
+          -5.87054
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5467", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Hiwinda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.38964, 
+          -5.37804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5468", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Muritaka", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.16667, 
+          -5.38333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5469", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Lagaip-Porgera District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.66667, 
+          -6.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5470", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Mendi District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.65134, 
+          -6.17608
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5471", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Mendi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.3518, 
+          -5.98338
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5472", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Margarima", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.79052, 
+          -5.33105
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5473", 
+      "properties": {
+        "approvalDate": "2009-02-19", 
+        "closingDate": "2015-06-29", 
+        "commitmentAmount": 28800000.0, 
+        "disbursementAmount": 24306652.15, 
+        "id": "40173-023", 
+        "info": "The Investment Program focuses on the Highlands core road network (HCRN) of 2,500 kilometers (km) of major national and some provincial roads, which carry the bulk of the traffic in the region", 
+        "locationName": "Laiagam", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIGHLANDS REGION ROAD IMPROVEMENT INVESTMENT PROGRAM-PROJ.1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PG", 
+  "properties": {
+    "bounds": [
+      140.84921106000016, 
+      -11.636325778999847, 
+      155.96753991, 
+      -1.346368096999882
+    ], 
+    "name": "Papua New Guinea"
+  }, 
+  "type": "FeatureCollection"
+}

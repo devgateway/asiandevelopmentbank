@@ -1,0 +1,365 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.80588, 
+          13.99893
+        ], 
+        "type": "Point"
+      }, 
+      "id": "778", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Tay Thuan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.81471, 
+          13.93922
+        ], 
+        "type": "Point"
+      }, 
+      "id": "779", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Tay Giang", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.91667, 
+          19.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "780", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Tinh Nghe An", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          20.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "781", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Tinh Thanh Hoa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.33333, 
+          17.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "782", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Tinh Quang Binh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.75, 
+          18.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "783", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Tinh Ha Tinh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.0, 
+          14.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "784", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Tinh Binh Dinh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.91667, 
+          15.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "785", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Tinh Quang Nam", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.85251, 
+          19.93354
+        ], 
+        "type": "Point"
+      }, 
+      "id": "786", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Tien Loc", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.58751, 
+          19.07732
+        ], 
+        "type": "Point"
+      }, 
+      "id": "787", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Dien Yen", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.88789, 
+          18.4584
+        ], 
+        "type": "Point"
+      }, 
+      "id": "788", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Thach Bang", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.90788, 
+          18.45555
+        ], 
+        "type": "Point"
+      }, 
+      "id": "789", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Thach Kim", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.48868, 
+          17.66337
+        ], 
+        "type": "Point"
+      }, 
+      "id": "790", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Xa Thanh Trach", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.4869, 
+          15.84999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "791", 
+      "properties": {
+        "approvalDate": "2010-02-02", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 14527343.850000001, 
+        "id": "40364-013", 
+        "info": "The project will increase access to water supply and sanitation, improving the health and quality of life of the rural population in six selected provinces in the central coastal region of Viet Nam", 
+        "locationName": "Huyen Tay Giang", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION RURAL WATER SUPPLY AND SANITATION SECTOR PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

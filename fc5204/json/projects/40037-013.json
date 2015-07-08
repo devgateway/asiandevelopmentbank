@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          146.98469, 
+          -6.72208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5430", 
+      "properties": {
+        "approvalDate": "2008-06-12", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 50254315.019999996, 
+        "id": "40037-013", 
+        "info": "The objective of the Project is to expand the cargo handling capacity of Lae port, improve the livelihood of those directly or indirectly affected, and reduce the incidence of HIV/AIDS in\u2026", 
+        "locationName": "Lae", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LAE PORT DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          146.98469, 
+          -6.72208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5431", 
+      "properties": {
+        "approvalDate": "2008-06-12", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 38422576.59, 
+        "id": "40037-013", 
+        "info": "The objective of the Project is to expand the cargo handling capacity of Lae port, improve the livelihood of those directly or indirectly affected, and reduce the incidence of HIV/AIDS in\u2026", 
+        "locationName": "Lae", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LAE PORT DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PG", 
+  "properties": {
+    "bounds": [
+      140.84921106000016, 
+      -11.636325778999847, 
+      155.96753991, 
+      -1.346368096999882
+    ], 
+    "name": "Papua New Guinea"
+  }, 
+  "type": "FeatureCollection"
+}
