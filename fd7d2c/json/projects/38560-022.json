@@ -1,0 +1,921 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.65238,
+          12.49167
+        ],
+        "type": "Point"
+      },
+      "id": "6119",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Ta Lou",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.96232,
+          13.80208
+        ],
+        "type": "Point"
+      },
+      "id": "6120",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Svay Chek",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.0,
+          13.5
+        ],
+        "type": "Point"
+      },
+      "id": "6121",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Siem Reap",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.28333,
+          13.08333
+        ],
+        "type": "Point"
+      },
+      "id": "6122",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Srok Sandan",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.62549,
+          12.39014
+        ],
+        "type": "Point"
+      },
+      "id": "6123",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Pralay Meas",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.04799,
+          13.77239
+        ],
+        "type": "Point"
+      },
+      "id": "6124",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Ta Pho",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.06146,
+          13.06003
+        ],
+        "type": "Point"
+      },
+      "id": "6125",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Ta Kream",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.05094,
+          12.96835
+        ],
+        "type": "Point"
+      },
+      "id": "6126",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Snoeng",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.94157,
+          13.7536
+        ],
+        "type": "Point"
+      },
+      "id": "6127",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Sala Kraom",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.04207,
+          13.40432
+        ],
+        "type": "Point"
+      },
+      "id": "6128",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Popel",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.10066,
+          13.02956
+        ],
+        "type": "Point"
+      },
+      "id": "6129",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Phnum Sampou",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.12646,
+          13.83298
+        ],
+        "type": "Point"
+      },
+      "id": "6130",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Phkoam",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.67077,
+          12.66138
+        ],
+        "type": "Point"
+      },
+      "id": "6131",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi O Ta Paong",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.28856,
+          12.51729
+        ],
+        "type": "Point"
+      },
+      "id": "6132",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Bak Sna Khang Kaeut",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.82202,
+          11.99136
+        ],
+        "type": "Point"
+      },
+      "id": "6133",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Ampil Toek",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.25348,
+          12.73792
+        ],
+        "type": "Point"
+      },
+      "id": "6134",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Peam Bang",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          12.83333
+        ],
+        "type": "Point"
+      },
+      "id": "6135",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Kampong Thom",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.55,
+          12.16667
+        ],
+        "type": "Point"
+      },
+      "id": "6136",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Kampong Chhnang",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.0,
+          13.75
+        ],
+        "type": "Point"
+      },
+      "id": "6137",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Banteay Meanchey",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.55549,
+          11.86788
+        ],
+        "type": "Point"
+      },
+      "id": "6138",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Srok Sameakki Mean Chey",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.1062,
+          14.07087
+        ],
+        "type": "Point"
+      },
+      "id": "6139",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Banteay Chhmar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.19357,
+          13.06685
+        ],
+        "type": "Point"
+      },
+      "id": "6140",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Ngon",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.39833,
+          13.84706
+        ],
+        "type": "Point"
+      },
+      "id": "6141",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Nam Tau",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.24463,
+          12.47562
+        ],
+        "type": "Point"
+      },
+      "id": "6142",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Krava",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          102.94465,
+          13.99766
+        ],
+        "type": "Point"
+      },
+      "id": "6143",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Kouk Romiet",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.4,
+          12.46667
+        ],
+        "type": "Point"
+      },
+      "id": "6144",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Kokir Thum",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.48213,
+          13.41418
+        ],
+        "type": "Point"
+      },
+      "id": "6145",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Khvav",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.22309,
+          12.52515
+        ],
+        "type": "Point"
+      },
+      "id": "6146",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Kbal Trach",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.68968,
+          13.75427
+        ],
+        "type": "Point"
+      },
+      "id": "6147",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Don Penh",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.30206,
+          13.10137
+        ],
+        "type": "Point"
+      },
+      "id": "6148",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Chikreng",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.08266,
+          13.37307
+        ],
+        "type": "Point"
+      },
+      "id": "6149",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Chant Sar Khang Cheung",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.11928,
+          12.42872
+        ],
+        "type": "Point"
+      },
+      "id": "6150",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Boeng (1)",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.16148,
+          12.99191
+        ],
+        "type": "Point"
+      },
+      "id": "6151",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Bay Damram",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.04724,
+          13.67197
+        ],
+        "type": "Point"
+      },
+      "id": "6152",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Phumi Baos Sbov",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.66667,
+          12.33333
+        ],
+        "type": "Point"
+      },
+      "id": "6153",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Pursat",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          103.08333,
+          12.91667
+        ],
+        "type": "Point"
+      },
+      "id": "6154",
+      "properties": {
+        "approvalDate": "2009-09-17",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 18903491.8,
+        "id": "38560-022",
+        "info": "The Project is designed to expand access to improved rural water supply and sanitation (RWSS), and improve health of rural residents in 6 project provinces around the Tonle Sap basin in\u2026",
+        "locationName": "Battambang",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SECOND RURAL WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KH",
+  "properties": {
+    "bounds": [
+      102.31342370600012,
+      10.415773620000081,
+      107.61051639900009,
+      14.704581605000087
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Cambodia"
+  },
+  "type": "FeatureCollection"
+}

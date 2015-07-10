@@ -1,0 +1,546 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          145.39188,
+          -6.08169
+        ],
+        "type": "Point"
+      },
+      "id": "5910",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Goroka Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.33756,
+          -10.31108
+        ],
+        "type": "Point"
+      },
+      "id": "5911",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Gurney Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.405,
+          -5.46217
+        ],
+        "type": "Point"
+      },
+      "id": "5912",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Hoskins Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.808,
+          -2.5794
+        ],
+        "type": "Point"
+      },
+      "id": "5913",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Kavieng Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.29601,
+          -5.82679
+        ],
+        "type": "Point"
+      },
+      "id": "5914",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Mount Hagen Kagamuga Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          147.22005,
+          -9.44338
+        ],
+        "type": "Point"
+      },
+      "id": "5915",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Jacksons International Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.66919,
+          -3.58383
+        ],
+        "type": "Point"
+      },
+      "id": "5916",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 25000000.0,
+        "disbursementAmount": 17440533.55,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Wewak",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM-PROJECT 1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.39188,
+          -6.08169
+        ],
+        "type": "Point"
+      },
+      "id": "5917",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Goroka Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.33756,
+          -10.31108
+        ],
+        "type": "Point"
+      },
+      "id": "5918",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Gurney Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.405,
+          -5.46217
+        ],
+        "type": "Point"
+      },
+      "id": "5919",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Hoskins Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.808,
+          -2.5794
+        ],
+        "type": "Point"
+      },
+      "id": "5920",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Kavieng Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.29601,
+          -5.82679
+        ],
+        "type": "Point"
+      },
+      "id": "5921",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Mount Hagen Kagamuga Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          147.22005,
+          -9.44338
+        ],
+        "type": "Point"
+      },
+      "id": "5922",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Jacksons International Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.66919,
+          -3.58383
+        ],
+        "type": "Point"
+      },
+      "id": "5923",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 35498981.660000004,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Wewak",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (STL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          145.39188,
+          -6.08169
+        ],
+        "type": "Point"
+      },
+      "id": "5924",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Goroka Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.33756,
+          -10.31108
+        ],
+        "type": "Point"
+      },
+      "id": "5925",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Gurney Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.405,
+          -5.46217
+        ],
+        "type": "Point"
+      },
+      "id": "5926",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Hoskins Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          150.808,
+          -2.5794
+        ],
+        "type": "Point"
+      },
+      "id": "5927",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Kavieng Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          144.29601,
+          -5.82679
+        ],
+        "type": "Point"
+      },
+      "id": "5928",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Mount Hagen Kagamuga Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          147.22005,
+          -9.44338
+        ],
+        "type": "Point"
+      },
+      "id": "5929",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Jacksons International Airport",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          143.66919,
+          -3.58383
+        ],
+        "type": "Point"
+      },
+      "id": "5930",
+      "properties": {
+        "approvalDate": "2010-01-28",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 14165254.31,
+        "id": "43141-023",
+        "info": "The program involves upgrading and rehabilitation of airports identified under project 1: (i) Wewak, (ii) Hoskins, (iii) Gurney, (iv) Mt. Hagen, and (v) Jackson's domestic airport",
+        "locationName": "Wewak",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "MFF-CIVIL AVIATION DEVELOPMENT INVESTMENT PROGRAM -PROJ 1 (HTL)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PG",
+  "properties": {
+    "bounds": [
+      140.84921106000016,
+      -11.636325778999847,
+      155.96753991,
+      -1.346368096999882
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Papua New Guinea"
+  },
+  "type": "FeatureCollection"
+}

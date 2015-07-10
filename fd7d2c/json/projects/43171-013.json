@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          44.83368,
+          41.69411
+        ],
+        "type": "Point"
+      },
+      "id": "8369",
+      "properties": {
+        "approvalDate": "2009-08-20",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 30000000.0,
+        "disbursementAmount": 29675115.15,
+        "id": "43171-013",
+        "info": "The proposed Municipal Services Development Project - Phase 2 (MSDP 2) finances investments in municipal infrastructure and utility services",
+        "locationName": "Tbilisi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "MUNICIPAL SERVICES DEVELOPMENT PROJECT - PHASE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          42.19083,
+          41.63
+        ],
+        "type": "Point"
+      },
+      "id": "8370",
+      "properties": {
+        "approvalDate": "2009-08-20",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 30000000.0,
+        "disbursementAmount": 29675115.15,
+        "id": "43171-013",
+        "info": "The proposed Municipal Services Development Project - Phase 2 (MSDP 2) finances investments in municipal infrastructure and utility services",
+        "locationName": "Shuakhevi",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "MUNICIPAL SERVICES DEVELOPMENT PROJECT - PHASE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          43.4425,
+          42.57944
+        ],
+        "type": "Point"
+      },
+      "id": "8371",
+      "properties": {
+        "approvalDate": "2009-08-20",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 30000000.0,
+        "disbursementAmount": 29675115.15,
+        "id": "43171-013",
+        "info": "The proposed Municipal Services Development Project - Phase 2 (MSDP 2) finances investments in municipal infrastructure and utility services",
+        "locationName": "Oni",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "MUNICIPAL SERVICES DEVELOPMENT PROJECT - PHASE 2"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          41.94139,
+          41.59694
+        ],
+        "type": "Point"
+      },
+      "id": "8372",
+      "properties": {
+        "approvalDate": "2009-08-20",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 30000000.0,
+        "disbursementAmount": 29675115.15,
+        "id": "43171-013",
+        "info": "The proposed Municipal Services Development Project - Phase 2 (MSDP 2) finances investments in municipal infrastructure and utility services",
+        "locationName": "K'eda",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "MUNICIPAL SERVICES DEVELOPMENT PROJECT - PHASE 2"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "GE",
+  "properties": {
+    "bounds": [
+      39.985976355423105,
+      41.044110820000114,
+      46.694803101000076,
+      43.57584259000011
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Georgia"
+  },
+  "type": "FeatureCollection"
+}

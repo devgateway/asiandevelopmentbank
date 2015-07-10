@@ -1,0 +1,221 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.56667,
+          37.7747
+        ],
+        "type": "Point"
+      },
+      "id": "6695",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Yokhsu",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.64424,
+          38.77634
+        ],
+        "type": "Point"
+      },
+      "id": "6696",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Sayod",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.41456,
+          37.65191
+        ],
+        "type": "Point"
+      },
+      "id": "6697",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Somonchi",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.55488,
+          37.7788
+        ],
+        "type": "Point"
+      },
+      "id": "6698",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Qurbonshahid",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.56057,
+          37.61293
+        ],
+        "type": "Point"
+      },
+      "id": "6699",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Metintuqay",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.62226,
+          37.92785
+        ],
+        "type": "Point"
+      },
+      "id": "6700",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Vose' District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.8086,
+          38.01318
+        ],
+        "type": "Point"
+      },
+      "id": "6701",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Kulob District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          69.33277,
+          37.52526
+        ],
+        "type": "Point"
+      },
+      "id": "6702",
+      "properties": {
+        "approvalDate": "2007-11-02",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 22000000.0,
+        "disbursementAmount": 22283549.630000003,
+        "id": "40046-013",
+        "info": "Tajikistan is susceptible to natural disasters, particularly floods",
+        "locationName": "Farkhor District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Completion",
+        "title": "KHATLON PROVINCE FLOOD RISK MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TJ",
+  "properties": {
+    "bounds": [
+      67.34269006300022,
+      36.67864084900019,
+      75.16412479700008,
+      41.039976705000086
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Tajikistan"
+  },
+  "type": "FeatureCollection"
+}

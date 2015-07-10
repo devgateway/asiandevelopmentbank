@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          115.38679,
+          30.87504
+        ],
+        "type": "Point"
+      },
+      "id": "7721",
+      "properties": {
+        "approvalDate": "2015-02-06",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46050-002",
+        "info": "The project aims to promote environmentally sustainable and socially inclusive urbanization in Huanggang, Hubei Province by improving the urban environment",
+        "locationName": "Huanggang Shi",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "HUBEI HUANGGANG URBAN ENVIRONMENT IMPROVEMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.87035,
+          30.45143
+        ],
+        "type": "Point"
+      },
+      "id": "7722",
+      "properties": {
+        "approvalDate": "2015-02-06",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46050-002",
+        "info": "The project aims to promote environmentally sustainable and socially inclusive urbanization in Huanggang, Hubei Province by improving the urban environment",
+        "locationName": "Wangchau",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "HUBEI HUANGGANG URBAN ENVIRONMENT IMPROVEMENT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

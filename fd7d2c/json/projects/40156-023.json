@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          74.8629,
+          12.8108
+        ],
+        "type": "Point"
+      },
+      "id": "3294",
+      "properties": {
+        "approvalDate": "2011-08-17",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 51555000.0,
+        "disbursementAmount": 11034410.7,
+        "id": "40156-023",
+        "info": "The investment program will address immediate coastal protection needs and coastal instability using environmentally and socially appropriate solutions, with a focus on softer options such as\u2026",
+        "locationName": "Ullal",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SUSTAINABLE COASTAL PROTECTION & MGMT. INVESTMENT PROG-TRNCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          73.27062,
+          17.01091
+        ],
+        "type": "Point"
+      },
+      "id": "3295",
+      "properties": {
+        "approvalDate": "2011-08-17",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 51555000.0,
+        "disbursementAmount": 11034410.7,
+        "id": "40156-023",
+        "info": "The investment program will address immediate coastal protection needs and coastal instability using environmentally and socially appropriate solutions, with a focus on softer options such as\u2026",
+        "locationName": "Mirya Bay",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SUSTAINABLE COASTAL PROTECTION & MGMT. INVESTMENT PROG-TRNCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.0,
+          19.5
+        ],
+        "type": "Point"
+      },
+      "id": "3296",
+      "properties": {
+        "approvalDate": "2011-08-17",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 51555000.0,
+        "disbursementAmount": 11034410.7,
+        "id": "40156-023",
+        "info": "The investment program will address immediate coastal protection needs and coastal instability using environmentally and socially appropriate solutions, with a focus on softer options such as\u2026",
+        "locationName": "Maharashtra",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SUSTAINABLE COASTAL PROTECTION & MGMT. INVESTMENT PROG-TRNCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          76.0,
+          13.5
+        ],
+        "type": "Point"
+      },
+      "id": "3297",
+      "properties": {
+        "approvalDate": "2011-08-17",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 51555000.0,
+        "disbursementAmount": 11034410.7,
+        "id": "40156-023",
+        "info": "The investment program will address immediate coastal protection needs and coastal instability using environmentally and socially appropriate solutions, with a focus on softer options such as\u2026",
+        "locationName": "Karnataka",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SUSTAINABLE COASTAL PROTECTION & MGMT. INVESTMENT PROG-TRNCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          74.08333,
+          15.33333
+        ],
+        "type": "Point"
+      },
+      "id": "3298",
+      "properties": {
+        "approvalDate": "2011-08-17",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 51555000.0,
+        "disbursementAmount": 11034410.7,
+        "id": "40156-023",
+        "info": "The investment program will address immediate coastal protection needs and coastal instability using environmentally and socially appropriate solutions, with a focus on softer options such as\u2026",
+        "locationName": "Goa",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF-SUSTAINABLE COASTAL PROTECTION & MGMT. INVESTMENT PROG-TRNCHE"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,971 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.3233,
+          23.84886
+        ],
+        "type": "Point"
+      },
+      "id": "4773",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Dewanbari",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.88068,
+          23.70538
+        ],
+        "type": "Point"
+      },
+      "id": "4774",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Bakhrabad",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.0117,
+          24.04016
+        ],
+        "type": "Point"
+      },
+      "id": "4775",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Ashuganj",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.11228,
+          23.97464
+        ],
+        "type": "Point"
+      },
+      "id": "4776",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Brahmanbaria",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.16667,
+          23.98333
+        ],
+        "type": "Point"
+      },
+      "id": "4777",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Brahmanbaria District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.00987,
+          23.4417
+        ],
+        "type": "Point"
+      },
+      "id": "4778",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Comilla District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.16667,
+          23.5
+        ],
+        "type": "Point"
+      },
+      "id": "4779",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Jhenaidah District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.16667,
+          23.08333
+        ],
+        "type": "Point"
+      },
+      "id": "4780",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Jessore District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.75,
+          22.4
+        ],
+        "type": "Point"
+      },
+      "id": "4781",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Bagerhat District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.33333,
+          22.5
+        ],
+        "type": "Point"
+      },
+      "id": "4782",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Khulna District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.65944,
+          22.60333
+        ],
+        "type": "Point"
+      },
+      "id": "4783",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Barabkunda",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.72715,
+          24.11546
+        ],
+        "type": "Point"
+      },
+      "id": "4784",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Monohordi",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.91667,
+          23.83333
+        ],
+        "type": "Point"
+      },
+      "id": "4785",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Kushtia District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.4013,
+          23.01134
+        ],
+        "type": "Point"
+      },
+      "id": "4786",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Feni",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.59197,
+          22.49015
+        ],
+        "type": "Point"
+      },
+      "id": "4787",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Mongla",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.59197,
+          22.49015
+        ],
+        "type": "Point"
+      },
+      "id": "4788",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Mongla",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.59197,
+          22.49015
+        ],
+        "type": "Point"
+      },
+      "id": "4789",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Mongla",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.90532,
+          23.50092
+        ],
+        "type": "Point"
+      },
+      "id": "4790",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Kutumbapur",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.91274,
+          24.33682
+        ],
+        "type": "Point"
+      },
+      "id": "4791",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2017-09-30",
+        "commitmentAmount": 261000000.0,
+        "disbursementAmount": 122332175.13000001,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Elenga",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.3233,
+          23.84886
+        ],
+        "type": "Point"
+      },
+      "id": "4792",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Dewanbari",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.88068,
+          23.70538
+        ],
+        "type": "Point"
+      },
+      "id": "4793",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Bakhrabad",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.0117,
+          24.04016
+        ],
+        "type": "Point"
+      },
+      "id": "4794",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Ashuganj",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.11228,
+          23.97464
+        ],
+        "type": "Point"
+      },
+      "id": "4795",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Brahmanbaria",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.16667,
+          23.98333
+        ],
+        "type": "Point"
+      },
+      "id": "4796",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Brahmanbaria District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.00987,
+          23.4417
+        ],
+        "type": "Point"
+      },
+      "id": "4797",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Comilla District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.16667,
+          23.5
+        ],
+        "type": "Point"
+      },
+      "id": "4798",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Jhenaidah District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.16667,
+          23.08333
+        ],
+        "type": "Point"
+      },
+      "id": "4799",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Jessore District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.75,
+          22.4
+        ],
+        "type": "Point"
+      },
+      "id": "4800",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Bagerhat District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.33333,
+          22.5
+        ],
+        "type": "Point"
+      },
+      "id": "4801",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Khulna District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.65944,
+          22.60333
+        ],
+        "type": "Point"
+      },
+      "id": "4802",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Barabkunda",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.72715,
+          24.11546
+        ],
+        "type": "Point"
+      },
+      "id": "4803",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Monohordi",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.91667,
+          23.83333
+        ],
+        "type": "Point"
+      },
+      "id": "4804",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Kushtia District",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          91.4013,
+          23.01134
+        ],
+        "type": "Point"
+      },
+      "id": "4805",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Feni",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.59197,
+          22.49015
+        ],
+        "type": "Point"
+      },
+      "id": "4806",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Mongla",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.59197,
+          22.49015
+        ],
+        "type": "Point"
+      },
+      "id": "4807",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Mongla",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.59197,
+          22.49015
+        ],
+        "type": "Point"
+      },
+      "id": "4808",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Mongla",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.90532,
+          23.50092
+        ],
+        "type": "Point"
+      },
+      "id": "4809",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Kutumbapur",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.91274,
+          24.33682
+        ],
+        "type": "Point"
+      },
+      "id": "4810",
+      "properties": {
+        "approvalDate": "2010-06-03",
+        "closingDate": "2015-09-30",
+        "commitmentAmount": 5000000.0,
+        "disbursementAmount": 1061863.1099999999,
+        "id": "38164-013",
+        "info": "The objective of the Project is to increase access to, and reliability of, natural gas supply in Bangladesh through capacity expansion and efficiency improvements in natural gas production,\u2026",
+        "locationName": "Elenga",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NATURAL GAS ACCESS IMPROVEMENT PROJECT (SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0,
+          28.0
+        ],
+        "type": "Point"
+      },
+      "id": "2354",
+      "properties": {
+        "approvalDate": "2010-12-23",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 60400000.0,
+        "disbursementAmount": 29871025.04,
+        "id": "36169-023",
+        "info": "The Program is the second of two subprograms under the Cluster Program",
+        "locationName": "Nepal",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "RURAL FINANCE SECTOR DEVELOPMENT CLUSTER PROGRAM (SUBPROGRAM2)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "NP",
+  "properties": {
+    "bounds": [
+      80.03028772000005,
+      26.343767802000087,
+      88.1690674240001,
+      30.416904195000086
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "Nepal"
+  },
+  "type": "FeatureCollection"
+}

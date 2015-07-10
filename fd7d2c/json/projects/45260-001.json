@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.5,
+          27.5
+        ],
+        "type": "Point"
+      },
+      "id": "6792",
+      "properties": {
+        "approvalDate": "2013-01-30",
+        "closingDate": "2013-03-26",
+        "commitmentAmount": 3330000.0,
+        "disbursementAmount": 3330000.0,
+        "id": "45260-001",
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026",
+        "locationName": "Bhutan",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "SASEC TRADE FACILITATION PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "6793",
+      "properties": {
+        "approvalDate": "2013-01-30",
+        "closingDate": "2013-03-26",
+        "commitmentAmount": 3330000.0,
+        "disbursementAmount": 3330000.0,
+        "id": "45260-001",
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "SASEC TRADE FACILITATION PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          84.0,
+          28.0
+        ],
+        "type": "Point"
+      },
+      "id": "6794",
+      "properties": {
+        "approvalDate": "2013-01-30",
+        "closingDate": "2013-03-26",
+        "commitmentAmount": 3330000.0,
+        "disbursementAmount": 3330000.0,
+        "id": "45260-001",
+        "info": "The South Asian Sub-regional Economic Cooperation (SASEC) Sub-Regional Trade Facilitation Program supports ADB s regional cooperation strategy for South Asia (2011-2015) and builds on the commitments\u2026",
+        "locationName": "Nepal",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Completion",
+        "title": "SASEC TRADE FACILITATION PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BT",
+  "properties": {
+    "bounds": [
+      88.73006677200013,
+      26.69614939400016,
+      92.08877648900014,
+      28.358398930786294
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Bhutan"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.26973,
+          22.52038
+        ],
+        "type": "Point"
+      },
+      "id": "3874",
+      "properties": {
+        "approvalDate": "2014-03-03",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4841812.96,
+        "id": "42266-023",
+        "info": "The Kolkata Municipal Corporation (KMC), created to administer the city under the KMC Act in 1980, is responsible for delivering water and sewerage services",
+        "locationName": "Santoshpur",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:KOLKATA ENVIRONMENTAL IMPROVEMENT INVESTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.36341,
+          22.78367
+        ],
+        "type": "Point"
+      },
+      "id": "3875",
+      "properties": {
+        "approvalDate": "2014-03-03",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4841812.96,
+        "id": "42266-023",
+        "info": "The Kolkata Municipal Corporation (KMC), created to administer the city under the KMC Act in 1980, is responsible for delivering water and sewerage services",
+        "locationName": "Palta",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:KOLKATA ENVIRONMENTAL IMPROVEMENT INVESTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.36304,
+          22.56263
+        ],
+        "type": "Point"
+      },
+      "id": "3876",
+      "properties": {
+        "approvalDate": "2014-03-03",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4841812.96,
+        "id": "42266-023",
+        "info": "The Kolkata Municipal Corporation (KMC), created to administer the city under the KMC Act in 1980, is responsible for delivering water and sewerage services",
+        "locationName": "Kolkata",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:KOLKATA ENVIRONMENTAL IMPROVEMENT INVESTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.27884,
+          22.50147
+        ],
+        "type": "Point"
+      },
+      "id": "3877",
+      "properties": {
+        "approvalDate": "2014-03-03",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4841812.96,
+        "id": "42266-023",
+        "info": "The Kolkata Municipal Corporation (KMC), created to administer the city under the KMC Act in 1980, is responsible for delivering water and sewerage services",
+        "locationName": "Behala",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:KOLKATA ENVIRONMENTAL IMPROVEMENT INVESTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.28528,
+          22.52167
+        ],
+        "type": "Point"
+      },
+      "id": "3878",
+      "properties": {
+        "approvalDate": "2014-03-03",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 4841812.96,
+        "id": "42266-023",
+        "info": "The Kolkata Municipal Corporation (KMC), created to administer the city under the KMC Act in 1980, is responsible for delivering water and sewerage services",
+        "locationName": "Garden Reach Water Works",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "MFF:KOLKATA ENVIRONMENTAL IMPROVEMENT INVESTMENT PROGRAM-TRANCHE"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "IN",
+  "properties": {
+    "bounds": [
+      68.1434025400001,
+      6.74555084800015,
+      97.36225305200006,
+      35.49540557900009
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "India"
+  },
+  "type": "FeatureCollection"
+}

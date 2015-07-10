@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333,
+          16.16667
+        ],
+        "type": "Point"
+      },
+      "id": "1231",
+      "properties": {
+        "approvalDate": "2012-09-07",
+        "closingDate": "2013-03-31",
+        "commitmentAmount": 40000000.0,
+        "disbursementAmount": 39825321.06,
+        "id": "42235-013",
+        "info": "The Micofinance Development Program will support the development of a market-oriented microfinance to increase access to formal financial services for the poor, especially in rural areas",
+        "locationName": "Socialist Republic of Vietnam",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "MICROFINANCE DEVELOPMENT PROGRAM-SUBPROGRAM 1(SF)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "Viet Nam"
+  },
+  "type": "FeatureCollection"
+}

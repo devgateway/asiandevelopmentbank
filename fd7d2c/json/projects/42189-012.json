@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.34843,
+          38.37137
+        ],
+        "type": "Point"
+      },
+      "id": "6630",
+      "properties": {
+        "approvalDate": "2008-12-26",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 54770000.0,
+        "disbursementAmount": 42211337.190000005,
+        "id": "42189-012",
+        "info": "The Nurek 500 kV Switchyard Reconstruction Project (the Project) will build a new Nurek 500 kV switchyard on a new site within the Nurek Hydroelectric Power Plant (HEPP) complex to replace the\u2026",
+        "locationName": "Nurek Dam",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "NUREK 500 KV SWITCHYARD RECONSTRUCTION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TJ",
+  "properties": {
+    "bounds": [
+      67.34269006300022,
+      36.67864084900019,
+      75.16412479700008,
+      41.039976705000086
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Tajikistan"
+  },
+  "type": "FeatureCollection"
+}

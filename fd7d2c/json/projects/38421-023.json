@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "6383",
+      "properties": {
+        "approvalDate": "2010-10-22",
+        "closingDate": "2011-04-30",
+        "commitmentAmount": 10000000.0,
+        "disbursementAmount": 10181133.29,
+        "id": "38421-023",
+        "info": "1. I submit for your approval the following report and recommendation on (i) a proposed loan, and (ii) a proposed grant, both to the Kingdom of Cambodia for subprogram 2 of the\nPromoting Economic\u2026",
+        "locationName": "Cambodia",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Completion",
+        "title": "PROMOTING ECONOMIC DIVERSIFICATION PROGRAM (SUBPROGRAM 2)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KH",
+  "properties": {
+    "bounds": [
+      102.31342370600012,
+      10.415773620000081,
+      107.61051639900009,
+      14.704581605000087
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Cambodia"
+  },
+  "type": "FeatureCollection"
+}

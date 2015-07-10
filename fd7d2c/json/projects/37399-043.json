@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667,
+          27.1
+        ],
+        "type": "Point"
+      },
+      "id": "6785",
+      "properties": {
+        "approvalDate": "2013-10-02",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 39000000.0,
+        "disbursementAmount": 35112904.44,
+        "id": "37399-043",
+        "info": "The Green Power Development Project was approved on 29 October 2008. It includes two components: (i) hydropower development and (ii) rural electrification",
+        "locationName": "Dagana Dzongkhag",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "GREEN POWER DEVELOPMENT PROJECT - ADDITIONAL FINANCING"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BT",
+  "properties": {
+    "bounds": [
+      88.73006677200013,
+      26.69614939400016,
+      92.08877648900014,
+      28.358398930786294
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Bhutan"
+  },
+  "type": "FeatureCollection"
+}

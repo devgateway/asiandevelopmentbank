@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          43.4999,
+          41.99998
+        ],
+        "type": "Point"
+      },
+      "id": "8423",
+      "properties": {
+        "approvalDate": "2015-02-05",
+        "closingDate": "2018-06-30",
+        "commitmentAmount": 108000000.0,
+        "disbursementAmount": 0.0,
+        "id": "43405-026",
+        "info": "Project 4 will finance the water supply and sanitation (WSS) services in Zugdidi and Poti, respectively, which are two of the seven secondary towns covered by the Urban Services Improvement\u2026",
+        "locationName": "Georgia",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM - TRANCHE 4"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "GE",
+  "properties": {
+    "bounds": [
+      39.985976355423105,
+      41.044110820000114,
+      46.694803101000076,
+      43.57584259000011
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Georgia"
+  },
+  "type": "FeatureCollection"
+}

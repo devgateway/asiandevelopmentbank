@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          119.0,
+          36.0
+        ],
+        "type": "Point"
+      },
+      "id": "7352",
+      "properties": {
+        "approvalDate": "2010-06-17",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 66080000.0,
+        "disbursementAmount": 21791506.91,
+        "id": "40682-013",
+        "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026",
+        "locationName": "Shandong Sheng",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          116.0,
+          28.0
+        ],
+        "type": "Point"
+      },
+      "id": "7353",
+      "properties": {
+        "approvalDate": "2010-06-17",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 66080000.0,
+        "disbursementAmount": 21791506.91,
+        "id": "40682-013",
+        "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026",
+        "locationName": "Jiangxi Sheng",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          114.0,
+          34.0
+        ],
+        "type": "Point"
+      },
+      "id": "7354",
+      "properties": {
+        "approvalDate": "2010-06-17",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 66080000.0,
+        "disbursementAmount": 21791506.91,
+        "id": "40682-013",
+        "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026",
+        "locationName": "Henan Sheng",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          128.0,
+          48.0
+        ],
+        "type": "Point"
+      },
+      "id": "7355",
+      "properties": {
+        "approvalDate": "2010-06-17",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 66080000.0,
+        "disbursementAmount": 21791506.91,
+        "id": "40682-013",
+        "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026",
+        "locationName": "Heilongjiang Sheng",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

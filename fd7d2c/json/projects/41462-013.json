@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.34799,
+          21.32823
+        ],
+        "type": "Point"
+      },
+      "id": "1173",
+      "properties": {
+        "approvalDate": "2012-03-09",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 8805641.48,
+        "id": "41462-013",
+        "info": "The proposed Project will address critical urban development issues of Viet Tri, Hung Yen, and Dong Dang in northern Viet Nam along the North-South economic corridor (NSEC), in contributing to the\u2026",
+        "locationName": "Xa Thuy Van",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "COMPRE SOCIO-ECO URBAN DEV'L PROJ N VIET TRI, HUNG YEN, &DONG DAN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.7112,
+          21.97515
+        ],
+        "type": "Point"
+      },
+      "id": "1174",
+      "properties": {
+        "approvalDate": "2012-03-09",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 8805641.48,
+        "id": "41462-013",
+        "info": "The proposed Project will address critical urban development issues of Viet Tri, Hung Yen, and Dong Dang in northern Viet Nam along the North-South economic corridor (NSEC), in contributing to the\u2026",
+        "locationName": "Huu Nghi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "COMPRE SOCIO-ECO URBAN DEV'L PROJ N VIET TRI, HUNG YEN, &DONG DAN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.40198,
+          21.32274
+        ],
+        "type": "Point"
+      },
+      "id": "1175",
+      "properties": {
+        "approvalDate": "2012-03-09",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 8805641.48,
+        "id": "41462-013",
+        "info": "The proposed Project will address critical urban development issues of Viet Tri, Hung Yen, and Dong Dang in northern Viet Nam along the North-South economic corridor (NSEC), in contributing to the\u2026",
+        "locationName": "Viet Tri",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "COMPRE SOCIO-ECO URBAN DEV'L PROJ N VIET TRI, HUNG YEN, &DONG DAN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.05112,
+          20.64637
+        ],
+        "type": "Point"
+      },
+      "id": "1176",
+      "properties": {
+        "approvalDate": "2012-03-09",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 8805641.48,
+        "id": "41462-013",
+        "info": "The proposed Project will address critical urban development issues of Viet Tri, Hung Yen, and Dong Dang in northern Viet Nam along the North-South economic corridor (NSEC), in contributing to the\u2026",
+        "locationName": "Hung Yen",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "COMPRE SOCIO-ECO URBAN DEV'L PROJ N VIET TRI, HUNG YEN, &DONG DAN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.69767,
+          21.9511
+        ],
+        "type": "Point"
+      },
+      "id": "1177",
+      "properties": {
+        "approvalDate": "2012-03-09",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 8805641.48,
+        "id": "41462-013",
+        "info": "The proposed Project will address critical urban development issues of Viet Tri, Hung Yen, and Dong Dang in northern Viet Nam along the North-South economic corridor (NSEC), in contributing to the\u2026",
+        "locationName": "Don Dang",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "COMPRE SOCIO-ECO URBAN DEV'L PROJ N VIET TRI, HUNG YEN, &DONG DAN"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.13333,
+          21.33333
+        ],
+        "type": "Point"
+      },
+      "id": "1178",
+      "properties": {
+        "approvalDate": "2012-03-09",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 8805641.48,
+        "id": "41462-013",
+        "info": "The proposed Project will address critical urban development issues of Viet Tri, Hung Yen, and Dong Dang in northern Viet Nam along the North-South economic corridor (NSEC), in contributing to the\u2026",
+        "locationName": "Tinh Phu Tho",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "COMPRE SOCIO-ECO URBAN DEV'L PROJ N VIET TRI, HUNG YEN, &DONG DAN"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "Viet Nam"
+  },
+  "type": "FeatureCollection"
+}

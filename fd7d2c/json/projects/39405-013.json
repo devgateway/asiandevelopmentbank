@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.40744,
+          23.7104
+        ],
+        "type": "Point"
+      },
+      "id": "4707",
+      "properties": {
+        "approvalDate": "2007-12-12",
+        "closingDate": "2016-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 76999162.84,
+        "id": "39405-013",
+        "info": "The overall expected impact of the Dhaka Water Supply Sector Development Program (DWSSDP) is to contribute to sustained economic growth and public health improvement, in urban water supply sector,\u2026",
+        "locationName": "Dhaka",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DHAKA WATER SUPPLY SECTOR DEVELOPMENT PROGRAM (PROJECT LOAN)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.40744,
+          23.7104
+        ],
+        "type": "Point"
+      },
+      "id": "4708",
+      "properties": {
+        "approvalDate": "2007-12-12",
+        "closingDate": "2014-06-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 50017087.28,
+        "id": "39405-013",
+        "info": "The overall expected impact of the Dhaka Water Supply Sector Development Program (DWSSDP) is to contribute to sustained economic growth and public health improvement, in urban water supply sector,\u2026",
+        "locationName": "Dhaka",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "DHAKA WATER SUPPLY SECTOR DEVELOPMENT PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

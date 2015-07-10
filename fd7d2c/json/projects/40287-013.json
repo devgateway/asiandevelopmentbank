@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          200.21333,
+          -21.20556
+        ],
+        "type": "Point"
+      },
+      "id": "4285",
+      "properties": {
+        "approvalDate": "2009-05-05",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 8630000.0,
+        "disbursementAmount": 8419791.71,
+        "id": "40287-013",
+        "info": "The Project will rehabilitate and expand the capacity of Avatiu port",
+        "locationName": "Avatiu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "AVATIU PORT DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          200.21333,
+          -21.20556
+        ],
+        "type": "Point"
+      },
+      "id": "4286",
+      "properties": {
+        "approvalDate": "2009-05-05",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 6880000.0,
+        "disbursementAmount": 7037345.83,
+        "id": "40287-013",
+        "info": "The Project will rehabilitate and expand the capacity of Avatiu port",
+        "locationName": "Avatiu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "AVATIU PORT DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          200.21333,
+          -21.20556
+        ],
+        "type": "Point"
+      },
+      "id": "4287",
+      "properties": {
+        "approvalDate": "2011-12-30",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 4700000.0,
+        "disbursementAmount": 4454906.83,
+        "id": "40287-013",
+        "info": "The Project will rehabilitate and expand the capacity of Avatiu port",
+        "locationName": "Avatiu",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "AVATIU PORT DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CK",
+  "properties": {
+    "bounds": [
+      194.17546634200005,
+      -21.93889739399988,
+      202.68718509200005,
+      -8.94670989399988
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ck.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "Cook Islands"
+  },
+  "type": "FeatureCollection"
+}
