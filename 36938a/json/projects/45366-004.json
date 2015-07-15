@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.21627,
+          41.26465
+        ],
+        "type": "Point"
+      },
+      "id": "5328",
+      "properties": {
+        "approvalDate": "2014-02-27",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 69000000.0,
+        "disbursementAmount": 91137.5,
+        "id": "45366-004",
+        "info": "The project aims to provide an improved solid waste management (SWM) system in Tashkent, the capital city, to upgrade urban infrastructure and services",
+        "locationName": "Tashkent",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SOLID WASTE MANAGEMENT IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          70.0,
+          41.0
+        ],
+        "type": "Point"
+      },
+      "id": "5329",
+      "properties": {
+        "approvalDate": "2014-02-27",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 69000000.0,
+        "disbursementAmount": 91137.5,
+        "id": "45366-004",
+        "info": "The project aims to provide an improved solid waste management (SWM) system in Tashkent, the capital city, to upgrade urban infrastructure and services",
+        "locationName": "Ohangaron Tumani",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "SOLID WASTE MANAGEMENT IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "UZ",
+  "properties": {
+    "bounds": [
+      55.975838663000076,
+      37.18514740000002,
+      73.14864058400016,
+      45.55871897400006
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Uzbekistan"
+  },
+  "type": "FeatureCollection"
+}

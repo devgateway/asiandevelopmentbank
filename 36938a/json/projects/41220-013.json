@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          124.26306,
+          7.88111
+        ],
+        "type": "Point"
+      },
+      "id": "1990",
+      "properties": {
+        "approvalDate": "2013-03-22",
+        "closingDate": "2020-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 3059006.96,
+        "id": "41220-013",
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country",
+        "locationName": "Lake Lanao",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.0,
+          8.0
+        ],
+        "type": "Point"
+      },
+      "id": "1991",
+      "properties": {
+        "approvalDate": "2013-03-22",
+        "closingDate": "2020-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 3059006.96,
+        "id": "41220-013",
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country",
+        "locationName": "Province of Bukidnon",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          124.16667,
+          9.83333
+        ],
+        "type": "Point"
+      },
+      "id": "1992",
+      "properties": {
+        "approvalDate": "2013-03-22",
+        "closingDate": "2020-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 3059006.96,
+        "id": "41220-013",
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country",
+        "locationName": "Bohol",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          121.20612,
+          17.22422
+        ],
+        "type": "Point"
+      },
+      "id": "1993",
+      "properties": {
+        "approvalDate": "2013-03-22",
+        "closingDate": "2020-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 3059006.96,
+        "id": "41220-013",
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country",
+        "locationName": "Cordillera Administrative Region",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PH",
+  "properties": {
+    "bounds": [
+      116.95492597700016,
+      4.655707098000107,
+      126.61768639400017,
+      21.122381903000033
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Philippines"
+  },
+  "type": "FeatureCollection"
+}

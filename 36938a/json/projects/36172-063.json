@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0,
+          28.0
+        ],
+        "type": "Point"
+      },
+      "id": "2583",
+      "properties": {
+        "approvalDate": "2012-12-27",
+        "closingDate": "2015-10-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 11000000.0,
+        "id": "36172-063",
+        "info": "The program seeks to promote an enabling environment in Nepal for the effective delivery of public goods and services, especially at the local level",
+        "locationName": "Nepal",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Implementation",
+        "title": "STRENGTHENING PUBLIC MANAGEMENT PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "NP",
+  "properties": {
+    "bounds": [
+      80.03028772000005,
+      26.343767802000087,
+      88.1690674240001,
+      30.416904195000086
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Nepal"
+  },
+  "type": "FeatureCollection"
+}

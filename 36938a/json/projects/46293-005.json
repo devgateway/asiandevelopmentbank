@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          102.93333,
+          21.33333
+        ],
+        "type": "Point"
+      },
+      "id": "1415",
+      "properties": {
+        "approvalDate": "2014-11-25",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46293-005",
+        "info": "The outputs are (i) last-mile tourism access infrastructure improved, (ii) environmental services in cross-border tourism centers improved, (iii) institutional capacity to promote inclusive tourism\u2026",
+        "locationName": "Huyen Dien Bien",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "GMS TOURISM INFRASTRUCTURE FOR INCLUSIVEGROWTH PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.75,
+          18.33333
+        ],
+        "type": "Point"
+      },
+      "id": "1416",
+      "properties": {
+        "approvalDate": "2014-11-25",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46293-005",
+        "info": "The outputs are (i) last-mile tourism access infrastructure improved, (ii) environmental services in cross-border tourism centers improved, (iii) institutional capacity to promote inclusive tourism\u2026",
+        "locationName": "Tinh Ha Tinh",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "GMS TOURISM INFRASTRUCTURE FOR INCLUSIVEGROWTH PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          105.16667,
+          10.0
+        ],
+        "type": "Point"
+      },
+      "id": "1417",
+      "properties": {
+        "approvalDate": "2014-11-25",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46293-005",
+        "info": "The outputs are (i) last-mile tourism access infrastructure improved, (ii) environmental services in cross-border tourism centers improved, (iii) institutional capacity to promote inclusive tourism\u2026",
+        "locationName": "Tinh Kien Giang",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "GMS TOURISM INFRASTRUCTURE FOR INCLUSIVEGROWTH PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          104.16667,
+          22.3
+        ],
+        "type": "Point"
+      },
+      "id": "1418",
+      "properties": {
+        "approvalDate": "2014-11-25",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46293-005",
+        "info": "The outputs are (i) last-mile tourism access infrastructure improved, (ii) environmental services in cross-border tourism centers improved, (iii) institutional capacity to promote inclusive tourism\u2026",
+        "locationName": "Tinh Lao Cai",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "GMS TOURISM INFRASTRUCTURE FOR INCLUSIVEGROWTH PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.16667,
+          11.33333
+        ],
+        "type": "Point"
+      },
+      "id": "1419",
+      "properties": {
+        "approvalDate": "2014-11-25",
+        "closingDate": "2020-06-30",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46293-005",
+        "info": "The outputs are (i) last-mile tourism access infrastructure improved, (ii) environmental services in cross-border tourism centers improved, (iii) institutional capacity to promote inclusive tourism\u2026",
+        "locationName": "Tinh Tay Ninh",
+        "sectors": [
+          "Industry and trade"
+        ],
+        "status": "Implementation",
+        "title": "GMS TOURISM INFRASTRUCTURE FOR INCLUSIVEGROWTH PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "VN",
+  "properties": {
+    "bounds": [
+      102.11865523300011,
+      8.565578518000152,
+      109.47242272200018,
+      23.366275127000122
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Viet Nam"
+  },
+  "type": "FeatureCollection"
+}

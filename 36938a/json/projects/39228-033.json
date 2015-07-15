@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          81.51804,
+          43.97799
+        ],
+        "type": "Point"
+      },
+      "id": "7054",
+      "properties": {
+        "approvalDate": "2008-07-23",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 105000000.0,
+        "disbursementAmount": 104445633.4,
+        "id": "39228-033",
+        "info": "The impact of the Project is sustained socioeconomic growth and improved living standards in the border areas of north XUAR (Altay Administrative District, Boertala Mongolian Autonomous Prefecture,\u2026",
+        "locationName": "Yining",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          87.03333,
+          48.81667
+        ],
+        "type": "Point"
+      },
+      "id": "7055",
+      "properties": {
+        "approvalDate": "2008-07-23",
+        "closingDate": "2013-12-31",
+        "commitmentAmount": 105000000.0,
+        "disbursementAmount": 104445633.4,
+        "id": "39228-033",
+        "info": "The impact of the Project is sustained socioeconomic growth and improved living standards in the border areas of north XUAR (Altay Administrative District, Boertala Mongolian Autonomous Prefecture,\u2026",
+        "locationName": "Kanas Lake",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Completion",
+        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

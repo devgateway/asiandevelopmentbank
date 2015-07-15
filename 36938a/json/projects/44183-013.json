@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          42.03611,
+          42.27778
+        ],
+        "type": "Point"
+      },
+      "id": "8412",
+      "properties": {
+        "approvalDate": "2013-03-21",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 48000000.0,
+        "disbursementAmount": 5040675.68,
+        "id": "44183-013",
+        "info": "The Project is an integral part of Georgia's power sector development plan and the selected components are under GSE's investment priorities",
+        "locationName": "Mendzhi",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.80894,
+          41.47588
+        ],
+        "type": "Point"
+      },
+      "id": "8413",
+      "properties": {
+        "approvalDate": "2013-03-21",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 48000000.0,
+        "disbursementAmount": 5040675.68,
+        "id": "44183-013",
+        "info": "The Project is an integral part of Georgia's power sector development plan and the selected components are under GSE's investment priorities",
+        "locationName": "Marneuli",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          44.70612,
+          41.84066
+        ],
+        "type": "Point"
+      },
+      "id": "8414",
+      "properties": {
+        "approvalDate": "2013-03-21",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 48000000.0,
+        "disbursementAmount": 5040675.68,
+        "id": "44183-013",
+        "info": "The Project is an integral part of Georgia's power sector development plan and the selected components are under GSE's investment priorities",
+        "locationName": "Mtskheta",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "GE",
+  "properties": {
+    "bounds": [
+      39.985976355423105,
+      41.044110820000114,
+      46.694803101000076,
+      43.57584259000011
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Georgia"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          68.29027,
+          25.43939
+        ],
+        "type": "Point"
+      },
+      "id": "5695",
+      "properties": {
+        "approvalDate": "2014-02-12",
+        "closingDate": "2019-03-31",
+        "commitmentAmount": 840000000.0,
+        "disbursementAmount": 1162000.0,
+        "id": "47094-001",
+        "info": "The project will (i) increase capacity of the Jamshoro TPS by installing a 600-MW (net) supercritical coal-fired unit, using an 80/20 blend of imported sub-bituminous coal and domestic lignite when\u2026",
+        "locationName": "Jamshoro",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "JAMSHORO POWER GENERATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          68.29027,
+          25.43939
+        ],
+        "type": "Point"
+      },
+      "id": "5696",
+      "properties": {
+        "approvalDate": "2014-02-12",
+        "closingDate": "2024-06-30",
+        "commitmentAmount": 30000000.0,
+        "disbursementAmount": 41500.0,
+        "id": "47094-001",
+        "info": "The project will (i) increase capacity of the Jamshoro TPS by installing a 600-MW (net) supercritical coal-fired unit, using an 80/20 blend of imported sub-bituminous coal and domestic lignite when\u2026",
+        "locationName": "Jamshoro",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "JAMSHORO POWER GENERATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          68.29027,
+          25.43939
+        ],
+        "type": "Point"
+      },
+      "id": "5697",
+      "properties": {
+        "approvalDate": "2014-02-12",
+        "closingDate": "2019-03-31",
+        "commitmentAmount": 30000000.0,
+        "disbursementAmount": 0.0,
+        "id": "47094-001",
+        "info": "The project will (i) increase capacity of the Jamshoro TPS by installing a 600-MW (net) supercritical coal-fired unit, using an 80/20 blend of imported sub-bituminous coal and domestic lignite when\u2026",
+        "locationName": "Jamshoro",
+        "sectors": [
+          "Energy"
+        ],
+        "status": "Implementation",
+        "title": "JAMSHORO POWER GENERATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PK",
+  "properties": {
+    "bounds": [
+      60.8443787030001,
+      23.694525458000058,
+      77.0489709880002,
+      37.054483541000096
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Pakistan"
+  },
+  "type": "FeatureCollection"
+}

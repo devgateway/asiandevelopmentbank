@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.61333,
+          23.89972
+        ],
+        "type": "Point"
+      },
+      "id": "7400",
+      "properties": {
+        "approvalDate": "2011-01-24",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 83202362.31,
+        "id": "42010-013",
+        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026",
+        "locationName": "Baise City",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.39622,
+          22.46541
+        ],
+        "type": "Point"
+      },
+      "id": "7401",
+      "properties": {
+        "approvalDate": "2011-01-24",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 83202362.31,
+        "id": "42010-013",
+        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026",
+        "locationName": "Chongzuo Shi",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          107.95932,
+          21.9358
+        ],
+        "type": "Point"
+      },
+      "id": "7402",
+      "properties": {
+        "approvalDate": "2011-01-24",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 83202362.31,
+        "id": "42010-013",
+        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026",
+        "locationName": "Fangchenggang Shi",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.35385,
+          21.68686
+        ],
+        "type": "Point"
+      },
+      "id": "7403",
+      "properties": {
+        "approvalDate": "2011-01-24",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 83202362.31,
+        "id": "42010-013",
+        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026",
+        "locationName": "Fengchenggang",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          106.61667,
+          23.9
+        ],
+        "type": "Point"
+      },
+      "id": "7404",
+      "properties": {
+        "approvalDate": "2011-01-24",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 83202362.31,
+        "id": "42010-013",
+        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026",
+        "locationName": "Baise Shi",
+        "sectors": [
+          "Multisector"
+        ],
+        "status": "Implementation",
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

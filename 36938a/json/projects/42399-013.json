@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667,
+          41.43333
+        ],
+        "type": "Point"
+      },
+      "id": "4140",
+      "properties": {
+        "approvalDate": "2009-08-05",
+        "closingDate": "2014-11-30",
+        "commitmentAmount": 28000000.0,
+        "disbursementAmount": 27793072.89,
+        "id": "42399-013",
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I",
+        "locationName": "Naryn",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.81058,
+          41.17017
+        ],
+        "type": "Point"
+      },
+      "id": "4141",
+      "properties": {
+        "approvalDate": "2009-08-05",
+        "closingDate": "2014-11-30",
+        "commitmentAmount": 28000000.0,
+        "disbursementAmount": 27793072.89,
+        "id": "42399-013",
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I",
+        "locationName": "At-Bashi",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KG",
+  "properties": {
+    "bounds": [
+      69.22629602000012,
+      39.189236959000084,
+      80.2575606690001,
+      43.261701558000084
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Kyrgyz Republic"
+  },
+  "type": "FeatureCollection"
+}

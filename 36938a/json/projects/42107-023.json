@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          64.0,
+          40.0
+        ],
+        "type": "Point"
+      },
+      "id": "5241",
+      "properties": {
+        "approvalDate": "2010-05-01",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 115000000.0,
+        "disbursementAmount": 83725878.76,
+        "id": "42107-023",
+        "info": "Under the CAREC Corridor 2 Road Investment Program, the Project will comprise civil works for rehabilitating about 50 km of the Uzbekistan Section of CAREC Corridor 2 Road (between Km 440 and 490 of\u2026",
+        "locationName": "Bukhara",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "MFF-CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          60.5,
+          41.5
+        ],
+        "type": "Point"
+      },
+      "id": "5242",
+      "properties": {
+        "approvalDate": "2010-05-01",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 115000000.0,
+        "disbursementAmount": 83725878.76,
+        "id": "42107-023",
+        "info": "Under the CAREC Corridor 2 Road Investment Program, the Project will comprise civil works for rehabilitating about 50 km of the Uzbekistan Section of CAREC Corridor 2 Road (between Km 440 and 490 of\u2026",
+        "locationName": "Xorazm Viloyati",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "MFF-CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          61.16667,
+          41.25
+        ],
+        "type": "Point"
+      },
+      "id": "5243",
+      "properties": {
+        "approvalDate": "2010-05-01",
+        "closingDate": "2014-09-30",
+        "commitmentAmount": 115000000.0,
+        "disbursementAmount": 83725878.76,
+        "id": "42107-023",
+        "info": "Under the CAREC Corridor 2 Road Investment Program, the Project will comprise civil works for rehabilitating about 50 km of the Uzbekistan Section of CAREC Corridor 2 Road (between Km 440 and 490 of\u2026",
+        "locationName": "Hazorasp Tumani",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Completion",
+        "title": "MFF-CAREC CORRIDOR 2 ROAD INVESTMENT PROGRAM"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "UZ",
+  "properties": {
+    "bounds": [
+      55.975838663000076,
+      37.18514740000002,
+      73.14864058400016,
+      45.55871897400006
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Uzbekistan"
+  },
+  "type": "FeatureCollection"
+}

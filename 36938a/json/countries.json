@@ -1,0 +1,1766 @@
+{
+  "bbox": [
+    39.985976355423105, 
+    -20.0665597, 
+    202.68718509200005, 
+    48.1606518
+  ], 
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.24199987213646, 
+          23.84567767134024
+        ], 
+        "type": "Point"
+      }, 
+      "id": "BD", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Bangladesh", 
+        "totals": {
+          "bbox": [
+            88.02178959200009, 
+            20.73871491100003, 
+            92.64285119700017, 
+            26.623544007000064
+          ], 
+          "commitments": {
+            "amount": 7606150000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 3979262706.36, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 610, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 77, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.40446020115762, 
+          27.421756562354876
+        ], 
+        "type": "Point"
+      }, 
+      "id": "BT", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Bhutan", 
+        "totals": {
+          "bbox": [
+            88.73006677200013, 
+            26.69614939400016, 
+            92.08877648900014, 
+            28.358398930786294
+          ], 
+          "commitments": {
+            "amount": 385036645.5, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 290761612.42, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 66, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 20, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          187.83875070096468, 
+          -13.754595654027655
+        ], 
+        "type": "Point"
+      }, 
+      "id": "WS", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-ws.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Samoa", 
+        "totals": {
+          "bbox": [
+            187.21741783900012, 
+            -14.05282968499999, 
+            188.56230716200008, 
+            -13.46282317499994
+          ], 
+          "commitments": {
+            "amount": 124990000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 92856634.72, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 40, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 12, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.8510758455023, 
+          -8.823778547498295
+        ], 
+        "type": "Point"
+      }, 
+      "id": "TL", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-tl.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Timor-Leste", 
+        "totals": {
+          "bbox": [
+            124.03003991000011, 
+            -9.501227721999896, 
+            127.31324303500011, 
+            -8.135023695999834
+          ], 
+          "commitments": {
+            "amount": 175000000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 76771727.32, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 175, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 9, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          59.37596062559676, 
+          39.115933881994884
+        ], 
+        "type": "Point"
+      }, 
+      "id": "TM", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-tm.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Turkmenistan", 
+        "totals": {
+          "bbox": [
+            52.43767061734431, 
+            35.140646871000015, 
+            66.64578169800009, 
+            42.791187643000015
+          ], 
+          "commitments": {
+            "amount": 125000000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 88539178.3, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 3, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 1, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.01583410239986, 
+          38.52988567154556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "TJ", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Tajikistan", 
+        "totals": {
+          "bbox": [
+            67.34269006300022, 
+            36.67864084900019, 
+            75.16412479700008, 
+            41.039976705000086
+          ], 
+          "commitments": {
+            "amount": 936972000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 492886413.98, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 112, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 22, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          43.507526330443156, 
+          42.16880077709315
+        ], 
+        "type": "Point"
+      }, 
+      "id": "GE", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Georgia", 
+        "totals": {
+          "bbox": [
+            39.985976355423105, 
+            41.044110820000114, 
+            46.694803101000076, 
+            43.57584259000011
+          ], 
+          "commitments": {
+            "amount": 1415800000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 644917402.37, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 101, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 20, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.34803333837132, 
+          7.197635973951611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "PW", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-pw.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Palau", 
+        "totals": {
+          "bbox": [
+            131.13111412900005, 
+            2.949042059000149, 
+            134.7273429907992, 
+            8.096617828631437
+          ], 
+          "commitments": {
+            "amount": 44800000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 16626593.76, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 12, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 4, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          145.2315238070719, 
+          -6.470120499343366
+        ], 
+        "type": "Point"
+      }, 
+      "id": "PG", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Papua New Guinea", 
+        "totals": {
+          "bbox": [
+            140.84921106000016, 
+            -11.636325778999847, 
+            155.96753991, 
+            -1.346368096999882
+          ], 
+          "commitments": {
+            "amount": 1004620000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 441884444.53, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 331, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 26, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.34134327397679, 
+          29.948496942492575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "PK", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Pakistan", 
+        "totals": {
+          "bbox": [
+            60.8443787030001, 
+            23.694525458000058, 
+            77.0489709880002, 
+            37.054483541000096
+          ], 
+          "commitments": {
+            "amount": 9876140000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 6010370250.92, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 447, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 64, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.87448425716693, 
+          11.763015066305337
+        ], 
+        "type": "Point"
+      }, 
+      "id": "PH", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Philippines", 
+        "totals": {
+          "bbox": [
+            116.95492597700016, 
+            4.655707098000107, 
+            126.61768639400017, 
+            21.122381903000033
+          ], 
+          "commitments": {
+            "amount": 6394003895.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 4741521155.14, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 104, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 25, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.3009352208995, 
+          16.642182728270107
+        ], 
+        "type": "Point"
+      }, 
+      "id": "VN", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Viet Nam", 
+        "totals": {
+          "bbox": [
+            102.11865523300011, 
+            8.565578518000152, 
+            109.47242272200018, 
+            23.366275127000122
+          ], 
+          "commitments": {
+            "amount": 9831170000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 5007372493.69, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 950, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 91, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          159.63809446287206, 
+          -8.909583205357285
+        ], 
+        "type": "Point"
+      }, 
+      "id": "SB", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Solomon Islands", 
+        "totals": {
+          "bbox": [
+            155.50798587300008, 
+            -12.290622653999918, 
+            168.8258569670002, 
+            -6.599867445999806
+          ], 
+          "commitments": {
+            "amount": 104520000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 57794213.89, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 48, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 14, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.13990889030832, 
+          41.756035918819684
+        ], 
+        "type": "Point"
+      }, 
+      "id": "UZ", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Uzbekistan", 
+        "totals": {
+          "bbox": [
+            55.975838663000076, 
+            37.18514740000002, 
+            73.14864058400016, 
+            45.55871897400006
+          ], 
+          "commitments": {
+            "amount": 3245200000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 1243194789.14, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 182, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 32, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.48928947626857, 
+          21.167669988662148
+        ], 
+        "type": "Point"
+      }, 
+      "id": "MM", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-mm.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Myanmar", 
+        "totals": {
+          "bbox": [
+            92.17497277900006, 
+            9.790716864000132, 
+            101.1738550210001, 
+            28.53846588100005
+          ], 
+          "commitments": {
+            "amount": 715500000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 511529441.32, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 23, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 3, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.05628666206488, 
+          46.82580606606716
+        ], 
+        "type": "Point"
+      }, 
+      "id": "MN", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Mongolia", 
+        "totals": {
+          "bbox": [
+            87.73570886300013, 
+            41.58614491800003, 
+            119.90702681500011, 
+            52.129584046000076
+          ], 
+          "commitments": {
+            "amount": 661550000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 289003866.97, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 126, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 28, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          170.09952781208193, 
+          7.114465335461144
+        ], 
+        "type": "Point"
+      }, 
+      "id": "MH", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-mh.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Marshall Islands", 
+        "totals": {
+          "bbox": [
+            165.28223717500018, 
+            4.573797919000157, 
+            172.02979576900012, 
+            14.610500393000123
+          ], 
+          "commitments": {
+            "amount": 14500000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 14873807.57, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 1, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 2, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.30225817323209, 
+          3.827794807602139
+        ], 
+        "type": "Point"
+      }, 
+      "id": "MV", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-mv.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Maldives", 
+        "totals": {
+          "bbox": [
+            72.684825066, 
+            -0.688571872999901, 
+            73.75318444100017, 
+            7.107245184000149
+          ], 
+          "commitments": {
+            "amount": 97350000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 46027458.05, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 71, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 7, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.69886863661308, 
+          3.79239278856246
+        ], 
+        "type": "Point"
+      }, 
+      "id": "MY", 
+      "properties": {
+        "metadata": {}, 
+        "name": "Malaysia", 
+        "totals": {
+          "bbox": [
+            99.64522806000011, 
+            0.851370341000077, 
+            119.27808678500006, 
+            7.355780341000141
+          ], 
+          "commitments": {
+            "amount": 0.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 0.0, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 0, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 0, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          180, 
+          -17.447561959047814
+        ], 
+        "type": "Point"
+      }, 
+      "id": "FJ", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-fj.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Fiji", 
+        "totals": {
+          "bbox": [
+            165, 
+            -21.711114190999893, 
+            195, 
+            -12.475274346999882
+          ], 
+          "commitments": {
+            "amount": 167360000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 65160070.63, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 28, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 4, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          155.26063353368312, 
+          6.967281078922664
+        ], 
+        "type": "Point"
+      }, 
+      "id": "FM", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-fm.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Micronesia, Federated States of", 
+        "totals": {
+          "bbox": [
+            138.06381269600016, 
+            0.918158270000148, 
+            163.04656009200008, 
+            9.775580145000134
+          ], 
+          "commitments": {
+            "amount": 9040000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 328500.21, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 2, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 2, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          167.70084414094217, 
+          -16.201267919694917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "VU", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-vu.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Vanuatu", 
+        "totals": {
+          "bbox": [
+            166.52051842500012, 
+            -20.253106377999913, 
+            169.89893639400023, 
+            -13.064873955999843
+          ], 
+          "commitments": {
+            "amount": 34300000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 33033.0, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 8, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 3, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.91625327170597, 
+          28.247922207591326
+        ], 
+        "type": "Point"
+      }, 
+      "id": "NP", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Nepal", 
+        "totals": {
+          "bbox": [
+            80.03028772000005, 
+            26.343767802000087, 
+            88.1690674240001, 
+            30.416904195000086
+          ], 
+          "commitments": {
+            "amount": 2085826029.4, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 878417637.66, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 476, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 59, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          166.93313192931075, 
+          -0.520782884828536
+        ], 
+        "type": "Point"
+      }, 
+      "id": "NR", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-nr.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Nauru", 
+        "totals": {
+          "bbox": [
+            166.90699303500008, 
+            -0.551853122999901, 
+            166.9582625660001, 
+            -0.490411065999922
+          ], 
+          "commitments": {
+            "amount": 6000000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 4000000.0, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 2, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 2, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          201.20889568147552, 
+          -19.814980933098305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "CK", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-ck.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Cook Islands", 
+        "totals": {
+          "bbox": [
+            194.17546634200005, 
+            -21.93889739399988, 
+            202.68718509200005, 
+            -8.94670989399988
+          ], 
+          "commitments": {
+            "amount": 47400000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 35895467.4, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 5, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 6, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.83157174451135, 
+          36.56011515322799
+        ], 
+        "type": "Point"
+      }, 
+      "id": "CN", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "China, People's Republic of", 
+        "totals": {
+          "bbox": [
+            73.6022563070002, 
+            15.775376695000048, 
+            134.7725793870002, 
+            53.56944447900004
+          ], 
+          "commitments": {
+            "amount": 14161280000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 8086615387.99, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 918, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 103, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.54166945738304, 
+          41.46191865857701
+        ], 
+        "type": "Point"
+      }, 
+      "id": "KG", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Kyrgyz Republic", 
+        "totals": {
+          "bbox": [
+            69.22629602000012, 
+            39.189236959000084, 
+            80.2575606690001, 
+            43.261701558000084
+          ], 
+          "commitments": {
+            "amount": 800433186.89, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 367714100.36, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 165, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 36, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          180, 
+          0.615200873921926
+        ], 
+        "type": "Point"
+      }, 
+      "id": "KI", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-ki.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Kiribati", 
+        "totals": {
+          "bbox": [
+            165, 
+            -11.46111419099988, 
+            195, 
+            4.723089911000102
+          ], 
+          "commitments": {
+            "amount": 22560000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 11770999.1, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 9, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 3, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.90280426744647, 
+          12.715562483744348
+        ], 
+        "type": "Point"
+      }, 
+      "id": "KH", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Cambodia", 
+        "totals": {
+          "bbox": [
+            102.31342370600012, 
+            10.415773620000081, 
+            107.61051639900009, 
+            14.704581605000087
+          ], 
+          "commitments": {
+            "amount": 1176730000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 604708890.07, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 491, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 60, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.29596466823361, 
+          48.16065181963416
+        ], 
+        "type": "Point"
+      }, 
+      "id": "KZ", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-kz.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Kazakhstan", 
+        "totals": {
+          "bbox": [
+            46.47827884900002, 
+            40.58465566000008, 
+            87.3237960210001, 
+            55.434550273000085
+          ], 
+          "commitments": {
+            "amount": 2458300000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 1721625606.87, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 50, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 11, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.7378720502921, 
+          18.50230155786378
+        ], 
+        "type": "Point"
+      }, 
+      "id": "LA", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Lao PDR", 
+        "totals": {
+          "bbox": [
+            100.0970732020001, 
+            13.91545664500012, 
+            107.66436324000011, 
+            22.49604400700011
+          ], 
+          "commitments": {
+            "amount": 781168000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 380781990.11, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 401, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 49, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          178.52035316254916, 
+          -7.759069095630854
+        ], 
+        "type": "Point"
+      }, 
+      "id": "TV", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-tv.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Tuvalu", 
+        "totals": {
+          "bbox": [
+            176.1252547540001, 
+            -9.420668226999808, 
+            179.90674889400017, 
+            -5.67750416499986
+          ], 
+          "commitments": {
+            "amount": 5590000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 5590000.0, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 1, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 2, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.70316285820482, 
+          7.615914606684935
+        ], 
+        "type": "Point"
+      }, 
+      "id": "LK", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Sri Lanka", 
+        "totals": {
+          "bbox": [
+            79.65577233200005, 
+            5.92373281500015, 
+            81.89031009200008, 
+            9.829575914000145
+          ], 
+          "commitments": {
+            "amount": 3016770000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 1666091526.07, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 519, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 48, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          185.13148772751643, 
+          -20.066559736563715
+        ], 
+        "type": "Point"
+      }, 
+      "id": "TO", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-to.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Tonga", 
+        "totals": {
+          "bbox": [
+            183.78069095100005, 
+            -22.33879973799992, 
+            186.0857446620001, 
+            -15.55950286299992
+          ], 
+          "commitments": {
+            "amount": 48080000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 36607709.21, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 16, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 7, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.00333335140643, 
+          15.11439973925516
+        ], 
+        "type": "Point"
+      }, 
+      "id": "TH", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-th.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Thailand", 
+        "totals": {
+          "bbox": [
+            97.35140100100008, 
+            5.62989003500013, 
+            105.65099776200006, 
+            20.4450064090001
+          ], 
+          "commitments": {
+            "amount": 377100000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 350562028.72, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 5, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 2, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.00844744953932, 
+          33.8362669104371
+        ], 
+        "type": "Point"
+      }, 
+      "id": "AF", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Afghanistan", 
+        "totals": {
+          "bbox": [
+            60.48677779100012, 
+            29.38660532600005, 
+            74.89230676300014, 
+            38.473673402000145
+          ], 
+          "commitments": {
+            "amount": 2571400000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 866848131.97, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 262, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 26, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          44.93230121812845, 
+          40.28813415391144
+        ], 
+        "type": "Point"
+      }, 
+      "id": "AM", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-am.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Armenia", 
+        "totals": {
+          "bbox": [
+            43.436293986000095, 
+            38.86370127400009, 
+            46.602612346000086, 
+            41.29045237300015
+          ], 
+          "commitments": {
+            "amount": 708560000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 331120192.5, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 85, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 14, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.61572154900121, 
+          22.88795247435804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "IN", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "India", 
+        "totals": {
+          "bbox": [
+            68.1434025400001, 
+            6.74555084800015, 
+            97.36225305200006, 
+            35.49540557900009
+          ], 
+          "commitments": {
+            "amount": 16071196000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 8314949150.61, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 1332, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 105, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          47.54211125964173, 
+          40.28911898662454
+        ], 
+        "type": "Point"
+      }, 
+      "id": "AZ", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-az.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:27"
+        }, 
+        "name": "Azerbaijan", 
+        "totals": {
+          "bbox": [
+            44.77455855300022, 
+            38.392644755, 
+            50.62574303500011, 
+            41.89044159000015
+          ], 
+          "commitments": {
+            "amount": 1737400000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 714006916.45, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 75, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 13, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.27043361476088, 
+          -2.222961089012923
+        ], 
+        "type": "Point"
+      }, 
+      "id": "ID", 
+      "properties": {
+        "metadata": {
+          "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+          "download_date": "2015-07-15 16:23:13", 
+          "quarter": "Q3 2015", 
+          "run_date": "2015-07-15 16:23:26"
+        }, 
+        "name": "Indonesia", 
+        "totals": {
+          "bbox": [
+            95.01270592500012, 
+            -10.922621351999808, 
+            140.97762699400008, 
+            5.910101630000099
+          ], 
+          "commitments": {
+            "amount": 8526210000.0, 
+            "unit": "USD"
+          }, 
+          "disbursements": {
+            "amount": 6214178618.86, 
+            "unit": "USD"
+          }, 
+          "locations": {
+            "amount": 186, 
+            "unit": null
+          }, 
+          "projects": {
+            "amount": 43, 
+            "unit": null
+          }
+        }
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "type": "FeatureCollection"
+}

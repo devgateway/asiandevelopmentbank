@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0,
+          -5.0
+        ],
+        "type": "Point"
+      },
+      "id": "2109",
+      "properties": {
+        "approvalDate": "2010-01-20",
+        "closingDate": "2014-12-31",
+        "commitmentAmount": 100000000.0,
+        "disbursementAmount": 99481861.0,
+        "id": "42109-013",
+        "info": "The proposed financing of IIFF supports the Government of Indonesia s objective to increase the flow of private investment into infrastructure projects to a level that is 6 7 times the current\u2026",
+        "locationName": "Indonesia",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Completion",
+        "title": "INDONESIAN INFRASTRUCTURE FINANCING FACILITY COMPANY PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "ID",
+  "properties": {
+    "bounds": [
+      95.01270592500012,
+      -10.922621351999808,
+      140.97762699400008,
+      5.910101630000099
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Indonesia"
+  },
+  "type": "FeatureCollection"
+}

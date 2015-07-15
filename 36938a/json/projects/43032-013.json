@@ -1,0 +1,146 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.92861,
+          34.25833
+        ],
+        "type": "Point"
+      },
+      "id": "7489",
+      "properties": {
+        "approvalDate": "2012-01-19",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 16731217.66,
+        "id": "43032-013",
+        "info": "The project impact will be to ensure the city transport system can fulfill its essential enabling role in economic development by facilitating the movements of goods and people",
+        "locationName": "Xi'an",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "XI'AN URBAN ROAD NETWORK IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.85556,
+          34.22694
+        ],
+        "type": "Point"
+      },
+      "id": "7490",
+      "properties": {
+        "approvalDate": "2012-01-19",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 16731217.66,
+        "id": "43032-013",
+        "info": "The project impact will be to ensure the city transport system can fulfill its essential enabling role in economic development by facilitating the movements of goods and people",
+        "locationName": "Yuhuazhai",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "XI'AN URBAN ROAD NETWORK IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.93851,
+          34.37512
+        ],
+        "type": "Point"
+      },
+      "id": "7491",
+      "properties": {
+        "approvalDate": "2012-01-19",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 16731217.66,
+        "id": "43032-013",
+        "info": "The project impact will be to ensure the city transport system can fulfill its essential enabling role in economic development by facilitating the movements of goods and people",
+        "locationName": "Xian North Railway Station",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "XI'AN URBAN ROAD NETWORK IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.96662,
+          34.16178
+        ],
+        "type": "Point"
+      },
+      "id": "7492",
+      "properties": {
+        "approvalDate": "2012-01-19",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 16731217.66,
+        "id": "43032-013",
+        "info": "The project impact will be to ensure the city transport system can fulfill its essential enabling role in economic development by facilitating the movements of goods and people",
+        "locationName": "Xi'an Public Security Bureau National Civil Aerospace Industrial Base Branch",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "XI'AN URBAN ROAD NETWORK IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          108.9051,
+          34.27099
+        ],
+        "type": "Point"
+      },
+      "id": "7493",
+      "properties": {
+        "approvalDate": "2012-01-19",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 16731217.66,
+        "id": "43032-013",
+        "info": "The project impact will be to ensure the city transport system can fulfill its essential enabling role in economic development by facilitating the movements of goods and people",
+        "locationName": "Xi'an International Trade and Logistics Park",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "XI'AN URBAN ROAD NETWORK IMPROVEMENT PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

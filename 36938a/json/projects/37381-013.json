@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          80.4971,
+          8.7514
+        ],
+        "type": "Point"
+      },
+      "id": "47",
+      "properties": {
+        "approvalDate": "2009-06-29",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 59780000.0,
+        "disbursementAmount": 26695173.170000006,
+        "id": "37381-013",
+        "info": "The Project has three principal thrusts to support research and data collection, institutional development, and infrastructure investment",
+        "locationName": "Vavuniya",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.8283,
+          8.0362
+        ],
+        "type": "Point"
+      },
+      "id": "48",
+      "properties": {
+        "approvalDate": "2009-06-29",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 59780000.0,
+        "disbursementAmount": 26695173.170000006,
+        "id": "37381-013",
+        "info": "The Project has three principal thrusts to support research and data collection, institutional development, and infrastructure investment",
+        "locationName": "Puttalam",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.9,
+          8.98333
+        ],
+        "type": "Point"
+      },
+      "id": "49",
+      "properties": {
+        "approvalDate": "2009-06-29",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 59780000.0,
+        "disbursementAmount": 26695173.170000006,
+        "id": "37381-013",
+        "info": "The Project has three principal thrusts to support research and data collection, institutional development, and infrastructure investment",
+        "locationName": "Mannar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          79.79528,
+          7.57583
+        ],
+        "type": "Point"
+      },
+      "id": "50",
+      "properties": {
+        "approvalDate": "2009-06-29",
+        "closingDate": "2016-12-31",
+        "commitmentAmount": 59780000.0,
+        "disbursementAmount": 26695173.170000006,
+        "id": "37381-013",
+        "info": "The Project has three principal thrusts to support research and data collection, institutional development, and infrastructure investment",
+        "locationName": "Chilaw",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DRY ZONE URBAN WATER AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LK",
+  "properties": {
+    "bounds": [
+      79.65577233200005,
+      5.92373281500015,
+      81.89031009200008,
+      9.829575914000145
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Sri Lanka"
+  },
+  "type": "FeatureCollection"
+}

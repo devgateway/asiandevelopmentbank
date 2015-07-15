@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          124.38333,
+          -9.2
+        ],
+        "type": "Point"
+      },
+      "id": "8186",
+      "properties": {
+        "approvalDate": "2011-10-28",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 11000000.0,
+        "disbursementAmount": 2482371.73,
+        "id": "44130-022",
+        "info": "The Timor-Leste: Oecussi and Ermera Water Rehabilitation Project will help Ermera, Oecussi, and another district manage their water resources better",
+        "locationName": "Pante Makasar",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DISTRICT CAPITALS WATER SUPPLY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          126.01306,
+          -8.51139
+        ],
+        "type": "Point"
+      },
+      "id": "8187",
+      "properties": {
+        "approvalDate": "2011-10-28",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 11000000.0,
+        "disbursementAmount": 2482371.73,
+        "id": "44130-022",
+        "info": "The Timor-Leste: Oecussi and Ermera Water Rehabilitation Project will help Ermera, Oecussi, and another district manage their water resources better",
+        "locationName": "Manatuto",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DISTRICT CAPITALS WATER SUPPLY PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          125.44833,
+          -8.77472
+        ],
+        "type": "Point"
+      },
+      "id": "8188",
+      "properties": {
+        "approvalDate": "2011-10-28",
+        "closingDate": "2017-06-30",
+        "commitmentAmount": 11000000.0,
+        "disbursementAmount": 2482371.73,
+        "id": "44130-022",
+        "info": "The Timor-Leste: Oecussi and Ermera Water Rehabilitation Project will help Ermera, Oecussi, and another district manage their water resources better",
+        "locationName": "Debo Lehumo",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "DISTRICT CAPITALS WATER SUPPLY PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "TL",
+  "properties": {
+    "bounds": [
+      124.03003991000011,
+      -9.501227721999896,
+      127.31324303500011,
+      -8.135023695999834
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tl.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Timor-Leste"
+  },
+  "type": "FeatureCollection"
+}

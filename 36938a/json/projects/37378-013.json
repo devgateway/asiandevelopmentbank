@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          80.00742,
+          9.66845
+        ],
+        "type": "Point"
+      },
+      "id": "163",
+      "properties": {
+        "approvalDate": "2011-02-08",
+        "closingDate": "2017-08-14",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 3097024.0599999996,
+        "id": "37378-013",
+        "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026",
+        "locationName": "Jaffna",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.40894,
+          9.39487
+        ],
+        "type": "Point"
+      },
+      "id": "164",
+      "properties": {
+        "approvalDate": "2011-02-08",
+        "closingDate": "2017-08-14",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 3097024.0599999996,
+        "id": "37378-013",
+        "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026",
+        "locationName": "Kilinochchi District",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.00742,
+          9.66845
+        ],
+        "type": "Point"
+      },
+      "id": "165",
+      "properties": {
+        "approvalDate": "2011-02-08",
+        "closingDate": "2017-08-14",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 7847699.230000001,
+        "id": "37378-013",
+        "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026",
+        "locationName": "Jaffna",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.40894,
+          9.39487
+        ],
+        "type": "Point"
+      },
+      "id": "166",
+      "properties": {
+        "approvalDate": "2011-02-08",
+        "closingDate": "2017-08-14",
+        "commitmentAmount": 70000000.0,
+        "disbursementAmount": 7847699.230000001,
+        "id": "37378-013",
+        "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026",
+        "locationName": "Kilinochchi District",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LK",
+  "properties": {
+    "bounds": [
+      79.65577233200005,
+      5.92373281500015,
+      81.89031009200008,
+      9.829575914000145
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Sri Lanka"
+  },
+  "type": "FeatureCollection"
+}

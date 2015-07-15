@@ -1,0 +1,171 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.55,
+          23.66667
+        ],
+        "type": "Point"
+      },
+      "id": "4575",
+      "properties": {
+        "approvalDate": "2006-05-10",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 20151320.340000007,
+        "id": "34418-013",
+        "info": "As overall goal, the Project will enhance economic growth and reduce poverty in the concerned FCD/I areas, while providing a model for rejuvenating the poorly performing FCD/I systems that will be\u2026",
+        "locationName": "Rajbari District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHWEST AREA INTEGRATED WATER RESOURCES PLANNING & MANAGEMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667,
+          23.41667
+        ],
+        "type": "Point"
+      },
+      "id": "4576",
+      "properties": {
+        "approvalDate": "2006-05-10",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 20151320.340000007,
+        "id": "34418-013",
+        "info": "As overall goal, the Project will enhance economic growth and reduce poverty in the concerned FCD/I areas, while providing a model for rejuvenating the poorly performing FCD/I systems that will be\u2026",
+        "locationName": "Faridpur District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHWEST AREA INTEGRATED WATER RESOURCES PLANNING & MANAGEMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.91667,
+          23.16667
+        ],
+        "type": "Point"
+      },
+      "id": "4577",
+      "properties": {
+        "approvalDate": "2006-05-10",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 20151320.340000007,
+        "id": "34418-013",
+        "info": "As overall goal, the Project will enhance economic growth and reduce poverty in the concerned FCD/I areas, while providing a model for rejuvenating the poorly performing FCD/I systems that will be\u2026",
+        "locationName": "Gopalganj District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHWEST AREA INTEGRATED WATER RESOURCES PLANNING & MANAGEMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.43333,
+          23.43333
+        ],
+        "type": "Point"
+      },
+      "id": "4578",
+      "properties": {
+        "approvalDate": "2006-05-10",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 20151320.340000007,
+        "id": "34418-013",
+        "info": "As overall goal, the Project will enhance economic growth and reduce poverty in the concerned FCD/I areas, while providing a model for rejuvenating the poorly performing FCD/I systems that will be\u2026",
+        "locationName": "Magura District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHWEST AREA INTEGRATED WATER RESOURCES PLANNING & MANAGEMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.16667,
+          23.08333
+        ],
+        "type": "Point"
+      },
+      "id": "4579",
+      "properties": {
+        "approvalDate": "2006-05-10",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 20151320.340000007,
+        "id": "34418-013",
+        "info": "As overall goal, the Project will enhance economic growth and reduce poverty in the concerned FCD/I areas, while providing a model for rejuvenating the poorly performing FCD/I systems that will be\u2026",
+        "locationName": "Jessore District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHWEST AREA INTEGRATED WATER RESOURCES PLANNING & MANAGEMENT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.6,
+          23.13333
+        ],
+        "type": "Point"
+      },
+      "id": "4580",
+      "properties": {
+        "approvalDate": "2006-05-10",
+        "closingDate": "2015-12-31",
+        "commitmentAmount": 20000000.0,
+        "disbursementAmount": 20151320.340000007,
+        "id": "34418-013",
+        "info": "As overall goal, the Project will enhance economic growth and reduce poverty in the concerned FCD/I areas, while providing a model for rejuvenating the poorly performing FCD/I systems that will be\u2026",
+        "locationName": "Narail District",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "SOUTHWEST AREA INTEGRATED WATER RESOURCES PLANNING & MANAGEMENT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,96 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.21301,
+          33.55097
+        ],
+        "type": "Point"
+      },
+      "id": "7501",
+      "properties": {
+        "approvalDate": "2012-03-22",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 36900000.0,
+        "disbursementAmount": 5366832.970000001,
+        "id": "40685-013",
+        "info": "The expected impact of the project will be improved ecosystem health and services in the coastal wetlands in Yancheng",
+        "locationName": "Yancheng Shi",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "JIANGSU YANCHENG WETLANDS PROTECTION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.24694,
+          33.75575
+        ],
+        "type": "Point"
+      },
+      "id": "7502",
+      "properties": {
+        "approvalDate": "2012-03-22",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 36900000.0,
+        "disbursementAmount": 5366832.970000001,
+        "id": "40685-013",
+        "info": "The expected impact of the project will be improved ecosystem health and services in the coastal wetlands in Yancheng",
+        "locationName": "Sheyang Xian",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "JIANGSU YANCHENG WETLANDS PROTECTION PROJECT"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          120.55451,
+          33.21021
+        ],
+        "type": "Point"
+      },
+      "id": "7503",
+      "properties": {
+        "approvalDate": "2012-03-22",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 36900000.0,
+        "disbursementAmount": 5366832.970000001,
+        "id": "40685-013",
+        "info": "The expected impact of the project will be improved ecosystem health and services in the coastal wetlands in Yancheng",
+        "locationName": "Dafeng Shi",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "JIANGSU YANCHENG WETLANDS PROTECTION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

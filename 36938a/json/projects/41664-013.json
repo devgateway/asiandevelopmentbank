@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          122.0,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "1949",
+      "properties": {
+        "approvalDate": "2009-04-27",
+        "closingDate": "2015-08-19",
+        "commitmentAmount": 50000000.0,
+        "disbursementAmount": 19210743.79,
+        "id": "41664-013",
+        "info": "To help achieve health-related MDGs of the Philippines, the Project will address low and inefficient public expenditures in health care by mobilizing additional off-budget credit for pro-poor\u2026",
+        "locationName": "Philippines",
+        "sectors": [
+          "Health"
+        ],
+        "status": "Implementation",
+        "title": "CREDIT FOR BETTER HEALTH CARE PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "PH",
+  "properties": {
+    "bounds": [
+      116.95492597700016,
+      4.655707098000107,
+      126.61768639400017,
+      21.122381903000033
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:30"
+    },
+    "name": "Philippines"
+  },
+  "type": "FeatureCollection"
+}
