@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          77.89126, 
+          29.86313
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3200", 
+      "properties": {
+        "approvalDate": "2013-01-31", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 13350480.110000001, 
+        "id": "38272-033", 
+        "info": "Project 2 will develop improve water supply infrastructures to cater for the demand up to 2026 at the government service standards in Almora, Dehradun, Haldwani, Nainital, Pithoragarh, Ramnagar, and\u2026", 
+        "locationName": "Roorkee", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-TRANCHE2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.12693, 
+          29.39484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3201", 
+      "properties": {
+        "approvalDate": "2013-01-31", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 13350480.110000001, 
+        "id": "38272-033", 
+        "info": "Project 2 will develop improve water supply infrastructures to cater for the demand up to 2026 at the government service standards in Almora, Dehradun, Haldwani, Nainital, Pithoragarh, Ramnagar, and\u2026", 
+        "locationName": "Ramnagar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-TRANCHE2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.44686, 
+          29.39743
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3202", 
+      "properties": {
+        "approvalDate": "2013-01-31", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 13350480.110000001, 
+        "id": "38272-033", 
+        "info": "Project 2 will develop improve water supply infrastructures to cater for the demand up to 2026 at the government service standards in Almora, Dehradun, Haldwani, Nainital, Pithoragarh, Ramnagar, and\u2026", 
+        "locationName": "Nainital", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-TRANCHE2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.5286, 
+          29.22254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3203", 
+      "properties": {
+        "approvalDate": "2013-01-31", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 13350480.110000001, 
+        "id": "38272-033", 
+        "info": "Project 2 will develop improve water supply infrastructures to cater for the demand up to 2026 at the government service standards in Almora, Dehradun, Haldwani, Nainital, Pithoragarh, Ramnagar, and\u2026", 
+        "locationName": "Haldwani", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-TRANCHE2"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.03392, 
+          30.32443
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3204", 
+      "properties": {
+        "approvalDate": "2013-01-31", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 13350480.110000001, 
+        "id": "38272-033", 
+        "info": "Project 2 will develop improve water supply infrastructures to cater for the demand up to 2026 at the government service standards in Almora, Dehradun, Haldwani, Nainital, Pithoragarh, Ramnagar, and\u2026", 
+        "locationName": "Dehradun", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-TRANCHE2"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

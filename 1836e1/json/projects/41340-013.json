@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          66.58333, 
+          39.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4881", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 268422.3, 
+        "id": "41340-013", 
+        "info": "The Advanced Electricity Metering Project will install an advanced electricity metering (AEM) system, with modern, accurate, and theft-proof revenue meters for about one million residential and\u2026", 
+        "locationName": "Samarqand Viloyati", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ADVANCED ELECTRICITY METERING PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4882", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 268422.3, 
+        "id": "41340-013", 
+        "info": "The Advanced Electricity Metering Project will install an advanced electricity metering (AEM) system, with modern, accurate, and theft-proof revenue meters for about one million residential and\u2026", 
+        "locationName": "Bukhara", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ADVANCED ELECTRICITY METERING PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.66667, 
+          40.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4883", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 268422.3, 
+        "id": "41340-013", 
+        "info": "The Advanced Electricity Metering Project will install an advanced electricity metering (AEM) system, with modern, accurate, and theft-proof revenue meters for about one million residential and\u2026", 
+        "locationName": "Jizzakh Province", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ADVANCED ELECTRICITY METERING PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

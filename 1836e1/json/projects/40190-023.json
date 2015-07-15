@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          18.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1159", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2019-09-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 2790371.7, 
+        "id": "40190-023", 
+        "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
+        "locationName": "Lao People's Democratic Republic", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.3, 
+          10.4
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1160", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2019-09-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 2790371.7, 
+        "id": "40190-023", 
+        "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
+        "locationName": "Tinh Tien Giang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.66667, 
+          10.36667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1161", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2019-09-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 2790371.7, 
+        "id": "40190-023", 
+        "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
+        "locationName": "Go Cong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.63333, 
+          10.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1162", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2019-09-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 2790371.7, 
+        "id": "40190-023", 
+        "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
+        "locationName": "Tinh Dong Thap", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

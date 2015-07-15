@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.40744, 
+          23.7104
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4496", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 28905252.82, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "Dhaka", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.64354, 
+          23.79762
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4497", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 28905252.82, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "Ghazipur", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.40491, 
+          23.79142
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4498", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 28905252.82, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "Banani Model Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.56439, 
+          22.80978
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4499", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 28905252.82, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "Khulna", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.3, 
+          23.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4500", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 28905252.82, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "Savar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.50298, 
+          23.61352
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4501", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 28905252.82, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "Narayanganj", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

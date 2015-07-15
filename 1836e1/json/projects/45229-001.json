@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6217", 
+      "properties": {
+        "approvalDate": "2013-08-19", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 1911396.6600000001, 
+        "id": "45229-001", 
+        "info": "The project will leverage Tajikistan's sound microfinance system to provide credit for households and microenterprises for energy efficient and environment-friendly homes.\n\nThe grant will comprise\u2026", 
+        "locationName": "Tajikistan", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "ACCESS TO GREEN FINANCE PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TJ", 
+  "properties": {
+    "bounds": [
+      67.34269006300022, 
+      36.67864084900019, 
+      75.16412479700008, 
+      41.039976705000086
+    ], 
+    "name": "Tajikistan"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          72.74586, 
+          41.0376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3875", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2016-03-22", 
+        "commitmentAmount": 48500000.0, 
+        "disbursementAmount": 28111045.3, 
+        "id": "44236-013", 
+        "info": "The Emergency Assistance for Recovery and Reconstruction (EARR) will (i) rebuild damaged houses and improve essential public and community infrastructure, and (ii) restore the country s immediate\u2026", 
+        "locationName": "Bazar-Korgon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "EMERGENCY ASSISTANCE FOR RECOVERY AND RECONSTRUCTION"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

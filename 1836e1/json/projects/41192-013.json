@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777, 
+          43.7193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4059", 
+      "properties": {
+        "approvalDate": "2011-01-03", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41192-013", 
+        "info": "The Project will be implemented in the Zamyn Uud, a relatively poor area", 
+        "locationName": "Zamiin Uud", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL LOGISTICS DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

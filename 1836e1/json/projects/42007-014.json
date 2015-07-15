@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.21627, 
+          41.26465
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4942", 
+      "properties": {
+        "approvalDate": "2013-11-21", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 37167453.0, 
+        "id": "42007-014", 
+        "info": "The project will enable women\u2019s small businesses and rural small businesses to grow, develop, expand, compete, and play a greater income-generating role in Uzbekistan", 
+        "locationName": "Tashkent", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "SMALL BUSINESS AND ENTREPRENEURSHIP DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

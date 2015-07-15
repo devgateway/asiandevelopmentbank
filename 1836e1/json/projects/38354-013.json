@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1957", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 57750000.0, 
+        "disbursementAmount": 8613056.36, 
+        "id": "38354-013", 
+        "info": "The State Accountability Revitalization (STAR) project aims to support the government s key reform priorities aimed at improving the government s accountability through stronger capacity of the\u2026", 
+        "locationName": "Indonesia", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "STATE ACCOUNTABILITY REVITALIZATION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

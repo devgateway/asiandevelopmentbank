@@ -1,0 +1,165 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          85.54281, 
+          27.6221
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2130", 
+      "properties": {
+        "approvalDate": "2010-10-26", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 14863168.940000001, 
+        "id": "36188-023", 
+        "info": "The objective of the project is to develop reliable, affordable, and effective municipal infrastructure and to strengthening the capacity of municipalities and the central government for project\u2026", 
+        "locationName": "Dhulikhel", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS INTEGRATED URBAN ENVIRONMENTAL IMPRVMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.44836, 
+          27.70055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2131", 
+      "properties": {
+        "approvalDate": "2010-10-26", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 14863168.940000001, 
+        "id": "36188-023", 
+        "info": "The objective of the project is to develop reliable, affordable, and effective municipal infrastructure and to strengthening the capacity of municipalities and the central government for project\u2026", 
+        "locationName": "Butwal", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS INTEGRATED URBAN ENVIRONMENTAL IMPRVMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.87735, 
+          27.01043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2132", 
+      "properties": {
+        "approvalDate": "2010-10-26", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 14863168.940000001, 
+        "id": "36188-023", 
+        "info": "The objective of the project is to develop reliable, affordable, and effective municipal infrastructure and to strengthening the capacity of municipalities and the central government for project\u2026", 
+        "locationName": "Birgunj", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS INTEGRATED URBAN ENVIRONMENTAL IMPRVMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.28337, 
+          26.4831
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2133", 
+      "properties": {
+        "approvalDate": "2010-10-26", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 14863168.940000001, 
+        "id": "36188-023", 
+        "info": "The objective of the project is to develop reliable, affordable, and effective municipal infrastructure and to strengthening the capacity of municipalities and the central government for project\u2026", 
+        "locationName": "Biratnagar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS INTEGRATED URBAN ENVIRONMENTAL IMPRVMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.52138, 
+          27.62979
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2134", 
+      "properties": {
+        "approvalDate": "2010-10-26", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 14863168.940000001, 
+        "id": "36188-023", 
+        "info": "The objective of the project is to develop reliable, affordable, and effective municipal infrastructure and to strengthening the capacity of municipalities and the central government for project\u2026", 
+        "locationName": "Banepa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS INTEGRATED URBAN ENVIRONMENTAL IMPRVMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.52122, 
+          27.58466
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2135", 
+      "properties": {
+        "approvalDate": "2010-10-26", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 14863168.940000001, 
+        "id": "36188-023", 
+        "info": "The objective of the project is to develop reliable, affordable, and effective municipal infrastructure and to strengthening the capacity of municipalities and the central government for project\u2026", 
+        "locationName": "Panauti", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS INTEGRATED URBAN ENVIRONMENTAL IMPRVMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}
