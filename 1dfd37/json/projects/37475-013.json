@@ -1,0 +1,90 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.25, 
+          -4.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1846", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 50234482.98, 
+        "id": "37475-013", 
+        "info": "In partnership with Government and other donors, the Project is expected to contribute over the long term to increased levels of educational attainment among new entrants in the workforce, and\u2026", 
+        "locationName": "South Sulawesi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "MADRASAH EDUCATION DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.5099, 
+          -7.7394
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1847", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 50234482.98, 
+        "id": "37475-013", 
+        "info": "In partnership with Government and other donors, the Project is expected to contribute over the long term to increased levels of educational attainment among new entrants in the workforce, and\u2026", 
+        "locationName": "East Java", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "MADRASAH EDUCATION DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.0, 
+          -7.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1848", 
+      "properties": {
+        "approvalDate": "2007-03-15", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 50234482.98, 
+        "id": "37475-013", 
+        "info": "In partnership with Government and other donors, the Project is expected to contribute over the long term to increased levels of educational attainment among new entrants in the workforce, and\u2026", 
+        "locationName": "Central Java", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "MADRASAH EDUCATION DEVELOPMENT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

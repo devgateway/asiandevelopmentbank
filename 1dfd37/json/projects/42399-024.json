@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          74.59,
+          42.87
+        ],
+        "type": "Point"
+      },
+      "id": "4218",
+      "properties": {
+        "approvalDate": "2014-12-26",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 4300000.0,
+        "disbursementAmount": 0.0,
+        "id": "42399-024",
+        "info": "The additional financing of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 (Bishkek Torugart Road) Project 3 will cover the cost overruns that have resulted in a funding gap for\u2026",
+        "locationName": "Bishkek",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "CAREC CORRIDOR I BISHKEK-TORUGART ROAD PROJECT3 (ADDL FIN)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.31115,
+          40.55103
+        ],
+        "type": "Point"
+      },
+      "id": "4219",
+      "properties": {
+        "approvalDate": "2014-12-26",
+        "closingDate": "2017-12-31",
+        "commitmentAmount": 4300000.0,
+        "disbursementAmount": 0.0,
+        "id": "42399-024",
+        "info": "The additional financing of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 (Bishkek Torugart Road) Project 3 will cover the cost overruns that have resulted in a funding gap for\u2026",
+        "locationName": "Torugart",
+        "sectors": [
+          "Transport"
+        ],
+        "status": "Implementation",
+        "title": "CAREC CORRIDOR I BISHKEK-TORUGART ROAD PROJECT3 (ADDL FIN)"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KG",
+  "properties": {
+    "bounds": [
+      69.22629602000012,
+      39.189236959000084,
+      80.2575606690001,
+      43.261701558000084
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:24"
+    },
+    "name": "Kyrgyz Republic"
+  },
+  "type": "FeatureCollection"
+}

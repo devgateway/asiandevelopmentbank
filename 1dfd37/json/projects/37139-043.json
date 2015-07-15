@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          31.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2748", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2015-12-15", 
+        "commitmentAmount": 30600000.0, 
+        "disbursementAmount": 14114114.290000001, 
+        "id": "37139-043", 
+        "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
+        "locationName": "Uttarkashi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.66667, 
+          30.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2749", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2015-12-15", 
+        "commitmentAmount": 30600000.0, 
+        "disbursementAmount": 14114114.290000001, 
+        "id": "37139-043", 
+        "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
+        "locationName": "Tehri-Garhwal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.78341, 
+          30.22242
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2750", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2015-12-15", 
+        "commitmentAmount": 30600000.0, 
+        "disbursementAmount": 14114114.290000001, 
+        "id": "37139-043", 
+        "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
+        "locationName": "Srinagar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.25, 
+          30.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2751", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2015-12-15", 
+        "commitmentAmount": 30600000.0, 
+        "disbursementAmount": 14114114.290000001, 
+        "id": "37139-043", 
+        "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
+        "locationName": "Uttarakhand", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          18.0
+        ],
+        "type": "Point"
+      },
+      "id": "8098",
+      "properties": {
+        "approvalDate": "2014-12-11",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 14642647.89,
+        "id": "46059-002",
+        "info": "The GCDPSMP will achieve its outcome by delivering three outputs: (i) implementation of multiyear budgeting and intergovernmental fiscal relations; (ii) strengthening of civil service capacity at the\u2026",
+        "locationName": "Laos",
+        "sectors": [
+          "Public sector management"
+        ],
+        "status": "Implementation",
+        "title": "GOVERNANCE & CAPACITY DEVELOPMENT IN PUBLIC SECTOR MNGT PROGRAM 2"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LA",
+  "properties": {
+    "bounds": [
+      100.0970732020001,
+      13.91545664500012,
+      107.66436324000011,
+      22.49604400700011
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml",
+      "download_date": "2015-07-06 18:12:35",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Lao PDR"
+  },
+  "type": "FeatureCollection"
+}

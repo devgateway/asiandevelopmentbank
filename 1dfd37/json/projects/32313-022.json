@@ -1,0 +1,215 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.5, 
+          19.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7547", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Xiangkhouang", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          18.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7548", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Xaignabouli", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.33333, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7549", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Khoueng Phongsali", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          20.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7550", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Khoueng Oudomxai", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.66667, 
+          20.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7551", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Luang Prabang Province", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.33333, 
+          20.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7552", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Louangnamtha", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.0, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7553", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Houaphan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.5, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7554", 
+      "properties": {
+        "approvalDate": "2007-08-15", 
+        "closingDate": "2013-03-07", 
+        "commitmentAmount": 13000000.0, 
+        "disbursementAmount": 12992368.95, 
+        "id": "32313-022", 
+        "info": "The overall goal of the Project is to improve the health and nutrition status of the population, in particular the poor, women and children, and ethnic groups in the eight northern provinces of Lao\u2026", 
+        "locationName": "Khoueng Bokeo", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SYSTEM DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "LA", 
+  "properties": {
+    "bounds": [
+      100.0970732020001, 
+      13.91545664500012, 
+      107.66436324000011, 
+      22.49604400700011
+    ], 
+    "name": "Lao PDR"
+  }, 
+  "type": "FeatureCollection"
+}

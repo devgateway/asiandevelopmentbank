@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          35.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6964", 
+      "properties": {
+        "approvalDate": "2011-10-25", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 250000000.0, 
+        "disbursementAmount": 124321127.77000001, 
+        "id": "43332-043", 
+        "info": "Tranche 3 of Investment Program will finance (i) procurement of energy efficient, environmental protection, and safety equipment that will result in energy savings, environmental protection, and\u2026", 
+        "locationName": "China", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "RAILWAY ENERGY EFFICIENCY & SAFETY ENHANCEMENT INVESTMENT PROG-T3"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

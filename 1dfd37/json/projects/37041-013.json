@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.81974, 
+          10.7089
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5744", 
+      "properties": {
+        "approvalDate": "2006-12-01", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19826576.36, 
+        "id": "37041-013", 
+        "info": "Sihanoukville, Cambodia's only deep-sea port, is a fast-growing city with major ongoing developments to (i) expand the port facilities, (ii) upgrade the airport, and (iii) set up an export processing\u2026", 
+        "locationName": "Phumi Veal Renh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND POWER TRANSMISSION AND DISTRIBUTION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.33333, 
+          10.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5745", 
+      "properties": {
+        "approvalDate": "2006-12-01", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19826576.36, 
+        "id": "37041-013", 
+        "info": "Sihanoukville, Cambodia's only deep-sea port, is a fast-growing city with major ongoing developments to (i) expand the port facilities, (ii) upgrade the airport, and (iii) set up an export processing\u2026", 
+        "locationName": "Kampot", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND POWER TRANSMISSION AND DISTRIBUTION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.18145, 
+          10.61041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5746", 
+      "properties": {
+        "approvalDate": "2006-12-01", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19826576.36, 
+        "id": "37041-013", 
+        "info": "Sihanoukville, Cambodia's only deep-sea port, is a fast-growing city with major ongoing developments to (i) expand the port facilities, (ii) upgrade the airport, and (iii) set up an export processing\u2026", 
+        "locationName": "Kampot", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND POWER TRANSMISSION AND DISTRIBUTION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.52958, 
+          10.60932
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5747", 
+      "properties": {
+        "approvalDate": "2006-12-01", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19826576.36, 
+        "id": "37041-013", 
+        "info": "Sihanoukville, Cambodia's only deep-sea port, is a fast-growing city with major ongoing developments to (i) expand the port facilities, (ii) upgrade the airport, and (iii) set up an export processing\u2026", 
+        "locationName": "Kampong Saom", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND POWER TRANSMISSION AND DISTRIBUTION PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.75, 
+          10.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5748", 
+      "properties": {
+        "approvalDate": "2006-12-01", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19826576.36, 
+        "id": "37041-013", 
+        "info": "Sihanoukville, Cambodia's only deep-sea port, is a fast-growing city with major ongoing developments to (i) expand the port facilities, (ii) upgrade the airport, and (iii) set up an export processing\u2026", 
+        "locationName": "Preah Sihanouk", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND POWER TRANSMISSION AND DISTRIBUTION PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

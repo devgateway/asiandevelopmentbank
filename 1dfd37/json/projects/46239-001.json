@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1956", 
+      "properties": {
+        "approvalDate": "2012-07-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 500000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46239-001", 
+        "info": "Like many other economies, the Indonesian economy has been affected by the deterioration in the global economic outlook and turbulence in the financial markets", 
+        "locationName": "Indonesia", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "PRECAUTIONARY FINANCING FACILITY"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

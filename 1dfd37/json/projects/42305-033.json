@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          13.0
+        ],
+        "type": "Point"
+      },
+      "id": "6579",
+      "properties": {
+        "approvalDate": "2014-12-18",
+        "closingDate": "2015-06-30",
+        "commitmentAmount": 15000000.0,
+        "disbursementAmount": 0.0,
+        "id": "42305-033",
+        "info": "ADB has been the leading development partner of the finance sector in Cambodia since 1999",
+        "locationName": "Cambodia",
+        "sectors": [
+          "Finance"
+        ],
+        "status": "Implementation",
+        "title": "THIRD FINANCIAL SECTOR PROGRAM-SUBPROGRAM 3"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "KH",
+  "properties": {
+    "bounds": [
+      102.31342370600012,
+      10.415773620000081,
+      107.61051639900009,
+      14.704581605000087
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "Cambodia"
+  },
+  "type": "FeatureCollection"
+}

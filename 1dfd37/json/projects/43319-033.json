@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.13694, 
+          11.06456
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6031", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 37000000.0, 
+        "disbursementAmount": 520220.94, 
+        "id": "43319-033", 
+        "info": "The project will enhance the competitiveness of towns along the Southern Economic Corridor (SEC)", 
+        "locationName": "Bavet", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS SOUTHERN ECONOMIC CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.5625, 
+          13.65611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6032", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 37000000.0, 
+        "disbursementAmount": 520220.94, 
+        "id": "43319-033", 
+        "info": "The project will enhance the competitiveness of towns along the Southern Economic Corridor (SEC)", 
+        "locationName": "Paoy Pet", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS SOUTHERN ECONOMIC CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.19822, 
+          13.10271
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6033", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 37000000.0, 
+        "disbursementAmount": 520220.94, 
+        "id": "43319-033", 
+        "info": "The project will enhance the competitiveness of towns along the Southern Economic Corridor (SEC)", 
+        "locationName": "Battambang", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS SOUTHERN ECONOMIC CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.27728, 
+          11.25786
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6034", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 37000000.0, 
+        "disbursementAmount": 520220.94, 
+        "id": "43319-033", 
+        "info": "The project will enhance the competitiveness of towns along the Southern Economic Corridor (SEC)", 
+        "locationName": "Neak Leung", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "GMS SOUTHERN ECONOMIC CORRIDOR TOWNS DEVELOPMENT PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

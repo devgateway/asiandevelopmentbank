@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          92.5, 
+          47.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4027", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14698346.950000001, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Hovd Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          99.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4028", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14698346.950000001, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Bayanhongor Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.5, 
+          46.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4029", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14698346.950000001, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Suhbaatar Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          49.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4030", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14698346.950000001, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Selenge Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

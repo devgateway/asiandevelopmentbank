@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.87198, 
+          24.89904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4703", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 19514726.19, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Sylhet", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.38084, 
+          24.25305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4704", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 19514726.19, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Shahaji Bazar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.286, 
+          24.85867
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4705", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 19514726.19, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Bangabari", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.56439, 
+          22.80978
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4706", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 19514726.19, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Khulna", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

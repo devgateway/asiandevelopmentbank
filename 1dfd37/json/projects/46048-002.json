@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          126.12,
+          43.58
+        ],
+        "type": "Point"
+      },
+      "id": "7724",
+      "properties": {
+        "approvalDate": "2015-02-27",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 150000000.0,
+        "disbursementAmount": 0.0,
+        "id": "46048-002",
+        "info": "It will make provision for (i) urban roads and municipal services in Baicheng that promote people centered urban transport; (ii) the introduction of integrated solid waste management (ISWM) in both\u2026",
+        "locationName": "Jilin Sheng",
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ],
+        "status": "Implementation",
+        "title": "JILIN URBAN DEVELOPMENT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "CN",
+  "properties": {
+    "bounds": [
+      73.6022563070002,
+      15.775376695000048,
+      134.7725793870002,
+      53.56944447900004
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml",
+      "download_date": "2015-07-06 18:12:34",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-09 22:38:25"
+    },
+    "name": "China, People's Republic of"
+  },
+  "type": "FeatureCollection"
+}

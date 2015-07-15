@@ -1,0 +1,415 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.16667, 
+          11.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1034", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Tinh Tay Ninh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.75, 
+          10.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1035", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Song Sai Gon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.98919, 
+          15.64692
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1036", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Phuoc Ho", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.16667, 
+          10.7
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1037", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Long An", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.62978, 
+          10.82327
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1038", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Ho Chi Minh City", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.96667, 
+          11.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1039", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Song Be", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.71667, 
+          11.4
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1040", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Ap Bai Yen", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.0, 
+          11.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1041", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Huyen Chau Thanh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.36667, 
+          11.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1042", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Huyen Trang Bang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.0, 
+          11.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1043", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Huyen Tan Bien", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          11.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1044", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Huyen Cu Chi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          10.86667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1045", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Huyen Duc Hoa", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.66667, 
+          11.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1046", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Tinh Binh Duong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          11.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1047", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Huyen Ben Cat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.91667, 
+          11.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1048", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Tinh Binh Phuoc", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.76582, 
+          11.26461
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1049", 
+      "properties": {
+        "approvalDate": "2011-05-27", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 45201863.39, 
+        "id": "29296-023", 
+        "info": "The Project was prepared in 2003", 
+        "locationName": "Phu Giao District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PHUOC HOA WATER RESOURCES PROJECT - SUPPLEMENTARY"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

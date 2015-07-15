@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          106.62965, 
+          10.82302
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1052", 
+      "properties": {
+        "approvalDate": "2011-06-08", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 138000000.0, 
+        "disbursementAmount": 1909371.4600000002, 
+        "id": "41456-023", 
+        "info": "The investment program will help water supply companies in Viet Nam to improve their perfomance/ It will support capital investment in water companies and cofinance the National Nonrevenue Water\u2026", 
+        "locationName": "Ho Chi Minh City", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "WATER SECTOR INVESTMENT PROGRAM-TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}
