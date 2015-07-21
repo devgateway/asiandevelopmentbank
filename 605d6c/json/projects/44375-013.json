@@ -1,0 +1,690 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          149.15713, 
+          -9.33843
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5594", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "tufi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          150.06101, 
+          -5.68119
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5595", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "kimbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          142.36247, 
+          -3.15174
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5596", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "aitape", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          141.0088, 
+          -2.61192
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5597", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "vanimo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          152.18621, 
+          -4.24187
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5598", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Kokopo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          152.17215, 
+          -4.19671
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5599", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "rabaul", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          143.62678, 
+          -3.55342
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5600", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Wewak", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          144.67662, 
+          -6.96503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5601", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "baimuru", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          145.8, 
+          -5.18333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5602", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "madang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          146.1, 
+          -5.51667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5603", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "rai coast", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          150.45742, 
+          -10.31509
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5604", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "alotau", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          150.79029, 
+          -9.29089
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5605", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "esa'ala", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          151.01098, 
+          -8.73598
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5606", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "losuia", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          150.75692, 
+          -9.6871
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5607", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "misima", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          150.68333, 
+          -10.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5608", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "samarai", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          146.98469, 
+          -6.72208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5609", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "lae", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          147.17972, 
+          -9.44314
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5610", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "National Capital District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          152.16667, 
+          -4.23333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5611", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "0", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          147.13333, 
+          -9.46667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5612", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Hirl", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          145.5, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5613", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Madang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          150.52381, 
+          -10.38026
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5614", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Alotau", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          151.5, 
+          -3.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5615", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "New Ireland", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          148.5, 
+          -9.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5616", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Northern", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          155.0, 
+          -6.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5617", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "Northern Solomons", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          149.82605, 
+          -5.87833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5618", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "West New Britain", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          148.17414, 
+          -10.07842
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5619", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "abau", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          147.51361, 
+          -9.79917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5620", 
+      "properties": {
+        "approvalDate": "2013-01-29", 
+        "closingDate": "2018-09-30", 
+        "commitmentAmount": 41500000.0, 
+        "disbursementAmount": 582383.37, 
+        "id": "44375-013", 
+        "info": "The impact will be safer and enhanced access to socioeconomic opportunities for communities in PNG", 
+        "locationName": "rigo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MARITIME AND WATERWAYS SAFETY PROJECT(SF)"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PG", 
+  "properties": {
+    "bounds": [
+      140.84921106000016, 
+      -11.636325778999847, 
+      155.96753991, 
+      -1.346368096999882
+    ], 
+    "name": "Papua New Guinea"
+  }, 
+  "type": "FeatureCollection"
+}

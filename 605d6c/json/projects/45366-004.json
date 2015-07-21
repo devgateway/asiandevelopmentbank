@@ -1,0 +1,65 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.21627, 
+          41.26465
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4947", 
+      "properties": {
+        "approvalDate": "2014-02-27", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 69000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45366-004", 
+        "info": "The project aims to provide an improved solid waste management (SWM) system in Tashkent, the capital city, to upgrade urban infrastructure and services", 
+        "locationName": "Tashkent", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOLID WASTE MANAGEMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.0, 
+          41.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4948", 
+      "properties": {
+        "approvalDate": "2014-02-27", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 69000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45366-004", 
+        "info": "The project aims to provide an improved solid waste management (SWM) system in Tashkent, the capital city, to upgrade urban infrastructure and services", 
+        "locationName": "Ohangaron Tumani", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOLID WASTE MANAGEMENT IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

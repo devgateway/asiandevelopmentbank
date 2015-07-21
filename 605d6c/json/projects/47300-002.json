@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0,
+          18.0
+        ],
+        "type": "Point"
+      },
+      "id": "8097",
+      "properties": {
+        "approvalDate": "2015-01-19",
+        "closingDate": "2021-12-31",
+        "commitmentAmount": 21000000.0,
+        "disbursementAmount": 0.0,
+        "id": "47300-002",
+        "info": "The project will support the ongoing transition of smallholder livestock farming from subsistence to be commercialized and integrated into livestock value chains (LVCs) to meet domestic and\u2026",
+        "locationName": "Laos",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "NORTHERN SMALL HOLDER LIVESTOCK COMMERCIALIZATION PROJECT"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "LA",
+  "properties": {
+    "bounds": [
+      100.0970732020001,
+      13.91545664500012,
+      107.66436324000011,
+      22.49604400700011
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Lao PDR"
+  },
+  "type": "FeatureCollection"
+}

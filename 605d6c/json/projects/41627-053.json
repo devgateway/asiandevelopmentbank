@@ -1,0 +1,115 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.41667, 
+          31.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3502", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 30938179.810000002, 
+        "id": "41627-053", 
+        "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
+        "locationName": "Kinnaur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.26878, 
+          31.53311
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3503", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 30938179.810000002, 
+        "id": "41627-053", 
+        "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
+        "locationName": "Kalpa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          31.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3504", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 30938179.810000002, 
+        "id": "41627-053", 
+        "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
+        "locationName": "State of Himachal Pradesh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.18956, 
+          31.62984
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3505", 
+      "properties": {
+        "approvalDate": "2012-11-19", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 30938179.810000002, 
+        "id": "41627-053", 
+        "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
+        "locationName": "Sutlej River", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

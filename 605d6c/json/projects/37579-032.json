@@ -1,0 +1,140 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.75, 
+          16.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7240", 
+      "properties": {
+        "approvalDate": "2009-03-23", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19481639.65, 
+        "id": "37579-032", 
+        "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
+        "locationName": "Khoueng Savannakhet", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.25, 
+          15.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7241", 
+      "properties": {
+        "approvalDate": "2009-03-23", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19481639.65, 
+        "id": "37579-032", 
+        "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
+        "locationName": "Salavan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.0, 
+          14.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7242", 
+      "properties": {
+        "approvalDate": "2009-03-23", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19481639.65, 
+        "id": "37579-032", 
+        "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
+        "locationName": "Champasak", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          14.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7243", 
+      "properties": {
+        "approvalDate": "2009-03-23", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19481639.65, 
+        "id": "37579-032", 
+        "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
+        "locationName": "Attapu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          15.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7244", 
+      "properties": {
+        "approvalDate": "2009-03-23", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 19481639.65, 
+        "id": "37579-032", 
+        "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
+        "locationName": "Khoueng Xekong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "LA", 
+  "properties": {
+    "bounds": [
+      100.0970732020001, 
+      13.91545664500012, 
+      107.66436324000011, 
+      22.49604400700011
+    ], 
+    "name": "Lao PDR"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,40 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.60267, 
+          15.63201
+        ], 
+        "type": "Point"
+      }, 
+      "id": "681", 
+      "properties": {
+        "approvalDate": "2008-10-06", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 196000000.0, 
+        "disbursementAmount": 166880743.07, 
+        "id": "36352-013", 
+        "info": "The Project's objective is to  contribute to meet Viet Nam's increasing power demand in an environmentally sustainable and socially inclusive manner", 
+        "locationName": "Huyen Nam Giang", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SONG BUNG 4 HYDROPOWER PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "name": "Vietnam"
+  }, 
+  "type": "FeatureCollection"
+}

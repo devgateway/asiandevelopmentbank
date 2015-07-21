@@ -1,0 +1,540 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.91667, 
+          23.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4502", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Chuadanga", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.95255, 
+          23.05724
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4503", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Jessore", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.13801, 
+          23.40964
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4504", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Jhenaidah", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.24197, 
+          23.86132
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4505", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Kushtia", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.43333, 
+          23.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4506", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Magura", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.7, 
+          23.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4507", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Meherpur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.63094, 
+          23.043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4508", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Narail", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.53333, 
+          24.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4509", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Bogra", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.75, 
+          25.61667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4510", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Dinajpur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.58315, 
+          25.1101
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4511", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Gaibandha", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.1, 
+          25.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4512", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Joypurhat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.66667, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4513", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Kurigram", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.25, 
+          26.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4514", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Lalmonirhat", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.94657, 
+          24.8118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4515", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Naogaon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.12, 
+          24.26
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4516", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Natore", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.15638, 
+          24.68501
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4517", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Nawabganj", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.03138, 
+          25.90363
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4518", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Nilphamari", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.56667, 
+          26.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4519", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Panchagarh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.49122, 
+          24.50425
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4520", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Rajshahi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.27514, 
+          25.57239
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4521", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Rangpur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.26495, 
+          25.89085
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4522", 
+      "properties": {
+        "approvalDate": "2011-04-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 25830764.89, 
+        "id": "40515-013", 
+        "info": "The Sustainable Rural Infrastructure Improvement Project (the Project) will reduce poverty and raise incomes in 21 districts of northwest and southwest Bangladesh through fostering economic growth,\u2026", 
+        "locationName": "Thakurgaon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE RURAL INFRASTRUCTURE IMPROVEMENT PROJECT"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

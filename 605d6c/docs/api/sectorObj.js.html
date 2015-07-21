@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JSDoc: Source: sectorObj.js</title>
+
+  <script src="scripts/prettify/prettify.js"> </script>
+  <script src="scripts/prettify/lang-css.js"> </script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+  <link rel="stylesheet/less" type="text/css" href="styles/jsdoc.less" />
+  <script type="text/javascript" src="scripts/less.js"></script>
+</head>
+
+<body>
+
+  <div id="main">
+
+    <h1 class="page-title">Source: sectorObj.js</h1>
+
+    
+
+
+  
+  <section>
+    <article>
+      <pre class="prettyprint source"><code>'use strict';
+
+/**
+ * JavaScript object for storing sector information
+ */
+function SectorObj(initial) {
+  if (!(this instanceof SectorObj)) { return new SectorObj(initial); }
+  this._map = {
+    'Agriculture, natural resources and rural development' : 0, 
+    'Water supply and other urban infrastructure and services' : 0, 
+    'Energy' : 0, 
+    'Public sector management' : 0, 
+    'Multisector' : 0, 
+    'Information and communication technology' : 0, 
+    'Health' : 0, 
+    'Education' : 0, 
+    'Industry and trade' : 0, 
+    'Transport' : 0, 
+    'Finance' : 0,
+  };
+}
+
+/**
+ * Decorator to ensure that the .length property is consistent
+ */
+function updatesLength(fn) {
+  return function() {
+    var result = fn.apply(this, arguments);
+    this.length = this.asArray().length;
+    return result;
+  };
+}
+
+SectorObj.prototype.updateObject = function(el) {
+  var _this = this;
+  el.forEach(function(entry) {
+    _this._map[entry] += 1;
+  });
+};
+
+SectorObj.prototype.asObject = function() {
+  return this._map;
+};
+
+SectorObj.prototype.copy = function() {
+  return new SectorObj(this.asArray());
+};
+
+SectorObj.prototype.clear = updatesLength(function() {
+  this._map = {};
+});
+
+SectorObj.prototype.asArray = function() {
+  return Object.keys(this._map);
+};
+
+SectorObj.prototype.toString = function() {
+  return 'SectorObj' + this.asArray();
+};
+
+
+function unique(array) {
+  return new SectorObj(array).asArray();
+}
+
+
+function arrayEq(old, newArray) {
+  if (!(newArray instanceof Array)) {
+    throw new Error('Expected an array to compare, got ' + typeof newArray);
+  }
+  if (!(old instanceof Array)) {  // old can be not-an-array
+    return false;
+  }
+  if (newArray.length !== old.length) {  // length changing means they're different
+    return false;
+  }
+  return newArray.every(function(v) {  // true if any new v is not in old, else false
+    return (old.indexOf(v) !== -1);
+  });
+}
+
+/**
+ * SHALLOW compare of two objects by key
+ */
+function objectEq(prev, next) {
+  var prevKeys = Object.keys(prev || {}),
+      nextKeys = Object.keys(next || {});
+
+  if (prevKeys.length !== nextKeys.length) {
+    return false;
+  }
+
+  return nextKeys.every(function(key) {
+    return prev[key] === next[key];
+  });
+}
+
+
+function pick(keys, obj) {
+  var out = {};
+  keys.forEach(function(key) {
+    if (obj[key] !== undefined) {
+      out[key] = obj[key];
+    }
+  });
+  return out;
+}
+
+
+module.exports = {
+  SectorObj: SectorObj,
+  unique: unique,
+  arrayEq: arrayEq,
+  objectEq: objectEq,
+  pick: pick,
+};
+</code></pre>
+    </article>
+  </section>
+
+
+
+
+
+  </div>
+  <div class="api-mobile-bar"></div>
+  <nav class="navigation">
+    <div class="api-button-wrapper">
+      <a class="api-nav-toggle" href="#">
+        <span></span>
+      </a>
+    </div>
+    <div class="scroll-wrapper">
+      <h2><a href="index.html">Index</a></h2><h3>Global</h3><ul><li><a href="global.html#DGSet">DGSet</a></li><li><a href="global.html#filtersContents">filtersContents</a></li><li><a href="global.html#objectEq">objectEq</a></li><li><a href="global.html#SectorObj">SectorObj</a></li><li><a href="global.html#updatesLength">updatesLength</a></li></ul>
+    </div>
+  </nav>
+
+  <br clear="both">
+  <script type="text/javascript" src="scripts/jquery.js"></script>
+  <script type="text/javascript" src="scripts/linenumber.js"> </script>
+  <script type="text/javascript" src="scripts/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,1269 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          187.86667, 
+          -13.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "133", 
+      "properties": {
+        "approvalDate": "2006-06-05", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8060000.0, 
+        "disbursementAmount": 7566650.24, 
+        "id": "34285-013", 
+        "info": "The objective of the Project is to establish an equitable and effective education system that will enhance learning outcomes of young people for further study, work and adult life", 
+        "locationName": "Samoa", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "EDUCATION SECTOR PROJECT II", 
+        "website": "http://www.adb.org/projects/34285-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          187.44928, 
+          -13.77987
+        ], 
+        "type": "Point"
+      }, 
+      "id": "134", 
+      "properties": {
+        "approvalDate": "2006-06-05", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8060000.0, 
+        "disbursementAmount": 7566650.24, 
+        "id": "34285-013", 
+        "info": "The objective of the Project is to establish an equitable and effective education system that will enhance learning outcomes of young people for further study, work and adult life", 
+        "locationName": "Fagaloa", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "EDUCATION SECTOR PROJECT II", 
+        "website": "http://www.adb.org/projects/34285-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.25, 
+          -13.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "135", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Upolu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.2, 
+          -13.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "136", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Tuamasaga", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24079, 
+          -13.85099
+        ], 
+        "type": "Point"
+      }, 
+      "id": "137", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Tanugamanono", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.21921, 
+          -13.81528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "138", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Mulinu\u2019u Point", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23334, 
+          -13.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "139", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Apia", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23361, 
+          -13.83539
+        ], 
+        "type": "Point"
+      }, 
+      "id": "140", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Togafuafua", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23554, 
+          -13.88739
+        ], 
+        "type": "Point"
+      }, 
+      "id": "141", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Vaimauga West", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.22882, 
+          -13.83483
+        ], 
+        "type": "Point"
+      }, 
+      "id": "142", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 26610000.0, 
+        "disbursementAmount": 23838675.12, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Saleufi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          187.86667, 
+          -13.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "143", 
+      "properties": {
+        "approvalDate": "2013-10-29", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 10000000.0, 
+        "id": "46384-001", 
+        "info": "The program is designed to improve the Government of Samoa\u2019s (government) capacity in public financial management and to strengthen the country\u2019s resilience to external shocks by supporting the\u2026", 
+        "locationName": "Samoa", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "PUBLIC SECTOR FINANCIAL MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/46384-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23874, 
+          -13.86417
+        ], 
+        "type": "Point"
+      }, 
+      "id": "144", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Vailima", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          187.69302, 
+          -13.75551
+        ], 
+        "type": "Point"
+      }, 
+      "id": "145", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Vailoa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.22842, 
+          -13.88932
+        ], 
+        "type": "Point"
+      }, 
+      "id": "146", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Tiapapata", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.18762, 
+          -14.00703
+        ], 
+        "type": "Point"
+      }, 
+      "id": "147", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Tafitoala", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.19766, 
+          -14.00385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "148", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Mulivai", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.25077, 
+          -13.85118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "149", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Magiagi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.17056, 
+          -13.99591
+        ], 
+        "type": "Point"
+      }, 
+      "id": "150", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Fusi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.17556, 
+          -14.0006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "151", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Fausaga", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.02997, 
+          -13.93529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "152", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Faleaseela", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24689, 
+          -13.84182
+        ], 
+        "type": "Point"
+      }, 
+      "id": "153", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Faatoia", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23742, 
+          -13.86944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "154", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Avele", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23661, 
+          -13.87406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "155", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Vaoala", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24271, 
+          -13.84316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "156", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Lelata", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24574, 
+          -13.87254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "157", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Alaoa Water Treatment Plant", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEVELOPMENT & POWER SECTOR REHABI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23874, 
+          -13.86417
+        ], 
+        "type": "Point"
+      }, 
+      "id": "158", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Vailima", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          187.69302, 
+          -13.75551
+        ], 
+        "type": "Point"
+      }, 
+      "id": "159", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Vailoa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.22842, 
+          -13.88932
+        ], 
+        "type": "Point"
+      }, 
+      "id": "160", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Tiapapata", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.18762, 
+          -14.00703
+        ], 
+        "type": "Point"
+      }, 
+      "id": "161", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Tafitoala", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.19766, 
+          -14.00385
+        ], 
+        "type": "Point"
+      }, 
+      "id": "162", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Mulivai", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.25077, 
+          -13.85118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "163", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Magiagi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.17056, 
+          -13.99591
+        ], 
+        "type": "Point"
+      }, 
+      "id": "164", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Fusi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.17556, 
+          -14.0006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "165", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Fausaga", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.02997, 
+          -13.93529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "166", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Faleaseela", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24689, 
+          -13.84182
+        ], 
+        "type": "Point"
+      }, 
+      "id": "167", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Faatoia", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23742, 
+          -13.86944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "168", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Avele", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23661, 
+          -13.87406
+        ], 
+        "type": "Point"
+      }, 
+      "id": "169", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Vaoala", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24271, 
+          -13.84316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "170", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Lelata", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24574, 
+          -13.87254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "171", 
+      "properties": {
+        "approvalDate": "2014-01-31", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 8210000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46044-002", 
+        "info": "The impact of the project will be increased energy security. The outcome will be that customers within the project area have access to a higher share of electricity generated by hydropower", 
+        "locationName": "Alaoa Water Treatment Plant", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV'L & POWER SECTOR REHABILITATI", 
+        "website": "http://www.adb.org/projects/46044-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.25, 
+          -13.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "172", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Upolu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.2, 
+          -13.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "173", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Tuamasaga", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.24079, 
+          -13.85099
+        ], 
+        "type": "Point"
+      }, 
+      "id": "174", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Tanugamanono", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.21921, 
+          -13.81528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "175", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Mulinu\u2019u Point", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23334, 
+          -13.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "176", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Apia", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23361, 
+          -13.83539
+        ], 
+        "type": "Point"
+      }, 
+      "id": "177", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Togafuafua", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.23554, 
+          -13.88739
+        ], 
+        "type": "Point"
+      }, 
+      "id": "178", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Vaimauga West", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          188.22882, 
+          -13.83483
+        ], 
+        "type": "Point"
+      }, 
+      "id": "179", 
+      "properties": {
+        "approvalDate": "2007-12-11", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 15390000.0, 
+        "disbursementAmount": 11835942.259999998, 
+        "id": "38183-013", 
+        "info": "The Project supports the Government's overarching objective of providing sustainable and reliable electricity services to all consumers at cost-efficient prices", 
+        "locationName": "Saleufi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/38183-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          187.86667, 
+          -13.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "180", 
+      "properties": {
+        "approvalDate": "2008-01-08", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 5900000.0, 
+        "disbursementAmount": 4244488.93, 
+        "id": "36513-032", 
+        "info": "The SchoolNet and Community Access Project (the Project) will help the Government of Samoa (the Government) develop the capacity of relevant divisions of the Ministry of Education, Sports, and\u2026", 
+        "locationName": "Samoa", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SCHOOLNET AND COMMUNITY ACCESS PROJECT", 
+        "website": "http://www.adb.org/projects/36513-032/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "WS", 
+  "properties": {
+    "bounds": [
+      187.21741783900012, 
+      -14.05282968499999, 
+      188.56230716200008, 
+      -13.46282317499994
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ws.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Samoa"
+  }, 
+  "type": "FeatureCollection"
+}

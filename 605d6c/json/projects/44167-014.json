@@ -1,0 +1,121 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0,
+          24.0
+        ],
+        "type": "Point"
+      },
+      "id": "5114",
+      "properties": {
+        "approvalDate": "2014-08-14",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 3683867.75,
+        "id": "44167-014",
+        "info": "The investment program will establish flood and riverbank erosion risk mitigation systems in priority river reaches along the Jamuna, Padma, and Ganges rivers, and strengthen flood and riverbank\u2026",
+        "locationName": "Bangladesh",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF:FLOOD&RIVERBANK EROSION RISK MNGMT INVSTMNT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.53333,
+          23.36667
+        ],
+        "type": "Point"
+      },
+      "id": "5115",
+      "properties": {
+        "approvalDate": "2014-08-14",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 3683867.75,
+        "id": "44167-014",
+        "info": "The investment program will establish flood and riverbank erosion risk mitigation systems in priority river reaches along the Jamuna, Padma, and Ganges rivers, and strengthen flood and riverbank\u2026",
+        "locationName": "Ganges River",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF:FLOOD&RIVERBANK EROSION RISK MNGMT INVSTMNT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          89.76699,
+          23.82466
+        ],
+        "type": "Point"
+      },
+      "id": "5116",
+      "properties": {
+        "approvalDate": "2014-08-14",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 3683867.75,
+        "id": "44167-014",
+        "info": "The investment program will establish flood and riverbank erosion risk mitigation systems in priority river reaches along the Jamuna, Padma, and Ganges rivers, and strengthen flood and riverbank\u2026",
+        "locationName": "Jamuna River",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF:FLOOD&RIVERBANK EROSION RISK MNGMT INVSTMNT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          90.5575,
+          23.39056
+        ],
+        "type": "Point"
+      },
+      "id": "5117",
+      "properties": {
+        "approvalDate": "2014-08-14",
+        "closingDate": "2019-06-30",
+        "commitmentAmount": 65000000.0,
+        "disbursementAmount": 3683867.75,
+        "id": "44167-014",
+        "info": "The investment program will establish flood and riverbank erosion risk mitigation systems in priority river reaches along the Jamuna, Padma, and Ganges rivers, and strengthen flood and riverbank\u2026",
+        "locationName": "Padma River",
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ],
+        "status": "Implementation",
+        "title": "MFF:FLOOD&RIVERBANK EROSION RISK MNGMT INVSTMNT PROGRAM-PROJECT1"
+      },
+      "type": "Feature"
+    }
+  ],
+  "id": "BD",
+  "properties": {
+    "bounds": [
+      88.02178959200009,
+      20.73871491100003,
+      92.64285119700017,
+      26.623544007000064
+    ],
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml",
+      "download_date": "2015-07-15 16:23:13",
+      "quarter": "Q3 2015",
+      "run_date": "2015-07-15 16:23:31"
+    },
+    "name": "Bangladesh"
+  },
+  "type": "FeatureCollection"
+}
