@@ -1,0 +1,99 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.35116, 
+          34.46386
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9491", 
+      "properties": {
+        "approvalDate": "2006-06-14", 
+        "closingDate": "2012-03-31", 
+        "commitmentAmount": 42000000.0, 
+        "disbursementAmount": 44665577.9, 
+        "id": "33268-013", 
+        "info": "Project initiatives focus on improving the quality of life for the region's inhabitants", 
+        "locationName": "Mohmand", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "FEDERALLY ADMINISTERED TRIBAL AREAS RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33268-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.0577, 
+          33.96113
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9492", 
+      "properties": {
+        "approvalDate": "2006-06-14", 
+        "closingDate": "2012-03-31", 
+        "commitmentAmount": 42000000.0, 
+        "disbursementAmount": 44665577.9, 
+        "id": "33268-013", 
+        "info": "Project initiatives focus on improving the quality of life for the region's inhabitants", 
+        "locationName": "Khyber", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "FEDERALLY ADMINISTERED TRIBAL AREAS RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33268-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.49067, 
+          34.75732
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9493", 
+      "properties": {
+        "approvalDate": "2006-06-14", 
+        "closingDate": "2012-03-31", 
+        "commitmentAmount": 42000000.0, 
+        "disbursementAmount": 44665577.9, 
+        "id": "33268-013", 
+        "info": "Project initiatives focus on improving the quality of life for the region's inhabitants", 
+        "locationName": "B\u0101jaur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "FEDERALLY ADMINISTERED TRIBAL AREAS RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33268-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PK", 
+  "properties": {
+    "bounds": [
+      60.8443787030001, 
+      23.694525458000058, 
+      77.0489709880002, 
+      37.054483541000096
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "Pakistan"
+  }, 
+  "type": "FeatureCollection"
+}

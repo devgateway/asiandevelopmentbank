@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "224", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2016-03-22", 
+        "commitmentAmount": 48500000.0, 
+        "disbursementAmount": 26120681.34, 
+        "id": "44236-013", 
+        "info": "The Emergency Assistance for Recovery and Reconstruction (EARR) will (i) rebuild damaged houses and improve essential public and community infrastructure, and (ii) restore the country s immediate\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "EMERGENCY ASSISTANCE FOR RECOVERY AND RECONSTRUCTION", 
+        "website": "http://www.adb.org/projects/44236-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.74586, 
+          41.0376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "225", 
+      "properties": {
+        "approvalDate": "2010-09-27", 
+        "closingDate": "2016-03-22", 
+        "commitmentAmount": 48500000.0, 
+        "disbursementAmount": 26120681.34, 
+        "id": "44236-013", 
+        "info": "The Emergency Assistance for Recovery and Reconstruction (EARR) will (i) rebuild damaged houses and improve essential public and community infrastructure, and (ii) restore the country s immediate\u2026", 
+        "locationName": "Bazar-Korgon", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "EMERGENCY ASSISTANCE FOR RECOVERY AND RECONSTRUCTION", 
+        "website": "http://www.adb.org/projects/44236-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

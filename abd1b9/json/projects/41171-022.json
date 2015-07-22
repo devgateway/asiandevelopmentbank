@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          159.0, 
+          -8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "346", 
+      "properties": {
+        "approvalDate": "2011-04-06", 
+        "closingDate": "2016-07-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 7873772.970000001, 
+        "id": "41171-022", 
+        "info": "The project will improve access to socioeconomic opportunities by rehabilitating and maintaining land, sea, and air transport infrastructure", 
+        "locationName": "Solomon Islands", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "TRANSPORT SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41171-022/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "SB", 
+  "properties": {
+    "bounds": [
+      155.50798587300008, 
+      -12.290622653999918, 
+      168.8258569670002, 
+      -6.599867445999806
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Solomon Islands"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117, 
+          21.0245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5097", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 170000000.0, 
+        "disbursementAmount": 1296360.6300000001, 
+        "id": "42079-013", 
+        "info": "The project seeks to establish a new model university (NMU) focused on international standard teaching and research in science and technology", 
+        "locationName": "Hanoi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "UNIV OF SCI & TECH OF HANOI DEVL (NEW MODEL UNIV) PROJ", 
+        "website": "http://www.adb.org/projects/42079-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117, 
+          21.0245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5098", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 1664693.63, 
+        "id": "42079-013", 
+        "info": "The project seeks to establish a new model university (NMU) focused on international standard teaching and research in science and technology", 
+        "locationName": "Hanoi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "UNIV OF SCI & TECH OF HANOI DEVL (NEW MODEL UNIV) PROJ-HARD TERM", 
+        "website": "http://www.adb.org/projects/42079-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
+  }, 
+  "type": "FeatureCollection"
+}

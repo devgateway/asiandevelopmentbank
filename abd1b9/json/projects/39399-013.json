@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          83.27714, 
+          27.48619
+        ], 
+        "type": "Point"
+      }, 
+      "id": "611", 
+      "properties": {
+        "approvalDate": "2009-12-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 3336930.3299999996, 
+        "id": "39399-013", 
+        "info": "The Project will develop and improve tourism-related infrastructure in Nepal, India, and Bangladesh", 
+        "locationName": "Lumbini", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEVT PROJ(BAN/NEP/IND)-BAN", 
+        "website": "http://www.adb.org/projects/39399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.41625, 
+          27.5057
+        ], 
+        "type": "Point"
+      }, 
+      "id": "612", 
+      "properties": {
+        "approvalDate": "2009-12-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 3336930.3299999996, 
+        "id": "39399-013", 
+        "info": "The Project will develop and improve tourism-related infrastructure in Nepal, India, and Bangladesh", 
+        "locationName": "Bhairahaw\u0101", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEVT PROJ(BAN/NEP/IND)-BAN", 
+        "website": "http://www.adb.org/projects/39399-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

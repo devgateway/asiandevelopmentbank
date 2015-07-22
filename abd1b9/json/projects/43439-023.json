@@ -1,0 +1,151 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          52.11667, 
+          44.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6166", 
+      "properties": {
+        "approvalDate": "2011-08-22", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 283000000.0, 
+        "disbursementAmount": 119051143.99000001, 
+        "id": "43439-023", 
+        "info": "The Project comprises civil works, and project management and institutional support", 
+        "locationName": "Shetpe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC CORR.2(MANGYSTAU OBLAST SECTIONS)INVESTMENT PROG-TR1", 
+        "website": "http://www.adb.org/projects/43439-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          53.53246, 
+          44.32781
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6167", 
+      "properties": {
+        "approvalDate": "2011-08-22", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 283000000.0, 
+        "disbursementAmount": 119051143.99000001, 
+        "id": "43439-023", 
+        "info": "The Project comprises civil works, and project management and institutional support", 
+        "locationName": "Say\u00f6tesh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC CORR.2(MANGYSTAU OBLAST SECTIONS)INVESTMENT PROG-TR1", 
+        "website": "http://www.adb.org/projects/43439-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          53.33333, 
+          44.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6168", 
+      "properties": {
+        "approvalDate": "2011-08-22", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 283000000.0, 
+        "disbursementAmount": 119051143.99000001, 
+        "id": "43439-023", 
+        "info": "The Project comprises civil works, and project management and institutional support", 
+        "locationName": "Mangghysta\u016b A\u016bdany", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC CORR.2(MANGYSTAU OBLAST SECTIONS)INVESTMENT PROG-TR1", 
+        "website": "http://www.adb.org/projects/43439-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          54.0, 
+          44.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6169", 
+      "properties": {
+        "approvalDate": "2011-08-22", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 283000000.0, 
+        "disbursementAmount": 119051143.99000001, 
+        "id": "43439-023", 
+        "info": "The Project comprises civil works, and project management and institutional support", 
+        "locationName": "Mangistauskaya Oblast\u2019", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC CORR.2(MANGYSTAU OBLAST SECTIONS)INVESTMENT PROG-TR1", 
+        "website": "http://www.adb.org/projects/43439-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          55.2, 
+          45.31667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6170", 
+      "properties": {
+        "approvalDate": "2011-08-22", 
+        "closingDate": "2016-01-31", 
+        "commitmentAmount": 283000000.0, 
+        "disbursementAmount": 119051143.99000001, 
+        "id": "43439-023", 
+        "info": "The Project comprises civil works, and project management and institutional support", 
+        "locationName": "Beyneu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC CORR.2(MANGYSTAU OBLAST SECTIONS)INVESTMENT PROG-TR1", 
+        "website": "http://www.adb.org/projects/43439-023/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KZ", 
+  "properties": {
+    "bounds": [
+      46.47827884900002, 
+      40.58465566000008, 
+      87.3237960210001, 
+      55.434550273000085
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kz.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Kazakhstan"
+  }, 
+  "type": "FeatureCollection"
+}

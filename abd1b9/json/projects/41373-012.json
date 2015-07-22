@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5671", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2009-04-30", 
+        "commitmentAmount": 6710000.0, 
+        "disbursementAmount": 6710000.0, 
+        "id": "41373-012", 
+        "info": "The program's objective is to assist in implementing the PFMRP, particularly in the three aforementioned rural development\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "PUBLIC FINANCIAL MANAGEMENT FOR RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/41373-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5672", 
+      "properties": {
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 4100000.0, 
+        "disbursementAmount": 3457135.39, 
+        "id": "41373-012", 
+        "info": "The program's objective is to assist in implementing the PFMRP, particularly in the three aforementioned rural development\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "PUBLIC FINANCIAL MANAGEMENT FOR RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/41373-012/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

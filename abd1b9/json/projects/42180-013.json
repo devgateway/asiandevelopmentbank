@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "990", 
+      "properties": {
+        "approvalDate": "2014-04-06", 
+        "closingDate": "2019-07-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42180-013", 
+        "info": "PPIDF II will build on the efforts of Public-Private Infrastructure Development Facility (PPIDF I) in helping address the infrastructure deficiencies in Bangladesh by providing long-term debt\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY", 
+        "website": "http://www.adb.org/projects/42180-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "991", 
+      "properties": {
+        "approvalDate": "2014-04-06", 
+        "closingDate": "2019-07-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42180-013", 
+        "info": "PPIDF II will build on the efforts of Public-Private Infrastructure Development Facility (PPIDF I) in helping address the infrastructure deficiencies in Bangladesh by providing long-term debt\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY (SF)", 
+        "website": "http://www.adb.org/projects/42180-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,2361 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.64194, 
+          48.00556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6633", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Khovd", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.81721, 
+          48.06236
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6634", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Buyant District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.28687, 
+          45.79566
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6635", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Altay", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.27988, 
+          47.35323
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6636", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Manhan Sum", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.81686, 
+          47.12798
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6637", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Dzereg Sum", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.78243, 
+          45.86853
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6638", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "\u00dcyench Sum", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.53276, 
+          46.09609
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6639", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Bulgan District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          93.23362, 
+          46.33949
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6640", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Tsetseg Sum", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.58402, 
+          46.68468
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6641", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "M\u00f6st Sum", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.00266, 
+          46.13844
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6642", 
+      "properties": {
+        "approvalDate": "2008-04-18", 
+        "closingDate": "2014-12-01", 
+        "commitmentAmount": 37600000.0, 
+        "disbursementAmount": 25840006.59, 
+        "id": "39265-022", 
+        "info": "The impact of the Project will be the promotion of regional transport of freight and passengers via the Western Road Corridor and increased economic development and regional trade", 
+        "locationName": "Yarant Border Post", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39265-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.5, 
+          47.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6643", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14530500.63, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Hovd Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          99.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6644", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14530500.63, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Bayanhongor Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.5, 
+          46.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6645", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14530500.63, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "S\u00fchbaatar Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          49.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6646", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14530500.63, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Selenge Aymag", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6647", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14530500.63, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6648", 
+      "properties": {
+        "approvalDate": "2008-12-11", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9765077.25, 
+        "id": "39254-022", 
+        "info": "The Education Sector Reform Project will build on the achievements of three previous projects that supported major sector reforms, helped the Government to reorient the education system to the needs\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "EDUCATION SECTOR REFORM PROJECT", 
+        "website": "http://www.adb.org/projects/39254-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6649", 
+      "properties": {
+        "approvalDate": "2008-12-17", 
+        "closingDate": "2014-09-30", 
+        "commitmentAmount": 3000000.0, 
+        "disbursementAmount": 3000000.0, 
+        "id": "42322-012", 
+        "info": "ADB has secured a $12 million grant to build on the existing social welfare system and assist the Government in (i) designing and implementing emergency measures that specially target mitigating the\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT", 
+        "website": "http://www.adb.org/projects/42322-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6650", 
+      "properties": {
+        "approvalDate": "2008-12-17", 
+        "closingDate": "2013-07-30", 
+        "commitmentAmount": 9000000.0, 
+        "disbursementAmount": 9000000.0, 
+        "id": "42322-012", 
+        "info": "ADB has secured a $12 million grant to build on the existing social welfare system and assist the Government in (i) designing and implementing emergency measures that specially target mitigating the\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT", 
+        "website": "http://www.adb.org/projects/42322-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6651", 
+      "properties": {
+        "approvalDate": "2009-10-09", 
+        "closingDate": "2014-08-31", 
+        "commitmentAmount": 17000000.0, 
+        "disbursementAmount": 17000526.6, 
+        "id": "43127-012", 
+        "info": "The financial and economic crisis has forced the Government of Mongolia (the Government) to embark on a process of fiscal adjustment", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "EDUCATION FOR THE POOR - FINANCIAL CRISIS RESPONSE", 
+        "website": "http://www.adb.org/projects/43127-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.0, 
+          44.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6652", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16000000.0, 
+        "disbursementAmount": 15983016.15, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "East Gobi Aymag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.65, 
+          46.13333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6653", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16000000.0, 
+        "disbursementAmount": 15983016.15, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "Choyr", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.5, 
+          46.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6654", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16000000.0, 
+        "disbursementAmount": 15983016.15, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "Gov\u012d-Sumber", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777, 
+          43.7193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6655", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16000000.0, 
+        "disbursementAmount": 15983016.15, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "Zamiin Uud", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.04813, 
+          43.23245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6656", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Urt", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.2, 
+          43.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6657", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Ihbulag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.13451, 
+          44.88689
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6658", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Saynshand", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.75611, 
+          43.64477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6659", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Tsogttsetsiy", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.0471, 
+          43.22369
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6660", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Gurvantes", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.42471, 
+          43.56447
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6661", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Dalandzadgad", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777, 
+          43.7193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6662", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2015-05-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 8274694.4399999995, 
+        "id": "42184-022", 
+        "info": "The objective of the Project is to maximize benefits from development of mining and border trade activities in the\u2026", 
+        "locationName": "Zamiin Uud", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHEAST GOBI URBAN AND BORDER TOWN DEVELOPMENT P", 
+        "website": "http://www.adb.org/projects/42184-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.25833, 
+          46.37222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6663", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Altai", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6664", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.08333, 
+          49.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6665", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Erdenet", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.53472, 
+          48.8125
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6666", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Bulgan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.71806, 
+          46.19444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6667", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Bayanhongor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.27917, 
+          46.68056
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6668", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Baruun-Urt", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.775, 
+          46.26389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6669", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Arvayheer", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6670", 
+      "properties": {
+        "approvalDate": "2010-12-10", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 3187815.8200000003, 
+        "id": "41243-012", 
+        "info": "The project will strengthen the hospital sector in Ulaanbaatar and improve drug safety nationwide", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FOURTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41243-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777, 
+          43.7193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6671", 
+      "properties": {
+        "approvalDate": "2011-01-03", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 5000000.0, 
+        "disbursementAmount": 1123497.0999999999, 
+        "id": "41192-013", 
+        "info": "The Project will be implemented in the Zamyn Uud, a relatively poor area", 
+        "locationName": "Zamiin Uud", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL LOGISTICS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41192-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.0, 
+          44.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6672", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8000000.0, 
+        "disbursementAmount": 5428097.46, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "East Gobi Aymag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.65, 
+          46.13333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6673", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8000000.0, 
+        "disbursementAmount": 5428097.46, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "Choyr", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.5, 
+          46.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6674", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8000000.0, 
+        "disbursementAmount": 5428097.46, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "Gov\u012d-Sumber", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777, 
+          43.7193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6675", 
+      "properties": {
+        "approvalDate": "2010-04-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8000000.0, 
+        "disbursementAmount": 5428097.46, 
+        "id": "35377-023", 
+        "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
+        "locationName": "Zamiin Uud", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.90777, 
+          43.7193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6676", 
+      "properties": {
+        "approvalDate": "2011-01-03", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41192-013", 
+        "info": "The Project will be implemented in the Zamyn Uud, a relatively poor area", 
+        "locationName": "Zamiin Uud", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "REGIONAL LOGISTICS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41192-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6677", 
+      "properties": {
+        "approvalDate": "2011-09-09", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 2307677.9, 
+        "id": "43007-023", 
+        "info": "The project  will institute needed reforms in higher education (HE) to improve the quality and relevance of HE programs; governance, management, and financing of HE institutions (HEIs) and the entire\u2026", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "HIGHER EDUCATION REFORM PROJECT", 
+        "website": "http://www.adb.org/projects/43007-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6678", 
+      "properties": {
+        "approvalDate": "2012-03-20", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 15986667.600000001, 
+        "id": "41193-015", 
+        "info": "The investment program is the government's top priority road investment after the ADB-financed Regional Road Development Project", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 1 (SF)", 
+        "website": "http://www.adb.org/projects/41193-015/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6679", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 25000000.0, 
+        "disbursementAmount": 502450.14, 
+        "id": "41243-023", 
+        "info": "The Asian Development Bank (ADB) approved the original project in 2010  which was designed to improve health sector efficiency, governance, and drug safety focusing on three key areas: hospital\u2026", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FOURTH HEALTH SECTOR DEVELOPMKENT PROJECT-ADDITIONAL FINANCING(SF", 
+        "website": "http://www.adb.org/projects/41243-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.58806, 
+          48.07639
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6680", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 25000000.0, 
+        "disbursementAmount": 502450.14, 
+        "id": "41243-023", 
+        "info": "The Asian Development Bank (ADB) approved the original project in 2010  which was designed to improve health sector efficiency, governance, and drug safety focusing on three key areas: hospital\u2026", 
+        "locationName": "Songino Khairkhan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FOURTH HEALTH SECTOR DEVELOPMKENT PROJECT-ADDITIONAL FINANCING(SF", 
+        "website": "http://www.adb.org/projects/41243-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          93.0, 
+          49.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6681", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Uvs Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.5, 
+          47.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6682", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Hovd Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6683", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Gov\u012d-Altay Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6684", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Dzavhan Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.64194, 
+          48.00556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6685", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Khovd", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          48.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6686", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bayan-\u00d6lgiy Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          99.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6687", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bayanhongor Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.91667, 
+          47.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6688", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Ulaanbaatar Hot", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6689", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          47.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6690", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Central", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.5, 
+          46.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6691", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "S\u00fchbaatar Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.41667, 
+          49.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6692", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Selenge Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.5, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6693", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "\u00d6v\u00f6rhangay", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.0, 
+          43.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6694", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "\u00d6mn\u00f6gov\u012d", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6695", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.0, 
+          50.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6696", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "H\u00f6vsg\u00f6l Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.5, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6697", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Hentiy Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.08333, 
+          49.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6698", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Erdenet", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6699", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Middle Gov\u012d", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          110.0, 
+          44.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6700", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "East Gobi Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          115.0, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6701", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "East Aimak", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.92278, 
+          49.48667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6702", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Darhan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.5, 
+          49.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6703", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bulgan Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.53472, 
+          48.8125
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6704", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Bulgan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6705", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Arhangay Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.5, 
+          46.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6706", 
+      "properties": {
+        "approvalDate": "2013-02-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 338377.4, 
+        "id": "45009-002", 
+        "info": "The project will improve patients' and health workers' safety in hospitals in Mongolia", 
+        "locationName": "Gov\u012d-Sumber", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "FIFTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45009-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6707", 
+      "properties": {
+        "approvalDate": "2014-03-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46312-001", 
+        "info": "The proposed project will deliver four outputs to modernize the payment system in Mongolia", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Implementation", 
+        "title": "PAYMENT SYSTEM MODERNIZATION PROJECT", 
+        "website": "http://www.adb.org/projects/46312-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.91667, 
+          47.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6708", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 27500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Ulaanbaatar Hot", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6709", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 27500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.83852, 
+          47.96006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6710", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 27500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Bayankhoshuuny", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.91667, 
+          47.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6711", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 22500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Ulaanbaatar Hot", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6712", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 22500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.83852, 
+          47.96006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6713", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 22500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Bayankhoshuuny", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6714", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Gov\u012d-Altay Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          96.25833, 
+          46.37222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6715", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Altai", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          47.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6716", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Central", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.5, 
+          46.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6717", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "S\u00fchbaatar Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6718", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.5, 
+          45.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6719", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Middle Gov\u012d", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          48.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6720", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Arhangay Aymag", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88751, 
+          48.02148
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6721", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Chingeltei", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.58806, 
+          48.07639
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6722", 
+      "properties": {
+        "approvalDate": "2007-12-13", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 12834100.13, 
+        "id": "41119-012", 
+        "info": "The Project will build on previous health sector development initiatives to continue reform of the Mongolian health sector regarding primary health care (PHC)", 
+        "locationName": "Songino Khairkhan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41119-012/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

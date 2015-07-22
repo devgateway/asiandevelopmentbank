@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          93.0, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7501", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2015-01-31", 
+        "commitmentAmount": 94000000.0, 
+        "disbursementAmount": 87000000.0, 
+        "id": "41607-013", 
+        "info": "The program seeks to help the state government of Mizoram (SGM) to create fiscal space by (i) enhancing tax and nontax revenue measures and rationalizing expenditures; (ii) bringing about service\u2026", 
+        "locationName": "State of Mizoram", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "MIZORAM PUBLIC RESOURCE MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41607-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          93.0, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7502", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2015-01-31", 
+        "commitmentAmount": 6000000.0, 
+        "disbursementAmount": 629268.91, 
+        "id": "41607-013", 
+        "info": "The program seeks to help the state government of Mizoram (SGM) to create fiscal space by (i) enhancing tax and nontax revenue measures and rationalizing expenditures; (ii) bringing about service\u2026", 
+        "locationName": "State of Mizoram", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "DEVELOPING PUBLIC RESOURCE MANAGEMENT IN MIZORAM", 
+        "website": "http://www.adb.org/projects/41607-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

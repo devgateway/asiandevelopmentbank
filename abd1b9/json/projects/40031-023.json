@@ -1,0 +1,203 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.24191, 
+          27.2871
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7001", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "Shri Mohangarh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.52215, 
+          24.02414
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7002", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "K\u0101li Sindh River", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.17242, 
+          24.54205
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7003", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "Jh\u0101lrap\u0101tan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.25, 
+          24.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7004", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "Jh\u0101l\u0101w\u0101r", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.90387, 
+          26.91763
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7005", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "Jaisalmer", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.625, 
+          27.56246
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7006", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "Alwar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.5, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7007", 
+      "properties": {
+        "approvalDate": "2008-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 49477722.23, 
+        "id": "40031-023", 
+        "info": "To increase economic growth, reduce poverty and sustain improvement in the urban environment and quality of life in the Jaisalmer, Alwar and Jhalawar/Jhalarapatan", 
+        "locationName": "Alwar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-RAJASTHAN URBAN SECTOR DEVELOPMENT INVESTMENT PROGRAM-PRJ1", 
+        "website": "http://www.adb.org/projects/40031-023/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,177 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          104.91667, 
+          19.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4335", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Ngh\u1ec7 An", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT", 
+        "website": "http://www.adb.org/projects/36304-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.83333, 
+          11.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4336", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Ninh Thu\u1eadn", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT", 
+        "website": "http://www.adb.org/projects/36304-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4337", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT", 
+        "website": "http://www.adb.org/projects/36304-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          20.06667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4338", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Thanh H\u00f3a", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT", 
+        "website": "http://www.adb.org/projects/36304-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.75, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4339", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "\u00d0\u1eafk N\u00f4ng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT", 
+        "website": "http://www.adb.org/projects/36304-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.91667, 
+          15.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4340", 
+      "properties": {
+        "approvalDate": "2007-03-14", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 31098548.32, 
+        "id": "36304-013", 
+        "info": "The Project aims to strengthen the national AST system in Viet Nam, thereby contributing to the sustainable and equitable growth of the agriculture sector and ultimately to reduced rural poverty", 
+        "locationName": "T\u1ec9nh Qu\u1ea3ng Nam", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Completion", 
+        "title": "AGRICULTURE SCIENCE AND TECHNOLOGY PROJECT", 
+        "website": "http://www.adb.org/projects/36304-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
+  }, 
+  "type": "FeatureCollection"
+}

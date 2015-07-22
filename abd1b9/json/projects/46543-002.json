@@ -1,0 +1,151 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.64416, 
+          37.80396
+        ], 
+        "type": "Point"
+      }, 
+      "id": "108", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 5349070.57, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Vose\u2019", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46543-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.97531, 
+          38.34194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "109", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 5349070.57, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Khovaling", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46543-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.62226, 
+          37.92785
+        ], 
+        "type": "Point"
+      }, 
+      "id": "110", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 5349070.57, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Vose' District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46543-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.10587, 
+          38.40851
+        ], 
+        "type": "Point"
+      }, 
+      "id": "111", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 5349070.57, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Khovaling District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46543-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.57632, 
+          39.291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "112", 
+      "properties": {
+        "approvalDate": "2013-10-07", 
+        "closingDate": "2017-10-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 5349070.57, 
+        "id": "46543-002", 
+        "info": "The impact of the project will be enhanced regional economic cooperation and inclusive economic growth in Tajikistan", 
+        "locationName": "Nohiyai Jirghatol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDORS 3 & 5 ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46543-002/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TJ", 
+  "properties": {
+    "bounds": [
+      67.34269006300022, 
+      36.67864084900019, 
+      75.16412479700008, 
+      41.039976705000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Tajikistan"
+  }, 
+  "type": "FeatureCollection"
+}

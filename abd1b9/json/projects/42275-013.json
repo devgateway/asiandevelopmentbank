@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5239", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 90000000.0, 
+        "disbursementAmount": 1545141.5500000003, 
+        "id": "42275-013", 
+        "info": "The proposed Second Upper Secondary Education Development Project (USEPD II/the Project) is designed as a positive school-sector intervention for effective human resource development that will\u2026", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND UPPER SECONDARY EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42275-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
+  }, 
+  "type": "FeatureCollection"
+}

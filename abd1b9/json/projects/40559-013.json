@@ -1,0 +1,931 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.46989, 
+          26.03097
+        ], 
+        "type": "Point"
+      }, 
+      "id": "555", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Th\u0101kurgaon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.40243, 
+          25.06889
+        ], 
+        "type": "Point"
+      }, 
+      "id": "556", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Sun\u0101mganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.94812, 
+          24.91965
+        ], 
+        "type": "Point"
+      }, 
+      "id": "557", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Jam\u0101lpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.07185, 
+          22.70817
+        ], 
+        "type": "Point"
+      }, 
+      "id": "558", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "S\u0101tkhira", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.70802, 
+          24.45771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "559", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Sirajganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.40646, 
+          24.75636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "560", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Mymensingh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.09841, 
+          24.10287
+        ], 
+        "type": "Point"
+      }, 
+      "id": "561", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Mirz\u0101pur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.18504, 
+          23.46186
+        ], 
+        "type": "Point"
+      }, 
+      "id": "562", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Comilla", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.25166, 
+          25.74664
+        ], 
+        "type": "Point"
+      }, 
+      "id": "563", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Rangpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.79123, 
+          22.65657
+        ], 
+        "type": "Point"
+      }, 
+      "id": "564", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "B\u0101gherh\u0101t", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.49515, 
+          23.15509
+        ], 
+        "type": "Point"
+      }, 
+      "id": "565", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Narail", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.66667, 
+          22.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "566", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "No\u0101kh\u0101li", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.25708, 
+          23.49879
+        ], 
+        "type": "Point"
+      }, 
+      "id": "567", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Kol\u0101p\u0101ra", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.63035, 
+          23.94129
+        ], 
+        "type": "Point"
+      }, 
+      "id": "568", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Ghor\u0101s\u0101l", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.84064, 
+          23.60612
+        ], 
+        "type": "Point"
+      }, 
+      "id": "569", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Far\u012bdpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.63779, 
+          25.62745
+        ], 
+        "type": "Point"
+      }, 
+      "id": "570", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Din\u0101jpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.11667, 
+          22.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "571", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Chaumuh\u0101ni", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.94317, 
+          23.19905
+        ], 
+        "type": "Point"
+      }, 
+      "id": "572", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Ch\u0101ndpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.9059, 
+          23.04697
+        ], 
+        "type": "Point"
+      }, 
+      "id": "573", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Ben\u0101pol", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.96765, 
+          21.45388
+        ], 
+        "type": "Point"
+      }, 
+      "id": "574", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Cox\u2019s B\u0101z\u0101r", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.64403, 
+          22.68759
+        ], 
+        "type": "Point"
+      }, 
+      "id": "575", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Bhola", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.53459, 
+          23.5517
+        ], 
+        "type": "Point"
+      }, 
+      "id": "576", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Munshiganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.11228, 
+          23.97464
+        ], 
+        "type": "Point"
+      }, 
+      "id": "577", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Br\u0101hmanb\u0101ria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.39, 
+          24.73
+        ], 
+        "type": "Point"
+      }, 
+      "id": "578", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Nachole", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.68, 
+          24.3
+        ], 
+        "type": "Point"
+      }, 
+      "id": "579", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Sreemangal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.98, 
+          24.45
+        ], 
+        "type": "Point"
+      }, 
+      "id": "580", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Natore S.", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.64284, 
+          25.81158
+        ], 
+        "type": "Point"
+      }, 
+      "id": "581", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Kurigram", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.43, 
+          23.21
+        ], 
+        "type": "Point"
+      }, 
+      "id": "582", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Parshuram", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.45, 
+          24.24
+        ], 
+        "type": "Point"
+      }, 
+      "id": "583", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Sreepur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.183, 
+          23.542
+        ], 
+        "type": "Point"
+      }, 
+      "id": "584", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Jhenaidah Sardar UZ", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.5438, 
+          25.3293
+        ], 
+        "type": "Point"
+      }, 
+      "id": "585", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Gaibandha", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.11758, 
+          22.15672
+        ], 
+        "type": "Point"
+      }, 
+      "id": "586", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Barguna", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.20109, 
+          22.64265
+        ], 
+        "type": "Point"
+      }, 
+      "id": "587", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Jh\u0101lak\u0101ti", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.98389, 
+          23.39194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "588", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Bhanga", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.01388, 
+          24.85722
+        ], 
+        "type": "Point"
+      }, 
+      "id": "589", 
+      "properties": {
+        "approvalDate": "2008-11-04", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 87000000.0, 
+        "disbursementAmount": 69828402.06, 
+        "id": "40559-013", 
+        "info": "The Second Urban Governance and Infrastructure Improvement (Sector) Project (the Project) supports the improvement of urban governance and of infrastructure and service delivery in pourashavas\u2026", 
+        "locationName": "Golapganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND URBAN GOVERNANCE & INFRASTRUCTURE IMPROVEMENT(SECTOR)PROJ", 
+        "website": "http://www.adb.org/projects/40559-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

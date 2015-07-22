@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          118.18333, 
+          39.63333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1759", 
+      "properties": {
+        "approvalDate": "2012-03-06", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 94050000.0, 
+        "id": "44012-013", 
+        "info": "The project is designed to provide a suitable financing mechanism and finance energy efficiency projects in selected energy-intensive industries and ESCOs", 
+        "locationName": "Tangshan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI ENERGY EFFICIENCY IMPROVEMENT & EMISSION REDUCTION PRJ", 
+        "website": "http://www.adb.org/projects/44012-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          116.0, 
+          39.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1760", 
+      "properties": {
+        "approvalDate": "2012-03-06", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 94050000.0, 
+        "id": "44012-013", 
+        "info": "The project is designed to provide a suitable financing mechanism and finance energy efficiency projects in selected energy-intensive industries and ESCOs", 
+        "locationName": "Hebei", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI ENERGY EFFICIENCY IMPROVEMENT & EMISSION REDUCTION PRJ", 
+        "website": "http://www.adb.org/projects/44012-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}
