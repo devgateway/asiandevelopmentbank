@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7191", 
+      "id": "2007", 
       "properties": {
         "approvalDate": "2014-05-30", 
         "closingDate": "2020-03-31", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION", 
+        "website": "http://www.adb.org/projects/46079-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7192", 
+      "id": "2008", 
       "properties": {
         "approvalDate": "2014-05-30", 
         "closingDate": "2020-03-31", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION", 
+        "website": "http://www.adb.org/projects/46079-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7193", 
+      "id": "2009", 
       "properties": {
         "approvalDate": "2014-05-30", 
         "closingDate": "2020-03-31", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION", 
+        "website": "http://www.adb.org/projects/46079-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7194", 
+      "id": "2010", 
       "properties": {
         "approvalDate": "2014-05-30", 
         "closingDate": "2020-03-31", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION", 
+        "website": "http://www.adb.org/projects/46079-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7195", 
+      "id": "2011", 
       "properties": {
         "approvalDate": "2014-05-30", 
         "closingDate": "2020-03-31", 
@@ -121,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION"
+        "title": "GUANGDONG CHAONAN WATER RESOURCES DEVELOPMENT AND PROTECTION DEMONSTRATION", 
+        "website": "http://www.adb.org/projects/46079-002/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

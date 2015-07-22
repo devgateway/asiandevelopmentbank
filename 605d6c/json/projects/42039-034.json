@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1128", 
+      "id": "5232", 
       "properties": {
         "approvalDate": "2012-02-10", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 120500000.0, 
-        "disbursementAmount": 41434346.61, 
+        "disbursementAmount": 31286252.240000002, 
         "id": "42039-034", 
         "info": "The Project proposed for financing under Tranche 1 comprises the following three components:\n\n(i)  expansion and upgrading of 500kV and 220kV transmission lines and associated substations throughout\u2026", 
-        "locationName": "Phu My", 
+        "locationName": "Ph\u00fa M\u1ef9", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42039-034/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1129", 
+      "id": "5233", 
       "properties": {
         "approvalDate": "2012-02-10", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 120500000.0, 
-        "disbursementAmount": 41434346.61, 
+        "disbursementAmount": 31286252.240000002, 
         "id": "42039-034", 
         "info": "The Project proposed for financing under Tranche 1 comprises the following three components:\n\n(i)  expansion and upgrading of 500kV and 220kV transmission lines and associated substations throughout\u2026", 
-        "locationName": "Song Co May", 
+        "locationName": "S\u00f4ng C\u00f5 May", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42039-034/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1130", 
+      "id": "5234", 
       "properties": {
         "approvalDate": "2012-02-10", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 120500000.0, 
-        "disbursementAmount": 41434346.61, 
+        "disbursementAmount": 31286252.240000002, 
         "id": "42039-034", 
         "info": "The Project proposed for financing under Tranche 1 comprises the following three components:\n\n(i)  expansion and upgrading of 500kV and 220kV transmission lines and associated substations throughout\u2026", 
-        "locationName": "Tinh Bac Ninh", 
+        "locationName": "T\u1ec9nh B\u1eafc Ninh", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42039-034/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1131", 
+      "id": "5235", 
       "properties": {
         "approvalDate": "2012-02-10", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 120500000.0, 
-        "disbursementAmount": 41434346.61, 
+        "disbursementAmount": 31286252.240000002, 
         "id": "42039-034", 
         "info": "The Project proposed for financing under Tranche 1 comprises the following three components:\n\n(i)  expansion and upgrading of 500kV and 220kV transmission lines and associated substations throughout\u2026", 
         "locationName": "Uyen Hung", 
@@ -96,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42039-034/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1132", 
+      "id": "5236", 
       "properties": {
         "approvalDate": "2012-02-10", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 120500000.0, 
-        "disbursementAmount": 41434346.61, 
+        "disbursementAmount": 31286252.240000002, 
         "id": "42039-034", 
         "info": "The Project proposed for financing under Tranche 1 comprises the following three components:\n\n(i)  expansion and upgrading of 500kV and 220kV transmission lines and associated substations throughout\u2026", 
         "locationName": "Pho Noi", 
@@ -121,7 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "POWER TRANSMISSION INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42039-034/main"
       }, 
       "type": "Feature"
     }
@@ -134,7 +139,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

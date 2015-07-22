@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6288", 
+      "id": "6788", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2015-09-30", 
         "commitmentAmount": 125000000.0, 
-        "disbursementAmount": 88539178.3, 
+        "disbursementAmount": 84554343.5, 
         "id": "43441-013", 
         "info": "The north-south railway line will improve Turkmenistan's accessibility to Kazakhstan, the Persian Gulf countries, the Russian Federation, and South Asia. It will also increase regional trade", 
         "locationName": "Gazanjyk", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "NORTH-SOUTH RAILWAY PROJECT"
+        "title": "NORTH-SOUTH RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/43441-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6289", 
+      "id": "6789", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2015-09-30", 
         "commitmentAmount": 125000000.0, 
-        "disbursementAmount": 88539178.3, 
+        "disbursementAmount": 84554343.5, 
         "id": "43441-013", 
         "info": "The north-south railway line will improve Turkmenistan's accessibility to Kazakhstan, the Persian Gulf countries, the Russian Federation, and South Asia. It will also increase regional trade", 
         "locationName": "Balkan Province", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "NORTH-SOUTH RAILWAY PROJECT"
+        "title": "NORTH-SOUTH RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/43441-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6290", 
+      "id": "6790", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2015-09-30", 
         "commitmentAmount": 125000000.0, 
-        "disbursementAmount": 88539178.3, 
+        "disbursementAmount": 84554343.5, 
         "id": "43441-013", 
         "info": "The north-south railway line will improve Turkmenistan's accessibility to Kazakhstan, the Persian Gulf countries, the Russian Federation, and South Asia. It will also increase regional trade", 
         "locationName": "Gyzylgaya", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "NORTH-SOUTH RAILWAY PROJECT"
+        "title": "NORTH-SOUTH RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/43441-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       66.64578169800009, 
       42.791187643000015
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tm.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Turkmenistan"
   }, 
   "type": "FeatureCollection"

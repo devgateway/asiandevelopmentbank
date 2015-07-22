@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4193", 
+      "id": "6784", 
       "properties": {
         "approvalDate": "2014-05-05", 
         "closingDate": "2017-09-28", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4"
+        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4", 
+        "website": "http://www.adb.org/projects/39176-044/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4194", 
+      "id": "6785", 
       "properties": {
         "approvalDate": "2014-05-05", 
         "closingDate": "2017-09-28", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4"
+        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4", 
+        "website": "http://www.adb.org/projects/39176-044/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4195", 
+      "id": "6786", 
       "properties": {
         "approvalDate": "2014-05-05", 
         "closingDate": "2017-09-28", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4"
+        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4", 
+        "website": "http://www.adb.org/projects/39176-044/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4196", 
+      "id": "6787", 
       "properties": {
         "approvalDate": "2014-05-05", 
         "closingDate": "2017-09-28", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4"
+        "title": "ROAD NETWORK DEVELOPMENT PROGRAM - TRANCHE 4", 
+        "website": "http://www.adb.org/projects/39176-044/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       50.62574303500011, 
       41.89044159000015
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-az.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Azerbaijan"
   }, 
   "type": "FeatureCollection"

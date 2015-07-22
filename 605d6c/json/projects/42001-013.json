@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1731", 
+      "id": "2877", 
       "properties": {
         "approvalDate": "2009-03-02", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,34 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2878", 
+      "properties": {
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1732", 
+      "id": "2879", 
       "properties": {
         "approvalDate": "2009-03-02", 
         "closingDate": "2013-12-31", 
@@ -46,7 +73,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1733", 
+      "id": "2880", 
       "properties": {
         "approvalDate": "2009-03-02", 
         "closingDate": "2013-12-31", 
@@ -71,7 +99,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1734", 
+      "id": "2881", 
       "properties": {
         "approvalDate": "2009-03-02", 
         "closingDate": "2013-12-31", 
@@ -96,7 +125,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1735", 
+      "id": "2882", 
       "properties": {
         "approvalDate": "2009-03-02", 
         "closingDate": "2013-12-31", 
@@ -121,7 +151,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1736", 
+      "id": "2883", 
       "properties": {
         "approvalDate": "2009-03-02", 
         "closingDate": "2013-12-31", 
@@ -146,7 +177,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT"
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +191,12 @@
       126.61768639400017, 
       21.122381903000033
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Philippines"
   }, 
   "type": "FeatureCollection"

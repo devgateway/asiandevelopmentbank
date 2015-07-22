@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3163", 
+      "id": "8265", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 37384308.160000004, 
+        "disbursementAmount": 28536617.130000003, 
         "id": "44431-013", 
         "info": "The proposed project will develop the transmission infrastructure for evacuation of power in a reliable manner from the solar power generation plants to be located in the 2,500 hectares Charanka\u2026", 
         "locationName": "Charanka Solar Park", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "GUJARAT SOLAR POWER TRANSMISSION PROJECT"
+        "title": "GUJARAT SOLAR POWER TRANSMISSION PROJECT", 
+        "website": "http://www.adb.org/projects/44431-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2129", 
+      "id": "2141", 
       "properties": {
         "approvalDate": "2010-12-23", 
         "closingDate": "2014-12-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "RURAL FINANCE SECTOR DEVELOPMENT CLUSTER PROGRAM (SUBPROGRAM2)"
+        "title": "RURAL FINANCE SECTOR DEVELOPMENT CLUSTER PROGRAM (SUBPROGRAM2)", 
+        "website": "http://www.adb.org/projects/36169-023/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

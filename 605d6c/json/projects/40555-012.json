@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          103.08333, 
+          12.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5710", 
+      "properties": {
+        "approvalDate": "2009-12-27", 
+        "closingDate": "2015-07-31", 
+        "commitmentAmount": 24500000.0, 
+        "disbursementAmount": 16825643.09, 
+        "id": "40555-012", 
+        "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
+        "locationName": "Battambang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           104.83333, 
           10.91667
         ], 
         "type": "Point"
       }, 
-      "id": "5719", 
+      "id": "5711", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
         "locationName": "Takeo", 
@@ -21,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5720", 
+      "id": "5712", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
         "locationName": "Svay Rieng", 
@@ -46,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5721", 
+      "id": "5713", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
         "locationName": "Siem Reap", 
@@ -71,7 +99,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5722", 
+      "id": "5714", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
         "locationName": "Preah Vihear", 
@@ -96,7 +125,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5723", 
+      "id": "5715", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
         "locationName": "Mondolkiri", 
@@ -121,7 +151,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5724", 
+      "id": "5716", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
         "locationName": "Kampot", 
@@ -146,32 +177,34 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          103.08333, 
-          12.91667
+          105.0, 
+          13.0
         ], 
         "type": "Point"
       }, 
-      "id": "5725", 
+      "id": "5717", 
       "properties": {
         "approvalDate": "2009-12-27", 
         "closingDate": "2015-07-31", 
         "commitmentAmount": 24500000.0, 
-        "disbursementAmount": 19670641.259999998, 
+        "disbursementAmount": 16825643.09, 
         "id": "40555-012", 
         "info": "The Project will support the Government s strategies to reduce poverty and achieve socioeconomic development for all Cambodians", 
-        "locationName": "Battambang", 
+        "locationName": "Cambodia", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T"
+        "title": "STRENGTHENING TECHNICAL & VOCATIONAL EDUCATION & T", 
+        "website": "http://www.adb.org/projects/40555-012/main"
       }, 
       "type": "Feature"
     }
@@ -184,6 +217,12 @@
       107.61051639900009, 
       14.704581605000087
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Cambodia"
   }, 
   "type": "FeatureCollection"

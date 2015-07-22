@@ -3,87 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          107.91896, 
-          31.98954
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6491", 
-      "properties": {
-        "approvalDate": "2008-01-23", 
-        "closingDate": "2012-12-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 200000000.0, 
-        "id": "37490-013", 
-        "info": "The principal objectives of the Project are to promote economic growth and reduce poverty in eastern Sichuan Province by lowering the cost of transport, relieving traffic congestion, and improving\u2026", 
-        "locationName": "Wanyuan Shi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.5, 
-          30.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6492", 
-      "properties": {
-        "approvalDate": "2008-01-23", 
-        "closingDate": "2012-12-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 200000000.0, 
-        "id": "37490-013", 
-        "info": "The principal objectives of the Project are to promote economic growth and reduce poverty in eastern Sichuan Province by lowering the cost of transport, relieving traffic congestion, and improving\u2026", 
-        "locationName": "Sichuan Sheng", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.65068, 
-          31.34512
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6493", 
-      "properties": {
-        "approvalDate": "2008-01-23", 
-        "closingDate": "2012-12-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 200000000.0, 
-        "id": "37490-013", 
-        "info": "The principal objectives of the Project are to promote economic growth and reduce poverty in eastern Sichuan Province by lowering the cost of transport, relieving traffic congestion, and improving\u2026", 
-        "locationName": "Dazhou Shi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           107.50092, 
           31.21592
         ], 
         "type": "Point"
       }, 
-      "id": "6494", 
+      "id": "1259", 
       "properties": {
         "approvalDate": "2008-01-23", 
         "closingDate": "2012-12-31", 
@@ -96,7 +21,60 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT"
+        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37490-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.65068, 
+          31.34512
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1260", 
+      "properties": {
+        "approvalDate": "2008-01-23", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 200000000.0, 
+        "id": "37490-013", 
+        "info": "The principal objectives of the Project are to promote economic growth and reduce poverty in eastern Sichuan Province by lowering the cost of transport, relieving traffic congestion, and improving\u2026", 
+        "locationName": "Dazhou Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37490-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.5, 
+          30.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1261", 
+      "properties": {
+        "approvalDate": "2008-01-23", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 200000000.0, 
+        "id": "37490-013", 
+        "info": "The principal objectives of the Project are to promote economic growth and reduce poverty in eastern Sichuan Province by lowering the cost of transport, relieving traffic congestion, and improving\u2026", 
+        "locationName": "Sichuan Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37490-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6495", 
+      "id": "1262", 
       "properties": {
         "approvalDate": "2008-01-23", 
         "closingDate": "2012-12-31", 
@@ -121,7 +99,34 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT"
+        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37490-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.91896, 
+          31.98954
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1263", 
+      "properties": {
+        "approvalDate": "2008-01-23", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 200000000.0, 
+        "id": "37490-013", 
+        "info": "The principal objectives of the Project are to promote economic growth and reduce poverty in eastern Sichuan Province by lowering the cost of transport, relieving traffic congestion, and improving\u2026", 
+        "locationName": "Wanyuan Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "EASTERN SICHUAN ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37490-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

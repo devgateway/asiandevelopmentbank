@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4766", 
+      "id": "1048", 
       "properties": {
         "approvalDate": "2014-08-06", 
         "closingDate": "2016-10-09", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 23333.33, 
+        "disbursementAmount": 0.0, 
         "id": "32234-053", 
         "info": "The objective of the Railway Sector Investment Program is to promote economic growth by improving the performance of the railway sector", 
         "locationName": "Bangladesh", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "RAILWAY SECTOR INVESTMENT PROGRAM - TRANCHE 3"
+        "title": "RAILWAY SECTOR INVESTMENT PROGRAM - TRANCHE 3", 
+        "website": "http://www.adb.org/projects/32234-053/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3885", 
+      "id": "237", 
       "properties": {
         "approvalDate": "2012-09-12", 
-        "closingDate": "2019-06-30", 
+        "closingDate": "2017-06-30", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 997641.53, 
+        "disbursementAmount": 694755.85, 
         "id": "44198-013", 
         "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
         "locationName": "Uch-Korgon", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER SECTOR REHABILITATION PROJECT"
+        "title": "POWER SECTOR REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44198-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3886", 
+      "id": "238", 
       "properties": {
         "approvalDate": "2012-09-12", 
-        "closingDate": "2019-06-30", 
+        "closingDate": "2017-06-30", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 997641.53, 
+        "disbursementAmount": 694755.85, 
         "id": "44198-013", 
         "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
         "locationName": "Shamaldy-Say", 
@@ -46,7 +47,34 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER SECTOR REHABILITATION PROJECT"
+        "title": "POWER SECTOR REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44198-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "239", 
+      "properties": {
+        "approvalDate": "2012-09-12", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 40000000.0, 
+        "disbursementAmount": 694755.85, 
+        "id": "44198-013", 
+        "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44198-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3887", 
+      "id": "240", 
       "properties": {
         "approvalDate": "2012-09-12", 
-        "closingDate": "2019-06-30", 
+        "closingDate": "2017-06-30", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 997641.53, 
+        "disbursementAmount": 694755.85, 
         "id": "44198-013", 
         "info": "The project will: (i) rehabilitate Toktogul hydroelectric power plant by replacing existing mechanical and electrical equipment; (ii) establish an electricity transactions settlement center; (iii)\u2026", 
         "locationName": "Toktogul", 
@@ -71,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "POWER SECTOR REHABILITATION PROJECT"
+        "title": "POWER SECTOR REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44198-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +113,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

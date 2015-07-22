@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6676", 
+      "id": "1454", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 99967870.65, 
+        "disbursementAmount": 79195558.18, 
         "id": "40643-013", 
         "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
         "locationName": "Turfan", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT", 
+        "website": "http://www.adb.org/projects/40643-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6677", 
+      "id": "1455", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 99967870.65, 
+        "disbursementAmount": 79195558.18, 
         "id": "40643-013", 
         "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
         "locationName": "Kuytun", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT", 
+        "website": "http://www.adb.org/projects/40643-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6678", 
+      "id": "1456", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 99967870.65, 
+        "disbursementAmount": 79195558.18, 
         "id": "40643-013", 
         "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
         "locationName": "Kumul", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT", 
+        "website": "http://www.adb.org/projects/40643-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6679", 
+      "id": "1457", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 99967870.65, 
+        "disbursementAmount": 79195558.18, 
         "id": "40643-013", 
         "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
-        "locationName": "Yan'an Beilu", 
+        "locationName": "Yan\u2019an Beilu", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT", 
+        "website": "http://www.adb.org/projects/40643-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6680", 
+      "id": "1458", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 99967870.65, 
+        "disbursementAmount": 79195558.18, 
         "id": "40643-013", 
         "info": "The project will invest in urban infrastructure as well as efforts to strengthen urban governance, diversify inestment funding options, and promote the financial sustainability of local governments\u2026", 
         "locationName": "Altay", 
@@ -121,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT"
+        "title": "XINJIANG URBAN TRANSPORT & ENVIRONMENTAL PROJECT", 
+        "website": "http://www.adb.org/projects/40643-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

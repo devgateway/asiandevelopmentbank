@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "44", 
+      "id": "3361", 
       "properties": {
         "approvalDate": "2008-04-30", 
         "closingDate": "2013-06-30", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)"
+        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/26522-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "45", 
+      "id": "3362", 
       "properties": {
         "approvalDate": "2008-04-30", 
         "closingDate": "2013-06-30", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)"
+        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/26522-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "46", 
+      "id": "3363", 
       "properties": {
         "approvalDate": "2008-04-30", 
         "closingDate": "2013-06-30", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)"
+        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/26522-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "47", 
+      "id": "3364", 
       "properties": {
         "approvalDate": "2008-04-30", 
         "closingDate": "2013-06-30", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)"
+        "title": "SOUTHERN TRANSPORT DEVELOPMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/26522-023/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

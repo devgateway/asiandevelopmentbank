@@ -3,40 +3,15 @@
     {
       "geometry": {
         "coordinates": [
-          67.11087, 
-          36.70904
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1386", 
-      "properties": {
-        "approvalDate": "2009-09-30", 
-        "closingDate": "2013-04-05", 
-        "commitmentAmount": 165000000.0, 
-        "disbursementAmount": 155534545.79, 
-        "id": "42533-022", 
-        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
-        "locationName": "Mazar-e Sharif", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           67.4241, 
           37.2214
         ], 
         "type": "Point"
       }, 
-      "id": "1387", 
+      "id": "10361", 
       "properties": {
         "approvalDate": "2009-09-30", 
-        "closingDate": "2013-04-05", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 165000000.0, 
         "disbursementAmount": 155534545.79, 
         "id": "42533-022", 
@@ -46,7 +21,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/42533-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1388", 
+      "id": "10362", 
       "properties": {
         "approvalDate": "2009-09-30", 
-        "closingDate": "2013-04-05", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 165000000.0, 
         "disbursementAmount": 155534545.79, 
         "id": "42533-022", 
@@ -71,32 +47,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          67.21497, 
-          36.84655
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1389", 
-      "properties": {
-        "approvalDate": "2009-09-30", 
-        "closingDate": "2013-04-05", 
-        "commitmentAmount": 165000000.0, 
-        "disbursementAmount": 155534545.79, 
-        "id": "42533-022", 
-        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
-        "locationName": "Nahri Shahi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/42533-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,10 +60,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1390", 
+      "id": "10363", 
       "properties": {
         "approvalDate": "2009-09-30", 
-        "closingDate": "2013-04-05", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 165000000.0, 
         "disbursementAmount": 155534545.79, 
         "id": "42533-022", 
@@ -121,7 +73,60 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT"
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/42533-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.11087, 
+          36.70904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10364", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Mazar-e Sharif", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/42533-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.21497, 
+          36.84655
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10365", 
+      "properties": {
+        "approvalDate": "2009-09-30", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 165000000.0, 
+        "disbursementAmount": 155534545.79, 
+        "id": "42533-022", 
+        "info": "The Project involves the construction of a new 75 kilometers (km) railway line between Hairatan at the border with Uzbekistan and Mazar-e-Sharif in Afghanistan", 
+        "locationName": "Nahri Shahi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "HAIRATAN TO MAZAR-E-SHARIF RAILWAY PROJECT", 
+        "website": "http://www.adb.org/projects/42533-022/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       74.89230676300014, 
       38.473673402000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "Afghanistan"
   }, 
   "type": "FeatureCollection"

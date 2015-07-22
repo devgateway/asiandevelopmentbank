@@ -3,92 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          64.68333, 
-          40.1
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4840", 
-      "properties": {
-        "approvalDate": "2009-12-01", 
-        "closingDate": "2015-06-30", 
-        "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
-        "id": "42489-023", 
-        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
-        "locationName": "Ghijduwon", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          65.33528, 
-          40.19761
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4841", 
-      "properties": {
-        "approvalDate": "2009-12-01", 
-        "closingDate": "2015-06-30", 
-        "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
-        "id": "42489-023", 
-        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
-        "locationName": "Beshrabot", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          71.84101, 
-          41.07733
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4842", 
-      "properties": {
-        "approvalDate": "2009-12-01", 
-        "closingDate": "2015-06-30", 
-        "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
-        "id": "42489-023", 
-        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
-        "locationName": "Damko'cha", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           63.73333, 
           39.48333
         ], 
         "type": "Point"
       }, 
-      "id": "4843", 
+      "id": "10642", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Yangibazar", 
@@ -96,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4844", 
+      "id": "10643", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Termez", 
@@ -121,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4845", 
+      "id": "10644", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Romiton", 
@@ -146,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4846", 
+      "id": "10645", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Galaosiyo", 
@@ -171,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4847", 
+      "id": "10646", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Yangirabot", 
@@ -196,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4848", 
+      "id": "10647", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Wobkent", 
@@ -221,7 +151,34 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.83333, 
+          41.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10648", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 42465628.14, 
+        "id": "42489-023", 
+        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
+        "locationName": "Uzbekistan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4849", 
+      "id": "10649", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Qiziltepa", 
@@ -246,7 +203,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4850", 
+      "id": "10650", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Karmana", 
@@ -271,7 +229,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4851", 
+      "id": "10651", 
       "properties": {
         "approvalDate": "2009-12-01", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 47978837.74, 
+        "disbursementAmount": 42465628.14, 
         "id": "42489-023", 
         "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
         "locationName": "Konimex", 
@@ -296,7 +255,86 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM"
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.68333, 
+          40.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10652", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 42465628.14, 
+        "id": "42489-023", 
+        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
+        "locationName": "Ghijduwon", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.33528, 
+          40.19761
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10653", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 42465628.14, 
+        "id": "42489-023", 
+        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
+        "locationName": "Beshrabot", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.84101, 
+          41.07733
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10654", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 60000000.0, 
+        "disbursementAmount": 42465628.14, 
+        "id": "42489-023", 
+        "info": "Part I of the Project include the (i) rehabilitation of Damkhodja water source and water supply systems in 2 district centers/towns; (ii) improvement of wastewater collection and treatment in Termez\u2026", 
+        "locationName": "Damko\u2018cha", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION SERVICES INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42489-023/main"
       }, 
       "type": "Feature"
     }
@@ -309,6 +347,12 @@
       73.14864058400016, 
       45.55871897400006
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Uzbekistan"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6826", 
+      "id": "1604", 
       "properties": {
         "approvalDate": "2010-05-28", 
         "closingDate": "2014-10-31", 
         "commitmentAmount": 135000000.0, 
-        "disbursementAmount": 105732221.28, 
+        "disbursementAmount": 100416191.88, 
         "id": "42117-013", 
         "info": "The Tianjin Integrated Gasification Combined Cycle Power Plant Project involves constructing and operating a coal-fired integrated gasification combined cycle (IGCC) power plant with 250 megawatt\u2026", 
         "locationName": "Tianjin", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "TIANJIN INTEGRATED GASIFICATION COMBINED CYCLE POWER PLANT PROJ"
+        "title": "TIANJIN INTEGRATED GASIFICATION COMBINED CYCLE POWER PLANT PROJ", 
+        "website": "http://www.adb.org/projects/42117-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

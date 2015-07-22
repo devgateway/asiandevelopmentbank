@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          45.0, 
-          41.53333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7801", 
-      "properties": {
-        "approvalDate": "2013-12-19", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 73000000.0, 
-        "disbursementAmount": 1423184.69, 
-        "id": "42414-043", 
-        "info": "Project 3 will improve the urban transport system and infrastructure in urban areas and comprises two subprojects: (i) section 2 (km 4.0-10.8) of the international standard Tbilisi-Rustavi Urban Road\u2026", 
-        "locationName": "K'alak'i Rust'avi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           41.7983, 
           42.46743
         ], 
         "type": "Point"
       }, 
-      "id": "7802", 
+      "id": "10907", 
       "properties": {
         "approvalDate": "2013-12-19", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 73000000.0, 
-        "disbursementAmount": 1423184.69, 
+        "disbursementAmount": 54141.67, 
         "id": "42414-043", 
         "info": "Project 3 will improve the urban transport system and infrastructure in urban areas and comprises two subprojects: (i) section 2 (km 4.0-10.8) of the international standard Tbilisi-Rustavi Urban Road\u2026", 
         "locationName": "Zugdidi", 
@@ -46,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3"
+        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42414-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7803", 
+      "id": "10908", 
       "properties": {
         "approvalDate": "2013-12-19", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 73000000.0, 
-        "disbursementAmount": 1423184.69, 
+        "disbursementAmount": 54141.67, 
         "id": "42414-043", 
         "info": "Project 3 will improve the urban transport system and infrastructure in urban areas and comprises two subprojects: (i) section 2 (km 4.0-10.8) of the international standard Tbilisi-Rustavi Urban Road\u2026", 
         "locationName": "Rustavi", 
@@ -71,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3"
+        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42414-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7804", 
+      "id": "10909", 
       "properties": {
         "approvalDate": "2013-12-19", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 73000000.0, 
-        "disbursementAmount": 1423184.69, 
+        "disbursementAmount": 54141.67, 
         "id": "42414-043", 
         "info": "Project 3 will improve the urban transport system and infrastructure in urban areas and comprises two subprojects: (i) section 2 (km 4.0-10.8) of the international standard Tbilisi-Rustavi Urban Road\u2026", 
         "locationName": "Anaklia", 
@@ -96,7 +73,34 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3"
+        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42414-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          45.0, 
+          41.53333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10910", 
+      "properties": {
+        "approvalDate": "2013-12-19", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 73000000.0, 
+        "disbursementAmount": 54141.67, 
+        "id": "42414-043", 
+        "info": "Project 3 will improve the urban transport system and infrastructure in urban areas and comprises two subprojects: (i) section 2 (km 4.0-10.8) of the international standard Tbilisi-Rustavi Urban Road\u2026", 
+        "locationName": "K\u2019alak\u2019i Rust\u2019avi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SUSTAINABLE URBAN TRANSPORT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42414-043/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       46.694803101000076, 
       43.57584259000011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Georgia"
   }, 
   "type": "FeatureCollection"

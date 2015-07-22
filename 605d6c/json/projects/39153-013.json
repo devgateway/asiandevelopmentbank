@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6617", 
+      "id": "1395", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 145975610.19, 
+        "disbursementAmount": 135127884.1, 
         "id": "39153-013", 
         "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
         "locationName": "Lichuan", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39153-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6618", 
+      "id": "1396", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 145975610.19, 
+        "disbursementAmount": 135127884.1, 
         "id": "39153-013", 
         "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
         "locationName": "Hubei", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39153-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6619", 
+      "id": "1397", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 145975610.19, 
+        "disbursementAmount": 135127884.1, 
         "id": "39153-013", 
         "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
         "locationName": "Chongqing Shi", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39153-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6620", 
+      "id": "1398", 
       "properties": {
         "approvalDate": "2009-08-26", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 145975610.19, 
+        "disbursementAmount": 135127884.1, 
         "id": "39153-013", 
         "info": "The Project will help increase living standards and reduce poverty in the project area by removing a transport constraint to sustainable economic growth, and improve safety and reliability by\u2026", 
         "locationName": "Chongqing", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT"
+        "title": "CHONGQING-LICHUAN RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39153-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

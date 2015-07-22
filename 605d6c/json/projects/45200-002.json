@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1308", 
+      "id": "5417", 
       "properties": {
         "approvalDate": "2014-07-18", 
         "closingDate": "2020-06-30", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO"
+        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO", 
+        "website": "http://www.adb.org/projects/45200-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1309", 
+      "id": "5418", 
       "properties": {
         "approvalDate": "2014-07-18", 
         "closingDate": "2020-06-30", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO"
+        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO", 
+        "website": "http://www.adb.org/projects/45200-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1310", 
+      "id": "5419", 
       "properties": {
         "approvalDate": "2014-07-18", 
         "closingDate": "2020-06-30", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO"
+        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO", 
+        "website": "http://www.adb.org/projects/45200-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1311", 
+      "id": "5420", 
       "properties": {
         "approvalDate": "2014-07-18", 
         "closingDate": "2020-06-30", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO"
+        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO", 
+        "website": "http://www.adb.org/projects/45200-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1312", 
+      "id": "5421", 
       "properties": {
         "approvalDate": "2014-07-18", 
         "closingDate": "2020-06-30", 
@@ -121,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO"
+        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO", 
+        "website": "http://www.adb.org/projects/45200-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1313", 
+      "id": "5422", 
       "properties": {
         "approvalDate": "2014-07-18", 
         "closingDate": "2020-06-30", 
@@ -146,7 +151,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO"
+        "title": "SUSTAINABLE URB TRANSPORT FOR HO CHI MINH CITY MASS RAPID TL2 PRO", 
+        "website": "http://www.adb.org/projects/45200-002/main"
       }, 
       "type": "Feature"
     }
@@ -159,7 +165,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

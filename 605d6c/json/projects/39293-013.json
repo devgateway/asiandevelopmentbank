@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "431", 
+      "id": "3969", 
       "properties": {
         "approvalDate": "2007-12-18", 
         "closingDate": "2015-07-31", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "EDUCATION FOR KNOWLEDGE SOCIETY PROJECT"
+        "title": "EDUCATION FOR KNOWLEDGE SOCIETY PROJECT", 
+        "website": "http://www.adb.org/projects/39293-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

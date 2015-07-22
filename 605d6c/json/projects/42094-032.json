@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1415", 
+      "id": "10390", 
       "properties": {
         "approvalDate": "2010-01-21", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 81500000.0, 
-        "disbursementAmount": 21486073.95, 
+        "disbursementAmount": 18153025.75, 
         "id": "42094-032", 
         "info": "The project connects over 50 towns/villages over a 40 square kilometers area in South-West Kabul comprising 44,000 new connections in Year 1 and over 124,000 up to end of project life", 
         "locationName": "Kabul", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-P"
+        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-P", 
+        "website": "http://www.adb.org/projects/42094-032/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1416", 
+      "id": "10391", 
       "properties": {
         "approvalDate": "2010-01-21", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 81500000.0, 
-        "disbursementAmount": 21486073.95, 
+        "disbursementAmount": 18153025.75, 
         "id": "42094-032", 
         "info": "The project connects over 50 towns/villages over a 40 square kilometers area in South-West Kabul comprising 44,000 new connections in Year 1 and over 124,000 up to end of project life", 
-        "locationName": "Dasht-e Barchi", 
+        "locationName": "Dasht-e Barch\u012b", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-P"
+        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-P", 
+        "website": "http://www.adb.org/projects/42094-032/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1417", 
+      "id": "10392", 
       "properties": {
         "approvalDate": "2010-01-21", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 81500000.0, 
-        "disbursementAmount": 21486073.95, 
+        "disbursementAmount": 18153025.75, 
         "id": "42094-032", 
         "info": "The project connects over 50 towns/villages over a 40 square kilometers area in South-West Kabul comprising 44,000 new connections in Year 1 and over 124,000 up to end of project life", 
         "locationName": "Kabul", 
@@ -71,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-P"
+        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-P", 
+        "website": "http://www.adb.org/projects/42094-032/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       74.89230676300014, 
       38.473673402000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "Afghanistan"
   }, 
   "type": "FeatureCollection"

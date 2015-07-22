@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4409", 
+      "id": "590", 
       "properties": {
         "approvalDate": "2009-09-10", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 18668264.119999997, 
+        "disbursementAmount": 17143956.88, 
         "id": "39432-013", 
         "info": "The Project builds on lessons from previous ADB investments in the small-scale (less than 1,000 hectare [ha]) water resources sector; specifically, the Small-Scale Water \nResources Development Sector\u2026", 
         "locationName": "Kanakdia", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT"
+        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/39432-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4410", 
+      "id": "591", 
       "properties": {
         "approvalDate": "2009-09-10", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 18668264.119999997, 
+        "disbursementAmount": 17143956.88, 
         "id": "39432-013", 
         "info": "The Project builds on lessons from previous ADB investments in the small-scale (less than 1,000 hectare [ha]) water resources sector; specifically, the Small-Scale Water \nResources Development Sector\u2026", 
         "locationName": "Gosinga", 
@@ -46,7 +47,34 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT"
+        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/39432-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "592", 
+      "properties": {
+        "approvalDate": "2009-09-10", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 55000000.0, 
+        "disbursementAmount": 17143956.88, 
+        "id": "39432-013", 
+        "info": "The Project builds on lessons from previous ADB investments in the small-scale (less than 1,000 hectare [ha]) water resources sector; specifically, the Small-Scale Water \nResources Development Sector\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/39432-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4411", 
+      "id": "593", 
       "properties": {
         "approvalDate": "2009-09-10", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 18668264.119999997, 
+        "disbursementAmount": 17143956.88, 
         "id": "39432-013", 
         "info": "The Project builds on lessons from previous ADB investments in the small-scale (less than 1,000 hectare [ha]) water resources sector; specifically, the Small-Scale Water \nResources Development Sector\u2026", 
-        "locationName": "Cox's Bazar", 
+        "locationName": "Cox\u2019s B\u0101z\u0101r", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT"
+        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/39432-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4412", 
+      "id": "594", 
       "properties": {
         "approvalDate": "2009-09-10", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 18668264.119999997, 
+        "disbursementAmount": 17143956.88, 
         "id": "39432-013", 
         "info": "The Project builds on lessons from previous ADB investments in the small-scale (less than 1,000 hectare [ha]) water resources sector; specifically, the Small-Scale Water \nResources Development Sector\u2026", 
         "locationName": "Bauphal", 
@@ -96,7 +125,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT"
+        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/39432-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4413", 
+      "id": "595", 
       "properties": {
         "approvalDate": "2009-09-10", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 18668264.119999997, 
+        "disbursementAmount": 17143956.88, 
         "id": "39432-013", 
         "info": "The Project builds on lessons from previous ADB investments in the small-scale (less than 1,000 hectare [ha]) water resources sector; specifically, the Small-Scale Water \nResources Development Sector\u2026", 
-        "locationName": "Purba Sarail", 
+        "locationName": "Purba Sar\u0101il", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT"
+        "title": "PARTICIPATORY SMALL SCALE WATER RESOURCES SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/39432-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +165,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

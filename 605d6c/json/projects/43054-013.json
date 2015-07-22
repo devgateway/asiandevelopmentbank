@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6977", 
+      "id": "1757", 
       "properties": {
         "approvalDate": "2012-03-06", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 34924552.15, 
+        "disbursementAmount": 28889252.95, 
         "id": "43054-013", 
         "info": "The project will support the Tianjin municipal government (TMG) to implement green growth demonstration activities in the coastal areas surrounding the Hai River estuary that will contribute to a\u2026", 
         "locationName": "Tianjin Shi", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "HAI RIVER ESTUARY AREA POLLUTION CONTROL & ECOSYSTEM REHAB PRJ"
+        "title": "HAI RIVER ESTUARY AREA POLLUTION CONTROL & ECOSYSTEM REHAB PRJ", 
+        "website": "http://www.adb.org/projects/43054-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6978", 
+      "id": "1758", 
       "properties": {
         "approvalDate": "2012-03-06", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 34924552.15, 
+        "disbursementAmount": 28889252.95, 
         "id": "43054-013", 
         "info": "The project will support the Tianjin municipal government (TMG) to implement green growth demonstration activities in the coastal areas surrounding the Hai River estuary that will contribute to a\u2026", 
         "locationName": "Hai He", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "HAI RIVER ESTUARY AREA POLLUTION CONTROL & ECOSYSTEM REHAB PRJ"
+        "title": "HAI RIVER ESTUARY AREA POLLUTION CONTROL & ECOSYSTEM REHAB PRJ", 
+        "website": "http://www.adb.org/projects/43054-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6687", 
+      "id": "1465", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-10-31", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 7177492.84, 
+        "disbursementAmount": 7141958.29, 
         "id": "39321-013", 
         "info": "The Qinling Mountains are an internationally important biodiversity hot spot and represent about 70% of the PRC's biodiversity, including an estimated 300 giant pandas", 
         "locationName": "Qinling Shandi", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SHAANXI QINLING BIODIVERSITY CONSERVATION & DEMONSTRATION PROJ"
+        "title": "SHAANXI QINLING BIODIVERSITY CONSERVATION & DEMONSTRATION PROJ", 
+        "website": "http://www.adb.org/projects/39321-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6688", 
+      "id": "1466", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-10-31", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 7177492.84, 
+        "disbursementAmount": 7141958.29, 
         "id": "39321-013", 
         "info": "The Qinling Mountains are an internationally important biodiversity hot spot and represent about 70% of the PRC's biodiversity, including an estimated 300 giant pandas", 
         "locationName": "Louguantai", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SHAANXI QINLING BIODIVERSITY CONSERVATION & DEMONSTRATION PROJ"
+        "title": "SHAANXI QINLING BIODIVERSITY CONSERVATION & DEMONSTRATION PROJ", 
+        "website": "http://www.adb.org/projects/39321-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6689", 
+      "id": "1467", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-10-31", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 7177492.84, 
+        "disbursementAmount": 7141958.29, 
         "id": "39321-013", 
         "info": "The Qinling Mountains are an internationally important biodiversity hot spot and represent about 70% of the PRC's biodiversity, including an estimated 300 giant pandas", 
         "locationName": "Qinling National Botanical Garden", 
@@ -71,7 +73,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SHAANXI QINLING BIODIVERSITY CONSERVATION & DEMONSTRATION PROJ"
+        "title": "SHAANXI QINLING BIODIVERSITY CONSERVATION & DEMONSTRATION PROJ", 
+        "website": "http://www.adb.org/projects/39321-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

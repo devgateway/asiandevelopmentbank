@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4055", 
+      "id": "6672", 
       "properties": {
         "approvalDate": "2010-04-14", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 8000000.0, 
-        "disbursementAmount": 6941050.9399999995, 
+        "disbursementAmount": 5428097.46, 
         "id": "35377-023", 
         "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
         "locationName": "East Gobi Aymag", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY"
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4056", 
+      "id": "6673", 
       "properties": {
         "approvalDate": "2010-04-14", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 8000000.0, 
-        "disbursementAmount": 6941050.9399999995, 
+        "disbursementAmount": 5428097.46, 
         "id": "35377-023", 
         "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
         "locationName": "Choyr", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY"
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4057", 
+      "id": "6674", 
       "properties": {
         "approvalDate": "2010-04-14", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 8000000.0, 
-        "disbursementAmount": 6941050.9399999995, 
+        "disbursementAmount": 5428097.46, 
         "id": "35377-023", 
         "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
-        "locationName": "Govi-Sumber", 
+        "locationName": "Gov\u012d-Sumber", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY"
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4058", 
+      "id": "6675", 
       "properties": {
         "approvalDate": "2010-04-14", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 8000000.0, 
-        "disbursementAmount": 6941050.9399999995, 
+        "disbursementAmount": 5428097.46, 
         "id": "35377-023", 
         "info": "The Project will assist the Government in achieving the objectives of the Initial Project by financing cost overruns related to the following Parts of the Initial Project:\nPart A Initial Project\u2026", 
         "locationName": "Zamiin Uud", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY"
+        "title": "REGIONAL ROAD DEVELOPMENT PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/35377-023/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

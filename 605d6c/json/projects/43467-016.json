@@ -3,417 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          75.25, 
-          24.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3268", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Mandsaur", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.5, 
-          22.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3269", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Jhabua", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.75, 
-          22.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3270", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Indore", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.2, 
-          26.2
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3271", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Gwalior", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.58333, 
-          21.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3272", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "East Nimar", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.25, 
-          22.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3273", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Dhar", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.16667, 
-          23.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3274", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Dewas", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.5, 
-          25.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3275", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Datia", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.58333, 
-          23.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3276", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Damoh", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.8, 
-          22.11667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3277", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Chhindwara", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.75, 
-          26.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3278", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Bhind", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.0, 
-          25.8
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3279", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Sheopur", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.87, 
-          24.47
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3280", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Neemuch", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.61028, 
-          21.82306
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3281", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Khargone", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.91805, 
-          22.02485
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3282", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Barwani", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.23, 
-          21.31
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3283", 
-      "properties": {
-        "approvalDate": "2012-02-27", 
-        "closingDate": "2018-02-28", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
-        "id": "43467-016", 
-        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Burhanpur", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           75.5, 
           23.41667
         ], 
         "type": "Point"
       }, 
-      "id": "3284", 
+      "id": "8464", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
         "locationName": "Ujjain", 
@@ -421,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3285", 
+      "id": "8465", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Tikamgarh", 
+        "locationName": "T\u012bkamgarh", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3286", 
+      "id": "8466", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Shajapur", 
+        "locationName": "Sh\u0101j\u0101pur", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3287", 
+      "id": "8467", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Seoni", 
+        "locationName": "Seon\u012b", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,20 +112,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3288", 
+      "id": "8468", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
-        "locationName": "Ratlam", 
+        "locationName": "Ratl\u0101m", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3289", 
+      "id": "8469", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
         "locationName": "Panna", 
@@ -546,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3290", 
+      "id": "8470", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
         "locationName": "Narsimhapur", 
@@ -571,7 +177,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3291", 
+      "id": "8471", 
       "properties": {
         "approvalDate": "2012-02-27", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 77438587.64, 
+        "disbursementAmount": 70039828.67, 
         "id": "43467-016", 
         "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
         "locationName": "Morena", 
@@ -596,7 +203,424 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.25, 
+          24.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8472", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Mandsaur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.5, 
+          22.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8473", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Jh\u0101bua", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75, 
+          22.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8474", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Indore", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.2, 
+          26.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8475", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Gwalior", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.58333, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8476", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "East Nim\u0101r", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.25, 
+          22.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8477", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Dh\u0101r", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.16667, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8478", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Dewas", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8479", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Datia", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.58333, 
+          23.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8480", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Damoh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.8, 
+          22.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8481", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Chhindw\u0101ra", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.75, 
+          26.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8482", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Bhind", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.0, 
+          25.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8483", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Sheopur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.87, 
+          24.47
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8484", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Neemuch", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.61028, 
+          21.82306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8485", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Khargone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.91805, 
+          22.02485
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8486", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Barwani", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.23, 
+          21.31
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8487", 
+      "properties": {
+        "approvalDate": "2012-02-27", 
+        "closingDate": "2018-02-28", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 70039828.67, 
+        "id": "43467-016", 
+        "info": "Adequate and better quality power supply in rural Madhya Pradesh (MP), where 70% of the population lives, would spur economic growth and development", 
+        "locationName": "Burhanpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T2", 
+        "website": "http://www.adb.org/projects/43467-016/main"
       }, 
       "type": "Feature"
     }
@@ -609,6 +633,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

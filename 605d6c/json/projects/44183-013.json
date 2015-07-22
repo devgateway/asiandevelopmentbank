@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7798", 
+      "id": "10904", 
       "properties": {
         "approvalDate": "2013-03-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 48000000.0, 
-        "disbursementAmount": 4879365.12, 
+        "disbursementAmount": 1766950.92, 
         "id": "44183-013", 
         "info": "The Project is an integral part of Georgia's power sector development plan and the selected components are under GSE's investment priorities", 
         "locationName": "Mendzhi", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT"
+        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44183-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7799", 
+      "id": "10905", 
       "properties": {
         "approvalDate": "2013-03-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 48000000.0, 
-        "disbursementAmount": 4879365.12, 
+        "disbursementAmount": 1766950.92, 
         "id": "44183-013", 
         "info": "The Project is an integral part of Georgia's power sector development plan and the selected components are under GSE's investment priorities", 
         "locationName": "Marneuli", 
@@ -46,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT"
+        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44183-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7800", 
+      "id": "10906", 
       "properties": {
         "approvalDate": "2013-03-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 48000000.0, 
-        "disbursementAmount": 4879365.12, 
+        "disbursementAmount": 1766950.92, 
         "id": "44183-013", 
         "info": "The Project is an integral part of Georgia's power sector development plan and the selected components are under GSE's investment priorities", 
         "locationName": "Mtskheta", 
@@ -71,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT"
+        "title": "REGIONAL POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44183-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       46.694803101000076, 
       43.57584259000011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Georgia"
   }, 
   "type": "FeatureCollection"

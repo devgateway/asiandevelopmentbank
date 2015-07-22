@@ -3,12 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          107.87406, 
-          30.05705
+          102.5, 
+          30.5
         ], 
         "type": "Point"
       }, 
-      "id": "6946", 
+      "id": "1724", 
       "properties": {
         "approvalDate": "2011-03-11", 
         "closingDate": "2017-06-30", 
@@ -16,12 +16,65 @@
         "disbursementAmount": 82182296.71000001, 
         "id": "43332-033", 
         "info": "The Tranche 2 of Investment Program will finance (i) procurement of equipment that will enhance maintenance and safety and can respond to emergencies more quickly, efficiently, and effectively; and\u2026", 
-        "locationName": "Chongqing", 
+        "locationName": "Sichuan Sheng", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Railway Energy Efficiency & Safety Enhancement Investment Prog-T2"
+        "title": "Railway Energy Efficiency & Safety Enhancement Investment Prog-T2", 
+        "website": "http://www.adb.org/projects/43332-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          27.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1725", 
+      "properties": {
+        "approvalDate": "2011-03-11", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 82182296.71000001, 
+        "id": "43332-033", 
+        "info": "The Tranche 2 of Investment Program will finance (i) procurement of equipment that will enhance maintenance and safety and can respond to emergencies more quickly, efficiently, and effectively; and\u2026", 
+        "locationName": "Guizhou Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Railway Energy Efficiency & Safety Enhancement Investment Prog-T2", 
+        "website": "http://www.adb.org/projects/43332-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.87406, 
+          30.05705
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1726", 
+      "properties": {
+        "approvalDate": "2011-03-11", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 82182296.71000001, 
+        "id": "43332-033", 
+        "info": "The Tranche 2 of Investment Program will finance (i) procurement of equipment that will enhance maintenance and safety and can respond to emergencies more quickly, efficiently, and effectively; and\u2026", 
+        "locationName": "Chongqing Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Railway Energy Efficiency & Safety Enhancement Investment Prog-T2", 
+        "website": "http://www.adb.org/projects/43332-033/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +87,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

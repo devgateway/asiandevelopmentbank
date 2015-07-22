@@ -3,75 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          107.0, 
-          16.75
+          108.25, 
+          13.75
         ], 
         "type": "Point"
       }, 
-      "id": "766", 
+      "id": "4665", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
+        "disbursementAmount": 60984410.52, 
         "id": "42182-013", 
         "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
-        "locationName": "Tinh Quang Tri", 
+        "locationName": "Gia Lai", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.66667, 
-          15.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "767", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
-        "id": "42182-013", 
-        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
-        "locationName": "Tinh Quang Ngai", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.25, 
-          22.28333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "768", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
-        "id": "42182-013", 
-        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
-        "locationName": "Tinh Lai Chau", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "769", 
+      "id": "4666", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
+        "disbursementAmount": 60984410.52, 
         "id": "42182-013", 
         "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
         "locationName": "Hue", 
@@ -96,32 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.25, 
-          13.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "770", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
-        "id": "42182-013", 
-        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
-        "locationName": "Gia Lai", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "771", 
+      "id": "4667", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
+        "disbursementAmount": 60984410.52, 
         "id": "42182-013", 
         "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
         "locationName": "Huyen Dien Bien", 
@@ -146,7 +73,34 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.25, 
+          22.28333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4668", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 151000000.0, 
+        "disbursementAmount": 60984410.52, 
+        "id": "42182-013", 
+        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
+        "locationName": "Tinh Lai Chau", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "772", 
+      "id": "4669", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
+        "disbursementAmount": 60984410.52, 
         "id": "42182-013", 
         "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
         "locationName": "Tinh Quang Nam", 
@@ -171,7 +125,60 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.66667, 
+          15.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4670", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 151000000.0, 
+        "disbursementAmount": 60984410.52, 
+        "id": "42182-013", 
+        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
+        "locationName": "Tinh Quang Ngai", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          16.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4671", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 151000000.0, 
+        "disbursementAmount": 60984410.52, 
+        "id": "42182-013", 
+        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
+        "locationName": "Tinh Quang Tri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "773", 
+      "id": "4672", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
+        "disbursementAmount": 60984410.52, 
         "id": "42182-013", 
         "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
         "locationName": "Tinh Soc Trang", 
@@ -196,32 +203,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.3, 
-          9.8
-        ], 
-        "type": "Point"
-      }, 
-      "id": "774", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
-        "id": "42182-013", 
-        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
-        "locationName": "Tinh Tra Vinh", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "775", 
+      "id": "4673", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 151000000.0, 
-        "disbursementAmount": 74132005.04, 
+        "disbursementAmount": 60984410.52, 
         "id": "42182-013", 
         "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
         "locationName": "Tinh Son La", 
@@ -246,7 +229,34 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES"
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.3, 
+          9.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4674", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 151000000.0, 
+        "disbursementAmount": 60984410.52, 
+        "id": "42182-013", 
+        "info": "The primary objective of the sector Project is to develop rural electrification and renewable energy in Viet Nam to benefit ethnic minority communities inhabiting remote and poorer parts of the\u2026", 
+        "locationName": "Tinh Tra Vinh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RENEWABLE ENERGY DEV&NETWORK EXPANSION&REHAB FOR REMOTE COMMUNES", 
+        "website": "http://www.adb.org/projects/42182-013/main"
       }, 
       "type": "Feature"
     }
@@ -259,7 +269,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

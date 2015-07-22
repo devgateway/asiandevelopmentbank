@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7165", 
+      "id": "1981", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2018-05-31", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 144456.74, 
+        "disbursementAmount": 31875.0, 
         "id": "46058-002", 
         "info": "The project will construct a 50-megawatt (MW) concentrated solar thermal power (CSP) plant in the city of Delingha, Qinghai Province. It is the first-of-its-kind CSP demonstration plant in the PRC", 
         "locationName": "Delhi", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "QINGHAI DELINGHA CONCENTRATED SOLAR THERMAL POWER PROJECT"
+        "title": "QINGHAI DELINGHA CONCENTRATED SOLAR THERMAL POWER PROJECT", 
+        "website": "http://www.adb.org/projects/46058-002/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

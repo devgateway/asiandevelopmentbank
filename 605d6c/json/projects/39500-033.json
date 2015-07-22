@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          106.658, 
-          10.8767
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1170", 
-      "properties": {
-        "approvalDate": "2013-07-04", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
-        "id": "39500-033", 
-        "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
-        "locationName": "Quan Muoi Hai", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           106.62965, 
           10.82302
         ], 
         "type": "Point"
       }, 
-      "id": "1171", 
+      "id": "5278", 
       "properties": {
         "approvalDate": "2013-07-04", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
+        "disbursementAmount": 464583.33, 
         "id": "39500-033", 
         "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
         "locationName": "Ho Chi Minh City", 
@@ -46,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1172", 
+      "id": "5279", 
       "properties": {
         "approvalDate": "2013-07-04", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
+        "disbursementAmount": 464583.33, 
         "id": "39500-033", 
         "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
-        "locationName": "Quan Mot", 
+        "locationName": "Qu\u1eadn M\u1ed9t", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1173", 
+      "id": "5280", 
       "properties": {
         "approvalDate": "2013-07-04", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
+        "disbursementAmount": 464583.33, 
         "id": "39500-033", 
         "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
-        "locationName": "Quan Ba", 
+        "locationName": "Qu\u1eadn Ba", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,20 +86,47 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1174", 
+      "id": "5281", 
       "properties": {
         "approvalDate": "2013-07-04", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
+        "disbursementAmount": 464583.33, 
         "id": "39500-033", 
         "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
-        "locationName": "Quan Muoi", 
+        "locationName": "Qu\u1eadn M\u01b0\u1eddi", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.658, 
+          10.8767
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5282", 
+      "properties": {
+        "approvalDate": "2013-07-04", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 500000000.0, 
+        "disbursementAmount": 464583.33, 
+        "id": "39500-033", 
+        "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
+        "locationName": "Qu\u1eadn M\u01b0\u1eddi Hai", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1175", 
+      "id": "5283", 
       "properties": {
         "approvalDate": "2013-07-04", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
+        "disbursementAmount": 464583.33, 
         "id": "39500-033", 
         "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
-        "locationName": "Quan Tan Binh", 
+        "locationName": "Qu\u1eadn T\u00e2n B\u00ecnh", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,20 +164,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1176", 
+      "id": "5284", 
       "properties": {
         "approvalDate": "2013-07-04", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 841004.96, 
+        "disbursementAmount": 464583.33, 
         "id": "39500-033", 
         "info": "The purpose of the project is to support the local economic development in HCMC by initiating the first stage of a mass transit transport system, that will improve urban livability due to constant\u2026", 
-        "locationName": "Tan Phu", 
+        "locationName": "T\u00e2n Ph\u00fa", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2"
+        "title": "MFF:HCM CITY URBAN MASS RAPID TRANSIT LINE 2 INV PROG-T2", 
+        "website": "http://www.adb.org/projects/39500-033/main"
       }, 
       "type": "Feature"
     }
@@ -184,7 +191,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

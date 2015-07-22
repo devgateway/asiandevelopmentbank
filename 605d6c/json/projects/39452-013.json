@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4494", 
+      "id": "702", 
       "properties": {
         "approvalDate": "2011-09-11", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 25000000.0, 
-        "disbursementAmount": 973286.06, 
+        "disbursementAmount": 0.0, 
         "id": "39452-013", 
         "info": "The project seeks to improve transparency and accountability of public service delivery in tax and land record administration in Bangladesh with the help of information and communication technology\u2026", 
         "locationName": "Bangladesh", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING GOVERNANCE MANAGEMENT PROJECT"
+        "title": "STRENGTHENING GOVERNANCE MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39452-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

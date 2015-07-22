@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1804", 
+      "id": "1050", 
       "properties": {
         "approvalDate": "2013-01-14", 
         "closingDate": "2013-03-31", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Completion", 
-        "title": "SUPPORT FOR MYANMAR'S REFORMS FOR INCLUSIVE GROWTH PROGRAM"
+        "title": "SUPPORT FOR MYANMAR'S REFORMS FOR INCLUSIVE GROWTH PROGRAM", 
+        "website": "http://www.adb.org/projects/46372-001/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       101.1738550210001, 
       28.53846588100005
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mm.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Myanmar"
   }, 
   "type": "FeatureCollection"

@@ -3,250 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          103.51761, 
-          14.18175
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5881", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Samraong", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.28842, 
-          14.16183
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5882", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Phumi Kouk Mon", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.1062, 
-          14.07087
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5883", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Phumi Banteay Chhmar", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.25925, 
-          14.1859
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5884", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Srok Banteay Ampil", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.69706, 
-          14.40987
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5885", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "O'Smach", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.95269, 
-          13.81305
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5886", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Srok Svay Chek", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.01265, 
-          13.63849
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5887", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Serei Saophoan", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.62739, 
-          14.25039
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5888", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Srok Samraong", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.99764, 
-          13.85698
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5889", 
-      "properties": {
-        "approvalDate": "2009-09-17", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
-        "id": "42358-013", 
-        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Phumi Treas", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           103.0, 
           13.83333
         ], 
         "type": "Point"
       }, 
-      "id": "5890", 
+      "id": "5897", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
+        "disbursementAmount": 7984854.739999999, 
         "id": "42358-013", 
         "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Srok Thma Pok", 
+        "locationName": "Sr\u014fk Thm\u00e2 P\u00f4k", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5891", 
+      "id": "5898", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
+        "disbursementAmount": 7984854.739999999, 
         "id": "42358-013", 
         "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Svay Chek", 
+        "locationName": "Svay Ch\u00e9k", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,20 +60,255 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5892", 
+      "id": "5899", 
       "properties": {
         "approvalDate": "2009-09-17", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 16260000.0, 
-        "disbursementAmount": 11687310.389999999, 
+        "disbursementAmount": 7984854.739999999, 
         "id": "42358-013", 
         "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
-        "locationName": "Sisophon", 
+        "locationName": "Sis\u014fph\u014fn", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ"
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.62739, 
+          14.25039
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5900", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Sr\u014fk S\u00e2mra\u00f4ng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.99764, 
+          13.85698
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5901", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Phum\u012d Tr\u00e9as", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.51761, 
+          14.18175
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5902", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "S\u00e2mra\u00f4ng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.28842, 
+          14.16183
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5903", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Phum\u012d Ko\u016dk M\u00f4n", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.1062, 
+          14.07087
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5904", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Phum\u012d B\u00e2nt\u00e9ay Chhmar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.25925, 
+          14.1859
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5905", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Sr\u014fk B\u00e2nt\u00e9ay \u00c2mp\u012dl", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.69706, 
+          14.40987
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5906", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "O'Smach", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.95269, 
+          13.81305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5907", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Sr\u014fk Svay Ch\u00e9k", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.01265, 
+          13.63849
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5908", 
+      "properties": {
+        "approvalDate": "2009-09-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 16260000.0, 
+        "disbursementAmount": 7984854.739999999, 
+        "id": "42358-013", 
+        "info": "The proejct will assist the Government of Cambodia to improve the provincial national road network in northwestern Cambodia and the cross-border facility with Thailand", 
+        "locationName": "Serei Saophoan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION:CAMBODIA NORTHWEST PROV ROAD IMPR PROJ", 
+        "website": "http://www.adb.org/projects/42358-013/main"
       }, 
       "type": "Feature"
     }
@@ -309,6 +321,12 @@
       107.61051639900009, 
       14.704581605000087
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Cambodia"
   }, 
   "type": "FeatureCollection"

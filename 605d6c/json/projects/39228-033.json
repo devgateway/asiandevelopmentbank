@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6534", 
+      "id": "1311", 
       "properties": {
         "approvalDate": "2008-07-23", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO"
+        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO", 
+        "website": "http://www.adb.org/projects/39228-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6535", 
+      "id": "1312", 
       "properties": {
         "approvalDate": "2008-07-23", 
         "closingDate": "2013-12-31", 
@@ -46,7 +47,34 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO"
+        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO", 
+        "website": "http://www.adb.org/projects/39228-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.56981, 
+          45.17018
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1313", 
+      "properties": {
+        "approvalDate": "2008-07-23", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 105000000.0, 
+        "disbursementAmount": 104445633.4, 
+        "id": "39228-033", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved living standards in the border areas of north XUAR (Altay Administrative District, Boertala Mongolian Autonomous Prefecture,\u2026", 
+        "locationName": "Alashankou", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "XINJIANG MUNICIPAL INFRASTRUCTURE & ENVIRONMENTAL IMPROVEMENT PRO", 
+        "website": "http://www.adb.org/projects/39228-033/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +87,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

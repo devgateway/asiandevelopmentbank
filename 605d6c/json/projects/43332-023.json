@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6792", 
+      "id": "1570", 
       "properties": {
         "approvalDate": "2010-06-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 31494147.08, 
+        "disbursementAmount": 17781267.45, 
         "id": "43332-023", 
         "info": "The first financing tranche of the Investment Program comprises (i) introduction of (a) energy-efficient technologies, (b) environmentally friendly equipment, and (c) safety equipment; (ii) a review\u2026", 
         "locationName": "Yunnan", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-RAILWAY ENERGY EFFICIENCY & SAFETY ENHANCEMENT INVEST PROG"
+        "title": "MFF-RAILWAY ENERGY EFFICIENCY & SAFETY ENHANCEMENT INVEST PROG", 
+        "website": "http://www.adb.org/projects/43332-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6793", 
+      "id": "1571", 
       "properties": {
         "approvalDate": "2010-06-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 31494147.08, 
+        "disbursementAmount": 17781267.45, 
         "id": "43332-023", 
         "info": "The first financing tranche of the Investment Program comprises (i) introduction of (a) energy-efficient technologies, (b) environmentally friendly equipment, and (c) safety equipment; (ii) a review\u2026", 
         "locationName": "Guangxi Zhuangzu Zizhiqu", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-RAILWAY ENERGY EFFICIENCY & SAFETY ENHANCEMENT INVEST PROG"
+        "title": "MFF-RAILWAY ENERGY EFFICIENCY & SAFETY ENHANCEMENT INVEST PROG", 
+        "website": "http://www.adb.org/projects/43332-023/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

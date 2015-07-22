@@ -3,333 +3,8 @@
     {
       "geometry": {
         "coordinates": [
-          85.33333, 
-          27.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2199", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Lalitpur", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.33218, 
-          27.70704
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2200", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Kathmandu District", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.41673, 
-          27.66734
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2201", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Bhaktapur", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.3, 
-          27.73333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2202", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Balaju", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.5457, 
-          27.4935
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2203", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "MahankalChaur2", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.39379, 
-          27.73869
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2204", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Gokarna", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.3774, 
-          27.73296
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2205", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Arubari", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.32953, 
-          27.71452
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2206", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Naksal", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.33443, 
-          27.69063
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2207", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Nayan Baneshwar", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.313, 
-          27.69529
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2208", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Tripureshwor", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.30443, 
-          27.69755
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2209", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Teku", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.30118, 
-          27.68568
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2210", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Balkhu", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.31507, 
-          27.72035
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2211", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Lainchaur", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.34081, 
-          27.74553
+          85.31111, 
+          27.67232
         ], 
         "type": "Point"
       }, 
@@ -338,382 +13,7 @@
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Bansbari", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.3258, 
-          27.70318
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2213", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Putalisadak", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.3331, 
-          27.70309
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2214", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Ghattekulo", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.33257, 
-          27.69887
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2215", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Anamnagar", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.33187, 
-          27.71065
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2216", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Gyaneshwar", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.33543, 
-          27.70511
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2217", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Maitidevi", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.33323, 
-          27.71784
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2218", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Tangal", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.34937, 
-          27.71795
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2219", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Chabahil", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.35677, 
-          27.71225
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2220", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Guhyeshwari", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.34613, 
-          27.7093
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2221", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Gaushala", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.35032, 
-          27.68592
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2222", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Tinkune", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.31706, 
-          27.68686
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2223", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Kupandole", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.32496, 
-          27.68261
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2224", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Chakupat", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.32882, 
-          27.65479
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2225", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Khumaltar", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.32541, 
-          27.66816
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2226", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
-        "id": "34304-043", 
-        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
-        "locationName": "Lagankhel", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.31111, 
-          27.67232
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2227", 
-      "properties": {
-        "approvalDate": "2011-11-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Ekantakuna", 
@@ -721,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2228", 
+      "id": "2213", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Sundhara", 
@@ -746,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2229", 
+      "id": "2214", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Bansbari", 
@@ -771,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2230", 
+      "id": "2215", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Bode", 
@@ -796,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2231", 
+      "id": "2216", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Narayan Gopal Chowk", 
@@ -821,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2232", 
+      "id": "2217", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Pulchowk", 
@@ -846,7 +151,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2233", 
+      "id": "2218", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Dilli Bazaar", 
@@ -871,7 +177,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2234", 
+      "id": "2219", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Bagbazar", 
@@ -896,7 +203,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -908,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2235", 
+      "id": "2220", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Lagan Tole", 
@@ -921,7 +229,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -933,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2236", 
+      "id": "2221", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Thapathali", 
@@ -946,7 +255,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -958,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2237", 
+      "id": "2222", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Singha Durbar", 
@@ -971,7 +281,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -983,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2238", 
+      "id": "2223", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Chyasal", 
@@ -996,7 +307,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -1008,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2239", 
+      "id": "2224", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Mangal Bazaar", 
@@ -1021,7 +333,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -1033,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2240", 
+      "id": "2225", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Gabahal", 
@@ -1046,7 +359,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -1058,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2241", 
+      "id": "2226", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Sankha Park", 
@@ -1071,7 +385,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -1083,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2242", 
+      "id": "2227", 
       "properties": {
         "approvalDate": "2011-11-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 24848386.88, 
+        "disbursementAmount": 18877935.31, 
         "id": "34304-043", 
         "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
         "locationName": "Mahadev Khola", 
@@ -1096,7 +411,736 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT"
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33333, 
+          27.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2228", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Lalitpur", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33218, 
+          27.70704
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2229", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Kathmandu District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.41673, 
+          27.66734
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2230", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Bhaktapur", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.3, 
+          27.73333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2231", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "B\u0101l\u0101ju", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.5457, 
+          27.4935
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2232", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "MahankalChaur2", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.39379, 
+          27.73869
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2233", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Gokarna", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.3774, 
+          27.73296
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2234", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Arubari", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.32953, 
+          27.71452
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2235", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Naksal", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33443, 
+          27.69063
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2236", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Nayan Baneshwar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.313, 
+          27.69529
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2237", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Tripureshwor", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.30443, 
+          27.69755
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2238", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Teku", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.30118, 
+          27.68568
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2239", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Balkhu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.31507, 
+          27.72035
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2240", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Lainchaur", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.34081, 
+          27.74553
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2241", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Bansbari", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.3258, 
+          27.70318
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2242", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Putalisadak", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.3331, 
+          27.70309
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2243", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Ghattekulo", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33257, 
+          27.69887
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2244", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Anamnagar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33187, 
+          27.71065
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2245", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Gyaneshwar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33543, 
+          27.70511
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2246", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Maitidevi", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.33323, 
+          27.71784
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2247", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Tangal", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.34937, 
+          27.71795
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2248", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Chabahil", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.35677, 
+          27.71225
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2249", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Guhyeshwari", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.34613, 
+          27.7093
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2250", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Gaushala", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.35032, 
+          27.68592
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2251", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Tinkune", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.31706, 
+          27.68686
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2252", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Kupandole", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.32496, 
+          27.68261
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2253", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Chakupat", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.32882, 
+          27.65479
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2254", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Khumaltar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.32541, 
+          27.66816
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2255", 
+      "properties": {
+        "approvalDate": "2011-11-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 18877935.31, 
+        "id": "34304-043", 
+        "info": "The project will complement past and ongoing efforts to improve access, efficiency, and reliability of water supply services to the residents of Kathmandu Valley", 
+        "locationName": "Lagankhel", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "KATHMANDU VALLEY WATER SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/34304-043/main"
       }, 
       "type": "Feature"
     }
@@ -1109,6 +1153,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

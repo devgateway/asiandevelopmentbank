@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6968", 
+      "id": "1748", 
       "properties": {
         "approvalDate": "2011-11-14", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-GUANGDONG ENERGY EFFICIENY & ENVT IMPRVMNT INVSTMNT PROG-P3"
+        "title": "MFF-GUANGDONG ENERGY EFFICIENY & ENVT IMPRVMNT INVSTMNT PROG-P3", 
+        "website": "http://www.adb.org/projects/39653-043/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

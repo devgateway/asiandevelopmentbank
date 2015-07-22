@@ -3,67 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          78.5, 
-          23.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3164", 
-      "properties": {
-        "approvalDate": "2012-03-30", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
-        "id": "44426-014", 
-        "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
-        "locationName": "Madhya Pradesh", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.75, 
-          30.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3165", 
-      "properties": {
-        "approvalDate": "2012-03-30", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
-        "id": "44426-014", 
-        "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
-        "locationName": "Kurukshetra", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           80.75, 
           27.25
         ], 
         "type": "Point"
       }, 
-      "id": "3166", 
+      "id": "8266", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "State of Uttar Pradesh", 
@@ -71,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3167", 
+      "id": "8267", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "State of Punjab", 
@@ -96,7 +47,60 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          23.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8268", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 500000000.0, 
+        "disbursementAmount": 100220770.74000001, 
+        "id": "44426-014", 
+        "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
+        "locationName": "Madhya Pradesh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.75, 
+          30.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8269", 
+      "properties": {
+        "approvalDate": "2012-03-30", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 500000000.0, 
+        "disbursementAmount": 100220770.74000001, 
+        "id": "44426-014", 
+        "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
+        "locationName": "Kurukshetra", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3168", 
+      "id": "8270", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "State of Haryana", 
@@ -121,7 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3169", 
+      "id": "8271", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "Delhi", 
@@ -146,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3170", 
+      "id": "8272", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "Champa", 
@@ -171,7 +177,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3171", 
+      "id": "8273", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "Bhadson", 
@@ -196,7 +203,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3172", 
+      "id": "8274", 
       "properties": {
         "approvalDate": "2012-03-30", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 500000000.0, 
-        "disbursementAmount": 119454731.87, 
+        "disbursementAmount": 100220770.74000001, 
         "id": "44426-014", 
         "info": "To optimize transnational power supply and promote country-wide power transfer in an efficient manner, the Government aims to integrate regional power grid network systems, which comprise five\u2026", 
         "locationName": "State of Chhattisgarh", 
@@ -221,7 +229,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "NATIONAL GRID IMPROVEMENT PROJECT"
+        "title": "NATIONAL GRID IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44426-014/main"
       }, 
       "type": "Feature"
     }
@@ -234,6 +243,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

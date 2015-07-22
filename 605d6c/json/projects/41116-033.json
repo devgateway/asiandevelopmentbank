@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          74.80298, 
+          34.08842
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8919", 
+      "properties": {
+        "approvalDate": "2013-05-16", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 8875286.74, 
+        "id": "41116-033", 
+        "info": "The components proposed for financing under the requested PFR for Tranche 2 of Jammu and Kashmir Urban Sector Development Investment Program (the Project) are as follows:\n\nComponent A: Urban\u2026", 
+        "locationName": "Srinagar", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "JAMMU & KASMIR URBAN SECTOR DEVELOPMENT INVESTMENT PROG- T2", 
+        "website": "http://www.adb.org/projects/41116-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.86911, 
+          32.73569
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8920", 
+      "properties": {
+        "approvalDate": "2013-05-16", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 8875286.74, 
+        "id": "41116-033", 
+        "info": "The components proposed for financing under the requested PFR for Tranche 2 of Jammu and Kashmir Urban Sector Development Investment Program (the Project) are as follows:\n\nComponent A: Urban\u2026", 
+        "locationName": "Jammu", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "JAMMU & KASMIR URBAN SECTOR DEVELOPMENT INVESTMENT PROG- T2", 
+        "website": "http://www.adb.org/projects/41116-033/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          86.17814, 
+          26.86327
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2112", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Mirchaiya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           83.58148, 
           27.97243
         ], 
         "type": "Point"
       }, 
-      "id": "2100", 
+      "id": "2113", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Mirmi", 
@@ -21,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2101", 
+      "id": "2114", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Damauli", 
@@ -46,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2102", 
+      "id": "2115", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Kusum", 
@@ -71,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2103", 
+      "id": "2116", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Maina Pokhar", 
@@ -96,182 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.5, 
-          27.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2104", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Lumbini Zone", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.3206, 
-          27.70169
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2105", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Kathmandu", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.38333, 
-          28.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2106", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Gandaki Zone", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.6, 
-          28.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2107", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Dhawalagiri Zone", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.44836, 
-          27.70055
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2108", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Butwal", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.66667, 
-          28.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2109", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Bheri Zone", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.43005, 
-          27.67298
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2110", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Bhaktapur", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,195 +138,203 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2111", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Rapti Zone", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          82.52283, 
-          27.87297
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2112", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Lamahi", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.61403, 
-          28.06818
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2113", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Dumre", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.45139, 
-          28.28742
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2114", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Marsyangdi", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.36169, 
-          27.77144
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2115", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Chapali", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.29553, 
-          27.71983
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2116", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Swayambhu", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.65695, 
-          27.6021
-        ], 
-        "type": "Point"
-      }, 
       "id": "2117", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Shivapur", 
+        "locationName": "R\u0101pt\u012b Zone", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          81.56718, 
-          28.91154
+          83.5, 
+          27.75
         ], 
         "type": "Point"
       }, 
       "id": "2118", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Lainchaur", 
+        "locationName": "Lumbin\u012b Zone", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.3206, 
+          27.70169
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2119", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Kathmandu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.38333, 
+          28.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2120", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Gandak\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.6, 
+          28.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2121", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Dhawal\u0101giri Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.44836, 
+          27.70055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2122", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Butw\u0101l", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.66667, 
+          28.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2123", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Bher\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.43005, 
+          27.67298
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2124", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Bhaktapur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2119", 
+      "id": "2125", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Kohalpur", 
@@ -496,7 +359,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2120", 
+      "id": "2126", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Barahathawa", 
@@ -521,7 +385,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2121", 
+      "id": "2127", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Mulpani", 
@@ -546,7 +411,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2122", 
+      "id": "2128", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Baniyani", 
@@ -571,7 +437,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +450,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2123", 
+      "id": "2129", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Paraul", 
@@ -596,7 +463,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,12 +476,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2124", 
+      "id": "2130", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Dharapani", 
@@ -621,7 +489,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,12 +502,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2125", 
+      "id": "2131", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Kusma", 
@@ -646,7 +515,190 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.65695, 
+          27.6021
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2132", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Shivapur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.56718, 
+          28.91154
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2133", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Lainchaur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.52283, 
+          27.87297
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2134", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Lamahi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.61403, 
+          28.06818
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2135", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Dumre", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.45139, 
+          28.28742
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2136", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Marsyangdi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.36169, 
+          27.77144
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2137", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Chapali", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.29553, 
+          27.71983
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2138", 
+      "properties": {
+        "approvalDate": "2010-03-11", 
+        "closingDate": "2015-03-30", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 34272723.59, 
+        "id": "40553-013", 
+        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
+        "locationName": "Swayambhu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,12 +710,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2126", 
+      "id": "2139", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Matatirtha", 
@@ -671,7 +723,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,12 +736,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2127", 
+      "id": "2140", 
       "properties": {
         "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2015-03-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
+        "disbursementAmount": 34272723.59, 
         "id": "40553-013", 
         "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
         "locationName": "Lalitpur", 
@@ -696,32 +749,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          86.17814, 
-          26.86327
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2128", 
-      "properties": {
-        "approvalDate": "2010-03-11", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 35944793.71, 
-        "id": "40553-013", 
-        "info": "The Project consists of seven components under three main categories: (i) energy access, (ii) clean energy, and (iii) capacity building.\n\nComponent 1-Energy Access: Facilitating Access to Clean\u2026", 
-        "locationName": "Mirchaiya", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "ENERGY ACCESS & EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40553-013/main"
       }, 
       "type": "Feature"
     }
@@ -734,6 +763,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

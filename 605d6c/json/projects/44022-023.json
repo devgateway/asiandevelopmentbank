@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7132", 
+      "id": "1949", 
       "properties": {
         "approvalDate": "2013-12-05", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 8074000.0, 
+        "disbursementAmount": 74000.0, 
         "id": "44022-023", 
         "info": "The project will improve urban infrastructure and services, as well as the environment of Dongsun subdistrict of Baise, a city in the Guangxi Zhuang Autonomous Region (GZAR)", 
         "locationName": "Baise City", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI BAISE INTEGRATED URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+        "title": "GUANGXI BAISE INTEGRATED URBAN ENVIRONMENT IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44022-023/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

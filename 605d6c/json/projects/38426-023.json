@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2243", 
+      "id": "2256", 
       "properties": {
         "approvalDate": "2012-02-01", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
+        "disbursementAmount": 3871014.3499999996, 
         "id": "38426-023", 
         "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
         "locationName": "Taplejung", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2244", 
+      "id": "2257", 
       "properties": {
         "approvalDate": "2012-02-01", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
+        "disbursementAmount": 3871014.3499999996, 
         "id": "38426-023", 
         "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Solukhumbu", 
+        "locationName": "Solukhumb\u016b", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,370 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2245", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Ramechhap", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.33333, 
-          28.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2246", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Myagdi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          82.41667, 
-          29.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2247", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Mugu", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.41667, 
-          28.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2248", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Lamjung", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.83333, 
-          29.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2249", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Kalikot", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          82.18333, 
-          29.27528
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2250", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Jumla", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          82.25, 
-          28.83333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2251", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Jajarkot", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.91667, 
-          29.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2252", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Humla", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.83333, 
-          28.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2253", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Gorkha", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.08333, 
-          29.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2254", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Dolpa", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.75, 
-          29.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2255", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Darchula", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.5, 
-          29.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2256", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Bajura", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.25, 
-          29.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2257", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Bajhang", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.58333, 
-          29.5
-        ], 
-        "type": "Point"
-      }, 
       "id": "2258", 
       "properties": {
         "approvalDate": "2012-02-01", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
+        "disbursementAmount": 3871014.3499999996, 
         "id": "38426-023", 
         "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Baitadi", 
+        "locationName": "R\u0101mechh\u0101p", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.16667, 
-          28.41667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2259", 
-      "properties": {
-        "approvalDate": "2012-02-01", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
-        "id": "38426-023", 
-        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Baglung", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,20 +86,385 @@
         ], 
         "type": "Point"
       }, 
+      "id": "2259", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Okhal\u1e0dhung\u0101", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.33333, 
+          28.58333
+        ], 
+        "type": "Point"
+      }, 
       "id": "2260", 
       "properties": {
         "approvalDate": "2012-02-01", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 5824281.77, 
+        "disbursementAmount": 3871014.3499999996, 
         "id": "38426-023", 
         "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
-        "locationName": "Okhaldhunga", 
+        "locationName": "My\u0101gd\u012b", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING"
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.41667, 
+          29.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2261", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "M\u016bgu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.41667, 
+          28.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2262", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Lamjung", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.83333, 
+          29.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2263", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "K\u0101l\u012bkot", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.18333, 
+          29.27528
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2264", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Jumla", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.25, 
+          28.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2265", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "J\u0101jarkot", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.91667, 
+          29.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2266", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Huml\u0101", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.83333, 
+          28.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2267", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Gorkh\u0101", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.08333, 
+          29.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2268", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Dolp\u0101", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.75, 
+          29.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2269", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "D\u0101rchul\u0101", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.5, 
+          29.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2270", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "B\u0101jura", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.25, 
+          29.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2271", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Bajhang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.58333, 
+          29.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2272", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "Baitad\u012b", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.16667, 
+          28.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2273", 
+      "properties": {
+        "approvalDate": "2012-02-01", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 3871014.3499999996, 
+        "id": "38426-023", 
+        "info": "The impact of the project will be reduced rural poverty in 18 poor and remote hill and mountain districts. The project outcome will be widened access to social services and economic opportunities", 
+        "locationName": "B\u0101glung", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "DECENTRALIZED RURAL INFRASTRUCTURE & LIVELIHOOD PRJ-ADDT'L FNCING", 
+        "website": "http://www.adb.org/projects/38426-023/main"
       }, 
       "type": "Feature"
     }
@@ -459,6 +477,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

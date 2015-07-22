@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          106.61667, 
+          23.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1658", 
+      "properties": {
+        "approvalDate": "2011-01-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 58517158.580000006, 
+        "id": "42010-013", 
+        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026", 
+        "locationName": "Baise Shi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42010-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           106.61333, 
           23.89972
         ], 
         "type": "Point"
       }, 
-      "id": "6880", 
+      "id": "1659", 
       "properties": {
         "approvalDate": "2011-01-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 78768170.48, 
+        "disbursementAmount": 58517158.580000006, 
         "id": "42010-013", 
         "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026", 
         "locationName": "Baise City", 
@@ -21,7 +47,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42010-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6881", 
+      "id": "1660", 
       "properties": {
         "approvalDate": "2011-01-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 78768170.48, 
+        "disbursementAmount": 58517158.580000006, 
         "id": "42010-013", 
         "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026", 
         "locationName": "Chongzuo Shi", 
@@ -46,7 +73,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42010-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6882", 
+      "id": "1661", 
       "properties": {
         "approvalDate": "2011-01-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 78768170.48, 
+        "disbursementAmount": 58517158.580000006, 
         "id": "42010-013", 
         "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026", 
         "locationName": "Fangchenggang Shi", 
@@ -71,7 +99,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42010-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6883", 
+      "id": "1662", 
       "properties": {
         "approvalDate": "2011-01-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 78768170.48, 
+        "disbursementAmount": 58517158.580000006, 
         "id": "42010-013", 
         "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026", 
         "locationName": "Fengchenggang", 
@@ -96,32 +125,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.61667, 
-          23.9
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6884", 
-      "properties": {
-        "approvalDate": "2011-01-24", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 78768170.48, 
-        "id": "42010-013", 
-        "info": "The project  will support the urban development of three medium-sized cities in the southwestern part of the Guangxi Zhuang Autonomous Region (Guangxi) Fangchenggang City, Chongzuo City, and Baise\u2026", 
-        "locationName": "Baise Shi", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT"
+        "title": "GUANGXI SOUTHWESTERN CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42010-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

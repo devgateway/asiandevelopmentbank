@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3149", 
+      "id": "8212", 
       "properties": {
         "approvalDate": "2011-08-17", 
         "closingDate": "2018-02-28", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 74129646.59, 
+        "disbursementAmount": 67139531.73, 
         "id": "43467-015", 
         "info": "The multi-tranche financing facility (MFF) in the amount of $400 million was approved by ADB on 15 July 2011", 
         "locationName": "State of Madhya Pradesh", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T1"
+        "title": "MADHYA PRADESH ENERGY EFFICIENCY IMPROVEMENT INVESTMENT PROG-T1", 
+        "website": "http://www.adb.org/projects/43467-015/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

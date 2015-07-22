@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4945", 
+      "id": "10750", 
       "properties": {
         "approvalDate": "2014-02-27", 
         "closingDate": "2018-03-31", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:WATER SUPPLY&SANITATION SERVICES INVESTMENT PROGRAM-TRANCHE 4"
+        "title": "MFF:WATER SUPPLY&SANITATION SERVICES INVESTMENT PROGRAM-TRANCHE 4", 
+        "website": "http://www.adb.org/projects/42489-053/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4946", 
+      "id": "10751", 
       "properties": {
         "approvalDate": "2014-02-27", 
         "closingDate": "2018-03-31", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:WATER SUPPLY&SANITATION SERVICES INVESTMENT PROGRAM-TRANCHE 4"
+        "title": "MFF:WATER SUPPLY&SANITATION SERVICES INVESTMENT PROGRAM-TRANCHE 4", 
+        "website": "http://www.adb.org/projects/42489-053/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       73.14864058400016, 
       45.55871897400006
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Uzbekistan"
   }, 
   "type": "FeatureCollection"

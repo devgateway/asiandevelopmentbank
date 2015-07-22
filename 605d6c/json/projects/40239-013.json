@@ -3,425 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          105.61177, 
-          19.94284
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1081", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Ngoc", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.43568, 
-          19.94234
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1082", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Thien", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.447, 
-          19.95391
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1083", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Tho Minh", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.43165, 
-          19.97831
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1084", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Chau", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.46461, 
-          19.96876
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1085", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Tho Lap", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.49152, 
-          19.97429
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1086", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Tin", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.50913, 
-          19.95869
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1087", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Phu Yen", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.52247, 
-          19.94762
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1088", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Yen", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.53605, 
-          19.95467
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1089", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Lai", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.56121, 
-          19.95341
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1090", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Tan", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.59014, 
-          19.94989
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1091", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Xuan Vinh", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.72852, 
-          19.94487
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1092", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Dinh Thanh", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.69711, 
-          19.98723
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1093", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Dinh Tan", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.66427, 
-          20.00412
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1094", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Dinh Hai", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.67236, 
-          19.98318
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1095", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Dinh Hung", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.6519, 
-          19.98556
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1096", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Dinh Long", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           105.68144, 
           19.89713
         ], 
         "type": "Point"
       }, 
-      "id": "1097", 
+      "id": "5185", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Huyen Thieu Hoa", 
+        "locationName": "Huy\u1ec7n Thi\u1ec7u H\u00f3a", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1098", 
+      "id": "5186", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Huyen Yen Dinh", 
+        "locationName": "Huy\u1ec7n Y\u00ean \u0110\u1ecbnh", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1099", 
+      "id": "5187", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Huyen Tho Xuan", 
+        "locationName": "Huy\u1ec7n Th\u1ecd Xu\u00e2n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1100", 
+      "id": "5188", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Huyen Thuong Xuan", 
+        "locationName": "Huy\u1ec7n Th\u01b0\u1eddng Xu\u00e2n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,20 +112,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1101", 
+      "id": "5189", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Huyen Ngoc Lac", 
+        "locationName": "Huy\u1ec7n Ng\u1ecdc L\u1eb7c", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1102", 
+      "id": "5190", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Huyen Cam Thuy", 
+        "locationName": "Huy\u1ec7n C\u1ea9m Th\u1ee7y", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,20 +164,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1103", 
+      "id": "5191", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Cao Thinh", 
+        "locationName": "X\u00e3 Cao Th\u1ecbnh", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,20 +190,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1104", 
+      "id": "5192", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Ngoc Trung", 
+        "locationName": "X\u00e3 Ng\u1ecdc Trung", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,20 +216,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1105", 
+      "id": "5193", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Lam Son", 
+        "locationName": "X\u00e3 Lam S\u01a1n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,20 +242,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1106", 
+      "id": "5194", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Minh Tien", 
+        "locationName": "X\u00e3 Minh Ti\u1ebfn", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,20 +268,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1107", 
+      "id": "5195", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Kien Tho", 
+        "locationName": "X\u00e3 Ki\u00ean Th\u1ecd", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,20 +294,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1108", 
+      "id": "5196", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Phuc Thinh", 
+        "locationName": "X\u00e3 Ph\u00fac Th\u1ecbnh", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,20 +320,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1109", 
+      "id": "5197", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Phung Giao", 
+        "locationName": "X\u00e3 Ph\u00f9ng Gi\u00e1o", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,20 +346,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1110", 
+      "id": "5198", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Nguyet An", 
+        "locationName": "X\u00e3 Nguy\u1ec7t \u1ea4n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,20 +372,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1111", 
+      "id": "5199", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Luong Son", 
+        "locationName": "X\u00e3 L\u01b0\u01a1ng S\u01a1n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,20 +398,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1112", 
+      "id": "5200", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Ngoc Phung", 
+        "locationName": "X\u00e3 Ng\u1ecdc Ph\u1ee5ng", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,20 +424,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1113", 
+      "id": "5201", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Hop", 
+        "locationName": "X\u00e3 Thi\u1ec7u H\u1ee3p", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,245 +450,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1114", 
+      "id": "5202", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Nguyen", 
+        "locationName": "X\u00e3 Thi\u1ec7u Nguy\u00ean", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.60288, 
-          20.01673
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1115", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Phong", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.58694, 
-          20.02054
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1116", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Truong", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.57338, 
-          20.00698
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1117", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Bai", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.56505, 
-          20.02934
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1118", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Trung", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.57766, 
-          20.04291
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1119", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Tho", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.56362, 
-          20.06194
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1120", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Quy Loc", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.51674, 
-          20.06123
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1121", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Lam", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.67879, 
-          19.88659
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1122", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Thi Tran Van Ha", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.61954, 
-          20.00388
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1123", 
-      "properties": {
-        "approvalDate": "2012-03-09", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
-        "id": "40239-013", 
-        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Yen Thai", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1083,20 +476,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1124", 
+      "id": "5203", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Phu", 
+        "locationName": "X\u00e3 Thi\u1ec7u Ph\u00fa", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1108,20 +502,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1125", 
+      "id": "5204", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Phuc", 
+        "locationName": "X\u00e3 Thi\u1ec7u Ph\u00fac", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1133,20 +528,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1126", 
+      "id": "5205", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Tien", 
+        "locationName": "X\u00e3 Thi\u1ec7u Ti\u1ebfn", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1158,20 +554,671 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1127", 
+      "id": "5206", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 110000000.0, 
-        "disbursementAmount": 19977901.56, 
+        "disbursementAmount": 13423215.62, 
         "id": "40239-013", 
         "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
-        "locationName": "Xa Thieu Vu", 
+        "locationName": "X\u00e3 Thi\u1ec7u V\u0169", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM"
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.61177, 
+          19.94284
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5207", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Thi\u1ec7u Ng\u1ecdc", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.43568, 
+          19.94234
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5208", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n Thi\u00ean", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.447, 
+          19.95391
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5209", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Th\u1ecd Minh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.43165, 
+          19.97831
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5210", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n Ch\u00e2u", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.46461, 
+          19.96876
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5211", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Th\u1ecd L\u1eadp", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.49152, 
+          19.97429
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5212", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n T\u00edn", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.50913, 
+          19.95869
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5213", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Ph\u00fa Y\u00ean", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.52247, 
+          19.94762
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5214", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n Y\u00ean", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.53605, 
+          19.95467
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5215", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n Lai", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.56121, 
+          19.95341
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5216", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n T\u00e2n", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.59014, 
+          19.94989
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5217", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Xu\u00e2n Vinh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.72852, 
+          19.94487
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5218", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 \u0110\u1ecbnh Th\u00e0nh", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.69711, 
+          19.98723
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5219", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 \u0110\u1ecbnh T\u00e2n", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.66427, 
+          20.00412
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5220", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 \u0110\u1ecbnh H\u1ea3i", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.67236, 
+          19.98318
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5221", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 \u0110\u1ecbnh H\u01b0ng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.6519, 
+          19.98556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5222", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 \u0110\u1ecbnh Long", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.61954, 
+          20.00388
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5223", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean Th\u00e1i", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.60288, 
+          20.01673
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5224", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean Phong", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.58694, 
+          20.02054
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5225", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean Tr\u01b0\u1eddng", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.57338, 
+          20.00698
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5226", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean B\u00e1i", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.56505, 
+          20.02934
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5227", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean Trung", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.57766, 
+          20.04291
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5228", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean Th\u1ecd", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.56362, 
+          20.06194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5229", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Qu\u00fd L\u1ed9c", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.51674, 
+          20.06123
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5230", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "X\u00e3 Y\u00ean L\u00e2m", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.67879, 
+          19.88659
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5231", 
+      "properties": {
+        "approvalDate": "2012-03-09", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 110000000.0, 
+        "disbursementAmount": 13423215.62, 
+        "id": "40239-013", 
+        "info": "The project is part of a wider government investment to deliver water from the Cua Dat reservoir to the command area", 
+        "locationName": "Th\u1ecb Tr\u1ea5n V\u1ea1n H\u00e0", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "DEV'L OF D NORTHERN CHU & SOUTHERN MA RIVERS IRRIGATION SYSTEM", 
+        "website": "http://www.adb.org/projects/40239-013/main"
       }, 
       "type": "Feature"
     }
@@ -1184,7 +1231,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

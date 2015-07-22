@@ -3,67 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          90.3925, 
-          23.73155
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4340", 
-      "properties": {
-        "approvalDate": "2007-06-28", 
-        "closingDate": "2014-06-30", 
-        "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
-        "id": "36107-013", 
-        "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
-        "locationName": "University of Dhaka", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.40556, 
-          23.82444
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4341", 
-      "properties": {
-        "approvalDate": "2007-06-28", 
-        "closingDate": "2014-06-30", 
-        "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
-        "id": "36107-013", 
-        "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
-        "locationName": "Dhaka Cantonment", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           90.40232, 
           23.89154
         ], 
         "type": "Point"
       }, 
-      "id": "4342", 
+      "id": "518", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Tongi", 
@@ -71,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4343", 
+      "id": "519", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Sirajganj", 
@@ -96,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4344", 
+      "id": "520", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Dhaka", 
@@ -121,7 +73,34 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "521", 
+      "properties": {
+        "approvalDate": "2007-06-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 400000000.0, 
+        "disbursementAmount": 368387994.86, 
+        "id": "36107-013", 
+        "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4345", 
+      "id": "522", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Khulna", 
@@ -146,7 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4346", 
+      "id": "523", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Dhaka District", 
@@ -171,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,20 +164,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4347", 
+      "id": "524", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
-        "locationName": "Narayanganj District", 
+        "locationName": "N\u0101r\u0101yanganj District", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4348", 
+      "id": "525", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Mirpur", 
@@ -221,7 +203,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4349", 
+      "id": "526", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Gulshan", 
@@ -246,7 +229,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4350", 
+      "id": "527", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Meghnaghat", 
@@ -271,7 +255,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4351", 
+      "id": "528", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 369022155.72, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Aminbazar", 
@@ -296,7 +281,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,20 +294,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4352", 
+      "id": "529", 
       "properties": {
         "approvalDate": "2007-06-28", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 5000000.0, 
-        "disbursementAmount": 3622485.69, 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 400000000.0, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "University of Dhaka", 
         "sectors": [
           "Energy"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,20 +320,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4353", 
+      "id": "530", 
       "properties": {
         "approvalDate": "2007-06-28", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 5000000.0, 
-        "disbursementAmount": 3622485.69, 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 400000000.0, 
+        "disbursementAmount": 368387994.86, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
         "locationName": "Dhaka Cantonment", 
         "sectors": [
           "Energy"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,7 +346,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4354", 
+      "id": "531", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -371,7 +359,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,7 +372,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4355", 
+      "id": "532", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -396,7 +385,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,7 +398,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4356", 
+      "id": "533", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -421,7 +411,34 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "534", 
+      "properties": {
+        "approvalDate": "2007-06-28", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 5000000.0, 
+        "disbursementAmount": 3622485.69, 
+        "id": "36107-013", 
+        "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,7 +450,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4357", 
+      "id": "535", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -446,7 +463,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,7 +476,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4358", 
+      "id": "536", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -471,7 +489,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,7 +502,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4359", 
+      "id": "537", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -491,12 +510,13 @@
         "disbursementAmount": 3622485.69, 
         "id": "36107-013", 
         "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
-        "locationName": "Narayanganj District", 
+        "locationName": "N\u0101r\u0101yanganj District", 
         "sectors": [
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,7 +528,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4360", 
+      "id": "538", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -521,7 +541,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,7 +554,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4361", 
+      "id": "539", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -546,7 +567,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,7 +580,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4362", 
+      "id": "540", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -571,7 +593,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,7 +606,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4363", 
+      "id": "541", 
       "properties": {
         "approvalDate": "2007-06-28", 
         "closingDate": "2013-12-31", 
@@ -596,7 +619,60 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT"
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.3925, 
+          23.73155
+        ], 
+        "type": "Point"
+      }, 
+      "id": "542", 
+      "properties": {
+        "approvalDate": "2007-06-28", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 5000000.0, 
+        "disbursementAmount": 3622485.69, 
+        "id": "36107-013", 
+        "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
+        "locationName": "University of Dhaka", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.40556, 
+          23.82444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "543", 
+      "properties": {
+        "approvalDate": "2007-06-28", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 5000000.0, 
+        "disbursementAmount": 3622485.69, 
+        "id": "36107-013", 
+        "info": "Building on the first power sector development program approved in 2003, the policy loan aims to provide further support and incentives to the Government for power sector reform activities through\u2026", 
+        "locationName": "Dhaka Cantonment", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "SUSTAINABLE POWER SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36107-013/main"
       }, 
       "type": "Feature"
     }
@@ -609,6 +685,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

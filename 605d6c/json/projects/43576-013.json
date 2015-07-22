@@ -3,292 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          80.217, 
-          6.0367
-        ], 
-        "type": "Point"
-      }, 
-      "id": "273", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Galle", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.6645, 
-          7.1979
-        ], 
-        "type": "Point"
-      }, 
-      "id": "274", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Galaha", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.9842, 
-          6.9423
-        ], 
-        "type": "Point"
-      }, 
-      "id": "275", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Biyagama", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.9998, 
-          6.8687
-        ], 
-        "type": "Point"
-      }, 
-      "id": "276", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Athurugiriya", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.5, 
-          8.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "277", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Anuradhapura District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.41306, 
-          8.31223
-        ], 
-        "type": "Point"
-      }, 
-      "id": "278", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Anuradhapura", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.75, 
-          7.0833
-        ], 
-        "type": "Point"
-      }, 
-      "id": "279", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Ampara District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.8538, 
-          7.2165
-        ], 
-        "type": "Point"
-      }, 
-      "id": "280", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Akkaraipattu", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.0181, 
-          9.6669
-        ], 
-        "type": "Point"
-      }, 
-      "id": "281", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Jaffna Division", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.8629, 
-          6.9425
-        ], 
-        "type": "Point"
-      }, 
-      "id": "282", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Colombo Division", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.21667, 
-          7.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "283", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Galmadu", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           80.08333, 
           6.83333
         ], 
         "type": "Point"
       }, 
-      "id": "284", 
+      "id": "3809", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Western Province", 
@@ -296,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "285", 
+      "id": "3810", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Vavuniya District", 
@@ -321,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "286", 
+      "id": "3811", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Vavuniya", 
@@ -346,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "287", 
+      "id": "3812", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Thulhiriya", 
@@ -371,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "288", 
+      "id": "3813", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Pottuvil", 
@@ -396,7 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "289", 
+      "id": "3814", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Polpitiya", 
@@ -421,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "290", 
+      "id": "3815", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Polpitiya", 
@@ -446,7 +177,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "291", 
+      "id": "3816", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Pannipitiya", 
@@ -471,7 +203,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "292", 
+      "id": "3817", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "North Central Province", 
@@ -496,7 +229,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "293", 
+      "id": "3818", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Moratuwa", 
@@ -521,7 +255,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "294", 
+      "id": "3819", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Mannar District", 
@@ -546,7 +281,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "295", 
+      "id": "3820", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kolonnawa", 
@@ -571,7 +307,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "296", 
+      "id": "3821", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kiribatkumbura", 
@@ -596,7 +333,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "297", 
+      "id": "3822", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kegalle District", 
@@ -621,7 +359,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "298", 
+      "id": "3823", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kegalle", 
@@ -646,7 +385,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "299", 
+      "id": "3824", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kebitigollewa", 
@@ -671,7 +411,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "300", 
+      "id": "3825", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kandy District", 
@@ -696,7 +437,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,12 +450,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "301", 
+      "id": "3826", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kahatagasdigiliya", 
@@ -721,7 +463,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +476,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "302", 
+      "id": "3827", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 3166162.96, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Sapugaskanda", 
@@ -746,257 +489,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.217, 
-          6.0367
-        ], 
-        "type": "Point"
-      }, 
-      "id": "303", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Galle", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.6645, 
-          7.1979
-        ], 
-        "type": "Point"
-      }, 
-      "id": "304", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Galaha", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.9842, 
-          6.9423
-        ], 
-        "type": "Point"
-      }, 
-      "id": "305", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Biyagama", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.9998, 
-          6.8687
-        ], 
-        "type": "Point"
-      }, 
-      "id": "306", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Athurugiriya", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.5, 
-          8.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "307", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Anuradhapura District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.41306, 
-          8.31223
-        ], 
-        "type": "Point"
-      }, 
-      "id": "308", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Anuradhapura", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.75, 
-          7.0833
-        ], 
-        "type": "Point"
-      }, 
-      "id": "309", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Ampara District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.8538, 
-          7.2165
-        ], 
-        "type": "Point"
-      }, 
-      "id": "310", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Akkaraipattu", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.0181, 
-          9.6669
-        ], 
-        "type": "Point"
-      }, 
-      "id": "311", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Jaffna Division", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.8629, 
-          6.9425
-        ], 
-        "type": "Point"
-      }, 
-      "id": "312", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Colombo Division", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1008,12 +502,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "313", 
+      "id": "3828", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Galmadu", 
@@ -1021,207 +515,112 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          80.08333, 
-          6.83333
+          80.217, 
+          6.0367
         ], 
         "type": "Point"
       }, 
-      "id": "314", 
+      "id": "3829", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Western Province", 
+        "locationName": "Galle", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          80.47576, 
-          8.86134
+          80.6645, 
+          7.1979
         ], 
         "type": "Point"
       }, 
-      "id": "315", 
+      "id": "3830", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Vavuniya District", 
+        "locationName": "Galaha", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          80.4971, 
-          8.7514
+          79.9842, 
+          6.9423
         ], 
         "type": "Point"
       }, 
-      "id": "316", 
+      "id": "3831", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Vavuniya", 
+        "locationName": "Biyagama", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          80.2256, 
-          7.2699
+          79.9998, 
+          6.8687
         ], 
         "type": "Point"
       }, 
-      "id": "317", 
+      "id": "3832", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Thulhiriya", 
+        "locationName": "Athurugiriya", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.8267, 
-          6.8762
-        ], 
-        "type": "Point"
-      }, 
-      "id": "318", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Pottuvil", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.1782, 
-          7.5279
-        ], 
-        "type": "Point"
-      }, 
-      "id": "319", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Polpitiya", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.3709, 
-          7.0311
-        ], 
-        "type": "Point"
-      }, 
-      "id": "320", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Polpitiya", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.9448, 
-          6.8462
-        ], 
-        "type": "Point"
-      }, 
-      "id": "321", 
-      "properties": {
-        "approvalDate": "2013-05-08", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
-        "id": "43576-013", 
-        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
-        "locationName": "Pannipitiya", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1233,12 +632,376 @@
         ], 
         "type": "Point"
       }, 
-      "id": "322", 
+      "id": "3833", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Anuradhapura District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.41306, 
+          8.31223
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3834", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Anuradhapura", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.75, 
+          7.0833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3835", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Ampara District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.8538, 
+          7.2165
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3836", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Akkaraipattu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0181, 
+          9.6669
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3837", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Jaffna Division", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.8629, 
+          6.9425
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3838", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 178551.26, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Colombo Division", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.08333, 
+          6.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3839", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Western Province", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.47576, 
+          8.86134
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3840", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Vavuniya District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4971, 
+          8.7514
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3841", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Vavuniya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2256, 
+          7.2699
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3842", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Thulhiriya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.8267, 
+          6.8762
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3843", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Pottuvil", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.1782, 
+          7.5279
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3844", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Polpitiya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.3709, 
+          7.0311
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3845", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Polpitiya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.9448, 
+          6.8462
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3846", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Pannipitiya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5, 
+          8.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3847", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "North Central Province", 
@@ -1246,7 +1009,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1258,12 +1022,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "323", 
+      "id": "3848", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Moratuwa", 
@@ -1271,7 +1035,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1283,12 +1048,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "324", 
+      "id": "3849", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Mannar District", 
@@ -1296,7 +1061,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1308,12 +1074,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "325", 
+      "id": "3850", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kolonnawa", 
@@ -1321,7 +1087,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1333,12 +1100,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "326", 
+      "id": "3851", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kiribatkumbura", 
@@ -1346,7 +1113,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1358,12 +1126,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "327", 
+      "id": "3852", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kegalle District", 
@@ -1371,7 +1139,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1383,12 +1152,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "328", 
+      "id": "3853", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kegalle", 
@@ -1396,7 +1165,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1408,12 +1178,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "329", 
+      "id": "3854", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kebitigollewa", 
@@ -1421,7 +1191,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1433,12 +1204,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "330", 
+      "id": "3855", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kandy District", 
@@ -1446,7 +1217,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1458,12 +1230,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "331", 
+      "id": "3856", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Kahatagasdigiliya", 
@@ -1471,7 +1243,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1483,12 +1256,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "332", 
+      "id": "3857", 
       "properties": {
         "approvalDate": "2013-05-08", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 428303.7, 
+        "disbursementAmount": 0.0, 
         "id": "43576-013", 
         "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
         "locationName": "Sapugaskanda", 
@@ -1496,7 +1269,294 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT"
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.21667, 
+          7.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3858", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Galmadu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.217, 
+          6.0367
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3859", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Galle", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.6645, 
+          7.1979
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3860", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Galaha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.9842, 
+          6.9423
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3861", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Biyagama", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.9998, 
+          6.8687
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3862", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Athurugiriya", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5, 
+          8.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3863", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Anuradhapura District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.41306, 
+          8.31223
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3864", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Anuradhapura", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.75, 
+          7.0833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3865", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Ampara District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.8538, 
+          7.2165
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3866", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Akkaraipattu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0181, 
+          9.6669
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3867", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Jaffna Division", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.8629, 
+          6.9425
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3868", 
+      "properties": {
+        "approvalDate": "2013-05-08", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43576-013", 
+        "info": "The project  includes three components: (i) transmission infrastructure; (ii) network efficiency improvements; and (iii) pilot solar rooftop power generation investments in the Eastern,\u2026", 
+        "locationName": "Colombo Division", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "CLEAN ENERGY AND NETWORK EFFICIENCY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43576-013/main"
       }, 
       "type": "Feature"
     }
@@ -1509,6 +1569,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

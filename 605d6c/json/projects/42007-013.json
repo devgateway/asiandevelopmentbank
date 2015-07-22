@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4859", 
+      "id": "10662", 
       "properties": {
         "approvalDate": "2010-05-01", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "SECOND SMALL AND MICROFINANCE DEVELOPMENT PROJECT"
+        "title": "SECOND SMALL AND MICROFINANCE DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42007-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       73.14864058400016, 
       45.55871897400006
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Uzbekistan"
   }, 
   "type": "FeatureCollection"

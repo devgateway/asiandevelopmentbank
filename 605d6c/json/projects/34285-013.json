@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          187.86667, 
+          -13.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "133", 
+      "properties": {
+        "approvalDate": "2006-06-05", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 8060000.0, 
+        "disbursementAmount": 7566650.24, 
+        "id": "34285-013", 
+        "info": "The objective of the Project is to establish an equitable and effective education system that will enhance learning outcomes of young people for further study, work and adult life", 
+        "locationName": "Samoa", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "EDUCATION SECTOR PROJECT II", 
+        "website": "http://www.adb.org/projects/34285-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           187.44928, 
           -13.77987
         ], 
         "type": "Point"
       }, 
-      "id": "3795", 
+      "id": "134", 
       "properties": {
         "approvalDate": "2006-06-05", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 8060000.0, 
-        "disbursementAmount": 7671846.25, 
+        "disbursementAmount": 7566650.24, 
         "id": "34285-013", 
         "info": "The objective of the Project is to establish an equitable and effective education system that will enhance learning outcomes of young people for further study, work and adult life", 
         "locationName": "Fagaloa", 
@@ -21,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "EDUCATION SECTOR PROJECT II"
+        "title": "EDUCATION SECTOR PROJECT II", 
+        "website": "http://www.adb.org/projects/34285-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +61,12 @@
       188.56230716200008, 
       -13.46282317499994
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ws.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Samoa"
   }, 
   "type": "FeatureCollection"

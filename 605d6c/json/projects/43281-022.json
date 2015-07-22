@@ -3,25 +3,52 @@
     {
       "geometry": {
         "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2057", 
+      "properties": {
+        "approvalDate": "2010-12-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 2500000.0, 
+        "disbursementAmount": 2248478.09, 
+        "id": "43281-022", 
+        "info": "The Study will provide consulting services for each of two major engineering design specifications: (i) civil works on geological risk ssessments, and (ii) facilities on technical and hydrological\u2026", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "DETAILED ENGINEERING STUDY FOR THE UPPER SETI HYDR", 
+        "website": "http://www.adb.org/projects/43281-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           84.27862, 
           27.96544
         ], 
         "type": "Point"
       }, 
-      "id": "2046", 
+      "id": "2058", 
       "properties": {
         "approvalDate": "2010-12-23", 
-        "closingDate": "2015-09-30", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 2500000.0, 
         "disbursementAmount": 2248478.09, 
         "id": "43281-022", 
         "info": "The Study will provide consulting services for each of two major engineering design specifications: (i) civil works on geological risk ssessments, and (ii) facilities on technical and hydrological\u2026", 
-        "locationName": "Madi River", 
+        "locationName": "M\u0101di River", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "DETAILED ENGINEERING STUDY FOR THE UPPER SETI HYDR"
+        "title": "DETAILED ENGINEERING STUDY FOR THE UPPER SETI HYDR", 
+        "website": "http://www.adb.org/projects/43281-022/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +61,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3343", 
+      "id": "8539", 
       "properties": {
         "approvalDate": "2013-03-25", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 6014820.300000001, 
+        "disbursementAmount": 3762203.83, 
         "id": "41603-023", 
         "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026", 
         "locationName": "Muzaffarpur", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1", 
+        "website": "http://www.adb.org/projects/41603-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3344", 
+      "id": "8540", 
       "properties": {
         "approvalDate": "2013-03-25", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 6014820.300000001, 
+        "disbursementAmount": 3762203.83, 
         "id": "41603-023", 
         "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026", 
         "locationName": "Gaya", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1", 
+        "website": "http://www.adb.org/projects/41603-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3345", 
+      "id": "8541", 
       "properties": {
         "approvalDate": "2013-03-25", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 6014820.300000001, 
+        "disbursementAmount": 3762203.83, 
         "id": "41603-023", 
         "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026", 
         "locationName": "Darbhanga", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1", 
+        "website": "http://www.adb.org/projects/41603-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3346", 
+      "id": "8542", 
       "properties": {
         "approvalDate": "2013-03-25", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 65000000.0, 
-        "disbursementAmount": 6014820.300000001, 
+        "disbursementAmount": 3762203.83, 
         "id": "41603-023", 
         "info": "The proposed Project 1 will include: (i) Bhagalpur water supply subproject; (ii) Hydro-geological assessment of the ground water in Gaya and Darbhanga;  (iii) Consulting services for investment\u2026", 
-        "locationName": "Bhagalpur", 
+        "locationName": "Bh\u0101galpur", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1"
+        "title": "BIHAR URBAN DEVELOPMENT INVESTMENT PROGRAM- TRANCHE 1", 
+        "website": "http://www.adb.org/projects/41603-023/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

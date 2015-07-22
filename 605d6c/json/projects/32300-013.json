@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2426", 
+      "id": "6796", 
       "properties": {
         "approvalDate": "2006-12-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 221200000.0, 
-        "disbursementAmount": 102535799.58, 
+        "disbursementAmount": 95666942.19, 
         "id": "32300-013", 
         "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities", 
         "locationName": "Thiruvananthapuram", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "Kerala Sustainable Urban Development Project"
+        "title": "Kerala Sustainable Urban Development Project", 
+        "website": "http://www.adb.org/projects/32300-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2427", 
+      "id": "6797", 
       "properties": {
         "approvalDate": "2006-12-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 221200000.0, 
-        "disbursementAmount": 102535799.58, 
+        "disbursementAmount": 95666942.19, 
         "id": "32300-013", 
         "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities", 
         "locationName": "Thrissur", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "Kerala Sustainable Urban Development Project"
+        "title": "Kerala Sustainable Urban Development Project", 
+        "website": "http://www.adb.org/projects/32300-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2428", 
+      "id": "6798", 
       "properties": {
         "approvalDate": "2006-12-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 221200000.0, 
-        "disbursementAmount": 102535799.58, 
+        "disbursementAmount": 95666942.19, 
         "id": "32300-013", 
         "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities", 
         "locationName": "Kollam", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "Kerala Sustainable Urban Development Project"
+        "title": "Kerala Sustainable Urban Development Project", 
+        "website": "http://www.adb.org/projects/32300-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2429", 
+      "id": "6799", 
       "properties": {
         "approvalDate": "2006-12-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 221200000.0, 
-        "disbursementAmount": 102535799.58, 
+        "disbursementAmount": 95666942.19, 
         "id": "32300-013", 
         "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities", 
         "locationName": "Kozhikode", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "Kerala Sustainable Urban Development Project"
+        "title": "Kerala Sustainable Urban Development Project", 
+        "website": "http://www.adb.org/projects/32300-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2430", 
+      "id": "6800", 
       "properties": {
         "approvalDate": "2006-12-08", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 221200000.0, 
-        "disbursementAmount": 102535799.58, 
+        "disbursementAmount": 95666942.19, 
         "id": "32300-013", 
         "info": "The expected impact of the Project is increased growth potential of and reduced poverty in the Project cities", 
         "locationName": "Kochi", 
@@ -121,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "Kerala Sustainable Urban Development Project"
+        "title": "Kerala Sustainable Urban Development Project", 
+        "website": "http://www.adb.org/projects/32300-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

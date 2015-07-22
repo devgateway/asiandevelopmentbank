@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7541", 
+      "id": "6588", 
       "properties": {
         "approvalDate": "2007-03-21", 
-        "closingDate": "2014-04-10", 
+        "closingDate": "2013-09-30", 
         "commitmentAmount": 12660000.0, 
         "disbursementAmount": 12649184.04, 
         "id": "32312-013", 
         "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant", 
-        "locationName": "Khoueng Savannakhet", 
+        "locationName": "Khou\u00e8ng Savannakh\u00e9t", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "BASIC EDUCATION DEVELOPMENT"
+        "title": "BASIC EDUCATION DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/32312-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7542", 
+      "id": "6589", 
       "properties": {
         "approvalDate": "2007-03-21", 
-        "closingDate": "2014-04-10", 
+        "closingDate": "2013-09-30", 
         "commitmentAmount": 12660000.0, 
         "disbursementAmount": 12649184.04, 
         "id": "32312-013", 
@@ -46,7 +47,8 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "BASIC EDUCATION DEVELOPMENT"
+        "title": "BASIC EDUCATION DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/32312-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,10 +60,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7543", 
+      "id": "6590", 
       "properties": {
         "approvalDate": "2007-03-21", 
-        "closingDate": "2014-04-10", 
+        "closingDate": "2013-09-30", 
         "commitmentAmount": 12660000.0, 
         "disbursementAmount": 12649184.04, 
         "id": "32312-013", 
@@ -71,7 +73,8 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "BASIC EDUCATION DEVELOPMENT"
+        "title": "BASIC EDUCATION DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/32312-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,10 +86,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7544", 
+      "id": "6591", 
       "properties": {
         "approvalDate": "2007-03-21", 
-        "closingDate": "2014-04-10", 
+        "closingDate": "2013-09-30", 
         "commitmentAmount": 12660000.0, 
         "disbursementAmount": 12649184.04, 
         "id": "32312-013", 
@@ -96,7 +99,8 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "BASIC EDUCATION DEVELOPMENT"
+        "title": "BASIC EDUCATION DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/32312-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,10 +112,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7545", 
+      "id": "6592", 
       "properties": {
         "approvalDate": "2007-03-21", 
-        "closingDate": "2014-04-10", 
+        "closingDate": "2013-09-30", 
         "commitmentAmount": 12660000.0, 
         "disbursementAmount": 12649184.04, 
         "id": "32312-013", 
@@ -121,7 +125,8 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "BASIC EDUCATION DEVELOPMENT"
+        "title": "BASIC EDUCATION DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/32312-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7546", 
+      "id": "6593", 
       "properties": {
         "approvalDate": "2007-03-21", 
-        "closingDate": "2014-04-10", 
+        "closingDate": "2013-09-30", 
         "commitmentAmount": 12660000.0, 
         "disbursementAmount": 12649184.04, 
         "id": "32312-013", 
         "info": "The Program is a sector development program (SDP), consisting of (i) a program loan to support policy reforms; and (ii) an investment project grant", 
-        "locationName": "Khoueng Bokeo", 
+        "locationName": "Khou\u00e8ng Bok\u00e8o", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "BASIC EDUCATION DEVELOPMENT"
+        "title": "BASIC EDUCATION DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/32312-013/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +165,12 @@
       107.66436324000011, 
       22.49604400700011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Lao PDR"
   }, 
   "type": "FeatureCollection"

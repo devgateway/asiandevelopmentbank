@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6259", 
+      "id": "4110", 
       "properties": {
         "approvalDate": "2009-02-13", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "GREEN POWER DEVELOPMENT PROJECT"
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6260", 
+      "id": "4111", 
       "properties": {
         "approvalDate": "2009-02-13", 
         "closingDate": "2013-12-31", 
@@ -46,7 +47,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "GREEN POWER DEVELOPMENT PROJECT"
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6261", 
+      "id": "4112", 
       "properties": {
         "approvalDate": "2009-02-13", 
         "closingDate": "2013-12-31", 
@@ -71,7 +73,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "GREEN POWER DEVELOPMENT PROJECT"
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6262", 
+      "id": "4113", 
       "properties": {
         "approvalDate": "2009-02-13", 
         "closingDate": "2013-12-31", 
@@ -96,7 +99,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "GREEN POWER DEVELOPMENT PROJECT"
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6263", 
+      "id": "4114", 
       "properties": {
         "approvalDate": "2009-02-13", 
         "closingDate": "2013-12-31", 
@@ -121,7 +125,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "GREEN POWER DEVELOPMENT PROJECT"
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6264", 
+      "id": "4115", 
       "properties": {
         "approvalDate": "2009-02-13", 
         "closingDate": "2013-12-31", 
@@ -146,7 +151,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "GREEN POWER DEVELOPMENT PROJECT"
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +165,12 @@
       92.08877648900014, 
       28.358398930786294
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Bhutan"
   }, 
   "type": "FeatureCollection"

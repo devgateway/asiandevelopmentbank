@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4371", 
+      "id": "552", 
       "properties": {
         "approvalDate": "2008-06-18", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 11220794.709999997, 
+        "disbursementAmount": 9388065.999999998, 
         "id": "39408-013", 
         "info": "The Project has four outputs: (i) enhanced relevance of and access to technical and vocational education and training (TVET) programs, (ii) improved capacity for good quality TVET delivery, (iii)\u2026", 
         "locationName": "Bangladesh", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS DEVELOPMENT PROJECT"
+        "title": "SKILLS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39408-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

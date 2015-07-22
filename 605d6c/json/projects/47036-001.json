@@ -3,12 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          85.66667, 
-          27.58333
+          83.37235, 
+          26.75479
         ], 
         "type": "Point"
       }, 
-      "id": "2361", 
+      "id": "2376", 
       "properties": {
         "approvalDate": "2013-11-29", 
         "closingDate": "2019-06-30", 
@@ -16,24 +16,25 @@
         "disbursementAmount": 0.0, 
         "id": "47036-001", 
         "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
-        "locationName": "Kabhre Palanchok", 
+        "locationName": "Gorakhpur", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY"
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          83.44836, 
-          27.70055
+          83.27156, 
+          27.10062
         ], 
         "type": "Point"
       }, 
-      "id": "2362", 
+      "id": "2377", 
       "properties": {
         "approvalDate": "2013-11-29", 
         "closingDate": "2019-06-30", 
@@ -41,37 +42,13 @@
         "disbursementAmount": 0.0, 
         "id": "47036-001", 
         "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
-        "locationName": "Butwal", 
+        "locationName": "Anandnagar", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.78889, 
-          27.55333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2363", 
-      "properties": {
-        "approvalDate": "2013-11-29", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 21000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "47036-001", 
-        "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
-        "locationName": "Bardghat", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY"
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2364", 
+      "id": "2378", 
       "properties": {
         "approvalDate": "2013-11-29", 
         "closingDate": "2019-06-30", 
@@ -91,12 +68,13 @@
         "disbursementAmount": 0.0, 
         "id": "47036-001", 
         "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
-        "locationName": "Ramechhap", 
+        "locationName": "R\u0101mechh\u0101p", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY"
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2365", 
+      "id": "2379", 
       "properties": {
         "approvalDate": "2013-11-29", 
         "closingDate": "2019-06-30", 
@@ -121,7 +99,86 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY"
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.66667, 
+          27.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2380", 
+      "properties": {
+        "approvalDate": "2013-11-29", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 21000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47036-001", 
+        "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
+        "locationName": "K\u0101bhre Pal\u0101nchok", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.44836, 
+          27.70055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2381", 
+      "properties": {
+        "approvalDate": "2013-11-29", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 21000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47036-001", 
+        "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
+        "locationName": "Butw\u0101l", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.78889, 
+          27.55333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2382", 
+      "properties": {
+        "approvalDate": "2013-11-29", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 21000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47036-001", 
+        "info": "The Project Preparatory Facility for Energy (the Facility) is intended to prepare a series of hydropower projects and related transmission infrastructure for development in Nepal, emphasizing private\u2026", 
+        "locationName": "Bardghat", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "PROJECT PREPARATORY FACILITY FOR ENERGY", 
+        "website": "http://www.adb.org/projects/47036-001/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +191,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

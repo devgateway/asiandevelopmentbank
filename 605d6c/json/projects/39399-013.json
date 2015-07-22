@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2094", 
+      "id": "611", 
       "properties": {
-        "approvalDate": "2010-05-25", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 12750000.0, 
-        "disbursementAmount": 1003852.87, 
+        "approvalDate": "2009-12-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 3336930.3299999996, 
         "id": "39399-013", 
         "info": "The Project will develop and improve tourism-related infrastructure in Nepal, India, and Bangladesh", 
         "locationName": "Lumbini", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEV'T PROJ(BAN/IND/NEP)-NEPAL"
+        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEVT PROJ(BAN/NEP/IND)-BAN", 
+        "website": "http://www.adb.org/projects/39399-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,33 +34,40 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2095", 
+      "id": "612", 
       "properties": {
-        "approvalDate": "2010-05-25", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 12750000.0, 
-        "disbursementAmount": 1003852.87, 
+        "approvalDate": "2009-12-07", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 3336930.3299999996, 
         "id": "39399-013", 
         "info": "The Project will develop and improve tourism-related infrastructure in Nepal, India, and Bangladesh", 
-        "locationName": "Bhairahawa", 
+        "locationName": "Bhairahaw\u0101", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEV'T PROJ(BAN/IND/NEP)-NEPAL"
+        "title": "SOUTH ASIA TOURISM INFRASTRUCTURE DEVT PROJ(BAN/NEP/IND)-BAN", 
+        "website": "http://www.adb.org/projects/39399-013/main"
       }, 
       "type": "Feature"
     }
   ], 
-  "id": "NP", 
+  "id": "BD", 
   "properties": {
     "bounds": [
-      80.03028772000005, 
-      26.343767802000087, 
-      88.1690674240001, 
-      30.416904195000086
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
     ], 
-    "name": "Nepal"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"
 }

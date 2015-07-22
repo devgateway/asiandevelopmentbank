@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6004", 
+      "id": "6022", 
       "properties": {
         "approvalDate": "2013-01-17", 
         "closingDate": "2019-09-30", 
         "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 400000.0, 
+        "disbursementAmount": 0.0, 
         "id": "40190-013", 
         "info": "The project will support the Government of Cambodia as it undertakes structural and nonstructural measures to prepare for and manage disaster risks linked to floods and droughts", 
         "locationName": "Pursat", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "GMS FLOOD AND DROUGHT RISK MANAGEMENT AND MITIGATION PROJECT"
+        "title": "GMS FLOOD AND DROUGHT RISK MANAGEMENT AND MITIGATION PROJECT", 
+        "website": "http://www.adb.org/projects/40190-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6005", 
+      "id": "6023", 
       "properties": {
         "approvalDate": "2013-01-17", 
         "closingDate": "2019-09-30", 
         "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 400000.0, 
+        "disbursementAmount": 0.0, 
         "id": "40190-013", 
         "info": "The project will support the Government of Cambodia as it undertakes structural and nonstructural measures to prepare for and manage disaster risks linked to floods and droughts", 
         "locationName": "Phnom Penh", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "GMS FLOOD AND DROUGHT RISK MANAGEMENT AND MITIGATION PROJECT"
+        "title": "GMS FLOOD AND DROUGHT RISK MANAGEMENT AND MITIGATION PROJECT", 
+        "website": "http://www.adb.org/projects/40190-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       107.61051639900009, 
       14.704581605000087
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Cambodia"
   }, 
   "type": "FeatureCollection"

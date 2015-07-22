@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5495", 
+      "id": "3113", 
       "properties": {
         "approvalDate": "2010-01-28", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 25000000.0, 
-        "disbursementAmount": 20254285.310000002, 
+        "disbursementAmount": 18934474.55, 
         "id": "42135-013", 
         "info": "The Project will remove the infrastructure bottleneck along the northern transport corridor connecting West Sepik Province (WSP) of Papua New Guinea and Papua Province of Indonesia, and improve the\u2026", 
         "locationName": "Wutung", 
@@ -21,7 +21,8 @@
           "Industry and trade"
         ], 
         "status": "Implementation", 
-        "title": "PILOT BORDER TRADE AND INVESTMENT DEVELOPMENT PROJECT"
+        "title": "PILOT BORDER TRADE AND INVESTMENT DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42135-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5496", 
+      "id": "3114", 
       "properties": {
         "approvalDate": "2010-01-28", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 25000000.0, 
-        "disbursementAmount": 20254285.310000002, 
+        "disbursementAmount": 18934474.55, 
         "id": "42135-013", 
         "info": "The Project will remove the infrastructure bottleneck along the northern transport corridor connecting West Sepik Province (WSP) of Papua New Guinea and Papua Province of Indonesia, and improve the\u2026", 
         "locationName": "West Sepik Province", 
@@ -46,7 +47,8 @@
           "Industry and trade"
         ], 
         "status": "Implementation", 
-        "title": "PILOT BORDER TRADE AND INVESTMENT DEVELOPMENT PROJECT"
+        "title": "PILOT BORDER TRADE AND INVESTMENT DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42135-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       155.96753991, 
       -1.346368096999882
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Papua New Guinea"
   }, 
   "type": "FeatureCollection"

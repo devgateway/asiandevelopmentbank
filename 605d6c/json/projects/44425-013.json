@@ -4,474 +4,25 @@
       "geometry": {
         "coordinates": [
           85.5, 
-          24.75
+          26.66667
         ], 
         "type": "Point"
       }, 
-      "id": "3469", 
+      "id": "8879", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Nawada", 
+        "locationName": "Sitamarhi", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.32762, 
-          25.0503
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3470", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Nasriganj", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.58333, 
-          25.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3471", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Nalanda", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.41667, 
-          26.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3472", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Muzaffarpur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.16937, 
-          26.25773
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3473", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Motipur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          86.0, 
-          26.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3474", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Darbhanga", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.29542, 
-          25.43776
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3475", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Daniawan", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.73089, 
-          25.781
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3476", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Chhapra", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.74513, 
-          25.53736
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3477", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Chandi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.87118, 
-          25.55972
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3478", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Bihta", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          86.98837, 
-          25.73414
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3479", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Bihariganj", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.25, 
-          25.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3480", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Bhojpur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.67137, 
-          25.56314
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3481", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Ara", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          87.0, 
-          25.8
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3482", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Madhepura", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.08994, 
-          26.13537
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3483", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Saraiya", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.78176, 
-          25.13073
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3484", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Sheikhpura", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          86.94099, 
-          25.67681
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3485", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Udakishunganj", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.18333, 
-          26.61667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3486", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Mohammadpur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.69808, 
-          26.79262
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3487", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Bhiswa", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3488", 
+      "id": "8880", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Sarmera", 
@@ -496,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3489", 
+      "id": "8881", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Saran", 
@@ -521,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3490", 
+      "id": "8882", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Samastipur", 
@@ -546,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3491", 
+      "id": "8883", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Runi Saiyadpur", 
@@ -571,132 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.83333, 
-          26.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3492", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Purba Champaran", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.16667, 
-          25.41667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3493", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Patna", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          87.01194, 
-          26.50823
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3494", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Birpur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          84.6288, 
-          25.20785
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3495", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Baidrabad", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.5, 
-          26.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3496", 
-      "properties": {
-        "approvalDate": "2013-08-12", 
-        "closingDate": "2018-03-31", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
-        "id": "44425-013", 
-        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
-        "locationName": "Sitamarhi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3497", 
+      "id": "8884", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Rohtas", 
@@ -721,7 +151,606 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.83333, 
+          26.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8885", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Purba Champaran", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.16667, 
+          25.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8886", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Patna", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.5, 
+          24.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8887", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Nawada", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.32762, 
+          25.0503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8888", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Nasriganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.58333, 
+          25.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8889", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Nalanda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.41667, 
+          26.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8890", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Muzaffarpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.16937, 
+          26.25773
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8891", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Motipur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.0, 
+          26.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8892", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Darbhanga", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.29542, 
+          25.43776
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8893", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Daniawan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.73089, 
+          25.781
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8894", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Chhapra", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.74513, 
+          25.53736
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8895", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Chandi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.01194, 
+          26.50823
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8896", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Birpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.87118, 
+          25.55972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8897", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Bihta", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.98837, 
+          25.73414
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8898", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Bihariganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.25, 
+          25.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8899", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Bhojpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.67137, 
+          25.56314
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8900", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Ara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.0, 
+          25.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8901", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Madhepura", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.08994, 
+          26.13537
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8902", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Saraiya", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.78176, 
+          25.13073
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8903", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Sheikhpura", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.94099, 
+          25.67681
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8904", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Udakishunganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.18333, 
+          26.61667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8905", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Mohammadpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.6288, 
+          25.20785
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8906", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Baidrabad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.69808, 
+          26.79262
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8907", 
+      "properties": {
+        "approvalDate": "2013-08-12", 
+        "closingDate": "2018-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 37550408.85, 
+        "id": "44425-013", 
+        "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
+        "locationName": "Bhiswa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +762,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3498", 
+      "id": "8908", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Rasiyari", 
@@ -746,7 +775,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,12 +788,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3499", 
+      "id": "8909", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Barbigha", 
@@ -771,7 +801,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,12 +814,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3500", 
+      "id": "8910", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Baghi", 
@@ -796,7 +827,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,12 +840,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3501", 
+      "id": "8911", 
       "properties": {
         "approvalDate": "2013-08-12", 
         "closingDate": "2018-03-31", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 58718473.08, 
+        "disbursementAmount": 37550408.85, 
         "id": "44425-013", 
         "info": "The project will expand the original Bihar State Highways II Project  Original Project  output by rehabilitating and upgrading about 254 km of state highways in Bihar identified under the Bihar State\u2026", 
         "locationName": "Barunapul", 
@@ -821,7 +853,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING"
+        "title": "BIHAR STATE HIGHWAYS II PROJECT-ADDITIONAL FINANCING", 
+        "website": "http://www.adb.org/projects/44425-013/main"
       }, 
       "type": "Feature"
     }
@@ -834,6 +867,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

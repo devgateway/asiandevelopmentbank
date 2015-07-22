@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3051", 
+      "id": "8060", 
       "properties": {
         "approvalDate": "2011-05-10", 
         "closingDate": "2016-07-31", 
         "commitmentAmount": 56900000.0, 
-        "disbursementAmount": 18151000.619999997, 
+        "disbursementAmount": 15708287.29, 
         "id": "38412-023", 
         "info": "The components for financing under the Project are (i) development of flood and riverbank erosion risk management (FRERM) planning, institutional and knowledge bases, (ii)establishment of\u2026", 
-        "locationName": "Palasbari", 
+        "locationName": "Pal\u0101sb\u0101ri", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "MFF-ASSAM INTEGRATED FLOOD & RIVERBANK RISK MGMT. INV. PROG-T1"
+        "title": "MFF-ASSAM INTEGRATED FLOOD & RIVERBANK RISK MGMT. INV. PROG-T1", 
+        "website": "http://www.adb.org/projects/38412-023/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

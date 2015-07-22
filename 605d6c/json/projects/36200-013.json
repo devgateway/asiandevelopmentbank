@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4414", 
+      "id": "596", 
       "properties": {
         "approvalDate": "2009-10-12", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "SMALL & MEDIUM SIZED ENTERPRISE DEVELOPMENT PROJECT"
+        "title": "SMALL & MEDIUM SIZED ENTERPRISE DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36200-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

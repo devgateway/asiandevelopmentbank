@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6963", 
+      "id": "1743", 
       "properties": {
         "approvalDate": "2011-10-25", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 48051582.04, 
+        "disbursementAmount": 35698637.01, 
         "id": "43025-013", 
         "info": "The project aims to promote balanced and environmentally sustainable urbanization, and to improve living conditions in Tianshui, a second-tier city in Gansu province, PRC", 
         "locationName": "Tianshui", 
@@ -21,7 +21,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "GANSU TIANSHUI URBAN INFRASTRUCTURE DEVELOPMENT PRJCT"
+        "title": "GANSU TIANSHUI URBAN INFRASTRUCTURE DEVELOPMENT PRJCT", 
+        "website": "http://www.adb.org/projects/43025-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

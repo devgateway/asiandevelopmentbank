@@ -3,62 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          107.82692, 
-          12.39218
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1253", 
-      "properties": {
-        "approvalDate": "2013-10-16", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 3000239.9, 
-        "id": "40238-023", 
-        "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Ho Dak M'Hang", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.15473, 
-          11.45455
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1254", 
-      "properties": {
-        "approvalDate": "2013-10-16", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 3000239.9, 
-        "id": "40238-023", 
-        "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Bao Thuan", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           107.91667, 
           14.75
         ], 
         "type": "Point"
       }, 
-      "id": "1255", 
+      "id": "5362", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -71,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1256", 
+      "id": "5363", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -96,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1257", 
+      "id": "5364", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -116,12 +68,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Dak Nang", 
+        "locationName": "\u0110ak Nang", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1258", 
+      "id": "5365", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -141,12 +94,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Dak Mam", 
+        "locationName": "\u0110ak Mam", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1259", 
+      "id": "5366", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -166,12 +120,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Tinh Lam Dong", 
+        "locationName": "T\u1ec9nh L\u00e2m \u0110\u1ed3ng", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1260", 
+      "id": "5367", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -196,7 +151,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1261", 
+      "id": "5368", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -221,7 +177,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,7 +190,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1262", 
+      "id": "5369", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -246,7 +203,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,7 +216,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1263", 
+      "id": "5370", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -271,7 +229,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,7 +242,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1264", 
+      "id": "5371", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -296,7 +255,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,7 +268,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1265", 
+      "id": "5372", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -321,7 +281,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,7 +294,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1266", 
+      "id": "5373", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -346,7 +307,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,7 +320,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1267", 
+      "id": "5374", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -371,7 +333,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,7 +346,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1268", 
+      "id": "5375", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -391,12 +354,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Tinh Dak Lak", 
+        "locationName": "T\u1ec9nh \u0110\u1eafk L\u1eafk", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,7 +372,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1269", 
+      "id": "5376", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -421,7 +385,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,7 +398,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1270", 
+      "id": "5377", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -446,7 +411,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,7 +424,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1271", 
+      "id": "5378", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -466,12 +432,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Buon Tria", 
+        "locationName": "Bu\u00f4n Tria", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,7 +450,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1272", 
+      "id": "5379", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -496,7 +463,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,7 +476,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1273", 
+      "id": "5380", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -516,12 +484,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Buon Dier", 
+        "locationName": "Bu\u00f4n Dier", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,7 +502,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1274", 
+      "id": "5381", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -541,12 +510,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Buon Dak N'drong", 
+        "locationName": "Bu\u00f4n \u0110ak N\u2019\u0111rong", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,7 +528,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1275", 
+      "id": "5382", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -571,7 +541,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,7 +554,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1276", 
+      "id": "5383", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -591,12 +562,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Dak Nong", 
+        "locationName": "\u00d0\u1eafk N\u00f4ng", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,7 +580,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1277", 
+      "id": "5384", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -616,12 +588,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Krong No", 
+        "locationName": "Huy\u1ec7n Kr\u00f4ng N\u00f4", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,7 +606,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1278", 
+      "id": "5385", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -641,12 +614,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Da Teh", 
+        "locationName": "Huy\u1ec7n \u0110\u1ea1 T\u1ebbh", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,7 +632,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1279", 
+      "id": "5386", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -666,12 +640,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Di Linh", 
+        "locationName": "Huy\u1ec7n Di Linh", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,7 +658,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1280", 
+      "id": "5387", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -691,12 +666,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Lam Ha", 
+        "locationName": "Huy\u1ec7n L\u00e2m H\u00e0", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,7 +684,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1281", 
+      "id": "5388", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -716,12 +692,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Tra My", 
+        "locationName": "Huy\u1ec7n Tr\u00e0 My", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,7 +710,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1282", 
+      "id": "5389", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -741,12 +718,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Dak Mil", 
+        "locationName": "Huy\u1ec7n \u0110\u1eafk Mil", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,7 +736,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1283", 
+      "id": "5390", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -766,12 +744,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Krong Pak", 
+        "locationName": "Huy\u1ec7n Kr\u00f4ng P\u0103k", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,7 +762,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1284", 
+      "id": "5391", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -791,12 +770,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Ea Kar", 
+        "locationName": "Huy\u1ec7n Ea Kar", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,7 +788,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1285", 
+      "id": "5392", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -816,12 +796,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Krong Nang", 
+        "locationName": "Huy\u1ec7n Kr\u00f4ng N\u0103ng", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,7 +814,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1286", 
+      "id": "5393", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -841,12 +822,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Huyen Cu Jut", 
+        "locationName": "Huy\u1ec7n C\u01b0 J\u00fat", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,7 +840,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1287", 
+      "id": "5394", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -866,12 +848,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa Sa Son", 
+        "locationName": "Xa\u0303 Sa S\u01a1n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,7 +866,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1288", 
+      "id": "5395", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -891,12 +874,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa Dak La", 
+        "locationName": "Xa\u0303 \u0110\u0103\u0301k La", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -908,7 +892,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1289", 
+      "id": "5396", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -916,12 +900,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa Tan Lap", 
+        "locationName": "Xa\u0303 T\u00e2n L\u00e2\u0323p", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -933,7 +918,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1290", 
+      "id": "5397", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -941,12 +926,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Duc Lang", 
+        "locationName": "Du\u0323c Lang", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -958,7 +944,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1291", 
+      "id": "5398", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -966,12 +952,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Dak Doa", 
+        "locationName": "\u0110\u0103k \u0110oa", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -983,7 +970,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1292", 
+      "id": "5399", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -991,12 +978,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa Ha Tam", 
+        "locationName": "Xa\u0303 H\u00e0 Tam", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -1008,7 +996,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1293", 
+      "id": "5400", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -1016,12 +1004,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa Chu Jor", 
+        "locationName": "Xa\u0303 Ch\u01b0 J\u00f4r", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -1033,7 +1022,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1294", 
+      "id": "5401", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -1041,12 +1030,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa A Dok", 
+        "locationName": "Xa\u0303 A D\u01a1k", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -1058,7 +1048,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1295", 
+      "id": "5402", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -1066,12 +1056,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Xa Tan Son", 
+        "locationName": "Xa\u0303 T\u00e2n S\u01a1n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -1083,7 +1074,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1296", 
+      "id": "5403", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -1091,12 +1082,13 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Plei To Von", 
+        "locationName": "Plei T\u01a1 Vo\u0323n", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -1108,7 +1100,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1297", 
+      "id": "5404", 
       "properties": {
         "approvalDate": "2013-10-16", 
         "closingDate": "2019-06-30", 
@@ -1116,12 +1108,65 @@
         "disbursementAmount": 3000239.9, 
         "id": "40238-023", 
         "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
-        "locationName": "Nghia Hung", 
+        "locationName": "Ngh\u0129a H\u01b0ng", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND"
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.82692, 
+          12.39218
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5405", 
+      "properties": {
+        "approvalDate": "2013-10-16", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 3000239.9, 
+        "id": "40238-023", 
+        "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
+        "locationName": "H\u1ed3 \u0110\u0103k M'Hang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.15473, 
+          11.45455
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5406", 
+      "properties": {
+        "approvalDate": "2013-10-16", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 80000000.0, 
+        "disbursementAmount": 3000239.9, 
+        "id": "40238-023", 
+        "info": "The project aims to regenerate and upgrade underdeveloped or outdated productive rural infrastructure (PRI), targeting areas with good potential for agricultural production with existing irrigation\u2026", 
+        "locationName": "B\u1ea3o Thu\u1eadn", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "PRODUCTIVE RURAL INFRASTRCTRE SECTOR PROJ IN THE CENTRAL HIGHLAND", 
+        "website": "http://www.adb.org/projects/40238-023/main"
       }, 
       "type": "Feature"
     }
@@ -1134,7 +1179,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

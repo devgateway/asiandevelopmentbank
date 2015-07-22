@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1738", 
+      "id": "2885", 
       "properties": {
         "approvalDate": "2010-09-14", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 400000000.0, 
-        "disbursementAmount": 324657522.83000004, 
+        "disbursementAmount": 293854310.1, 
         "id": "43407-013", 
         "info": "The project will support the Government of the Philippines in implementing and expanding its social protection agenda, especially the conditional cash transfer (CCT) program Pantawid Pamilyang\u2026", 
         "locationName": "Philippines", 
@@ -21,7 +21,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "SOCIAL PROTECTION SUPPORT PROJECT"
+        "title": "SOCIAL PROTECTION SUPPORT PROJECT", 
+        "website": "http://www.adb.org/projects/43407-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       126.61768639400017, 
       21.122381903000033
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Philippines"
   }, 
   "type": "FeatureCollection"

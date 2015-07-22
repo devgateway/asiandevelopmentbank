@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3745", 
+      "id": "6142", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3746", 
+      "id": "6143", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -41,12 +42,13 @@
         "disbursementAmount": 224103984.41, 
         "id": "41121-023", 
         "info": "The Project will reconstruct 125 km of highway sections between Taraz and Korday in Zhambyl Oblast; and improve road operation and maintenance system", 
-        "locationName": "Lugovoe Audany", 
+        "locationName": "L\u016bgovoe A\u016bdany", 
         "sectors": [
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3747", 
+      "id": "6144", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3748", 
+      "id": "6145", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3749", 
+      "id": "6146", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -121,7 +125,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3750", 
+      "id": "6147", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -146,7 +151,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3751", 
+      "id": "6148", 
       "properties": {
         "approvalDate": "2009-03-30", 
         "closingDate": "2013-12-31", 
@@ -171,7 +177,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR I INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/41121-023/main"
       }, 
       "type": "Feature"
     }
@@ -184,6 +191,12 @@
       87.3237960210001, 
       55.434550273000085
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kz.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Kazakhstan"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4183", 
+      "id": "6780", 
       "properties": {
         "approvalDate": "2013-04-22", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 250000000.0, 
-        "disbursementAmount": 31117143.619999997, 
+        "disbursementAmount": 22574234.13, 
         "id": "45389-002", 
         "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
         "locationName": "Masally District", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45389-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4184", 
+      "id": "6781", 
       "properties": {
         "approvalDate": "2013-04-22", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 250000000.0, 
-        "disbursementAmount": 31117143.619999997, 
+        "disbursementAmount": 22574234.13, 
         "id": "45389-002", 
         "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
         "locationName": "Masally", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45389-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4185", 
+      "id": "6782", 
       "properties": {
         "approvalDate": "2013-04-22", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 250000000.0, 
-        "disbursementAmount": 31117143.619999997, 
+        "disbursementAmount": 22574234.13, 
         "id": "45389-002", 
         "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
         "locationName": "Jalilabad District", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45389-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4186", 
+      "id": "6783", 
       "properties": {
         "approvalDate": "2013-04-22", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 250000000.0, 
-        "disbursementAmount": 31117143.619999997, 
+        "disbursementAmount": 22574234.13, 
         "id": "45389-002", 
         "info": "Project 1 will fund two components: i) Infrastructure Development Component - construction of an approximately 30 km section of the new motorway between Masalli and Jalilabad of the Masalli-Shorsulu\u2026", 
         "locationName": "Dzhalilabad", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1"
+        "title": "SECOND ROAD NETWORK DEVELOPMENT INVESTMENT PROGRAM-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45389-002/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       50.62574303500011, 
       41.89044159000015
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-az.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Azerbaijan"
   }, 
   "type": "FeatureCollection"

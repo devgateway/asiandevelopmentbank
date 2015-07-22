@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3864", 
+      "id": "213", 
       "properties": {
         "approvalDate": "2009-11-05", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 16500000.0, 
-        "disbursementAmount": 4786846.02, 
+        "disbursementAmount": 2317239.89, 
         "id": "41548-013", 
         "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
         "locationName": "Balykchy", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/41548-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3865", 
+      "id": "214", 
       "properties": {
         "approvalDate": "2009-11-05", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 16500000.0, 
-        "disbursementAmount": 4786846.02, 
+        "disbursementAmount": 2317239.89, 
         "id": "41548-013", 
         "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
         "locationName": "Issyk Kul", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/41548-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3866", 
+      "id": "215", 
       "properties": {
         "approvalDate": "2009-11-05", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 16500000.0, 
-        "disbursementAmount": 4786846.02, 
+        "disbursementAmount": 2317239.89, 
         "id": "41548-013", 
         "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
         "locationName": "Karakol", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/41548-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3867", 
+      "id": "216", 
       "properties": {
         "approvalDate": "2009-11-05", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 16500000.0, 
-        "disbursementAmount": 4786846.02, 
+        "disbursementAmount": 2317239.89, 
         "id": "41548-013", 
         "info": "The Issyk Kul Sustainable Development Project (the Project) is the first phase in a longer-term initiative by the Asian Development Bank (ADB) to support environmental management and to improve urban\u2026", 
         "locationName": "Cholpon-Ata", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT"
+        "title": "ISSYK-KUL SUSTAINABLE DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/41548-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

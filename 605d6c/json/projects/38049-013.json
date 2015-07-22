@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6244", 
+      "id": "4095", 
       "properties": {
         "approvalDate": "2006-10-30", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 24600000.0, 
-        "disbursementAmount": 23420218.890000004, 
+        "disbursementAmount": 22881973.020000003, 
         "id": "38049-013", 
         "info": "The objective of the project is to improve urban infrastructure and urban services management in the two cities Thimphu and Phuentsholing and Dagana Town, which will contribute to increasing the\u2026", 
         "locationName": "Thimphu", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT"
+        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38049-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6245", 
+      "id": "4096", 
       "properties": {
         "approvalDate": "2006-10-30", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 24600000.0, 
-        "disbursementAmount": 23420218.890000004, 
+        "disbursementAmount": 22881973.020000003, 
         "id": "38049-013", 
         "info": "The objective of the project is to improve urban infrastructure and urban services management in the two cities Thimphu and Phuentsholing and Dagana Town, which will contribute to increasing the\u2026", 
         "locationName": "Daga", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT"
+        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38049-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6246", 
+      "id": "4097", 
       "properties": {
         "approvalDate": "2006-10-30", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 24600000.0, 
-        "disbursementAmount": 23420218.890000004, 
+        "disbursementAmount": 22881973.020000003, 
         "id": "38049-013", 
         "info": "The objective of the project is to improve urban infrastructure and urban services management in the two cities Thimphu and Phuentsholing and Dagana Town, which will contribute to increasing the\u2026", 
         "locationName": "Phuentsholing", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT"
+        "title": "URBAN INFRASTRUCTURE DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38049-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       92.08877648900014, 
       28.358398930786294
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Bhutan"
   }, 
   "type": "FeatureCollection"

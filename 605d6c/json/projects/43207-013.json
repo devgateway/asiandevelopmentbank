@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          120.59794, 
+          15.48017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2929", 
+      "properties": {
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 432750.0, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Tarlac City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           121.4161, 
           14.2814
         ], 
         "type": "Point"
       }, 
-      "id": "1782", 
+      "id": "2930", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Santa Cruz", 
@@ -21,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1783", 
+      "id": "2931", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Quezon City", 
@@ -46,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1784", 
+      "id": "2932", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Puerto Princesa", 
@@ -71,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1785", 
+      "id": "2933", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Paranaque City", 
@@ -96,7 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1786", 
+      "id": "2934", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Province of Nueva Ecija", 
@@ -121,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1787", 
+      "id": "2935", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "City of Manila", 
@@ -146,7 +177,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1788", 
+      "id": "2936", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Mandaluyong City", 
@@ -171,7 +203,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1789", 
+      "id": "2937", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Malay", 
@@ -196,7 +229,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1790", 
+      "id": "2938", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Makati City", 
@@ -221,7 +255,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,20 +268,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1791", 
+      "id": "2939", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
-        "locationName": "Los Banos", 
+        "locationName": "Los Ba\u00f1os", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1792", 
+      "id": "2940", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Lipa City", 
@@ -271,7 +307,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1793", 
+      "id": "2941", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Davao City", 
@@ -296,7 +333,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1794", 
+      "id": "2942", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Dagupan", 
@@ -321,7 +359,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1795", 
+      "id": "2943", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Caloocan City", 
@@ -346,7 +385,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1796", 
+      "id": "2944", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Cabanatuan City", 
@@ -371,7 +411,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1797", 
+      "id": "2945", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Balanga", 
@@ -396,7 +437,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,12 +450,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1798", 
+      "id": "2946", 
       "properties": {
         "approvalDate": "2013-09-27", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
+        "disbursementAmount": 432750.0, 
         "id": "43207-013", 
         "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
         "locationName": "Boracay Island", 
@@ -421,32 +463,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          120.59794, 
-          15.48017
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1799", 
-      "properties": {
-        "approvalDate": "2013-09-27", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 658567.47, 
-        "id": "43207-013", 
-        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
-        "locationName": "Tarlac City", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES"
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
       }, 
       "type": "Feature"
     }
@@ -459,6 +477,12 @@
       126.61768639400017, 
       21.122381903000033
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Philippines"
   }, 
   "type": "FeatureCollection"

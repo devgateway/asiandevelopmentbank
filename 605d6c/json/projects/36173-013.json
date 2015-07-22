@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "122", 
+      "id": "3491", 
       "properties": {
         "approvalDate": "2009-12-18", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 80000000.0, 
-        "disbursementAmount": 15475633.299999999, 
+        "disbursementAmount": 10889268.309999999, 
         "id": "36173-013", 
         "info": "The Project is designed to improve the urban environment and public health for the urban and suburban residents in Colombo through improvements to wastewater management services", 
         "locationName": "Colombo", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GREATER COLOMBO WASTEWATER MANAGMENT PROJECT"
+        "title": "GREATER COLOMBO WASTEWATER MANAGMENT PROJECT", 
+        "website": "http://www.adb.org/projects/36173-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "123", 
+      "id": "3492", 
       "properties": {
         "approvalDate": "2009-12-18", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 7475006.11, 
+        "disbursementAmount": 5008529.61, 
         "id": "36173-013", 
         "info": "The Project is designed to improve the urban environment and public health for the urban and suburban residents in Colombo through improvements to wastewater management services", 
         "locationName": "Colombo", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GREATER COLOMBO WASTEWATER MANAGEMENT PROJECT (SF)"
+        "title": "GREATER COLOMBO WASTEWATER MANAGEMENT PROJECT (SF)", 
+        "website": "http://www.adb.org/projects/36173-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

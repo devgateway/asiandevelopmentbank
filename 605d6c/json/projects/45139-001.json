@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7623", 
+      "id": "4205", 
       "properties": {
         "approvalDate": "2012-01-27", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 4343741.42, 
+        "disbursementAmount": 2995433.77, 
         "id": "45139-001", 
         "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026", 
         "locationName": "Tibar", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT", 
+        "website": "http://www.adb.org/projects/45139-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7624", 
+      "id": "4206", 
       "properties": {
         "approvalDate": "2012-01-27", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 4343741.42, 
+        "disbursementAmount": 2995433.77, 
         "id": "45139-001", 
         "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026", 
         "locationName": "Baucau", 
@@ -46,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT", 
+        "website": "http://www.adb.org/projects/45139-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7625", 
+      "id": "4207", 
       "properties": {
         "approvalDate": "2012-01-27", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 4343741.42, 
+        "disbursementAmount": 2995433.77, 
         "id": "45139-001", 
         "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026", 
         "locationName": "East Timor", 
@@ -71,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT", 
+        "website": "http://www.adb.org/projects/45139-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7626", 
+      "id": "4208", 
       "properties": {
         "approvalDate": "2012-01-27", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 4343741.42, 
+        "disbursementAmount": 2995433.77, 
         "id": "45139-001", 
         "info": "The proposed project will assist the Government of Timor-Leste in introducing and implementing mid-level skills training in construction and automotive trades by strengthening selected public and\u2026", 
         "locationName": "Comoro", 
@@ -96,7 +99,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MID-LEVEL SKILLS TRAINING PROJECT"
+        "title": "MID-LEVEL SKILLS TRAINING PROJECT", 
+        "website": "http://www.adb.org/projects/45139-001/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       127.31324303500011, 
       -8.135023695999834
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tl.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Timor-Leste"
   }, 
   "type": "FeatureCollection"

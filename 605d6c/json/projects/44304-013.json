@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5497", 
+      "id": "3115", 
       "properties": {
         "approvalDate": "2010-11-25", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 13000000.0, 
-        "disbursementAmount": 7912092.07, 
+        "disbursementAmount": 2495630.22, 
         "id": "44304-013", 
         "info": "The Project will support the further development of the microfinance sector in Papua New Guinea (PNG) through an integrated package of support, including six outputs", 
         "locationName": "Papua New Guinea", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "MICROFINANCE EXPANSION PROJECT"
+        "title": "MICROFINANCE EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/44304-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       155.96753991, 
       -1.346368096999882
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Papua New Guinea"
   }, 
   "type": "FeatureCollection"

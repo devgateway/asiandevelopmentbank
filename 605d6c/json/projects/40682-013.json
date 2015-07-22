@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6832", 
+      "id": "1610", 
       "properties": {
         "approvalDate": "2010-06-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 66080000.0, 
-        "disbursementAmount": 20015824.34, 
+        "disbursementAmount": 17389698.05, 
         "id": "40682-013", 
         "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026", 
         "locationName": "Shandong Sheng", 
@@ -21,7 +21,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/40682-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6833", 
+      "id": "1611", 
       "properties": {
         "approvalDate": "2010-06-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 66080000.0, 
-        "disbursementAmount": 20015824.34, 
+        "disbursementAmount": 17389698.05, 
         "id": "40682-013", 
         "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026", 
         "locationName": "Jiangxi Sheng", 
@@ -46,7 +47,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/40682-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6834", 
+      "id": "1612", 
       "properties": {
         "approvalDate": "2010-06-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 66080000.0, 
-        "disbursementAmount": 20015824.34, 
+        "disbursementAmount": 17389698.05, 
         "id": "40682-013", 
         "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026", 
         "locationName": "Henan Sheng", 
@@ -71,7 +73,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/40682-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6835", 
+      "id": "1613", 
       "properties": {
         "approvalDate": "2010-06-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 66080000.0, 
-        "disbursementAmount": 20015824.34, 
+        "disbursementAmount": 17389698.05, 
         "id": "40682-013", 
         "info": "The project will improve the performance of the biogas subsector through the demonstration of an integrated renewable biomass energy system in the poor rural areas of Heilongjiang, Henan, Jiangxi,\u2026", 
         "locationName": "Heilongjiang Sheng", 
@@ -96,7 +99,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT"
+        "title": "INTEGRATED RENEWABLE BIOMASS ENERGY DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/40682-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

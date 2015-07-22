@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6648", 
+      "id": "1426", 
       "properties": {
         "approvalDate": "2009-04-29", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79426007.97000001, 
+        "disbursementAmount": 77775940.20000002, 
         "id": "40642-013", 
         "info": "Wuzhou city is a medium-sized city in the Guangxi Zhuang Autonomous Region", 
         "locationName": "Wuzhou", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI WUZHOU URBAN DEVELOPMENT PROJECT"
+        "title": "GUANGXI WUZHOU URBAN DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40642-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

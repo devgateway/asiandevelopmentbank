@@ -3,200 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          75.62971, 
-          15.42977
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3055", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Gadag", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.14, 
-          15.37
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3056", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Dharwad district", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.92694, 
-          14.46693
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3057", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Davangere", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.5, 
-          14.2
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3058", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Chitradurga district", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.73, 
-          13.49
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3059", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Chikmagalur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.92577, 
-          14.02399
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3060", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Channagiri", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.0, 
-          13.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3061", 
-      "properties": {
-        "approvalDate": "2011-07-20", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
-        "id": "42513-013", 
-        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Tumkur", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           76.40368, 
           15.7668
         ], 
         "type": "Point"
       }, 
-      "id": "3062", 
+      "id": "8064", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Tawargeri", 
+        "locationName": "T\u0101wargeri", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3063", 
+      "id": "8065", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Saundatti", 
@@ -221,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3064", 
+      "id": "8066", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Sante Bennur", 
+        "locationName": "Sante Benn\u016br", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3065", 
+      "id": "8067", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Raichur", 
@@ -271,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,20 +112,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3066", 
+      "id": "8068", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Pavagada", 
+        "locationName": "P\u0101vagada", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3067", 
+      "id": "8069", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Pattadakal", 
@@ -321,7 +151,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3068", 
+      "id": "8070", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Mundargi", 
@@ -346,7 +177,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3069", 
+      "id": "8071", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Mudgal", 
@@ -371,7 +203,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3070", 
+      "id": "8072", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Mandya", 
@@ -396,7 +229,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3071", 
+      "id": "8073", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Mandya", 
@@ -421,7 +255,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,20 +268,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3072", 
+      "id": "8074", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Magadi", 
+        "locationName": "M\u0101gadi", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3073", 
+      "id": "8075", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Koratagere", 
@@ -471,7 +307,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3074", 
+      "id": "8076", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Karnataka", 
@@ -496,7 +333,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,20 +346,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3075", 
+      "id": "8077", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Karkal", 
+        "locationName": "K\u0101rk\u0101l", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3076", 
+      "id": "8078", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Kanakgiri", 
@@ -546,7 +385,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,20 +398,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3077", 
+      "id": "8079", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Jagalur", 
+        "locationName": "Jagal\u016br", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3078", 
+      "id": "8080", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Gubbi", 
@@ -596,7 +437,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,20 +450,177 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3079", 
+      "id": "8081", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Gangawati", 
+        "locationName": "Gang\u0101wati", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.62971, 
+          15.42977
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8082", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Gadag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.14, 
+          15.37
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8083", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Dharwad district", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.92694, 
+          14.46693
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8084", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Davangere", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.5, 
+          14.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8085", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Chitradurga district", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.73, 
+          13.49
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8086", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Chikmagalur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.92577, 
+          14.02399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8087", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Channagiri", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,20 +632,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3080", 
+      "id": "8088", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Birur", 
+        "locationName": "Bir\u016br", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,12 +658,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3081", 
+      "id": "8089", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Belmannu", 
@@ -671,7 +671,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,12 +684,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3082", 
+      "id": "8090", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Belgaum district", 
@@ -696,7 +697,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,12 +710,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3083", 
+      "id": "8091", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Bangalore Urban", 
@@ -721,7 +723,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +736,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3084", 
+      "id": "8092", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Bangalore Rural", 
@@ -746,7 +749,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,20 +762,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3085", 
+      "id": "8093", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
-        "locationName": "Badami", 
+        "locationName": "B\u0101d\u0101mi", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,12 +788,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3086", 
+      "id": "8094", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Ajjampur", 
@@ -796,7 +801,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,12 +814,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3087", 
+      "id": "8095", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Gudemaranhalli", 
@@ -821,7 +827,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,12 +840,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3088", 
+      "id": "8096", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Benniganahalli", 
@@ -846,7 +853,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,12 +866,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3089", 
+      "id": "8097", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Yediyur", 
@@ -871,7 +879,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,12 +892,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3090", 
+      "id": "8098", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Koppal", 
@@ -896,7 +905,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -908,12 +918,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3091", 
+      "id": "8099", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Davanagere", 
@@ -921,7 +931,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -933,12 +944,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3092", 
+      "id": "8100", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Gadag", 
@@ -946,7 +957,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -958,12 +970,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3093", 
+      "id": "8101", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Bagalkot", 
@@ -971,7 +983,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -983,12 +996,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3094", 
+      "id": "8102", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Udupi", 
@@ -996,7 +1009,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1008,12 +1022,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3095", 
+      "id": "8103", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Ramanagara", 
@@ -1021,7 +1035,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1033,12 +1048,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3096", 
+      "id": "8104", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Ramdurg Taluk", 
@@ -1046,7 +1061,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1058,12 +1074,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3097", 
+      "id": "8105", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Molakalmuru Taluk", 
@@ -1071,7 +1087,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1083,12 +1100,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3098", 
+      "id": "8106", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Hunshikatti", 
@@ -1096,7 +1113,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1108,12 +1126,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3099", 
+      "id": "8107", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Dobbaspet", 
@@ -1121,7 +1139,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1133,12 +1152,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3100", 
+      "id": "8108", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Padubidri", 
@@ -1146,7 +1165,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1158,12 +1178,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3101", 
+      "id": "8109", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Kamatagi", 
@@ -1171,7 +1191,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1183,12 +1204,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3102", 
+      "id": "8110", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Kowdlay", 
@@ -1196,7 +1217,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -1208,12 +1230,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3103", 
+      "id": "8111", 
       "properties": {
         "approvalDate": "2011-07-20", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 76175137.44, 
+        "disbursementAmount": 65553919.699999996, 
         "id": "42513-013", 
         "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
         "locationName": "Shelwadi", 
@@ -1221,7 +1243,34 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "Karnataka State Highway Improvement Project"
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.0, 
+          13.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8112", 
+      "properties": {
+        "approvalDate": "2011-07-20", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 315000000.0, 
+        "disbursementAmount": 65553919.699999996, 
+        "id": "42513-013", 
+        "info": "The Karnataka State Highway Improvement Project will upgrade about 615 kilometers (km) of state highways in the state of Karnataka and strengthen the capacity of the Public Works Department (PWD) of\u2026", 
+        "locationName": "Tumk\u016br", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "Karnataka State Highway Improvement Project", 
+        "website": "http://www.adb.org/projects/42513-013/main"
       }, 
       "type": "Feature"
     }
@@ -1234,6 +1283,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

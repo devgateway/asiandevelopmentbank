@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1549", 
+      "id": "10524", 
       "properties": {
         "approvalDate": "2013-12-04", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 44800.0, 
+        "disbursementAmount": 0.0, 
         "id": "42091-043", 
         "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
-        "locationName": "Wilayat-e Takhar", 
+        "locationName": "Wil\u0101yat-e Takh\u0101r", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM"
+        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42091-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,70 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1550", 
+      "id": "10525", 
       "properties": {
         "approvalDate": "2013-12-04", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 44800.0, 
+        "disbursementAmount": 0.0, 
         "id": "42091-043", 
         "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
-        "locationName": "Nahr-e Archi", 
+        "locationName": "Nahr-e Arch\u012b", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          68.85166, 
-          37.10571
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1551", 
-      "properties": {
-        "approvalDate": "2013-12-04", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 44800.0, 
-        "id": "42091-043", 
-        "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
-        "locationName": "Imam Sahib", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          69.62146, 
-          36.98433
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1552", 
-      "properties": {
-        "approvalDate": "2013-12-04", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 44800.0, 
-        "id": "42091-043", 
-        "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
-        "locationName": "Kwhaja Ghar", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM"
+        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42091-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,20 +60,73 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1553", 
+      "id": "10526", 
       "properties": {
         "approvalDate": "2013-12-04", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 44800.0, 
+        "disbursementAmount": 0.0, 
         "id": "42091-043", 
         "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
-        "locationName": "Dasht-e Archi", 
+        "locationName": "Dasht-e Arch\u012b", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM"
+        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42091-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.85166, 
+          37.10571
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10527", 
+      "properties": {
+        "approvalDate": "2013-12-04", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42091-043", 
+        "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
+        "locationName": "Im\u0101m \u015e\u0101\u1e29ib", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42091-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.62146, 
+          36.98433
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10528", 
+      "properties": {
+        "approvalDate": "2013-12-04", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42091-043", 
+        "info": "The proposed Lower Kokcha Irrigation Project (LKIP) will rehabilitate and improve the Shahrawan and Archi canals", 
+        "locationName": "Kwhaja Ghar, Afghanistan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:WATER RESOURCES DEVELOPMENT INVESTMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42091-043/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       74.89230676300014, 
       38.473673402000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "Afghanistan"
   }, 
   "type": "FeatureCollection"

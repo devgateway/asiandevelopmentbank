@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2748", 
+      "id": "7384", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2015-12-15", 
@@ -16,12 +16,13 @@
         "disbursementAmount": 14114114.290000001, 
         "id": "37139-043", 
         "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
-        "locationName": "Uttarkashi", 
+        "locationName": "Uttark\u0101shi", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3", 
+        "website": "http://www.adb.org/projects/37139-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2749", 
+      "id": "7385", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2015-12-15", 
@@ -41,12 +42,13 @@
         "disbursementAmount": 14114114.290000001, 
         "id": "37139-043", 
         "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
-        "locationName": "Tehri-Garhwal", 
+        "locationName": "Tehri-Garhw\u0101l", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3", 
+        "website": "http://www.adb.org/projects/37139-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2750", 
+      "id": "7386", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2015-12-15", 
@@ -66,12 +68,13 @@
         "disbursementAmount": 14114114.290000001, 
         "id": "37139-043", 
         "info": "The Project comprises the following Parts: Part A - Substation This part will assist in construction of the 400 KV Srinagar Substation Part B - Capacity Building This part will assist through\u2026", 
-        "locationName": "Srinagar", 
+        "locationName": "Sr\u012bnagar", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3", 
+        "website": "http://www.adb.org/projects/37139-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2751", 
+      "id": "7387", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2015-12-15", 
@@ -96,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM - PROJECT 3", 
+        "website": "http://www.adb.org/projects/37139-043/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

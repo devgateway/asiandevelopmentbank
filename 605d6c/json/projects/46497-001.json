@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3999", 
+      "id": "355", 
       "properties": {
         "approvalDate": "2013-03-26", 
-        "closingDate": "2014-01-16", 
+        "closingDate": "2013-12-31", 
         "commitmentAmount": 5000000.0, 
         "disbursementAmount": 5000000.0, 
         "id": "46497-001", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Completion", 
-        "title": "ECONOMIC AND FINANCIAL REFORM PROGRAM"
+        "title": "ECONOMIC AND FINANCIAL REFORM PROGRAM", 
+        "website": "http://www.adb.org/projects/46497-001/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       168.8258569670002, 
       -6.599867445999806
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Solomon Islands"
   }, 
   "type": "FeatureCollection"

@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          90.50298, 
+          23.61352
+        ], 
+        "type": "Point"
+      }, 
+      "id": "704", 
+      "properties": {
+        "approvalDate": "2011-08-10", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 18825395.8, 
+        "id": "39298-013", 
+        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
+        "locationName": "N\u0101r\u0101yanganj", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CITY REGION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39298-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           90.40744, 
           23.7104
         ], 
         "type": "Point"
       }, 
-      "id": "4496", 
+      "id": "705", 
       "properties": {
         "approvalDate": "2011-08-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 28905252.82, 
+        "disbursementAmount": 18825395.8, 
         "id": "39298-013", 
         "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
         "locationName": "Dhaka", 
@@ -21,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CITY REGION DEVELOPMENT PROJECT"
+        "title": "CITY REGION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39298-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4497", 
+      "id": "706", 
       "properties": {
         "approvalDate": "2011-08-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 28905252.82, 
+        "disbursementAmount": 18825395.8, 
         "id": "39298-013", 
         "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
-        "locationName": "Ghazipur", 
+        "locationName": "Gh\u0101zipur", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CITY REGION DEVELOPMENT PROJECT"
+        "title": "CITY REGION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39298-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4498", 
+      "id": "707", 
       "properties": {
         "approvalDate": "2011-08-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 28905252.82, 
+        "disbursementAmount": 18825395.8, 
         "id": "39298-013", 
         "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
         "locationName": "Banani Model Town", 
@@ -71,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CITY REGION DEVELOPMENT PROJECT"
+        "title": "CITY REGION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39298-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4499", 
+      "id": "708", 
       "properties": {
         "approvalDate": "2011-08-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 28905252.82, 
+        "disbursementAmount": 18825395.8, 
         "id": "39298-013", 
         "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
         "locationName": "Khulna", 
@@ -96,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CITY REGION DEVELOPMENT PROJECT"
+        "title": "CITY REGION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39298-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4500", 
+      "id": "709", 
       "properties": {
         "approvalDate": "2011-08-10", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 28905252.82, 
+        "disbursementAmount": 18825395.8, 
         "id": "39298-013", 
         "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
         "locationName": "Savar", 
@@ -121,32 +151,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CITY REGION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.50298, 
-          23.61352
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4501", 
-      "properties": {
-        "approvalDate": "2011-08-10", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 28905252.82, 
-        "id": "39298-013", 
-        "info": "The project aims to increase growth potential and environmental sustainability of two city regions based on coherent regional urban planning", 
-        "locationName": "Narayanganj", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "CITY REGION DEVELOPMENT PROJECT"
+        "title": "CITY REGION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39298-013/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +165,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

@@ -3,117 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          66.22316, 
-          39.39242
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4884", 
-      "properties": {
-        "approvalDate": "2012-02-16", 
-        "closingDate": "2016-09-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
-        "id": "45067-005", 
-        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
-        "locationName": "Ayritom", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          66.05005, 
-          39.19997
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4885", 
-      "properties": {
-        "approvalDate": "2012-02-16", 
-        "closingDate": "2016-09-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
-        "id": "45067-005", 
-        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
-        "locationName": "Olatun", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          65.76439, 
-          38.92352
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4886", 
-      "properties": {
-        "approvalDate": "2012-02-16", 
-        "closingDate": "2016-09-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
-        "id": "45067-005", 
-        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
-        "locationName": "Qashqadaryo", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          66.65979, 
-          39.66399
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4887", 
-      "properties": {
-        "approvalDate": "2012-02-16", 
-        "closingDate": "2016-09-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
-        "id": "45067-005", 
-        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
-        "locationName": "Pastdargom", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           66.36944, 
           39.57722
         ], 
         "type": "Point"
       }, 
-      "id": "4888", 
+      "id": "10689", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Ulus", 
@@ -121,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4889", 
+      "id": "10690", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Nurobod Tumani", 
@@ -146,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4890", 
+      "id": "10691", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Samarkand", 
@@ -171,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4891", 
+      "id": "10692", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Samarqand Tumani", 
@@ -196,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4892", 
+      "id": "10693", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Qarshi", 
@@ -221,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4893", 
+      "id": "10694", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
-        "locationName": "Pastdarg'om Tumani", 
+        "locationName": "Pastdarg\u2018om Tumani", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4894", 
+      "id": "10695", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Nekuz", 
@@ -271,7 +177,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4895", 
+      "id": "10696", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Koson Tumani", 
@@ -296,7 +203,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4896", 
+      "id": "10697", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Qarshi Tumani", 
@@ -321,7 +229,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,20 +242,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4897", 
+      "id": "10698", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
-        "locationName": "G'umbaz", 
+        "locationName": "G\u2019umbaz", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4898", 
+      "id": "10699", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Dzham Pervyy", 
@@ -371,7 +281,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4899", 
+      "id": "10700", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28903002.279999997, 
+        "disbursementAmount": 20194391.419999998, 
         "id": "45067-005", 
         "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
         "locationName": "Chiroqchi Tumani", 
@@ -396,7 +307,138 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT"
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.22316, 
+          39.39242
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10701", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 20194391.419999998, 
+        "id": "45067-005", 
+        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
+        "locationName": "Ayritom", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.05005, 
+          39.19997
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10702", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 20194391.419999998, 
+        "id": "45067-005", 
+        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
+        "locationName": "Olatun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.76439, 
+          38.92352
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10703", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 20194391.419999998, 
+        "id": "45067-005", 
+        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
+        "locationName": "Qashqadaryo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.83333, 
+          41.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10704", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 20194391.419999998, 
+        "id": "45067-005", 
+        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
+        "locationName": "Uzbekistan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.65979, 
+          39.66399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10705", 
+      "properties": {
+        "approvalDate": "2012-02-16", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 20194391.419999998, 
+        "id": "45067-005", 
+        "info": "The project will increase regional trade and accelerate economic growth. The outcome will be improved railway operation between Marakand and Karshi", 
+        "locationName": "Pastdargom", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC 6 (MARAKAND-KARSHI) RAILWAY ELECTRIFICATION PROJECT", 
+        "website": "http://www.adb.org/projects/45067-005/main"
       }, 
       "type": "Feature"
     }
@@ -409,6 +451,12 @@
       73.14864058400016, 
       45.55871897400006
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Uzbekistan"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5948", 
+      "id": "5961", 
       "properties": {
         "approvalDate": "2012-02-21", 
         "closingDate": "2017-09-30", 
         "commitmentAmount": 52000000.0, 
-        "disbursementAmount": 7175416.199999999, 
+        "disbursementAmount": 5437744.93, 
         "id": "43309-013", 
         "info": "The project will (i) improve Cambodia's provincial road network in four provinces -- Kampong Chhnang, Kampong Speu, Prey Viang, and Svay Rieng; (ii) improve the Ministry of Public Works and\u2026", 
         "locationName": "Svay Rieng", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)"
+        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)", 
+        "website": "http://www.adb.org/projects/43309-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5949", 
+      "id": "5962", 
       "properties": {
         "approvalDate": "2012-02-21", 
         "closingDate": "2017-09-30", 
         "commitmentAmount": 52000000.0, 
-        "disbursementAmount": 7175416.199999999, 
+        "disbursementAmount": 5437744.93, 
         "id": "43309-013", 
         "info": "The project will (i) improve Cambodia's provincial road network in four provinces -- Kampong Chhnang, Kampong Speu, Prey Viang, and Svay Rieng; (ii) improve the Ministry of Public Works and\u2026", 
         "locationName": "Prey Veng", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)"
+        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)", 
+        "website": "http://www.adb.org/projects/43309-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5950", 
+      "id": "5963", 
       "properties": {
         "approvalDate": "2012-02-21", 
         "closingDate": "2017-09-30", 
         "commitmentAmount": 52000000.0, 
-        "disbursementAmount": 7175416.199999999, 
+        "disbursementAmount": 5437744.93, 
         "id": "43309-013", 
         "info": "The project will (i) improve Cambodia's provincial road network in four provinces -- Kampong Chhnang, Kampong Speu, Prey Viang, and Svay Rieng; (ii) improve the Ministry of Public Works and\u2026", 
         "locationName": "Kampong Speu", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)"
+        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)", 
+        "website": "http://www.adb.org/projects/43309-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5951", 
+      "id": "5964", 
       "properties": {
         "approvalDate": "2012-02-21", 
         "closingDate": "2017-09-30", 
         "commitmentAmount": 52000000.0, 
-        "disbursementAmount": 7175416.199999999, 
+        "disbursementAmount": 5437744.93, 
         "id": "43309-013", 
         "info": "The project will (i) improve Cambodia's provincial road network in four provinces -- Kampong Chhnang, Kampong Speu, Prey Viang, and Svay Rieng; (ii) improve the Ministry of Public Works and\u2026", 
         "locationName": "Kampong Chhnang", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)"
+        "title": "PROVINCIAL ROADS IMPROVEMENT PROJECT (SF)", 
+        "website": "http://www.adb.org/projects/43309-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       107.61051639900009, 
       14.704581605000087
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Cambodia"
   }, 
   "type": "FeatureCollection"

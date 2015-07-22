@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          91.24836, 
-          26.81771
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6265", 
-      "properties": {
-        "approvalDate": "2012-02-08", 
-        "closingDate": "2018-08-14", 
-        "commitmentAmount": 19870000.0, 
-        "disbursementAmount": 2259797.67, 
-        "id": "44240-013", 
-        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
-        "locationName": "Nganglam New", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "URBAN INFRASCTRUCTURE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           89.64191, 
           27.46609
         ], 
         "type": "Point"
       }, 
-      "id": "6266", 
+      "id": "4116", 
       "properties": {
         "approvalDate": "2012-02-08", 
         "closingDate": "2018-08-14", 
         "commitmentAmount": 19870000.0, 
-        "disbursementAmount": 2259797.67, 
+        "disbursementAmount": 2199046.92, 
         "id": "44240-013", 
         "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
         "locationName": "Thimphu", 
@@ -46,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASCTRUCTURE PROJECT"
+        "title": "URBAN INFRASCTRUCTURE PROJECT", 
+        "website": "http://www.adb.org/projects/44240-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6267", 
+      "id": "4117", 
       "properties": {
         "approvalDate": "2012-02-08", 
         "closingDate": "2018-08-14", 
         "commitmentAmount": 19870000.0, 
-        "disbursementAmount": 2259797.67, 
+        "disbursementAmount": 2199046.92, 
         "id": "44240-013", 
         "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
         "locationName": "Samdrup Jongkhar", 
@@ -71,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASCTRUCTURE PROJECT"
+        "title": "URBAN INFRASCTRUCTURE PROJECT", 
+        "website": "http://www.adb.org/projects/44240-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6268", 
+      "id": "4118", 
       "properties": {
         "approvalDate": "2012-02-08", 
         "closingDate": "2018-08-14", 
         "commitmentAmount": 19870000.0, 
-        "disbursementAmount": 2259797.67, 
+        "disbursementAmount": 2199046.92, 
         "id": "44240-013", 
         "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
         "locationName": "Phuentsholing", 
@@ -96,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASCTRUCTURE PROJECT"
+        "title": "URBAN INFRASCTRUCTURE PROJECT", 
+        "website": "http://www.adb.org/projects/44240-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6269", 
+      "id": "4119", 
       "properties": {
         "approvalDate": "2012-02-08", 
         "closingDate": "2018-08-14", 
         "commitmentAmount": 19870000.0, 
-        "disbursementAmount": 2259797.67, 
+        "disbursementAmount": 2199046.92, 
         "id": "44240-013", 
         "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
         "locationName": "Phuentsholing", 
@@ -121,7 +99,34 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN INFRASCTRUCTURE PROJECT"
+        "title": "URBAN INFRASCTRUCTURE PROJECT", 
+        "website": "http://www.adb.org/projects/44240-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.24836, 
+          26.81771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4120", 
+      "properties": {
+        "approvalDate": "2012-02-08", 
+        "closingDate": "2018-08-14", 
+        "commitmentAmount": 19870000.0, 
+        "disbursementAmount": 2199046.92, 
+        "id": "44240-013", 
+        "info": "The project will support the Government of Bhutan s efforts toward sustainable urban development in its two largest municipalities (Phuentsholing and Thimphu) and two emerging urban centers (Samdrup\u2026", 
+        "locationName": "Nganglam New", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN INFRASCTRUCTURE PROJECT", 
+        "website": "http://www.adb.org/projects/44240-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       92.08877648900014, 
       28.358398930786294
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Bhutan"
   }, 
   "type": "FeatureCollection"

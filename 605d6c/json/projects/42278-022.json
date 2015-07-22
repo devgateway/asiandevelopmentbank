@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7309", 
+      "id": "6308", 
       "properties": {
         "approvalDate": "2010-07-29", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 14298359.079999998, 
+        "disbursementAmount": 13581046.409999998, 
         "id": "42278-022", 
         "info": "The project seeks to improve the quality of, and access to, formal technical and vocational education and training (TVET) in the Lao PDR, focusing on certificate and diploma programs", 
         "locationName": "Vientiane", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A"
+        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A", 
+        "website": "http://www.adb.org/projects/42278-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7310", 
+      "id": "6309", 
       "properties": {
         "approvalDate": "2010-07-29", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 14298359.079999998, 
+        "disbursementAmount": 13581046.409999998, 
         "id": "42278-022", 
         "info": "The project seeks to improve the quality of, and access to, formal technical and vocational education and training (TVET) in the Lao PDR, focusing on certificate and diploma programs", 
         "locationName": "Vientiane Province", 
@@ -46,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A"
+        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A", 
+        "website": "http://www.adb.org/projects/42278-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7311", 
+      "id": "6310", 
       "properties": {
         "approvalDate": "2010-07-29", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 14298359.079999998, 
+        "disbursementAmount": 13581046.409999998, 
         "id": "42278-022", 
         "info": "The project seeks to improve the quality of, and access to, formal technical and vocational education and training (TVET) in the Lao PDR, focusing on certificate and diploma programs", 
         "locationName": "Khoueng Savannakhet", 
@@ -71,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A"
+        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A", 
+        "website": "http://www.adb.org/projects/42278-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7312", 
+      "id": "6311", 
       "properties": {
         "approvalDate": "2010-07-29", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 14298359.079999998, 
+        "disbursementAmount": 13581046.409999998, 
         "id": "42278-022", 
         "info": "The project seeks to improve the quality of, and access to, formal technical and vocational education and training (TVET) in the Lao PDR, focusing on certificate and diploma programs", 
         "locationName": "Luang Prabang Province", 
@@ -96,7 +99,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A"
+        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A", 
+        "website": "http://www.adb.org/projects/42278-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7313", 
+      "id": "6312", 
       "properties": {
         "approvalDate": "2010-07-29", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 14298359.079999998, 
+        "disbursementAmount": 13581046.409999998, 
         "id": "42278-022", 
         "info": "The project seeks to improve the quality of, and access to, formal technical and vocational education and training (TVET) in the Lao PDR, focusing on certificate and diploma programs", 
         "locationName": "Champasak", 
@@ -121,7 +125,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A"
+        "title": "STRENGHTENING TECHNICAL AND VOCATIONAL EDUCATION A", 
+        "website": "http://www.adb.org/projects/42278-022/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       107.66436324000011, 
       22.49604400700011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Lao PDR"
   }, 
   "type": "FeatureCollection"

@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1685", 
+      "id": "4299", 
       "properties": {
         "approvalDate": "2011-10-06", 
         "closingDate": "2015-02-28", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "WATER SECTOR IMPROVEMENT PROGRAM"
+        "title": "WATER SECTOR IMPROVEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/44031-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1686", 
+      "id": "4300", 
       "properties": {
         "approvalDate": "2011-10-06", 
         "closingDate": "2015-02-28", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "WATER SECTOR IMPROVEMENT PROGRAM"
+        "title": "WATER SECTOR IMPROVEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/44031-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       134.7273429907992, 
       8.096617828631437
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pw.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Palau"
   }, 
   "type": "FeatureCollection"

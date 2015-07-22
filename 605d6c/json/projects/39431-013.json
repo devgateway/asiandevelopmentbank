@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "42", 
+      "id": "3359", 
       "properties": {
         "approvalDate": "2007-04-25", 
         "closingDate": "2013-04-30", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "COLOMBO PORT EXPANSION PROJECT"
+        "title": "COLOMBO PORT EXPANSION PROJECT", 
+        "website": "http://www.adb.org/projects/39431-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

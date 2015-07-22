@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "795", 
+      "id": "4694", 
       "properties": {
         "approvalDate": "2010-09-07", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28207051.11, 
+        "disbursementAmount": 24753549.5, 
         "id": "42080-013", 
         "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
         "locationName": "Hanoi", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ", 
+        "website": "http://www.adb.org/projects/42080-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "796", 
+      "id": "4695", 
       "properties": {
         "approvalDate": "2010-09-07", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28207051.11, 
+        "disbursementAmount": 24753549.5, 
         "id": "42080-013", 
         "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
-        "locationName": "Tinh Bac Ninh", 
+        "locationName": "T\u1ec9nh B\u1eafc Ninh", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ", 
+        "website": "http://www.adb.org/projects/42080-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "797", 
+      "id": "4696", 
       "properties": {
         "approvalDate": "2010-09-07", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28207051.11, 
+        "disbursementAmount": 24753549.5, 
         "id": "42080-013", 
         "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
-        "locationName": "Tinh Hai Duong", 
+        "locationName": "T\u1ec9nh H\u1ea3i D\u01b0\u01a1ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ", 
+        "website": "http://www.adb.org/projects/42080-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "798", 
+      "id": "4697", 
       "properties": {
         "approvalDate": "2010-09-07", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 28207051.11, 
+        "disbursementAmount": 24753549.5, 
         "id": "42080-013", 
         "info": "The project is designed to address two binding constraints that contribute to the core sector problem of poor quality and delivery of water-related services", 
-        "locationName": "Tinh Hung Yen", 
+        "locationName": "T\u1ec9nh H\u01b0ng Y\u00ean", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ"
+        "title": "STRENGTHENING H2O MGT & IRRIGATION_SYSTEMS REHABILITATION PROJ", 
+        "website": "http://www.adb.org/projects/42080-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,7 +113,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

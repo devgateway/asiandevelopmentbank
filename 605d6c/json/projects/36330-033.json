@@ -3,25 +3,52 @@
     {
       "geometry": {
         "coordinates": [
+          74.58333, 
+          14.88333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9474", 
+      "properties": {
+        "approvalDate": "2014-02-17", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 130000000.0, 
+        "disbursementAmount": 24579084.36, 
+        "id": "36330-033", 
+        "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
+        "locationName": "Uttar Kannad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           83.15233, 
           20.28961
         ], 
         "type": "Point"
       }, 
-      "id": "3727", 
+      "id": "9475", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
-        "locationName": "Titlagarh", 
+        "locationName": "Titl\u0101garh", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3728", 
+      "id": "9476", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Sambalpur", 
@@ -46,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3729", 
+      "id": "9477", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Sambalpur", 
@@ -71,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3730", 
+      "id": "9478", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Raipur", 
@@ -96,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3731", 
+      "id": "9479", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Raipur", 
@@ -121,7 +151,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3732", 
+      "id": "9480", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Pune", 
@@ -146,7 +177,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3733", 
+      "id": "9481", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Pune District", 
@@ -171,7 +203,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3734", 
+      "id": "9482", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Hubli", 
@@ -196,7 +229,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3735", 
+      "id": "9483", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Hospet", 
@@ -221,7 +255,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3736", 
+      "id": "9484", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Guntakal", 
@@ -246,7 +281,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3737", 
+      "id": "9485", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Gadag", 
@@ -271,7 +307,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3738", 
+      "id": "9486", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Dharwad district", 
@@ -296,7 +333,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3739", 
+      "id": "9487", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Bellary", 
@@ -321,7 +359,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,20 +372,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3740", 
+      "id": "9488", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
-        "locationName": "Balangir", 
+        "locationName": "Bal\u0101ng\u012br", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3741", 
+      "id": "9489", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Anantapur", 
@@ -371,7 +411,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3742", 
+      "id": "9490", 
       "properties": {
         "approvalDate": "2014-02-17", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
+        "disbursementAmount": 24579084.36, 
         "id": "36330-033", 
         "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
         "locationName": "Gadag", 
@@ -396,32 +437,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.58333, 
-          14.88333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3743", 
-      "properties": {
-        "approvalDate": "2014-02-17", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 130000000.0, 
-        "disbursementAmount": 33175581.009999998, 
-        "id": "36330-033", 
-        "info": "The second tranche will support the development of an energy-efficient, safe, reliable, affordable and environment-friendly railway transport system in India by improving railway transport capacity\u2026", 
-        "locationName": "Uttar Kannad", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2"
+        "title": "MFF:RAILWAY SECTOR INVESTMENT PROGRAM-TRANCHE2", 
+        "website": "http://www.adb.org/projects/36330-033/main"
       }, 
       "type": "Feature"
     }
@@ -434,6 +451,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

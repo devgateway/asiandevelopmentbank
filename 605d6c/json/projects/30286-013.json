@@ -3,67 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          108.83333, 
-          11.38333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "498", 
-      "properties": {
-        "approvalDate": "2007-05-24", 
-        "closingDate": "2014-06-30", 
-        "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
-        "id": "30286-013", 
-        "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
-        "locationName": "Ca Na", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          109.15913, 
-          11.92144
-        ], 
-        "type": "Point"
-      }, 
-      "id": "499", 
-      "properties": {
-        "approvalDate": "2007-05-24", 
-        "closingDate": "2014-06-30", 
-        "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
-        "id": "30286-013", 
-        "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
-        "locationName": "Cam Ranh", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           109.32094, 
           13.09546
         ], 
         "type": "Point"
       }, 
-      "id": "500", 
+      "id": "4327", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
         "locationName": "Tuy Hoa", 
@@ -71,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "501", 
+      "id": "4328", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
         "locationName": "Song Cau", 
@@ -96,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "502", 
+      "id": "4329", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
-        "locationName": "Phan Thiet", 
+        "locationName": "Phan Thi\u1ebft", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "503", 
+      "id": "4330", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
         "locationName": "Phan Rang", 
@@ -146,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,20 +112,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "504", 
+      "id": "4331", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
-        "locationName": "Ninh Hoa", 
+        "locationName": "Ninh H\u00f2a", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "505", 
+      "id": "4332", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
-        "locationName": "Gia Nghia", 
+        "locationName": "Gia Ngh\u0129a", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,20 +164,47 @@
         ], 
         "type": "Point"
       }, 
-      "id": "506", 
+      "id": "4333", 
       "properties": {
         "approvalDate": "2007-05-24", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 53220000.0, 
-        "disbursementAmount": 52073389.20999999, 
+        "disbursementAmount": 45406107.559999995, 
         "id": "30286-013", 
         "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
-        "locationName": "Ca Na", 
+        "locationName": "C\u00e0 N\u00e1", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT"
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.15913, 
+          11.92144
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4334", 
+      "properties": {
+        "approvalDate": "2007-05-24", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 53220000.0, 
+        "disbursementAmount": 45406107.559999995, 
+        "id": "30286-013", 
+        "info": "The main project objectives are improved quality of life, sustained urban economic growth, and reduced poverty for the population of the Project towns through sustainable water supply and sanitation\u2026", 
+        "locationName": "Cam Ranh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "CENTRAL REGION SMALL AND MEDIUM TOWNS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/30286-013/main"
       }, 
       "type": "Feature"
     }
@@ -234,7 +217,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

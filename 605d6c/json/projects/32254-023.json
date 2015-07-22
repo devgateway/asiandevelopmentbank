@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2727", 
+      "id": "7296", 
       "properties": {
         "approvalDate": "2008-11-10", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP"
+        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP", 
+        "website": "http://www.adb.org/projects/32254-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2728", 
+      "id": "7297", 
       "properties": {
         "approvalDate": "2008-11-10", 
         "closingDate": "2013-12-31", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP"
+        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP", 
+        "website": "http://www.adb.org/projects/32254-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2729", 
+      "id": "7298", 
       "properties": {
         "approvalDate": "2008-11-10", 
         "closingDate": "2013-12-31", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP"
+        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP", 
+        "website": "http://www.adb.org/projects/32254-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2730", 
+      "id": "7299", 
       "properties": {
         "approvalDate": "2008-11-10", 
         "closingDate": "2013-12-31", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP"
+        "title": "URBAN WATER SUPPLY & ENVIRONMENTAL IMPROVEMENT IN MP PROJ-SUP", 
+        "website": "http://www.adb.org/projects/32254-023/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

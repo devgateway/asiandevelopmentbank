@@ -3,262 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          77.5, 
-          24.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2511", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Ashoknagar", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.90405, 
-          21.90195
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2512", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Betul", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.31628, 
-          23.28676
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2513", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Bhopal", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.93763, 
-          22.05795
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2514", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Chhindwara", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.16667, 
-          23.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2515", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Dewas", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.21634, 
-          21.83191
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2516", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "East Nimar", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.25378, 
-          24.06107
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2517", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Guna", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.9825, 
-          22.48588
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2518", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Harda", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.76222, 
-          22.61477
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2519", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Hoshangabad", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.75, 
-          22.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2520", 
-      "properties": {
-        "approvalDate": "2007-04-12", 
-        "closingDate": "2012-06-30", 
-        "commitmentAmount": 106000000.0, 
-        "disbursementAmount": 97265154.01, 
-        "id": "32298-023", 
-        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Indore", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           79.95, 
           23.16
         ], 
         "type": "Point"
       }, 
-      "id": "2521", 
+      "id": "6881", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -271,19 +21,46 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          80.51289, 
-          23.99542
+          79.95006, 
+          23.16697
         ], 
         "type": "Point"
       }, 
-      "id": "2522", 
+      "id": "6882", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Jabalpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.39417, 
+          23.83556
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6883", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -296,7 +73,86 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.61179, 
+          25.21942
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6884", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Kolaras", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.58715, 
+          22.17592
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6885", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Maheshwar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25378, 
+          24.06107
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6886", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Maksudangarh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2523", 
+      "id": "6887", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -316,12 +172,65 @@
         "disbursementAmount": 97265154.01, 
         "id": "32298-023", 
         "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
-        "locationName": "Narsinghpur", 
+        "locationName": "Narsimhapur", 
         "sectors": [
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.1667, 
+          22.9167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6888", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Narsinghpur district", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.4583, 
+          22.11749
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6889", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Nimrani", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,7 +242,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2524", 
+      "id": "6890", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -346,7 +255,60 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.16176, 
+          24.26659
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6891", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Pawai", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.69649, 
+          22.60197
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6892", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Pithampur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,7 +320,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2525", 
+      "id": "6893", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -371,19 +333,46 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          80.9729, 
-          24.798
+          76.75, 
+          23.83333
         ], 
         "type": "Point"
       }, 
-      "id": "2526", 
+      "id": "6894", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Rajgarh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.8248, 
+          24.58224
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6895", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -396,19 +385,46 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          76.72024, 
-          23.0179
+          81.0, 
+          24.5
         ], 
         "type": "Point"
       }, 
-      "id": "2527", 
+      "id": "6896", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Satna", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.25, 
+          23.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6897", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -421,19 +437,20 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          81.75997, 
-          22.67466
+          81.5, 
+          23.5
         ], 
         "type": "Point"
       }, 
-      "id": "2528", 
+      "id": "6898", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -446,7 +463,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,7 +476,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2529", 
+      "id": "6899", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -471,19 +489,72 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          77.61179, 
-          25.21942
+          77.08671, 
+          23.41797
         ], 
         "type": "Point"
       }, 
-      "id": "2530", 
+      "id": "6900", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Shampur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.34073, 
+          22.83234
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6901", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Shamshabad", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.66067, 
+          25.42348
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6902", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -496,7 +567,60 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          25.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6903", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Shivpuri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.70951, 
+          23.40659
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6904", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Shujalpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,7 +632,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2531", 
+      "id": "6905", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -521,19 +645,72 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          75.38938, 
-          23.54469
+          82.0, 
+          24.25
         ], 
         "type": "Point"
       }, 
-      "id": "2532", 
+      "id": "6906", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Sidhi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.68959, 
+          24.1038
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6907", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Sironj", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.5, 
+          23.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6908", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -546,19 +723,20 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          77.68959, 
-          24.1038
+          77.80972, 
+          23.52435
         ], 
         "type": "Point"
       }, 
-      "id": "2533", 
+      "id": "6909", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -571,19 +749,46 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          75.58715, 
-          22.17592
+          78.0, 
+          23.91667
         ], 
         "type": "Point"
       }, 
-      "id": "2534", 
+      "id": "6910", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Vidisha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.5, 
+          21.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6911", 
       "properties": {
         "approvalDate": "2007-04-12", 
         "closingDate": "2012-06-30", 
@@ -596,7 +801,606 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.75997, 
+          22.67466
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6912", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Amarkantak", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.72024, 
+          23.0179
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6913", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Ashta", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.31628, 
+          23.28676
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6914", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Bairagarh", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.38938, 
+          23.54469
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6915", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Bercha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.90405, 
+          21.90195
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6916", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Betul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.83333, 
+          21.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6917", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Betul", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.40289, 
+          23.25469
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6918", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Bhopal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.41667, 
+          23.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6919", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Bhopal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.9729, 
+          24.798
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6920", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Birsinghpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.21634, 
+          21.83191
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6921", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Chhegaon Makhan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.93763, 
+          22.05795
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6922", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Chhindwara", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.8, 
+          22.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6923", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Chhindwara", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.67128, 
+          22.01247
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6924", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Chicholi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.51289, 
+          23.99542
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6925", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Deosari", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.16667, 
+          23.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6926", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Dewas", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.05526, 
+          22.96585
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6927", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Dewas", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.58333, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6928", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "East Nimar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.71028, 
+          21.60393
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6929", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Gudgaon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.5, 
+          24.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6930", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Guna", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.9825, 
+          22.48588
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6931", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Handia", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.5, 
+          22.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6932", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Hoshangabad", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75, 
+          22.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6933", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Indore", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.76222, 
+          22.61477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6934", 
+      "properties": {
+        "approvalDate": "2007-04-12", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 106000000.0, 
+        "disbursementAmount": 97265154.01, 
+        "id": "32298-023", 
+        "info": "The transmission component of MP's investment program from 2007 to 2012 is predicated on building sufficient capacity for evacuation of power from existing and planned power stations and substation,\u2026", 
+        "locationName": "Itarsi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/32298-023/main"
       }, 
       "type": "Feature"
     }
@@ -609,6 +1413,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

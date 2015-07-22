@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6947", 
+      "id": "1727", 
       "properties": {
         "approvalDate": "2011-04-19", 
         "closingDate": "2017-03-31", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 21077025.49, 
+        "disbursementAmount": 15885246.129999999, 
         "id": "42016-013", 
         "info": "The proposed Project will help to (i) convert the existing lift irrigation schemes to gravity irrigation by making use of the two existing reservoirs in the area; and (ii) improve agricultural\u2026", 
         "locationName": "Xunhua Salarzu Zizhixian", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "QINGHAI RURAL WATER RESOURCES MANAGEMENT PROJECT"
+        "title": "QINGHAI RURAL WATER RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42016-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6948", 
+      "id": "1728", 
       "properties": {
         "approvalDate": "2011-04-19", 
         "closingDate": "2017-03-31", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 21077025.49, 
+        "disbursementAmount": 15885246.129999999, 
         "id": "42016-013", 
         "info": "The proposed Project will help to (i) convert the existing lift irrigation schemes to gravity irrigation by making use of the two existing reservoirs in the area; and (ii) improve agricultural\u2026", 
         "locationName": "Jainca Xian", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "QINGHAI RURAL WATER RESOURCES MANAGEMENT PROJECT"
+        "title": "QINGHAI RURAL WATER RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42016-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6949", 
+      "id": "1729", 
       "properties": {
         "approvalDate": "2011-04-19", 
         "closingDate": "2017-03-31", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 21077025.49, 
+        "disbursementAmount": 15885246.129999999, 
         "id": "42016-013", 
         "info": "The proposed Project will help to (i) convert the existing lift irrigation schemes to gravity irrigation by making use of the two existing reservoirs in the area; and (ii) improve agricultural\u2026", 
         "locationName": "Hualong Huizu Zizhixian", 
@@ -71,7 +73,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "QINGHAI RURAL WATER RESOURCES MANAGEMENT PROJECT"
+        "title": "QINGHAI RURAL WATER RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42016-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

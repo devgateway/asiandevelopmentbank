@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1701", 
+      "id": "4163", 
       "properties": {
         "approvalDate": "2011-02-14", 
         "closingDate": "2012-09-30", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "CAPITAL MARKET DEVELOPMENT PROGRAM"
+        "title": "CAPITAL MARKET DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41325-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       105.65099776200006, 
       20.4450064090001
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-th.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Thailand"
   }, 
   "type": "FeatureCollection"

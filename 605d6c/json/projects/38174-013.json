@@ -3,87 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          105.56094, 
-          33.08399
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6441", 
-      "properties": {
-        "approvalDate": "2007-11-13", 
-        "closingDate": "2015-09-30", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 292205840.25, 
-        "id": "38174-013", 
-        "info": "The Project will help promote sustainable economic growth and reduce poverty in southern Gansu. It will develop an efficient, safe, and reliable road transport system", 
-        "locationName": "Ganjiangba", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.50325, 
-          33.18429
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6442", 
-      "properties": {
-        "approvalDate": "2007-11-13", 
-        "closingDate": "2015-09-30", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 292205840.25, 
-        "id": "38174-013", 
-        "info": "The Project will help promote sustainable economic growth and reduce poverty in southern Gansu. It will develop an efficient, safe, and reliable road transport system", 
-        "locationName": "Changheba", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.0673, 
-          33.50508
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6443", 
-      "properties": {
-        "approvalDate": "2007-11-13", 
-        "closingDate": "2015-09-30", 
-        "commitmentAmount": 300000000.0, 
-        "disbursementAmount": 292205840.25, 
-        "id": "38174-013", 
-        "info": "The Project will help promote sustainable economic growth and reduce poverty in southern Gansu. It will develop an efficient, safe, and reliable road transport system", 
-        "locationName": "Sijiaba", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           104.92167, 
           33.39667
         ], 
         "type": "Point"
       }, 
-      "id": "6444", 
+      "id": "1209", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -96,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6445", 
+      "id": "1210", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -121,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6446", 
+      "id": "1211", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -146,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6447", 
+      "id": "1212", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -171,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6448", 
+      "id": "1213", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -196,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6449", 
+      "id": "1214", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -221,7 +151,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6450", 
+      "id": "1215", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -246,7 +177,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,7 +190,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6451", 
+      "id": "1216", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -271,7 +203,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,7 +216,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6452", 
+      "id": "1217", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -296,7 +229,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,7 +242,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6453", 
+      "id": "1218", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -321,7 +255,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,7 +268,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6454", 
+      "id": "1219", 
       "properties": {
         "approvalDate": "2007-11-13", 
         "closingDate": "2015-09-30", 
@@ -346,7 +281,86 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT"
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.56094, 
+          33.08399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1220", 
+      "properties": {
+        "approvalDate": "2007-11-13", 
+        "closingDate": "2015-09-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 292205840.25, 
+        "id": "38174-013", 
+        "info": "The Project will help promote sustainable economic growth and reduce poverty in southern Gansu. It will develop an efficient, safe, and reliable road transport system", 
+        "locationName": "Ganjiangba", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.50325, 
+          33.18429
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1221", 
+      "properties": {
+        "approvalDate": "2007-11-13", 
+        "closingDate": "2015-09-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 292205840.25, 
+        "id": "38174-013", 
+        "info": "The Project will help promote sustainable economic growth and reduce poverty in southern Gansu. It will develop an efficient, safe, and reliable road transport system", 
+        "locationName": "Changheba", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0673, 
+          33.50508
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1222", 
+      "properties": {
+        "approvalDate": "2007-11-13", 
+        "closingDate": "2015-09-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 292205840.25, 
+        "id": "38174-013", 
+        "info": "The Project will help promote sustainable economic growth and reduce poverty in southern Gansu. It will develop an efficient, safe, and reliable road transport system", 
+        "locationName": "Sijiaba", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTHERN GANSU ROADS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38174-013/main"
       }, 
       "type": "Feature"
     }
@@ -359,6 +373,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

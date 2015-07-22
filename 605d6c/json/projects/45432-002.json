@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          67.56667, 
-          39.51667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6209", 
-      "properties": {
-        "approvalDate": "2012-10-02", 
-        "closingDate": "2016-09-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 42101418.27, 
-        "id": "45432-002", 
-        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
-        "locationName": "Sarazm", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           67.60931, 
           39.49524
         ], 
         "type": "Point"
       }, 
-      "id": "6210", 
+      "id": "99", 
       "properties": {
         "approvalDate": "2012-10-02", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 42101418.27, 
+        "disbursementAmount": 31914954.12, 
         "id": "45432-002", 
         "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
         "locationName": "Panjakent", 
@@ -46,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP", 
+        "website": "http://www.adb.org/projects/45432-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6211", 
+      "id": "100", 
       "properties": {
         "approvalDate": "2012-10-02", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 42101418.27, 
+        "disbursementAmount": 31914954.12, 
         "id": "45432-002", 
         "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
         "locationName": "Khushikat", 
@@ -71,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP", 
+        "website": "http://www.adb.org/projects/45432-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6212", 
+      "id": "101", 
       "properties": {
         "approvalDate": "2012-10-02", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 42101418.27, 
+        "disbursementAmount": 31914954.12, 
         "id": "45432-002", 
         "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
-        "locationName": "Ayni", 
+        "locationName": "Ayn\u00ed", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP", 
+        "website": "http://www.adb.org/projects/45432-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6213", 
+      "id": "102", 
       "properties": {
         "approvalDate": "2012-10-02", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 42101418.27, 
+        "disbursementAmount": 31914954.12, 
         "id": "45432-002", 
         "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
         "locationName": "Aini District", 
@@ -121,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP", 
+        "website": "http://www.adb.org/projects/45432-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6214", 
+      "id": "103", 
       "properties": {
         "approvalDate": "2012-10-02", 
         "closingDate": "2016-09-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 42101418.27, 
+        "disbursementAmount": 31914954.12, 
         "id": "45432-002", 
         "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
         "locationName": "Panjakent District", 
@@ -146,7 +125,34 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP"
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP", 
+        "website": "http://www.adb.org/projects/45432-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.56667, 
+          39.51667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "104", 
+      "properties": {
+        "approvalDate": "2012-10-02", 
+        "closingDate": "2016-09-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 31914954.12, 
+        "id": "45432-002", 
+        "info": "The project will finance the rehabilitation and reconstruction of a road of approximately 113 km between Ayni-Panjakent and the border with Uzbekistan, the improvement of road safety, the upgrading\u2026", 
+        "locationName": "Sarazm", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 6 (AYNI-UZBEKISTAN BORDER ROAD) IMP", 
+        "website": "http://www.adb.org/projects/45432-002/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +165,12 @@
       75.16412479700008, 
       41.039976705000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Tajikistan"
   }, 
   "type": "FeatureCollection"

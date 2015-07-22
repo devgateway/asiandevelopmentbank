@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4053", 
+      "id": "6670", 
       "properties": {
         "approvalDate": "2010-12-10", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 14000000.0, 
-        "disbursementAmount": 3306225.7700000005, 
+        "disbursementAmount": 3187815.8200000003, 
         "id": "41243-012", 
         "info": "The project will strengthen the hospital sector in Ulaanbaatar and improve drug safety nationwide", 
         "locationName": "Ulan Bator", 
@@ -21,7 +21,8 @@
           "Health"
         ], 
         "status": "Implementation", 
-        "title": "FOURTH HEALTH SECTOR DEVELOPMENT PROJECT"
+        "title": "FOURTH HEALTH SECTOR DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41243-012/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

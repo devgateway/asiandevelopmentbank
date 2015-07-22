@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3877", 
+      "id": "227", 
       "properties": {
         "approvalDate": "2011-09-19", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 35295034.97, 
+        "disbursementAmount": 28284292.909999996, 
         "id": "42399-023", 
         "info": "The CAREC Corridor 1 (Bishkek-Torugart Road) Project 3 (the project) will help the government improve the 60-km section from At Beit to Torugart at the People's Republic of China (PRC) border", 
         "locationName": "At-Bashinskiy Rayon", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3"
+        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3", 
+        "website": "http://www.adb.org/projects/42399-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3878", 
+      "id": "228", 
       "properties": {
         "approvalDate": "2011-09-19", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 35295034.97, 
+        "disbursementAmount": 28284292.909999996, 
         "id": "42399-023", 
         "info": "The CAREC Corridor 1 (Bishkek-Torugart Road) Project 3 (the project) will help the government improve the 60-km section from At Beit to Torugart at the People's Republic of China (PRC) border", 
         "locationName": "At-Bashi", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3"
+        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3", 
+        "website": "http://www.adb.org/projects/42399-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3879", 
+      "id": "229", 
       "properties": {
         "approvalDate": "2011-09-19", 
         "closingDate": "2016-03-31", 
         "commitmentAmount": 55000000.0, 
-        "disbursementAmount": 35295034.97, 
+        "disbursementAmount": 28284292.909999996, 
         "id": "42399-023", 
         "info": "The CAREC Corridor 1 (Bishkek-Torugart Road) Project 3 (the project) will help the government improve the 60-km section from At Beit to Torugart at the People's Republic of China (PRC) border", 
         "locationName": "Torugart", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3"
+        "title": "CAREC CORRIDOR 1 (BISHKEK-TORUGART ROAD) PROJECT 3", 
+        "website": "http://www.adb.org/projects/42399-023/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

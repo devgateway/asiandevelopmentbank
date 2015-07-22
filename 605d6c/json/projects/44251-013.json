@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1307", 
+      "id": "5416", 
       "properties": {
         "approvalDate": "2014-01-24", 
         "closingDate": "2014-07-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "FINANCIAL SECTOR DEEPENING PROGRAM-SUBPROGRAM 1"
+        "title": "FINANCIAL SECTOR DEEPENING PROGRAM-SUBPROGRAM 1", 
+        "website": "http://www.adb.org/projects/44251-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,7 +35,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

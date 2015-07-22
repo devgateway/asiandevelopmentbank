@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4059", 
+      "id": "6676", 
       "properties": {
         "approvalDate": "2011-01-03", 
         "closingDate": "2016-06-30", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "REGIONAL LOGISTICS DEVELOPMENT PROJECT"
+        "title": "REGIONAL LOGISTICS DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41192-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

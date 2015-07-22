@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2438", 
+      "id": "6808", 
       "properties": {
         "approvalDate": "2007-02-21", 
         "closingDate": "2013-06-30", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "KOLKATA ENVIRONMENTAL IMPROVEMENT PROJECT"
+        "title": "KOLKATA ENVIRONMENTAL IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/29466-023/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

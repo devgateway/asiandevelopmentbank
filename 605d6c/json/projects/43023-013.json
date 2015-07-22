@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          107.95932, 
-          21.9358
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6974", 
-      "properties": {
-        "approvalDate": "2012-05-07", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 17733344.11, 
-        "id": "43023-013", 
-        "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026", 
-        "locationName": "Fangchenggang Shi", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           108.6166, 
           21.95006
         ], 
         "type": "Point"
       }, 
-      "id": "6975", 
+      "id": "1754", 
       "properties": {
         "approvalDate": "2012-05-07", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 17733344.11, 
+        "disbursementAmount": 15617208.02, 
         "id": "43023-013", 
         "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026", 
         "locationName": "Qinzhou Shi", 
@@ -46,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT"
+        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43023-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6976", 
+      "id": "1755", 
       "properties": {
         "approvalDate": "2012-05-07", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 17733344.11, 
+        "disbursementAmount": 15617208.02, 
         "id": "43023-013", 
         "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026", 
         "locationName": "Beihai Shi", 
@@ -71,7 +47,34 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT"
+        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43023-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.95932, 
+          21.9358
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1756", 
+      "properties": {
+        "approvalDate": "2012-05-07", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 15617208.02, 
+        "id": "43023-013", 
+        "info": "The project will support PRC's balanced socio-economic development and poverty reduction goals by urban development of three key coastal cities in the southern part of the Guangxi Zhuang Autonomous\u2026", 
+        "locationName": "Fangchenggang Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GUANGXI BEIBU GULF CITIES DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43023-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

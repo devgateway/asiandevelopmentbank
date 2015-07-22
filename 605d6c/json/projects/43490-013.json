@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2093", 
+      "id": "2105", 
       "properties": {
         "approvalDate": "2011-06-27", 
         "closingDate": "2015-11-30", 
         "commitmentAmount": 5000000.0, 
-        "disbursementAmount": 1229310.36, 
+        "disbursementAmount": 1015162.15, 
         "id": "43490-013", 
         "info": "The impact will be greater availability of infrastructure services. The outcome will be greater private sector investment in the infrastructure sector", 
         "locationName": "Nepal", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "CAPITAL MARKET & INFRASTRUCTURE CAPACITY SUPPORT P"
+        "title": "CAPITAL MARKET & INFRASTRUCTURE CAPACITY SUPPORT P", 
+        "website": "http://www.adb.org/projects/43490-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

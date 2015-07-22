@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7778", 
+      "id": "10884", 
       "properties": {
         "approvalDate": "2011-12-01", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 20305147.99, 
+        "disbursementAmount": 17227316.599999998, 
         "id": "43405-024", 
         "info": "Project 2 of the Investment Program will improve WSS services in Anaklia and Mestia", 
         "locationName": "Mestia", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 2"
+        "title": "URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 2", 
+        "website": "http://www.adb.org/projects/43405-024/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7779", 
+      "id": "10885", 
       "properties": {
         "approvalDate": "2011-12-01", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 40000000.0, 
-        "disbursementAmount": 20305147.99, 
+        "disbursementAmount": 17227316.599999998, 
         "id": "43405-024", 
         "info": "Project 2 of the Investment Program will improve WSS services in Anaklia and Mestia", 
         "locationName": "Anaklia", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 2"
+        "title": "URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 2", 
+        "website": "http://www.adb.org/projects/43405-024/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       46.694803101000076, 
       43.57584259000011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Georgia"
   }, 
   "type": "FeatureCollection"

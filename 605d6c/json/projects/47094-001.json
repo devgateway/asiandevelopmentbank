@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5315", 
+      "id": "10298", 
       "properties": {
         "approvalDate": "2014-02-12", 
         "closingDate": "2019-03-31", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "JAMSHORO POWER GENERATION PROJECT"
+        "title": "JAMSHORO POWER GENERATION PROJECT", 
+        "website": "http://www.adb.org/projects/47094-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5316", 
+      "id": "10299", 
       "properties": {
         "approvalDate": "2014-02-12", 
         "closingDate": "2024-06-30", 
@@ -46,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "JAMSHORO POWER GENERATION PROJECT"
+        "title": "JAMSHORO POWER GENERATION PROJECT", 
+        "website": "http://www.adb.org/projects/47094-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5317", 
+      "id": "10300", 
       "properties": {
         "approvalDate": "2014-02-12", 
         "closingDate": "2019-03-31", 
@@ -71,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "JAMSHORO POWER GENERATION PROJECT"
+        "title": "JAMSHORO POWER GENERATION PROJECT", 
+        "website": "http://www.adb.org/projects/47094-001/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       77.0489709880002, 
       37.054483541000096
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "Pakistan"
   }, 
   "type": "FeatureCollection"

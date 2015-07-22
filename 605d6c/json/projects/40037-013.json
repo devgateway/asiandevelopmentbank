@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5430", 
+      "id": "3047", 
       "properties": {
         "approvalDate": "2008-06-12", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 50254315.019999996, 
+        "disbursementAmount": 49819208.61, 
         "id": "40037-013", 
         "info": "The objective of the Project is to expand the cargo handling capacity of Lae port, improve the livelihood of those directly or indirectly affected, and reduce the incidence of HIV/AIDS in\u2026", 
         "locationName": "Lae", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "LAE PORT DEVELOPMENT PROJECT"
+        "title": "LAE PORT DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40037-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5431", 
+      "id": "3048", 
       "properties": {
         "approvalDate": "2008-06-12", 
-        "closingDate": "2015-03-31", 
+        "closingDate": "2014-06-30", 
         "commitmentAmount": 40000000.0, 
         "disbursementAmount": 38422576.59, 
         "id": "40037-013", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "LAE PORT DEVELOPMENT PROJECT"
+        "title": "LAE PORT DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40037-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       155.96753991, 
       -1.346368096999882
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Papua New Guinea"
   }, 
   "type": "FeatureCollection"

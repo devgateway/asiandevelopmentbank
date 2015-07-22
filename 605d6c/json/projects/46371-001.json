@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6281", 
+      "id": "4132", 
       "properties": {
         "approvalDate": "2013-03-21", 
-        "closingDate": "2013-03-21", 
+        "closingDate": "2014-09-30", 
         "commitmentAmount": 20810000.0, 
         "disbursementAmount": 20810000.0, 
         "id": "46371-001", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Completion", 
-        "title": "STRENGTHENING ECONOMIC MANAGEMENT PROGRAM"
+        "title": "STRENGTHENING ECONOMIC MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/46371-001/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       92.08877648900014, 
       28.358398930786294
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Bhutan"
   }, 
   "type": "FeatureCollection"

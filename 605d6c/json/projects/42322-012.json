@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4032", 
+      "id": "6649", 
       "properties": {
         "approvalDate": "2008-12-17", 
-        "closingDate": "2015-01-05", 
+        "closingDate": "2014-09-30", 
         "commitmentAmount": 3000000.0, 
         "disbursementAmount": 3000000.0, 
         "id": "42322-012", 
@@ -21,7 +21,8 @@
           "Health"
         ], 
         "status": "Implementation", 
-        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT"
+        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT", 
+        "website": "http://www.adb.org/projects/42322-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4033", 
+      "id": "6650", 
       "properties": {
         "approvalDate": "2008-12-17", 
-        "closingDate": "2013-06-30", 
+        "closingDate": "2013-07-30", 
         "commitmentAmount": 9000000.0, 
         "disbursementAmount": 9000000.0, 
         "id": "42322-012", 
@@ -46,7 +47,8 @@
           "Health"
         ], 
         "status": "Completion", 
-        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT"
+        "title": "FOOD & NUTRITION SOCIAL WELFARE PROGRAM & PROJECT", 
+        "website": "http://www.adb.org/projects/42322-012/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

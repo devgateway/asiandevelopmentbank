@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7240", 
+      "id": "6236", 
       "properties": {
         "approvalDate": "2009-03-23", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 19481639.65, 
+        "disbursementAmount": 18211071.73, 
         "id": "37579-032", 
         "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
         "locationName": "Khoueng Savannakhet", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY", 
+        "website": "http://www.adb.org/projects/37579-032/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7241", 
+      "id": "6237", 
       "properties": {
         "approvalDate": "2009-03-23", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 19481639.65, 
+        "disbursementAmount": 18211071.73, 
         "id": "37579-032", 
         "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
         "locationName": "Salavan", 
@@ -46,7 +47,34 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY", 
+        "website": "http://www.adb.org/projects/37579-032/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          18.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6238", 
+      "properties": {
+        "approvalDate": "2009-03-23", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 18211071.73, 
+        "id": "37579-032", 
+        "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
+        "locationName": "Lao People's Democratic Republic", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY", 
+        "website": "http://www.adb.org/projects/37579-032/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7242", 
+      "id": "6239", 
       "properties": {
         "approvalDate": "2009-03-23", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 19481639.65, 
+        "disbursementAmount": 18211071.73, 
         "id": "37579-032", 
         "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
         "locationName": "Champasak", 
@@ -71,7 +99,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY", 
+        "website": "http://www.adb.org/projects/37579-032/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7243", 
+      "id": "6240", 
       "properties": {
         "approvalDate": "2009-03-23", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 19481639.65, 
+        "disbursementAmount": 18211071.73, 
         "id": "37579-032", 
         "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
         "locationName": "Attapu", 
@@ -96,7 +125,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY", 
+        "website": "http://www.adb.org/projects/37579-032/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7244", 
+      "id": "6241", 
       "properties": {
         "approvalDate": "2009-03-23", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 19481639.65, 
+        "disbursementAmount": 18211071.73, 
         "id": "37579-032", 
         "info": "Government agencies  responsibilities for the management of natural resources have been clarified in recent years, including recent reorganization of the Ministry of Agriculture and Forestry (MAF)\u2026", 
         "locationName": "Khoueng Xekong", 
@@ -121,7 +151,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY"
+        "title": "SUSTAINABLE NATURAL RESOURCE MGMNT & PRODUCTIVITY", 
+        "website": "http://www.adb.org/projects/37579-032/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +165,12 @@
       107.66436324000011, 
       22.49604400700011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Lao PDR"
   }, 
   "type": "FeatureCollection"

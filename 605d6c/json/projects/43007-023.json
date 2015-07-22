@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4060", 
+      "id": "6677", 
       "properties": {
         "approvalDate": "2011-09-09", 
         "closingDate": "2017-06-30", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 2412903.9499999997, 
+        "disbursementAmount": 2307677.9, 
         "id": "43007-023", 
         "info": "The project  will institute needed reforms in higher education (HE) to improve the quality and relevance of HE programs; governance, management, and financing of HE institutions (HEIs) and the entire\u2026", 
         "locationName": "Mongolia", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "HIGHER EDUCATION REFORM PROJECT"
+        "title": "HIGHER EDUCATION REFORM PROJECT", 
+        "website": "http://www.adb.org/projects/43007-023/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

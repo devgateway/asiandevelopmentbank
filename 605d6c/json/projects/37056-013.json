@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2421", 
+      "id": "6791", 
       "properties": {
         "approvalDate": "2006-03-20", 
         "closingDate": "2013-03-31", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Completion", 
-        "title": "Chhattisgarh Irrigation Development Project"
+        "title": "Chhattisgarh Irrigation Development Project", 
+        "website": "http://www.adb.org/projects/37056-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2422", 
+      "id": "6792", 
       "properties": {
         "approvalDate": "2006-03-20", 
         "closingDate": "2013-03-31", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Completion", 
-        "title": "Chhattisgarh Irrigation Development Project"
+        "title": "Chhattisgarh Irrigation Development Project", 
+        "website": "http://www.adb.org/projects/37056-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2423", 
+      "id": "6793", 
       "properties": {
         "approvalDate": "2006-03-20", 
         "closingDate": "2013-03-31", 
@@ -66,12 +68,13 @@
         "disbursementAmount": 32443927.45, 
         "id": "37056-013", 
         "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026", 
-        "locationName": "Bilaspur", 
+        "locationName": "Bil\u0101spur", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Completion", 
-        "title": "Chhattisgarh Irrigation Development Project"
+        "title": "Chhattisgarh Irrigation Development Project", 
+        "website": "http://www.adb.org/projects/37056-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2424", 
+      "id": "6794", 
       "properties": {
         "approvalDate": "2006-03-20", 
         "closingDate": "2013-03-31", 
@@ -91,12 +94,13 @@
         "disbursementAmount": 32443927.45, 
         "id": "37056-013", 
         "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026", 
-        "locationName": "Ambikapur", 
+        "locationName": "Ambik\u0101pur", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Completion", 
-        "title": "Chhattisgarh Irrigation Development Project"
+        "title": "Chhattisgarh Irrigation Development Project", 
+        "website": "http://www.adb.org/projects/37056-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2425", 
+      "id": "6795", 
       "properties": {
         "approvalDate": "2006-03-20", 
         "closingDate": "2013-03-31", 
@@ -116,12 +120,13 @@
         "disbursementAmount": 32443927.45, 
         "id": "37056-013", 
         "info": "The Project aims to improve rural livelihoods and reduce rural poverty through improved irrigation service delivery, enhanced agricultural practices, and strengthened water resources management to\u2026", 
-        "locationName": "State of Chhattisgarh", 
+        "locationName": "State of Chhatt\u012bsgarh", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Completion", 
-        "title": "Chhattisgarh Irrigation Development Project"
+        "title": "Chhattisgarh Irrigation Development Project", 
+        "website": "http://www.adb.org/projects/37056-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

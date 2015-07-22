@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5673", 
+      "id": "3328", 
       "properties": {
         "approvalDate": "2006-06-05", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 15000000.0, 
         "disbursementAmount": 13889643.41, 
         "id": "39033-022", 
@@ -21,7 +21,8 @@
           "Health"
         ], 
         "status": "Implementation", 
-        "title": "HIV/AIDS PREVENTION AND CONTROL IN RURAL DEVELOPME"
+        "title": "HIV/AIDS PREVENTION AND CONTROL IN RURAL DEVELOPME", 
+        "website": "http://www.adb.org/projects/39033-022/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       155.96753991, 
       -1.346368096999882
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-pg.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Papua New Guinea"
   }, 
   "type": "FeatureCollection"

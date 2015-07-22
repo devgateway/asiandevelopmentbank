@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3909", 
+      "id": "264", 
       "properties": {
         "approvalDate": "2013-05-22", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 4202000.0, 
-        "disbursementAmount": 299765.25, 
+        "disbursementAmount": 80973.97, 
         "id": "46124-001", 
         "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
         "locationName": "Karamyk", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ"
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ", 
+        "website": "http://www.adb.org/projects/46124-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3910", 
+      "id": "265", 
       "properties": {
         "approvalDate": "2013-05-22", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 4202000.0, 
-        "disbursementAmount": 299765.25, 
+        "disbursementAmount": 80973.97, 
         "id": "46124-001", 
         "info": "The project will support the construction and renovation of border crossing points (BCPs) in cases where investments to upgrade complementary facilities on the other side of the border have been\u2026", 
         "locationName": "Guliston", 
@@ -46,7 +47,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ"
+        "title": "CAREC REGIONAL IMPROVEMENT OF BORDER SERVICES PROJ", 
+        "website": "http://www.adb.org/projects/46124-001/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

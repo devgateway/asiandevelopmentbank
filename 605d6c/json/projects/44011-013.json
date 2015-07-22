@@ -3,92 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          128.87529, 
-          47.72143
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6991", 
-      "properties": {
-        "approvalDate": "2013-02-26", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
-        "id": "44011-013", 
-        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
-        "locationName": "Yichun", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          134.01778, 
-          46.80167
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6992", 
-      "properties": {
-        "approvalDate": "2013-02-26", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
-        "id": "44011-013", 
-        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
-        "locationName": "Raohe", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          131.0936, 
-          45.80738
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6993", 
-      "properties": {
-        "approvalDate": "2013-02-26", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
-        "id": "44011-013", 
-        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
-        "locationName": "Qitaihe Shi", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           130.95718, 
           45.3011
         ], 
         "type": "Point"
       }, 
-      "id": "6994", 
+      "id": "1771", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Jixi", 
@@ -96,32 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          131.31586, 
-          45.23697
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6995", 
-      "properties": {
-        "approvalDate": "2013-02-26", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
-        "id": "44011-013", 
-        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
-        "locationName": "Jidong Xian", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6996", 
+      "id": "1772", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Jiamusi", 
@@ -146,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6997", 
+      "id": "1773", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Harbin", 
@@ -171,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6998", 
+      "id": "1774", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Xinqing Qu", 
@@ -196,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6999", 
+      "id": "1775", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Tangwanghe Qu", 
@@ -221,7 +125,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7000", 
+      "id": "1776", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Tongjiang", 
@@ -246,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7001", 
+      "id": "1777", 
       "properties": {
         "approvalDate": "2013-02-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 150000000.0, 
-        "disbursementAmount": 27238308.509999998, 
+        "disbursementAmount": 17139938.7, 
         "id": "44011-013", 
         "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
         "locationName": "Jiagedaqi", 
@@ -271,7 +177,112 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT"
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          128.87529, 
+          47.72143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1778", 
+      "properties": {
+        "approvalDate": "2013-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 17139938.7, 
+        "id": "44011-013", 
+        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
+        "locationName": "Yichun", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          134.01778, 
+          46.80167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1779", 
+      "properties": {
+        "approvalDate": "2013-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 17139938.7, 
+        "id": "44011-013", 
+        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
+        "locationName": "Raohe", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          131.0936, 
+          45.80738
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1780", 
+      "properties": {
+        "approvalDate": "2013-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 17139938.7, 
+        "id": "44011-013", 
+        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
+        "locationName": "Qitaihe Shi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          131.31586, 
+          45.23697
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1781", 
+      "properties": {
+        "approvalDate": "2013-02-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 17139938.7, 
+        "id": "44011-013", 
+        "info": "The proposed project will expand and upgrade district heating systems (DHSs) in eight cities of Heilongjiang province to make the systems energy efficient, thereby reducing emission of greenhouse\u2026", 
+        "locationName": "Jidong Xian", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "HEILONGJIANG ENERGY EFFICIENT DISTRICT HEATING PROJECT", 
+        "website": "http://www.adb.org/projects/44011-013/main"
       }, 
       "type": "Feature"
     }
@@ -284,6 +295,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

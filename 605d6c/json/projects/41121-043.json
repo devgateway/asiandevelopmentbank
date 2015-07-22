@@ -3,117 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          74.71287, 
-          43.03882
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3761", 
-      "properties": {
-        "approvalDate": "2010-12-15", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
-        "id": "41121-043", 
-        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
-        "locationName": "Georgiyevka", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.19221, 
-          43.29569
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3762", 
-      "properties": {
-        "approvalDate": "2010-12-15", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
-        "id": "41121-043", 
-        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
-        "locationName": "Blagoveshchenka", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          71.66734, 
-          43.43393
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3763", 
-      "properties": {
-        "approvalDate": "2010-12-15", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
-        "id": "41121-043", 
-        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
-        "locationName": "Bayzak District", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.71802, 
-          43.03878
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3764", 
-      "properties": {
-        "approvalDate": "2010-12-15", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
-        "id": "41121-043", 
-        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
-        "locationName": "Korday", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           71.36667, 
           42.9
         ], 
         "type": "Point"
       }, 
-      "id": "3765", 
+      "id": "6158", 
       "properties": {
         "approvalDate": "2010-12-15", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
+        "disbursementAmount": 143628471.81, 
         "id": "41121-043", 
         "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
         "locationName": "Taraz", 
@@ -121,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3766", 
+      "id": "6159", 
       "properties": {
         "approvalDate": "2010-12-15", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
+        "disbursementAmount": 143628471.81, 
         "id": "41121-043", 
         "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
-        "locationName": "Merke Audany", 
+        "locationName": "Merke A\u016bdany", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3767", 
+      "id": "6160", 
       "properties": {
         "approvalDate": "2010-12-15", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
+        "disbursementAmount": 143628471.81, 
         "id": "41121-043", 
         "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
-        "locationName": "Lugovoe Audany", 
+        "locationName": "L\u016bgovoe A\u016bdany", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3768", 
+      "id": "6161", 
       "properties": {
         "approvalDate": "2010-12-15", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 173000000.0, 
-        "disbursementAmount": 163885679.81, 
+        "disbursementAmount": 143628471.81, 
         "id": "41121-043", 
         "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
         "locationName": "Kulan", 
@@ -196,7 +99,112 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3"
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.71287, 
+          43.03882
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6162", 
+      "properties": {
+        "approvalDate": "2010-12-15", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 173000000.0, 
+        "disbursementAmount": 143628471.81, 
+        "id": "41121-043", 
+        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
+        "locationName": "Georgiyevka", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.19221, 
+          43.29569
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6163", 
+      "properties": {
+        "approvalDate": "2010-12-15", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 173000000.0, 
+        "disbursementAmount": 143628471.81, 
+        "id": "41121-043", 
+        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
+        "locationName": "Blagoveshchenka", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.66734, 
+          43.43393
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6164", 
+      "properties": {
+        "approvalDate": "2010-12-15", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 173000000.0, 
+        "disbursementAmount": 143628471.81, 
+        "id": "41121-043", 
+        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
+        "locationName": "Bayzak District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.71802, 
+          43.03878
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6165", 
+      "properties": {
+        "approvalDate": "2010-12-15", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 173000000.0, 
+        "disbursementAmount": 143628471.81, 
+        "id": "41121-043", 
+        "info": "Project 3 will construct/rehabilitate about 118-km road sections in total", 
+        "locationName": "Korday", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-CAREC TRANSPORT CORRIDOR 1 (ZHAMBYL) INVESTMENT PROGRAM-TR 3", 
+        "website": "http://www.adb.org/projects/41121-043/main"
       }, 
       "type": "Feature"
     }
@@ -209,6 +217,12 @@
       87.3237960210001, 
       55.434550273000085
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kz.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Kazakhstan"
   }, 
   "type": "FeatureCollection"

@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2096", 
+      "id": "2108", 
       "properties": {
         "approvalDate": "2010-05-25", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 19507632.180000003, 
+        "disbursementAmount": 18797244.17, 
         "id": "38349-013", 
         "info": "The Air Transport Capacity Enhancement Project will enhance safety and capacity at Tribhuvan International Airport (TIA) in Kathmandu and three remote domestic airports--Lukla, Rara, and  Simikot", 
         "locationName": "Tribhuvan International Airport", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38349-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2097", 
+      "id": "2109", 
       "properties": {
         "approvalDate": "2010-05-25", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 19507632.180000003, 
+        "disbursementAmount": 18797244.17, 
         "id": "38349-013", 
         "info": "The Air Transport Capacity Enhancement Project will enhance safety and capacity at Tribhuvan International Airport (TIA) in Kathmandu and three remote domestic airports--Lukla, Rara, and  Simikot", 
         "locationName": "Tenzing-Hillary Airport", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38349-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2098", 
+      "id": "2110", 
       "properties": {
         "approvalDate": "2010-05-25", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 19507632.180000003, 
+        "disbursementAmount": 18797244.17, 
         "id": "38349-013", 
         "info": "The Air Transport Capacity Enhancement Project will enhance safety and capacity at Tribhuvan International Airport (TIA) in Kathmandu and three remote domestic airports--Lukla, Rara, and  Simikot", 
         "locationName": "Simikot Airport", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38349-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2099", 
+      "id": "2111", 
       "properties": {
         "approvalDate": "2010-05-25", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 19507632.180000003, 
+        "disbursementAmount": 18797244.17, 
         "id": "38349-013", 
         "info": "The Air Transport Capacity Enhancement Project will enhance safety and capacity at Tribhuvan International Airport (TIA) in Kathmandu and three remote domestic airports--Lukla, Rara, and  Simikot", 
         "locationName": "Talcha Airport", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CAPACITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/38349-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

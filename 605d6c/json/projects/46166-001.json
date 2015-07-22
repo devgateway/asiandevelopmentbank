@@ -3,117 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          91.63333, 
-          25.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3553", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Khasi Hills", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.78905, 
-          25.3805
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3554", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "East Khasi Hills", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          92.25, 
-          25.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3555", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Jaintia Hills", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.34521, 
-          25.19477
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3556", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Gasuapara", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           90.57514, 
           25.79191
         ], 
         "type": "Point"
       }, 
-      "id": "3557", 
+      "id": "8967", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "East Garo Hills", 
@@ -121,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3558", 
+      "id": "8968", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Garobadha", 
@@ -146,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3559", 
+      "id": "8969", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Ri-Bhoi", 
@@ -171,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3560", 
+      "id": "8970", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Williamnagar", 
@@ -196,7 +99,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3561", 
+      "id": "8971", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "West Khasi Hills", 
@@ -221,157 +125,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.88804, 
-          25.73647
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3562", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Umsning", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.88313, 
-          25.56892
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3563", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Shillong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.25615, 
-          25.5991
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3564", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Rongram", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          92.20881, 
-          25.56892
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3565", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Nartiang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.33333, 
-          25.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3566", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "State of Meghalaya", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          92.07578, 
-          25.69376
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3567", 
-      "properties": {
-        "approvalDate": "2014-01-23", 
-        "closingDate": "2019-03-31", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
-        "id": "46166-001", 
-        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
-        "locationName": "Kyrdem", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3568", 
+      "id": "8972", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Laitumkhrah", 
@@ -396,7 +151,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3569", 
+      "id": "8973", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Mawkdok", 
@@ -421,7 +177,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3570", 
+      "id": "8974", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Dangar Dombah", 
@@ -446,7 +203,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3571", 
+      "id": "8975", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Mawlangwir", 
@@ -471,7 +229,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3572", 
+      "id": "8976", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Siejlieh", 
@@ -496,7 +255,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3573", 
+      "id": "8977", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Harli Bagan", 
@@ -521,7 +281,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3574", 
+      "id": "8978", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Dagal Apal", 
@@ -546,7 +307,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3575", 
+      "id": "8979", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Mangsang", 
@@ -571,7 +333,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3576", 
+      "id": "8980", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Mellim", 
@@ -596,7 +359,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3577", 
+      "id": "8981", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Mukhla", 
@@ -621,7 +385,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3578", 
+      "id": "8982", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Nongbarehrim", 
@@ -646,7 +411,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3579", 
+      "id": "8983", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Rangsapara", 
@@ -671,7 +437,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,12 +450,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3580", 
+      "id": "8984", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Karukol", 
@@ -696,7 +463,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,12 +476,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3581", 
+      "id": "8985", 
       "properties": {
         "approvalDate": "2014-01-23", 
         "closingDate": "2019-03-31", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 6003069.31, 
+        "disbursementAmount": 5500000.0, 
         "id": "46166-001", 
         "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
         "locationName": "Chokpot", 
@@ -721,7 +489,268 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA"
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.88804, 
+          25.73647
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8986", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Umsning", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.88313, 
+          25.56892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8987", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Shillong", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.25615, 
+          25.5991
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8988", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Rongram", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.20881, 
+          25.56892
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8989", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Nartiang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.33333, 
+          25.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8990", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "State of Meghalaya", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.07578, 
+          25.69376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8991", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Kyrdem", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.63333, 
+          25.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8992", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Khasi Hills", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.78905, 
+          25.3805
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8993", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "East Khasi Hills", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          92.25, 
+          25.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8994", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Jaintia Hills", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.34521, 
+          25.19477
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8995", 
+      "properties": {
+        "approvalDate": "2014-01-23", 
+        "closingDate": "2019-03-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 5500000.0, 
+        "id": "46166-001", 
+        "info": "The project will enhance the employability of Meghalaya\u2019s youth (16\u201335 years old) by improving the quality, access, and delivery of its secondary and higher secondary (SHS) education, and technical\u2026", 
+        "locationName": "Gasuapara", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SUPPORTING HUMAN CAPITAL DEVELOPMENT IN MEGHALAYA", 
+        "website": "http://www.adb.org/projects/46166-001/main"
       }, 
       "type": "Feature"
     }
@@ -734,6 +763,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

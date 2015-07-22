@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          42.0, 
+          41.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10865", 
+      "properties": {
+        "approvalDate": "2009-10-29", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 118800000.0, 
+        "disbursementAmount": 107920021.11, 
+        "id": "41122-023", 
+        "info": "The project comprises (i) construction of a new 28 km two-lane bypass road skirting the city of Kobuleti, and widening of 6 km of the the existing two-lane road between Kobuleti and Batumi to four\u2026", 
+        "locationName": "Ajaria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1", 
+        "website": "http://www.adb.org/projects/41122-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           41.83333, 
           41.75
         ], 
         "type": "Point"
       }, 
-      "id": "7759", 
+      "id": "10866", 
       "properties": {
         "approvalDate": "2009-10-29", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 118800000.0, 
-        "disbursementAmount": 110580917.36, 
+        "disbursementAmount": 107920021.11, 
         "id": "41122-023", 
         "info": "The project comprises (i) construction of a new 28 km two-lane bypass road skirting the city of Kobuleti, and widening of 6 km of the the existing two-lane road between Kobuleti and Batumi to four\u2026", 
         "locationName": "Kobuletis Raioni", 
@@ -21,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1"
+        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1", 
+        "website": "http://www.adb.org/projects/41122-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7760", 
+      "id": "10867", 
       "properties": {
         "approvalDate": "2009-10-29", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 118800000.0, 
-        "disbursementAmount": 110580917.36, 
+        "disbursementAmount": 107920021.11, 
         "id": "41122-023", 
         "info": "The project comprises (i) construction of a new 28 km two-lane bypass road skirting the city of Kobuleti, and widening of 6 km of the the existing two-lane road between Kobuleti and Batumi to four\u2026", 
         "locationName": "K'obulet'i", 
@@ -46,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1"
+        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1", 
+        "website": "http://www.adb.org/projects/41122-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7761", 
+      "id": "10868", 
       "properties": {
         "approvalDate": "2009-10-29", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 118800000.0, 
-        "disbursementAmount": 110580917.36, 
+        "disbursementAmount": 107920021.11, 
         "id": "41122-023", 
         "info": "The project comprises (i) construction of a new 28 km two-lane bypass road skirting the city of Kobuleti, and widening of 6 km of the the existing two-lane road between Kobuleti and Batumi to four\u2026", 
         "locationName": "Batumi", 
@@ -71,32 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          42.0, 
-          41.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7762", 
-      "properties": {
-        "approvalDate": "2009-10-29", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 118800000.0, 
-        "disbursementAmount": 110580917.36, 
-        "id": "41122-023", 
-        "info": "The project comprises (i) construction of a new 28 km two-lane bypass road skirting the city of Kobuleti, and widening of 6 km of the the existing two-lane road between Kobuleti and Batumi to four\u2026", 
-        "locationName": "Ajaria", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1"
+        "title": "MFF-ROAD CORRIDOR INVESTMENT PROGRAM - PROJECT 1", 
+        "website": "http://www.adb.org/projects/41122-023/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       46.694803101000076, 
       43.57584259000011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Georgia"
   }, 
   "type": "FeatureCollection"

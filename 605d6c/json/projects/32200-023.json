@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6114", 
+      "id": "3988", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Walu Bay", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6115", 
+      "id": "3989", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Tamavua", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6116", 
+      "id": "3990", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Suva", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6117", 
+      "id": "3991", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Nausori", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6118", 
+      "id": "3992", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Kasavu", 
@@ -121,7 +125,34 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          178.0, 
+          -18.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3993", 
+      "properties": {
+        "approvalDate": "2010-05-18", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 23000000.0, 
+        "disbursementAmount": 21121266.89, 
+        "id": "32200-023", 
+        "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
+        "locationName": "Fiji", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6119", 
+      "id": "3994", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Central", 
@@ -146,7 +177,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6120", 
+      "id": "3995", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Nasinu", 
@@ -171,7 +203,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6121", 
+      "id": "3996", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Waila", 
@@ -196,7 +229,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6122", 
+      "id": "3997", 
       "properties": {
         "approvalDate": "2010-05-18", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 22262752.7, 
+        "disbursementAmount": 21121266.89, 
         "id": "32200-023", 
         "info": "The objective of the project is to assist human and economic development in Fiji through the development of water supply and sewerage services in the Suva and Nausori urban areas", 
         "locationName": "Kinoya", 
@@ -221,7 +255,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY"
+        "title": "SUVA NAUSORI WATER SUPPLY & SEWERAGE PROJECT-SUPPLEMENTARY", 
+        "website": "http://www.adb.org/projects/32200-023/main"
       }, 
       "type": "Feature"
     }
@@ -234,6 +269,12 @@
       195, 
       -12.475274346999882
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-fj.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Fiji"
   }, 
   "type": "FeatureCollection"

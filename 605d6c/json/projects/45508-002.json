@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7117", 
+      "id": "1934", 
       "properties": {
         "approvalDate": "2013-11-07", 
         "closingDate": "2019-06-30", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG INTEGRATED URBAN DEVELOPMENT PROJECT"
+        "title": "XINJIANG INTEGRATED URBAN DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45508-002/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7118", 
+      "id": "1935", 
       "properties": {
         "approvalDate": "2013-11-07", 
         "closingDate": "2019-06-30", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "XINJIANG INTEGRATED URBAN DEVELOPMENT PROJECT"
+        "title": "XINJIANG INTEGRATED URBAN DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45508-002/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

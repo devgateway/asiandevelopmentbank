@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4709", 
+      "id": "990", 
       "properties": {
         "approvalDate": "2014-04-06", 
         "closingDate": "2019-07-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "SECOND PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY"
+        "title": "SECOND PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY", 
+        "website": "http://www.adb.org/projects/42180-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4710", 
+      "id": "991", 
       "properties": {
         "approvalDate": "2014-04-06", 
         "closingDate": "2019-07-31", 
@@ -46,7 +47,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "SECOND PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY (SF)"
+        "title": "SECOND PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY (SF)", 
+        "website": "http://www.adb.org/projects/42180-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

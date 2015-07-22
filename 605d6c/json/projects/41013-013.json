@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "745", 
+      "id": "4644", 
       "properties": {
         "approvalDate": "2009-04-17", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 72000000.0, 
-        "disbursementAmount": 51932391.75, 
+        "disbursementAmount": 46338075.9, 
         "id": "41013-013", 
         "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
-        "locationName": "Tinh Thanh Hoa", 
+        "locationName": "T\u1ec9nh Thanh H\u00f3a", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41013-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "746", 
+      "id": "4645", 
       "properties": {
         "approvalDate": "2009-04-17", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 72000000.0, 
-        "disbursementAmount": 51932391.75, 
+        "disbursementAmount": 46338075.9, 
         "id": "41013-013", 
         "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
-        "locationName": "Thanh Hoa", 
+        "locationName": "Thanh H\u00f3a", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41013-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "747", 
+      "id": "4646", 
       "properties": {
         "approvalDate": "2009-04-17", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 72000000.0, 
-        "disbursementAmount": 51932391.75, 
+        "disbursementAmount": 46338075.9, 
         "id": "41013-013", 
         "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
-        "locationName": "Mat Son", 
+        "locationName": "M\u1eadt S\u01a1n", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41013-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "748", 
+      "id": "4647", 
       "properties": {
         "approvalDate": "2009-04-17", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 72000000.0, 
-        "disbursementAmount": 51932391.75, 
+        "disbursementAmount": 46338075.9, 
         "id": "41013-013", 
         "info": "The Project seeks to enable an intermediary state of development for Thanh Hoa and support its socioeconomic enhancement", 
-        "locationName": "Ham Rong", 
+        "locationName": "H\u00e0m R\u1ed3ng", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT"
+        "title": "THANH HOA CITY COMPREHENSIVE SOCIOECONOMIC DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41013-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,7 +113,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

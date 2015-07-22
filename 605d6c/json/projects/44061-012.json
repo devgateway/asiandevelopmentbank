@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6208", 
+      "id": "98", 
       "properties": {
         "approvalDate": "2011-04-13", 
-        "closingDate": "2014-09-04", 
+        "closingDate": "2013-10-31", 
         "commitmentAmount": 45000000.0, 
         "disbursementAmount": 45000000.0, 
         "id": "44061-012", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Completion", 
-        "title": "STRENGTHENING PUBLIC RESOURCE MANAGEMENT PROGRAM"
+        "title": "STRENGTHENING PUBLIC RESOURCE MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/44061-012/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       75.16412479700008, 
       41.039976705000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Tajikistan"
   }, 
   "type": "FeatureCollection"

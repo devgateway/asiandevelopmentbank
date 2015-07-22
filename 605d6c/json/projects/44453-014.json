@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3507", 
+      "id": "8921", 
       "properties": {
         "approvalDate": "2012-11-06", 
         "closingDate": "2014-11-30", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Completion", 
-        "title": "WEST BENGAL DEVELOPMENT FINANCE PROGRAM"
+        "title": "WEST BENGAL DEVELOPMENT FINANCE PROGRAM", 
+        "website": "http://www.adb.org/projects/44453-014/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3868", 
+      "id": "217", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3869", 
+      "id": "218", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3870", 
+      "id": "219", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3871", 
+      "id": "220", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3872", 
+      "id": "221", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -121,7 +125,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3873", 
+      "id": "222", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -146,7 +151,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3874", 
+      "id": "223", 
       "properties": {
         "approvalDate": "2010-11-05", 
         "closingDate": "2013-09-30", 
@@ -171,7 +177,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)"
+        "title": "CAREC REGIONAL ROAD CORRIDOR IMPROVEMENT PROJECT (SUPPLEMENTARY)", 
+        "website": "http://www.adb.org/projects/39676-033/main"
       }, 
       "type": "Feature"
     }
@@ -184,6 +191,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

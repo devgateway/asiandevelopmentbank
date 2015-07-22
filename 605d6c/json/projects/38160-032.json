@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7568", 
+      "id": "6616", 
       "properties": {
         "approvalDate": "2008-07-11", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED URBAN DEVELOPMENT SECTOR PROJECT"
+        "title": "INTEGRATED URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/38160-032/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       186.0857446620001, 
       -15.55950286299992
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-to.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Tonga"
   }, 
   "type": "FeatureCollection"

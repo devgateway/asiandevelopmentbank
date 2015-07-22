@@ -3,325 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          85.37981, 
-          27.72416
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2261", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Jorpati", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          86.1404, 
-          27.45353
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2262", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Khimti", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          88.0531, 
-          26.5749
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2263", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Chandragadhi1", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          82.7998, 
-          27.5029
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2264", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "KrishnaNagar1", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.13069, 
-          28.99961
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2265", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Gaddachauki", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.36169, 
-          27.77144
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2266", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Chapali", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.58148, 
-          27.97243
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2267", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Mirmi", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.75324, 
-          27.975
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2268", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Syanja", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.3255, 
-          28.45224
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2269", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Bhurigaun", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          87.4351, 
-          26.6675
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2270", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Belbari", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.9919, 
-          27.3175
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2271", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Bhimeshwor", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          83.40055, 
-          27.5916
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2272", 
-      "properties": {
-        "approvalDate": "2012-03-23", 
-        "closingDate": "2017-12-31", 
-        "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
-        "id": "41155-013", 
-        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Amuwa", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           83.05356, 
           27.5445
         ], 
         "type": "Point"
       }, 
-      "id": "2273", 
+      "id": "2274", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Taulihawa", 
+        "locationName": "Taulihaw\u0101", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2274", 
+      "id": "2275", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Sundarijal", 
@@ -346,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2275", 
+      "id": "2276", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Seti Zone", 
+        "locationName": "Set\u012b Zone", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2276", 
+      "id": "2277", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Parasi", 
+        "locationName": "Par\u0101si", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2277", 
+      "id": "2278", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Nijgarh", 
@@ -421,7 +125,34 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2279", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2278", 
+      "id": "2280", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Mahendranagar", 
@@ -446,7 +177,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,20 +190,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2279", 
+      "id": "2281", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Mahakali Zone", 
+        "locationName": "Mah\u0101k\u0101l\u012b Zone", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2280", 
+      "id": "2282", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Kathmandu", 
@@ -496,7 +229,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2281", 
+      "id": "2283", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Kanchanpur", 
@@ -521,7 +255,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2282", 
+      "id": "2284", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Janakpur Zone", 
@@ -546,7 +281,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,20 +294,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2283", 
+      "id": "2285", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Gorkha", 
+        "locationName": "Gorkh\u0101", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2284", 
+      "id": "2286", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Gaur", 
@@ -596,7 +333,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,20 +346,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2285", 
+      "id": "2287", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Dhading", 
+        "locationName": "Dh\u0101ding", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,20 +372,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2286", 
+      "id": "2288", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Butwal", 
+        "locationName": "Butw\u0101l", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,20 +398,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2287", 
+      "id": "2289", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Bheri Zone", 
+        "locationName": "Bher\u012b Zone", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,20 +424,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2288", 
+      "id": "2290", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Bahrabise", 
+        "locationName": "B\u0101hrab\u012bse", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,20 +450,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2289", 
+      "id": "2291", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
-        "locationName": "Bagmati Zone", 
+        "locationName": "B\u0101gmat\u012b Zone", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +476,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2290", 
+      "id": "2292", 
       "properties": {
         "approvalDate": "2012-03-23", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 56000000.0, 
-        "disbursementAmount": 3198890.22, 
+        "disbursementAmount": 1350320.6300000001, 
         "id": "41155-013", 
         "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
         "locationName": "Kohalpur", 
@@ -746,7 +489,320 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT"
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          87.4351, 
+          26.6675
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2293", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Belbari", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.9919, 
+          27.3175
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2294", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Bhimeshwor", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.40055, 
+          27.5916
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2295", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Amuwa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.37981, 
+          27.72416
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2296", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Jorpati", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.1404, 
+          27.45353
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2297", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Khimti", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.0531, 
+          26.5749
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2298", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Chandragadhi1", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.7998, 
+          27.5029
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2299", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "KrishnaNagar1", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.13069, 
+          28.99961
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2300", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Gaddachauki", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.36169, 
+          27.77144
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2301", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Chapali", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.58148, 
+          27.97243
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2302", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Mirmi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.75324, 
+          27.975
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2303", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Syanja", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.3255, 
+          28.45224
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2304", 
+      "properties": {
+        "approvalDate": "2012-03-23", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 56000000.0, 
+        "disbursementAmount": 1350320.6300000001, 
+        "id": "41155-013", 
+        "info": "The project will improve the reliability of energy supply in Nepal and strengthen the transmission infrastructure needed to promote Nepal's capacity for cross-border energy trade", 
+        "locationName": "Bhurigaun", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ELECTRICITY TRANSMISSION EXPANSION & SUPPLY IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41155-013/main"
       }, 
       "type": "Feature"
     }
@@ -759,6 +815,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

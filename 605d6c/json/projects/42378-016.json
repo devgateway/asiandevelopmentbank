@@ -3,112 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          89.5, 
-          25.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4728", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Gazipur District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.83333, 
-          24.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4729", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Narsingdi District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.41667, 
-          24.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4730", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Dhaka Division", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.76667, 
-          24.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4731", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Sylhet District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           90.40232, 
           23.89154
         ], 
         "type": "Point"
       }, 
-      "id": "4732", 
+      "id": "1010", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -121,357 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.83333, 
-          23.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4733", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Chandpur District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.96333, 
-          22.4875
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4734", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Chittagong District", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.5, 
-          22.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4735", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Chittagong", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.81339, 
-          22.50515
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4736", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Hathazari", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.65778, 
-          22.62
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4737", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Sitakunda", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.51083, 
-          22.41806
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4738", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Sholashahar", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.86954, 
-          22.43331
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4739", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Madan Ghat", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.87, 
-          23.36
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4740", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Kachua", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.28, 
-          24.1
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4741", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Kaliakair", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.15, 
-          23.94
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4742", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Dhamrai", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.4, 
-          24.02
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4743", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Gazipur S.", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.45, 
-          24.24
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4744", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Sreepur", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          89.82157, 
-          25.01132
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4745", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Bhaluka", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.60139, 
-          23.60972
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4746", 
-      "properties": {
-        "approvalDate": "2014-02-11", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 310000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "42378-016", 
-        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Meghnaghat", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4747", 
+      "id": "1011", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -496,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4748", 
+      "id": "1012", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -521,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4749", 
+      "id": "1013", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -541,12 +94,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Narayanganj", 
+        "locationName": "N\u0101r\u0101yanganj", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4750", 
+      "id": "1014", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -566,12 +120,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Mirzapur", 
+        "locationName": "Mirz\u0101pur", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4751", 
+      "id": "1015", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -596,7 +151,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4752", 
+      "id": "1016", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -621,7 +177,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,7 +190,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4753", 
+      "id": "1017", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -646,7 +203,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,7 +216,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4754", 
+      "id": "1018", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -671,7 +229,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,7 +242,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4755", 
+      "id": "1019", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -691,12 +250,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Paschim Haripur", 
+        "locationName": "Paschim Har\u012bpur", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,7 +268,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4756", 
+      "id": "1020", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -716,12 +276,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Kalurghat", 
+        "locationName": "Kalurgh\u0101t", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,7 +294,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4757", 
+      "id": "1021", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -741,12 +302,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Ghorasal", 
+        "locationName": "Ghor\u0101s\u0101l", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,7 +320,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4758", 
+      "id": "1022", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -766,12 +328,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Gazipura", 
+        "locationName": "G\u0101zipura", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,7 +346,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4759", 
+      "id": "1023", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -796,7 +359,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,7 +372,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4760", 
+      "id": "1024", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -816,12 +380,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Chandpur", 
+        "locationName": "Ch\u0101ndpur", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,7 +398,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4761", 
+      "id": "1025", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -841,12 +406,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Ashuganj", 
+        "locationName": "\u0100shuganj", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,7 +424,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4762", 
+      "id": "1026", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -866,12 +432,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Tangail", 
+        "locationName": "T\u0101ng\u0101il", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,7 +450,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4763", 
+      "id": "1027", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -891,12 +458,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Sirajganj District", 
+        "locationName": "Sir\u0101jganj District", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -908,7 +476,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4764", 
+      "id": "1028", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -916,12 +484,13 @@
         "disbursementAmount": 0.0, 
         "id": "42378-016", 
         "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
-        "locationName": "Jamalpur District", 
+        "locationName": "Jam\u0101lpur District", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -933,7 +502,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4765", 
+      "id": "1029", 
       "properties": {
         "approvalDate": "2014-02-11", 
         "closingDate": "2019-06-30", 
@@ -946,7 +515,476 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2"
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.5, 
+          25.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1030", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "G\u0101zipur District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.83333, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1031", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Narsingdi District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.41667, 
+          24.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1032", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Dhaka Division", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.76667, 
+          24.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1033", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Sylhet District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.83333, 
+          23.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1034", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Ch\u0101ndpur District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.96333, 
+          22.4875
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1035", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Chittagong District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.5, 
+          22.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1036", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Chittagong", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.81339, 
+          22.50515
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1037", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "H\u0101thaz\u0101ri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.65778, 
+          22.62
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1038", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Sitakunda", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.51083, 
+          22.41806
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1039", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Sholashahar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.86954, 
+          22.43331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1040", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Madan Gh\u0101t", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.87, 
+          23.36
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1041", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Kachua", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.28, 
+          24.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1042", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Kaliakair", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.15, 
+          23.94
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1043", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Dhamrai", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.4, 
+          24.02
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1044", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Gazipur S.", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.45, 
+          24.24
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1045", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Sreepur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.82157, 
+          25.01132
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1046", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Bhaluka", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.60139, 
+          23.60972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1047", 
+      "properties": {
+        "approvalDate": "2014-02-11", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 310000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42378-016", 
+        "info": "The proposed Tranche 2 will contribute to the overall impact of the MFF on increased energy sector contribution to low-carbon economic growth in Bangladesh", 
+        "locationName": "Meghnaghat", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPANSION&EFFICIENCY IMPRVMNT INVSTMNT PROG-TR 2", 
+        "website": "http://www.adb.org/projects/42378-016/main"
       }, 
       "type": "Feature"
     }
@@ -959,6 +997,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

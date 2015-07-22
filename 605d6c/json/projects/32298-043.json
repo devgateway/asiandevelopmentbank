@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2560", 
+      "id": "6960", 
       "properties": {
         "approvalDate": "2007-08-23", 
         "closingDate": "2013-03-31", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM TRANCHE 3"
+        "title": "MFF-MADHYA PRADESH POWER SECTOR INVESTMENT PROGRAM TRANCHE 3", 
+        "website": "http://www.adb.org/projects/32298-043/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

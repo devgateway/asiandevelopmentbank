@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6270", 
+      "id": "4121", 
       "properties": {
         "approvalDate": "2012-08-06", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 6920000.0, 
-        "disbursementAmount": 2182508.49, 
+        "disbursementAmount": 2064035.99, 
         "id": "44239-013", 
         "info": "The project is to improve infrastructure for the Bumthang, Gelephu, and Yonphula domestic airports. It aims to expand initial developments undertaken by the Government of Bhutan at these airports", 
         "locationName": "Gelephu Airport", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6271", 
+      "id": "4122", 
       "properties": {
         "approvalDate": "2012-08-06", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 6920000.0, 
-        "disbursementAmount": 2182508.49, 
+        "disbursementAmount": 2064035.99, 
         "id": "44239-013", 
         "info": "The project is to improve infrastructure for the Bumthang, Gelephu, and Yonphula domestic airports. It aims to expand initial developments undertaken by the Government of Bhutan at these airports", 
         "locationName": "Yongphulla Airport", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44239-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6272", 
+      "id": "4123", 
       "properties": {
         "approvalDate": "2012-08-06", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 6920000.0, 
-        "disbursementAmount": 2182508.49, 
+        "disbursementAmount": 2064035.99, 
         "id": "44239-013", 
         "info": "The project is to improve infrastructure for the Bumthang, Gelephu, and Yonphula domestic airports. It aims to expand initial developments undertaken by the Government of Bhutan at these airports", 
         "locationName": "Bathpalathang Airport", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT"
+        "title": "AIR TRANSPORT CONNECTIVITY ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/44239-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       92.08877648900014, 
       28.358398930786294
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Bhutan"
   }, 
   "type": "FeatureCollection"

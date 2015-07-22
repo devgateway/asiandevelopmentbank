@@ -3,12 +3,38 @@
     {
       "geometry": {
         "coordinates": [
+          85.35, 
+          27.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2357", 
+      "properties": {
+        "approvalDate": "2014-04-07", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 25000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "31624-024", 
+        "info": "The MWSP is a comprehensive water supply project aiming to improve the health and well-being of the people in Kathmandu Valley", 
+        "locationName": "Kathmandu Valley", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)", 
+        "website": "http://www.adb.org/projects/31624-024/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           85.33218, 
           27.70704
         ], 
         "type": "Point"
       }, 
-      "id": "2343", 
+      "id": "2358", 
       "properties": {
         "approvalDate": "2014-04-07", 
         "closingDate": "2017-06-30", 
@@ -21,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)"
+        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)", 
+        "website": "http://www.adb.org/projects/31624-024/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2344", 
+      "id": "2359", 
       "properties": {
         "approvalDate": "2014-04-07", 
         "closingDate": "2017-06-30", 
@@ -46,57 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.35, 
-          27.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2345", 
-      "properties": {
-        "approvalDate": "2014-04-07", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 25000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "31624-024", 
-        "info": "The MWSP is a comprehensive water supply project aiming to improve the health and well-being of the people in Kathmandu Valley", 
-        "locationName": "Kathmandu Valley", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.35, 
-          27.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2346", 
-      "properties": {
-        "approvalDate": "2014-04-07", 
-        "closingDate": "2017-06-30", 
-        "commitmentAmount": 25000000.0, 
-        "disbursementAmount": 0.0, 
-        "id": "31624-024", 
-        "info": "The MWSP is a comprehensive water supply project aiming to improve the health and well-being of the people in Kathmandu Valley", 
-        "locationName": "Kathmandu Valley", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)"
+        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)", 
+        "website": "http://www.adb.org/projects/31624-024/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2347", 
+      "id": "2360", 
       "properties": {
         "approvalDate": "2014-04-07", 
         "closingDate": "2017-06-30", 
@@ -121,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)"
+        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)", 
+        "website": "http://www.adb.org/projects/31624-024/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2348", 
+      "id": "2361", 
       "properties": {
         "approvalDate": "2014-04-07", 
         "closingDate": "2017-06-30", 
@@ -146,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)"
+        "title": "MELAMCHI WATER SUPPLY PROJECT - ADDITIONAL FINANCING (SF)", 
+        "website": "http://www.adb.org/projects/31624-024/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +139,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

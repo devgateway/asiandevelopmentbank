@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "792", 
+      "id": "4691", 
       "properties": {
         "approvalDate": "2010-11-09", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 902850000.0, 
-        "disbursementAmount": 756953500.65, 
+        "disbursementAmount": 730891221.54, 
         "id": "39595-033", 
         "info": "1. Finance the contract for Engineering design, Procurement and Construction.\n2. Finance the consulting service (project implementation consultant) for Tranche 2. \n3", 
-        "locationName": "Phuong Mong Duong", 
+        "locationName": "Ph\u01b0\u1eddng M\u00f4ng D\u01b0\u01a1ng", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-MONG DUONG 1 THERMAL POWER PROJECT - TRANCHE 2"
+        "title": "MFF-MONG DUONG 1 THERMAL POWER PROJECT - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/39595-033/main"
       }, 
       "type": "Feature"
     }
@@ -34,7 +35,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

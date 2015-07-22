@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5674", 
+      "id": "340", 
       "properties": {
         "approvalDate": "2012-09-14", 
-        "closingDate": "2014-11-21", 
+        "closingDate": "2014-09-30", 
         "commitmentAmount": 4000000.0, 
         "disbursementAmount": 4000000.0, 
         "id": "45032-001", 
@@ -20,8 +20,9 @@
         "sectors": [
           "Public sector management"
         ], 
-        "status": "Completion", 
-        "title": "PUBLIC FINANCIAL MANAGEMENT REFORM PROGRAM"
+        "status": "Implementation", 
+        "title": "PUBLIC FINANCIAL MANAGEMENT REFORM PROGRAM", 
+        "website": "http://www.adb.org/projects/45032-001/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       166.9582625660001, 
       -0.490411065999922
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-nr.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Nauru"
   }, 
   "type": "FeatureCollection"

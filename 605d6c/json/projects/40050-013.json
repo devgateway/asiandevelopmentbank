@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6523", 
+      "id": "1298", 
       "properties": {
         "approvalDate": "2008-02-26", 
         "closingDate": "2013-06-30", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "JILIN URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+        "title": "JILIN URBAN ENVIRONMENT IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40050-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6524", 
+      "id": "1299", 
       "properties": {
         "approvalDate": "2008-02-26", 
         "closingDate": "2013-06-30", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "JILIN URBAN ENVIRONMENT IMPROVEMENT PROJECT"
+        "title": "JILIN URBAN ENVIRONMENT IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/40050-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

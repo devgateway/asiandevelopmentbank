@@ -3,117 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          106.8575, 
-          37.68056
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7095", 
-      "properties": {
-        "approvalDate": "2013-05-07", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
-        "id": "44035-014", 
-        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
-        "locationName": "Fengjigou", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.01725, 
-          36.98085
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7096", 
-      "properties": {
-        "approvalDate": "2013-05-07", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
-        "id": "44035-014", 
-        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
-        "locationName": "Yujialiang", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.06654, 
-          37.42209
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7097", 
-      "properties": {
-        "approvalDate": "2013-05-07", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
-        "id": "44035-014", 
-        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
-        "locationName": "Hongsopu Qu", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.84111, 
-          37.56306
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7098", 
-      "properties": {
-        "approvalDate": "2013-05-07", 
-        "closingDate": "2018-12-31", 
-        "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
-        "id": "44035-014", 
-        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
-        "locationName": "Ma'erzhuang", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           105.77593, 
           37.49588
         ], 
         "type": "Point"
       }, 
-      "id": "7099", 
+      "id": "1912", 
       "properties": {
         "approvalDate": "2013-05-07", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
+        "disbursementAmount": 3081453.46, 
         "id": "44035-014", 
         "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
         "locationName": "Zhongning Xian", 
@@ -121,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7100", 
+      "id": "1913", 
       "properties": {
         "approvalDate": "2013-05-07", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
+        "disbursementAmount": 3081453.46, 
         "id": "44035-014", 
         "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
         "locationName": "Yongning Xian", 
@@ -146,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7101", 
+      "id": "1914", 
       "properties": {
         "approvalDate": "2013-05-07", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
+        "disbursementAmount": 3081453.46, 
         "id": "44035-014", 
         "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
         "locationName": "Qingtongxia Shi", 
@@ -171,7 +73,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7102", 
+      "id": "1915", 
       "properties": {
         "approvalDate": "2013-05-07", 
         "closingDate": "2018-12-31", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 6035159.74, 
+        "disbursementAmount": 3081453.46, 
         "id": "44035-014", 
         "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
         "locationName": "Nuanquan", 
@@ -196,7 +99,112 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT"
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.84111, 
+          37.56306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1916", 
+      "properties": {
+        "approvalDate": "2013-05-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 3081453.46, 
+        "id": "44035-014", 
+        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
+        "locationName": "Ma\u2019erzhuang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.8575, 
+          37.68056
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1917", 
+      "properties": {
+        "approvalDate": "2013-05-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 3081453.46, 
+        "id": "44035-014", 
+        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
+        "locationName": "Fengjigou", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.01725, 
+          36.98085
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1918", 
+      "properties": {
+        "approvalDate": "2013-05-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 3081453.46, 
+        "id": "44035-014", 
+        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
+        "locationName": "Yujialiang", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.06654, 
+          37.42209
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1919", 
+      "properties": {
+        "approvalDate": "2013-05-07", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 3081453.46, 
+        "id": "44035-014", 
+        "info": "The project will improve the value of horticultural outputs by adopting high-value and high-quality varieties, water conservation infrastructures, sustainable farming practices, and institutional\u2026", 
+        "locationName": "Hongsopu Qu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "NINGXIA IRRIGATED AGRICULTURE&WATER CONSERVATION DEMO PROJECT", 
+        "website": "http://www.adb.org/projects/44035-014/main"
       }, 
       "type": "Feature"
     }
@@ -209,6 +217,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

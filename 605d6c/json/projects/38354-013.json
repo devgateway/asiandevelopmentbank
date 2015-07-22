@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1957", 
+      "id": "5617", 
       "properties": {
         "approvalDate": "2012-11-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 57750000.0, 
-        "disbursementAmount": 8613056.36, 
+        "disbursementAmount": 4956421.8100000005, 
         "id": "38354-013", 
         "info": "The State Accountability Revitalization (STAR) project aims to support the government s key reform priorities aimed at improving the government s accountability through stronger capacity of the\u2026", 
         "locationName": "Indonesia", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Implementation", 
-        "title": "STATE ACCOUNTABILITY REVITALIZATION PROJECT"
+        "title": "STATE ACCOUNTABILITY REVITALIZATION PROJECT", 
+        "website": "http://www.adb.org/projects/38354-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       140.97762699400008, 
       5.910101630000099
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Indonesia"
   }, 
   "type": "FeatureCollection"

@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6373", 
+      "id": "1139", 
       "properties": {
         "approvalDate": "2006-07-06", 
         "closingDate": "2013-06-30", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "GUANGXI NANNING URBAN ENVIRONMENTAL UPGRADING PROJECT"
+        "title": "GUANGXI NANNING URBAN ENVIRONMENTAL UPGRADING PROJECT", 
+        "website": "http://www.adb.org/projects/37596-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6374", 
+      "id": "1140", 
       "properties": {
         "approvalDate": "2006-07-06", 
         "closingDate": "2013-06-30", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Completion", 
-        "title": "GUANGXI NANNING URBAN ENVIRONMENTAL UPGRADING PROJECT"
+        "title": "GUANGXI NANNING URBAN ENVIRONMENTAL UPGRADING PROJECT", 
+        "website": "http://www.adb.org/projects/37596-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

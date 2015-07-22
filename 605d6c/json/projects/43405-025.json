@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7805", 
+      "id": "10911", 
       "properties": {
         "approvalDate": "2013-12-19", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 98000000.0, 
-        "disbursementAmount": 3824552.82, 
+        "disbursementAmount": 0.0, 
         "id": "43405-025", 
         "info": "Project 3 will improve the water supply and sanitation (WSS) services in Ureki and Kutaisi, two of the six secondary towns covered by the Investment Program", 
         "locationName": "Ureki", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 3"
+        "title": "MFF:URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/43405-025/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7806", 
+      "id": "10912", 
       "properties": {
         "approvalDate": "2013-12-19", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 98000000.0, 
-        "disbursementAmount": 3824552.82, 
+        "disbursementAmount": 0.0, 
         "id": "43405-025", 
         "info": "Project 3 will improve the water supply and sanitation (WSS) services in Ureki and Kutaisi, two of the six secondary towns covered by the Investment Program", 
         "locationName": "Kutaisi", 
@@ -46,7 +47,34 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 3"
+        "title": "MFF:URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/43405-025/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          43.4999, 
+          41.99998
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10913", 
+      "properties": {
+        "approvalDate": "2013-12-19", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 98000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43405-025", 
+        "info": "Project 3 will improve the water supply and sanitation (WSS) services in Ureki and Kutaisi, two of the six secondary towns covered by the Investment Program", 
+        "locationName": "Georgia", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:URBAN SERVICES IMPROVEMENT INVESTMENT PROGRAM-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/43405-025/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +87,12 @@
       46.694803101000076, 
       43.57584259000011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Georgia"
   }, 
   "type": "FeatureCollection"

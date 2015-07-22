@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4286", 
+      "id": "463", 
       "properties": {
         "approvalDate": "2006-11-08", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 41000000.0, 
-        "disbursementAmount": 34737641.42, 
+        "disbursementAmount": 33909479.88, 
         "id": "36297-013", 
         "info": "The primary impact of the Project is to improve the living conditions and health standards in participating secondary towns and improve sustainability of purashava-level water utilities", 
         "locationName": "Sirajganj", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT"
+        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/36297-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4287", 
+      "id": "464", 
       "properties": {
         "approvalDate": "2006-11-08", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 41000000.0, 
-        "disbursementAmount": 34737641.42, 
+        "disbursementAmount": 33909479.88, 
         "id": "36297-013", 
         "info": "The primary impact of the Project is to improve the living conditions and health standards in participating secondary towns and improve sustainability of purashava-level water utilities", 
         "locationName": "Pirojpur", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT"
+        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/36297-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,47 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4288", 
+      "id": "465", 
       "properties": {
         "approvalDate": "2006-11-08", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 41000000.0, 
-        "disbursementAmount": 34737641.42, 
+        "disbursementAmount": 33909479.88, 
         "id": "36297-013", 
         "info": "The primary impact of the Project is to improve the living conditions and health standards in participating secondary towns and improve sustainability of purashava-level water utilities", 
-        "locationName": "Brahmanhata", 
+        "locationName": "Br\u0101hmanh\u0101ta", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT"
+        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/36297-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "466", 
+      "properties": {
+        "approvalDate": "2006-11-08", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 41000000.0, 
+        "disbursementAmount": 33909479.88, 
+        "id": "36297-013", 
+        "info": "The primary impact of the Project is to improve the living conditions and health standards in participating secondary towns and improve sustainability of purashava-level water utilities", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/36297-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4289", 
+      "id": "467", 
       "properties": {
         "approvalDate": "2006-11-08", 
         "closingDate": "2014-06-30", 
         "commitmentAmount": 41000000.0, 
-        "disbursementAmount": 34737641.42, 
+        "disbursementAmount": 33909479.88, 
         "id": "36297-013", 
         "info": "The primary impact of the Project is to improve the living conditions and health standards in participating secondary towns and improve sustainability of purashava-level water utilities", 
         "locationName": "Jessore", 
@@ -96,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT"
+        "title": "SECONDARY TOWNS WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/36297-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +139,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

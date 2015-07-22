@@ -3,67 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          106.88324, 
-          47.90771
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4112", 
-      "properties": {
-        "approvalDate": "2014-06-30", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 27500000.0, 
-        "disbursementAmount": 1508708.33, 
-        "id": "45007-004", 
-        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
-        "locationName": "Ulan Bator", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.83852, 
-          47.96006
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4113", 
-      "properties": {
-        "approvalDate": "2014-06-30", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 27500000.0, 
-        "disbursementAmount": 1508708.33, 
-        "id": "45007-004", 
-        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
-        "locationName": "Bayankhoshuuny", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           106.91667, 
           47.91667
         ], 
         "type": "Point"
       }, 
-      "id": "4114", 
+      "id": "6708", 
       "properties": {
         "approvalDate": "2014-06-30", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 27500000.0, 
-        "disbursementAmount": 1508708.33, 
+        "disbursementAmount": 0.0, 
         "id": "45007-004", 
         "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
         "locationName": "Ulaanbaatar Hot", 
@@ -71,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1"
+        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4115", 
+      "id": "6709", 
       "properties": {
         "approvalDate": "2014-06-30", 
         "closingDate": "2018-06-30", 
-        "commitmentAmount": 22500000.0, 
-        "disbursementAmount": 1500000.0, 
+        "commitmentAmount": 27500000.0, 
+        "disbursementAmount": 0.0, 
         "id": "45007-004", 
         "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
         "locationName": "Ulan Bator", 
@@ -96,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1"
+        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4116", 
+      "id": "6710", 
       "properties": {
         "approvalDate": "2014-06-30", 
         "closingDate": "2018-06-30", 
-        "commitmentAmount": 22500000.0, 
-        "disbursementAmount": 1500000.0, 
+        "commitmentAmount": 27500000.0, 
+        "disbursementAmount": 0.0, 
         "id": "45007-004", 
         "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
         "locationName": "Bayankhoshuuny", 
@@ -121,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1"
+        "title": "ULAANBAATAR URBAN SERVICES AND GER AREA DEVELOPMENT INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4117", 
+      "id": "6711", 
       "properties": {
         "approvalDate": "2014-06-30", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 22500000.0, 
-        "disbursementAmount": 1500000.0, 
+        "disbursementAmount": 0.0, 
         "id": "45007-004", 
         "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
         "locationName": "Ulaanbaatar Hot", 
@@ -146,7 +99,60 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1"
+        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.88324, 
+          47.90771
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6712", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 22500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Ulan Bator", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.83852, 
+          47.96006
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6713", 
+      "properties": {
+        "approvalDate": "2014-06-30", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 22500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45007-004", 
+        "info": "The investment program aims to promote an inclusive peri-urban development in the ger areas of Ulaanbaatar, the capital city of Mongolia", 
+        "locationName": "Bayankhoshuuny", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ULAANBAATAR URBAN SERVICES&GER AREAS DEV'T INV'T PROGRAM-T1", 
+        "website": "http://www.adb.org/projects/45007-004/main"
       }, 
       "type": "Feature"
     }
@@ -159,6 +165,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

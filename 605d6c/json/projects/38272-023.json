@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2608", 
+      "id": "7008", 
       "properties": {
         "approvalDate": "2008-10-23", 
         "closingDate": "2016-01-25", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 37289348.56, 
+        "disbursementAmount": 34815628.22, 
         "id": "38272-023", 
         "info": "The Investment Program aims to provide critically needed urban infrastructure and services", 
         "locationName": "Nainital", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1"
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1", 
+        "website": "http://www.adb.org/projects/38272-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2609", 
+      "id": "7009", 
       "properties": {
         "approvalDate": "2008-10-23", 
         "closingDate": "2016-01-25", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 37289348.56, 
+        "disbursementAmount": 34815628.22, 
         "id": "38272-023", 
         "info": "The Investment Program aims to provide critically needed urban infrastructure and services", 
         "locationName": "Haridwar", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1"
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1", 
+        "website": "http://www.adb.org/projects/38272-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2610", 
+      "id": "7010", 
       "properties": {
         "approvalDate": "2008-10-23", 
         "closingDate": "2016-01-25", 
         "commitmentAmount": 60000000.0, 
-        "disbursementAmount": 37289348.56, 
+        "disbursementAmount": 34815628.22, 
         "id": "38272-023", 
         "info": "The Investment Program aims to provide critically needed urban infrastructure and services", 
         "locationName": "Dehradun", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1"
+        "title": "MFF-UTTARAKHAND URBAN SECTOR DEV'T INVESTMENT PROGRAM-PROJECT1", 
+        "website": "http://www.adb.org/projects/38272-023/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

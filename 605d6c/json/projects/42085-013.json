@@ -3,212 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          49.75502, 
-          40.44808
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4160", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Xirdalan", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          47.83333, 
-          40.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4161", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Goychay Rayon", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          48.33333, 
-          40.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4162", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Aghsu Rayon", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          48.40087, 
-          40.57028
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4163", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Agsu", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          47.41667, 
-          40.58333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4164", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Aghdash Rayon", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          47.4738, 
-          40.64699
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4165", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Agdas", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          49.74374, 
-          40.45234
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4166", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Absheron", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          49.0, 
-          40.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4167", 
-      "properties": {
-        "approvalDate": "2008-12-06", 
-        "closingDate": "2013-12-31", 
-        "commitmentAmount": 160000000.0, 
-        "disbursementAmount": 154060966.00000003, 
-        "id": "42085-013", 
-        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
-        "locationName": "Gobustan Rayon", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           47.0, 
           40.66667
         ], 
         "type": "Point"
       }, 
-      "id": "4168", 
+      "id": "6757", 
       "properties": {
         "approvalDate": "2008-12-06", 
         "closingDate": "2013-12-31", 
@@ -221,7 +21,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4169", 
+      "id": "6758", 
       "properties": {
         "approvalDate": "2008-12-06", 
         "closingDate": "2013-12-31", 
@@ -246,7 +47,8 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4170", 
+      "id": "6759", 
       "properties": {
         "approvalDate": "2008-12-06", 
         "closingDate": "2013-12-31", 
@@ -271,7 +73,216 @@
           "Energy"
         ], 
         "status": "Completion", 
-        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT"
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          49.75502, 
+          40.44808
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6760", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "Xirdalan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          47.83333, 
+          40.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6761", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "Goychay Rayon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          48.33333, 
+          40.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6762", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "Aghsu Rayon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          48.40087, 
+          40.57028
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6763", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "A\u011fsu", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          47.41667, 
+          40.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6764", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "Aghdash Rayon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          47.4738, 
+          40.64699
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6765", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "A\u011fda\u015f", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          49.74374, 
+          40.45234
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6766", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "Absheron", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          49.0, 
+          40.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6767", 
+      "properties": {
+        "approvalDate": "2008-12-06", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 160000000.0, 
+        "disbursementAmount": 154060966.00000003, 
+        "id": "42085-013", 
+        "info": "The Project is a priority investment project under the state program on the development of the fuel and energy sector in the Republic of Azerbaijan", 
+        "locationName": "Gobustan Rayon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "POWER TRANSMISSION ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42085-013/main"
       }, 
       "type": "Feature"
     }
@@ -284,6 +295,12 @@
       50.62574303500011, 
       41.89044159000015
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-az.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Azerbaijan"
   }, 
   "type": "FeatureCollection"

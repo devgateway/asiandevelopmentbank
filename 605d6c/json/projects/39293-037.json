@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "367", 
+      "id": "3905", 
       "properties": {
         "approvalDate": "2013-08-19", 
         "closingDate": "2019-02-28", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "RBL: EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "RBL: EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/39293-037/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "368", 
+      "id": "3906", 
       "properties": {
         "approvalDate": "2013-08-19", 
         "closingDate": "2019-02-28", 
@@ -46,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "RBL:EDUCATION SECTOR DEVELOPMENT PROGRAM (SF)"
+        "title": "RBL:EDUCATION SECTOR DEVELOPMENT PROGRAM (SF)", 
+        "website": "http://www.adb.org/projects/39293-037/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

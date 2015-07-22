@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1306", 
+      "id": "5415", 
       "properties": {
         "approvalDate": "2013-11-22", 
         "closingDate": "2014-07-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "SECOND SMALL & MEDIUM-SIZED ENTERPRISES DEVELOPMENT PROGRAM - SUB"
+        "title": "SECOND SMALL & MEDIUM-SIZED ENTERPRISES DEVELOPMENT PROGRAM - SUB", 
+        "website": "http://www.adb.org/projects/41360-014/main"
       }, 
       "type": "Feature"
     }
@@ -34,7 +35,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

@@ -3,50 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          78.66667, 
-          30.5
+          78.44342, 
+          30.72986
         ], 
         "type": "Point"
       }, 
-      "id": "3620", 
+      "id": "9034", 
       "properties": {
         "approvalDate": "2014-02-05", 
         "closingDate": "2017-03-31", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
+        "disbursementAmount": 926979.19, 
         "id": "47229-001", 
         "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Tehri Garhwal", 
+        "locationName": "Uttarkashi", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.70452, 
-          28.93214
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3621", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Udham Singh Nagar", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3622", 
+      "id": "9035", 
       "properties": {
         "approvalDate": "2014-02-05", 
         "closingDate": "2017-03-31", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
+        "disbursementAmount": 926979.19, 
         "id": "47229-001", 
         "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
         "locationName": "Uttarkashi", 
@@ -71,332 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.52985, 
-          23.8424
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3623", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Ratlam", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.50802, 
-          29.30604
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3624", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Bijnor", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.85, 
-          30.95
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3625", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Dehra Dun", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.78341, 
-          30.22242
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3626", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Pauri Garhwal", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.14829, 
-          28.51283
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3627", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Pilibhit", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.12746, 
-          29.95161
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3628", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Pithoragarh", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.44342, 
-          30.72986
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3629", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Mahakali", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.4334, 
-          29.64232
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3630", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Almora", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.90017, 
-          29.94949
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3631", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Bageshwar", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.22028, 
-          30.25942
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3632", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Chamoli", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.08891, 
-          29.52407
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3633", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Champawat", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.89126, 
-          29.86313
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3634", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Haridwar", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.12693, 
-          29.39484
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3635", 
-      "properties": {
-        "approvalDate": "2014-02-05", 
-        "closingDate": "2017-03-31", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
-        "id": "47229-001", 
-        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Naini Tal", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,20 +60,2881 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3636", 
+      "id": "9036", 
       "properties": {
         "approvalDate": "2014-02-05", 
         "closingDate": "2017-03-31", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 5326494.039999999, 
+        "disbursementAmount": 926979.19, 
         "id": "47229-001", 
         "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
-        "locationName": "Rudra Prayag", 
+        "locationName": "Ukhimath", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT"
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.85, 
+          30.95
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9037", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Tiuni", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.12746, 
+          29.95161
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9038", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Tejam", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.66667, 
+          30.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9039", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Tehri-Garhwal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.4803, 
+          30.39086
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9040", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Tehri", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.78341, 
+          30.22242
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9041", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Srinagar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.70452, 
+          28.93214
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9042", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Sitarganj", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.80936, 
+          30.3935
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9043", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Sahaspur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.98354, 
+          30.28467
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9044", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Rudraprayag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.89126, 
+          29.86313
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9045", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Roorkee", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.29255, 
+          30.10778
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9046", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Rishikesh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.4334, 
+          29.64232
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9047", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Ranikhet", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.12693, 
+          29.39484
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9048", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Ramnagar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.08891, 
+          29.52407
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9049", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Rameshwar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.09389, 
+          30.39171
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9050", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Rajpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0934, 
+          30.31162
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9051", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Raipur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.14829, 
+          28.51283
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9052", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Puranpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.19761, 
+          30.34312
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9053", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Pokhri", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.25, 
+          30.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9054", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Pithoragarh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.76998, 
+          30.15356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9055", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Pauri", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.71519, 
+          29.92311
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9056", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Naugaon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.28712, 
+          30.16173
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9057", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Narendranagar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.44686, 
+          29.39743
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9058", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Naini Tal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.41667, 
+          29.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9059", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Naini Tal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.05498, 
+          30.4571
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9060", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Mussoorie", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.15036, 
+          30.43547
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9061", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Milam", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.53147, 
+          30.7404
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9062", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Maneri", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.12026, 
+          28.6219
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9063", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Madho Tanda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.08965, 
+          29.40356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9064", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Lohaghat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.04086, 
+          29.75876
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9065", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Laksar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.51945, 
+          29.74336
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9066", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kotdwara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.97015, 
+          28.92221
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9067", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Khatima", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.43767, 
+          30.97005
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9068", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kharsali", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.06831, 
+          30.72016
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9069", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kedarnath", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.54488, 
+          29.26674
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9070", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kathgodam", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.95693, 
+          29.21398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9071", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kashipur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.22028, 
+          30.25942
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9072", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Karnaprayag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.90017, 
+          29.94949
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9073", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kapkot", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.34936, 
+          29.28319
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9074", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kaladhungi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.56655, 
+          30.55588
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9075", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Joshimath", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.10757, 
+          29.92426
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9076", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Jwalapur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.82656, 
+          29.27944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9077", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Jaspur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.36711, 
+          30.26613
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9078", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Jajal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.77563, 
+          29.80997
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9079", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Jhabrera", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.80313, 
+          29.87498
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9080", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Iqbalpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.73333, 
+          31.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9081", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Harsil", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.16025, 
+          29.94791
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9082", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Haridwar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.5286, 
+          29.22254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9083", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Haldwani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.56877, 
+          30.00614
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9084", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Gwaldam", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.08481, 
+          30.52917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9085", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Gupta Kashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.31978, 
+          30.41252
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9086", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Gopeshwar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.03998, 
+          29.65729
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9087", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Gangolihat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.42931, 
+          29.77836
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9088", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dwarahat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.60813, 
+          29.80677
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9089", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dogadda", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.51951, 
+          29.84707
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9090", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dharchula", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.50802, 
+          29.30604
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9091", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dhampur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2063, 
+          29.69214
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9092", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dewal Thal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.86344, 
+          29.41584
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9093", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Devi Dhura", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.60272, 
+          30.14603
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9094", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Devaprayag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.03392, 
+          30.32443
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9095", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dehradun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.93333, 
+          30.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9096", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Dehra Dun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.70934, 
+          29.11285
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9097", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Chorgallia", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.35157, 
+          29.88678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9098", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Chaukhutia", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.33303, 
+          30.40271
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9099", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Chamoli", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.5, 
+          30.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9100", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Chamoli", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.86249, 
+          30.70367
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9101", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Chakrata", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.1678, 
+          29.96509
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9102", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bungidhar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.82417, 
+          30.09972
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9103", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Biharigarh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.50489, 
+          29.3886
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9104", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bhowali", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.26442, 
+          29.69728
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9105", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bhikia Sain", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.6236, 
+          30.8078
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9106", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bhatwari", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.07075, 
+          29.8014
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9107", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Berinag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.1064, 
+          29.15299
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9108", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bazpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.20596, 
+          30.80861
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9109", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Barkot", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.2473, 
+          29.04541
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9110", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bara Khera", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.11186, 
+          29.6281
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9111", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Balawali", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.52985, 
+          23.8424
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9112", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bajpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.61593, 
+          29.90643
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9113", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Baijnath", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.7714, 
+          29.8376
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9114", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bageshwar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.49408, 
+          30.73944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9115", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Badarinath", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.66088, 
+          29.59726
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9116", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Almora", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.49789, 
+          29.69223
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9117", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Almora", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.95888, 
+          30.46562
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9118", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Koti Dhar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.91773, 
+          30.39829
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9119", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bhauwala", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.82805, 
+          30.39193
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9120", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Shankarpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.9412, 
+          30.45168
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9121", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Koti", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.5426, 
+          29.97885
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9122", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Ghansali", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.69861, 
+          29.97611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9123", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kund", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.71044, 
+          29.91727
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9124", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Satpuli", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.6, 
+          29.84
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9125", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Kausani", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.83224, 
+          29.97315
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9126", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Bageshwar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.75434, 
+          29.93463
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9127", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Pauri Garhwal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.75434, 
+          29.93463
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9128", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Pauri Garhwal", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.03737, 
+          29.28756
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9129", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Champawat", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.46308, 
+          29.05414
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9130", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Udham Singh Nagar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.27633, 
+          29.42852
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9131", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Pancheswor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.38247, 
+          29.75041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9132", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Joljibi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.39294, 
+          30.34384
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9133", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Chamba", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.06517, 
+          30.60872
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9134", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Rudraprayag", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.04892, 
+          30.02152
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9135", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Thalisain", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.32022, 
+          29.05107
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9136", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "DIneshpur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.07459, 
+          29.96967
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9137", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Haridwar", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.59303, 
+          30.7007
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9138", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Ghangaria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.04552, 
+          31.01991
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9139", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Mori", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.5688, 
+          30.53356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9140", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Auli Laga Salude", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.60796, 
+          30.11603
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9141", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Lohjang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.85172, 
+          29.63778
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9142", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Jageshwar Dham", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.4, 
+          28.98
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9143", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Rudrapur", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5369, 
+          29.84735
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9144", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Sosa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.8575, 
+          30.1795
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9145", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Gunji", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.49607, 
+          30.51318
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9146", 
+      "properties": {
+        "approvalDate": "2014-02-05", 
+        "closingDate": "2017-03-31", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 926979.19, 
+        "id": "47229-001", 
+        "info": "The emergency loan will help economic and social recovery in Uttarakhand in the aftermath of the June 2013 disaster", 
+        "locationName": "Lambgaon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND EMERGENCY ASSISTANCE PROJECT", 
+        "website": "http://www.adb.org/projects/47229-001/main"
       }, 
       "type": "Feature"
     }
@@ -434,6 +2947,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

@@ -3,425 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          107.08426, 
-          10.34599
-        ], 
-        "type": "Point"
-      }, 
-      "id": "801", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Vung Tau", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.62965, 
-          10.82302
-        ], 
-        "type": "Point"
-      }, 
-      "id": "802", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Ho Chi Minh City", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          109.19432, 
-          12.24507
-        ], 
-        "type": "Point"
-      }, 
-      "id": "803", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Nha Trang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.16667, 
-          10.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "804", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Kien Giang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.84117, 
-          21.0245
-        ], 
-        "type": "Point"
-      }, 
-      "id": "805", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Hanoi", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.5, 
-          10.11667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "806", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Thanh Pho Can Tho", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.68345, 
-          20.86481
-        ], 
-        "type": "Point"
-      }, 
-      "id": "807", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Haiphong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.33302, 
-          20.94099
-        ], 
-        "type": "Point"
-      }, 
-      "id": "808", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Thanh Pho Hai Duong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.75889, 
-          10.90694
-        ], 
-        "type": "Point"
-      }, 
-      "id": "809", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Di An", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.22083, 
-          16.06778
-        ], 
-        "type": "Point"
-      }, 
-      "id": "810", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Da Nang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.25, 
-          12.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "811", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Dak Lak", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.03775, 
-          12.66747
-        ], 
-        "type": "Point"
-      }, 
-      "id": "812", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Buon Ma Thuot", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          108.08333, 
-          16.08333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "813", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Thanh Pho Da Nang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.66667, 
-          11.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "814", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Binh Duong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.25, 
-          20.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "815", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Nam Dinh", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.63537, 
-          20.8741
-        ], 
-        "type": "Point"
-      }, 
-      "id": "816", 
-      "properties": {
-        "approvalDate": "2010-10-05", 
-        "closingDate": "2016-02-29", 
-        "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
-        "id": "41339-013", 
-        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Phuong Hung Vuong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           104.91667, 
           19.25
         ], 
         "type": "Point"
       }, 
-      "id": "817", 
+      "id": "4700", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Nghe An", 
+        "locationName": "T\u1ec9nh Ngh\u1ec7 An", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "818", 
+      "id": "4701", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Ninh Binh", 
+        "locationName": "T\u1ec9nh Ninh B\u00ecnh", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "819", 
+      "id": "4702", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Soc Trang", 
+        "locationName": "T\u1ec9nh S\u00f3c Tr\u0103ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "820", 
+      "id": "4703", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 8248288.43, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Yen Bai", 
+        "locationName": "Y\u00ean B\u00e1i", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,20 +112,47 @@
         ], 
         "type": "Point"
       }, 
-      "id": "821", 
+      "id": "4704", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Vung Tau", 
+        "locationName": "V\u0169ng T\u00e0u", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4705", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "822", 
+      "id": "4706", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
         "locationName": "Ho Chi Minh City", 
@@ -546,7 +177,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "823", 
+      "id": "4707", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
         "locationName": "Nha Trang", 
@@ -571,7 +203,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,20 +216,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "824", 
+      "id": "4708", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Kien Giang", 
+        "locationName": "T\u1ec9nh Ki\u1ebfn Giang", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "825", 
+      "id": "4709", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
         "locationName": "Hanoi", 
@@ -621,7 +255,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,20 +268,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "826", 
+      "id": "4710", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Thanh Pho Can Tho", 
+        "locationName": "Th\u00e0nh Ph\u1ed1 C\u1ea7n Th\u01a1", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "827", 
+      "id": "4711", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
         "locationName": "Haiphong", 
@@ -671,7 +307,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,20 +320,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "828", 
+      "id": "4712", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Thanh Pho Hai Duong", 
+        "locationName": "Th\u00e0nh Ph\u1ed1 H\u1ea3i D\u01b0\u01a1ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,20 +346,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "829", 
+      "id": "4713", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Di An", 
+        "locationName": "D\u0129 An", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "830", 
+      "id": "4714", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
         "locationName": "Da Nang", 
@@ -746,7 +385,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,20 +398,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "831", 
+      "id": "4715", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Dak Lak", 
+        "locationName": "T\u1ec9nh \u0110\u1eafk L\u1eafk", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "832", 
+      "id": "4716", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
         "locationName": "Buon Ma Thuot", 
@@ -796,7 +437,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,20 +450,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "833", 
+      "id": "4717", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Thanh Pho Da Nang", 
+        "locationName": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,20 +476,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "834", 
+      "id": "4718", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Binh Duong", 
+        "locationName": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,20 +502,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "835", 
+      "id": "4719", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Nam Dinh", 
+        "locationName": "T\u1ec9nh Nam \u0110\u1ecbnh", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,20 +528,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "836", 
+      "id": "4720", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6386163.99, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Phuong Hung Vuong", 
+        "locationName": "Ph\u01b0\u1eddng H\u00f9ng V\u01b0\u01a1ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -908,20 +554,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "837", 
+      "id": "4721", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "disbursementAmount": 0.0, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Nghe An", 
+        "locationName": "T\u1ec9nh Ngh\u1ec7 An", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -933,20 +580,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "838", 
+      "id": "4722", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "disbursementAmount": 0.0, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Ninh Binh", 
+        "locationName": "T\u1ec9nh Ninh B\u00ecnh", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -958,20 +606,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "839", 
+      "id": "4723", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "disbursementAmount": 0.0, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Tinh Soc Trang", 
+        "locationName": "T\u1ec9nh S\u00f3c Tr\u0103ng", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -983,20 +632,463 @@
         ], 
         "type": "Point"
       }, 
-      "id": "840", 
+      "id": "4724", 
       "properties": {
         "approvalDate": "2010-10-05", 
         "closingDate": "2016-02-29", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 1630324.0, 
+        "disbursementAmount": 0.0, 
         "id": "41339-013", 
         "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
-        "locationName": "Yen Bai", 
+        "locationName": "Y\u00ean B\u00e1i", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SKILLS ENHANCEMENT PROJECT"
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.08426, 
+          10.34599
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4725", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "V\u0169ng T\u00e0u", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4726", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.62965, 
+          10.82302
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4727", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Ho Chi Minh City", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          109.19432, 
+          12.24507
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4728", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Nha Trang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.16667, 
+          10.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4729", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "T\u1ec9nh Ki\u1ebfn Giang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.84117, 
+          21.0245
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4730", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Hanoi", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.5, 
+          10.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4731", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Th\u00e0nh Ph\u1ed1 C\u1ea7n Th\u01a1", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.68345, 
+          20.86481
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4732", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Haiphong", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.33302, 
+          20.94099
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4733", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Th\u00e0nh Ph\u1ed1 H\u1ea3i D\u01b0\u01a1ng", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.75889, 
+          10.90694
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4734", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "D\u0129 An", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.22083, 
+          16.06778
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4735", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Da Nang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.25, 
+          12.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4736", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "T\u1ec9nh \u0110\u1eafk L\u1eafk", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.03775, 
+          12.66747
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4737", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Buon Ma Thuot", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.08333, 
+          16.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4738", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Th\u00e0nh Ph\u1ed1 \u0110\u00e0 N\u1eb5ng", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.66667, 
+          11.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4739", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "T\u1ec9nh B\u00ecnh D\u01b0\u01a1ng", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.25, 
+          20.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4740", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "T\u1ec9nh Nam \u0110\u1ecbnh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.63537, 
+          20.8741
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4741", 
+      "properties": {
+        "approvalDate": "2010-10-05", 
+        "closingDate": "2016-02-29", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "41339-013", 
+        "info": "The Project will produce a more competitive and highly skilled workforce in priority industries by developing higher level training programs at a new college level, while also establishing and\u2026", 
+        "locationName": "Ph\u01b0\u1eddng H\u00f9ng V\u01b0\u01a1ng", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SKILLS ENHANCEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41339-013/main"
       }, 
       "type": "Feature"
     }
@@ -1009,7 +1101,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

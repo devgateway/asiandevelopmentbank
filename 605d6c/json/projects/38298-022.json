@@ -3,50 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          69.56779, 
-          39.93652
+          76.18709, 
+          42.46017
         ], 
         "type": "Point"
       }, 
-      "id": "3920", 
+      "id": "275", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
         "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Sulyukta", 
+        "locationName": "Balykchy", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          73.0, 
-          40.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3921", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Osh Oblasty", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3922", 
+      "id": "276", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
@@ -71,482 +47,8 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.18709, 
-          42.46017
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3923", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Balykchy", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.30149, 
-          42.84194
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3924", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Tokmok", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          72.0, 
-          42.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3925", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Talas", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          72.24274, 
-          42.52277
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3926", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Talas", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          73.30068, 
-          40.76994
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3927", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Uzgen", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          72.80826, 
-          40.51506
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3928", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Osh", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.96667, 
-          41.43333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3929", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Naryn", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.99111, 
-          41.42866
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3930", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Naryn", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          71.21228, 
-          42.68108
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3931", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Maymak", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          72.12793, 
-          40.25684
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3932", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Kzyl-Kiya", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.39362, 
-          42.49068
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3933", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Karakol", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          72.67027, 
-          41.62828
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3934", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Kara-Kul'", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          73.84813, 
-          42.81423
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3935", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Kara-Balta", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          73.67585, 
-          42.82469
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3936", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Kaindy", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          73.0, 
-          40.93333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3937", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Jalal-Abad", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          78.0, 
-          42.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3938", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Issyk-Kul'skaya Oblast'", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          73.44418, 
-          40.3138
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3939", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Gul'cha", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.59, 
-          42.87
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3940", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Bishkek", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          72.74586, 
-          41.0376
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3941", 
-      "properties": {
-        "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9578058.68, 
-        "id": "38298-022", 
-        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Bazar-Korgon", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,10 +60,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3942", 
+      "id": "277", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
@@ -571,57 +73,60 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          72.5, 
-          41.5
+          72.74586, 
+          41.0376
         ], 
         "type": "Point"
       }, 
-      "id": "3943", 
+      "id": "278", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
         "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Jalal-Abad", 
+        "locationName": "Bazar-Korgon", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
     {
       "geometry": {
         "coordinates": [
-          72.9402, 
-          41.87079
+          74.59, 
+          42.87
         ], 
         "type": "Point"
       }, 
-      "id": "3944", 
+      "id": "279", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
         "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Toktogul", 
+        "locationName": "Bishkek", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,20 +138,463 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3945", 
+      "id": "280", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
         "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Chuyskaya Oblast'", 
+        "locationName": "Chuyskaya Oblast\u2019", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.44418, 
+          40.3138
+        ], 
+        "type": "Point"
+      }, 
+      "id": "281", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Gul\u2019cha", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.0, 
+          42.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "282", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Issyk-Kul\u2019skaya Oblast\u2019", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.5, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "283", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "284", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Jalal-Abad", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.67585, 
+          42.82469
+        ], 
+        "type": "Point"
+      }, 
+      "id": "285", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kaindy", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.84813, 
+          42.81423
+        ], 
+        "type": "Point"
+      }, 
+      "id": "286", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kara-Balta", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.39362, 
+          42.49068
+        ], 
+        "type": "Point"
+      }, 
+      "id": "287", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Karakol", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.67027, 
+          41.62828
+        ], 
+        "type": "Point"
+      }, 
+      "id": "288", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kara-Kul\u2019", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.12793, 
+          40.25684
+        ], 
+        "type": "Point"
+      }, 
+      "id": "289", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Kzyl-Kiya", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.21228, 
+          42.68108
+        ], 
+        "type": "Point"
+      }, 
+      "id": "290", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Maymak", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "291", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.99111, 
+          41.42866
+        ], 
+        "type": "Point"
+      }, 
+      "id": "292", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.80826, 
+          40.51506
+        ], 
+        "type": "Point"
+      }, 
+      "id": "293", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Osh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "294", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Osh Oblasty", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.56779, 
+          39.93652
+        ], 
+        "type": "Point"
+      }, 
+      "id": "295", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Sulyukta", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.0, 
+          42.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "296", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.24274, 
+          42.52277
+        ], 
+        "type": "Point"
+      }, 
+      "id": "297", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Talas", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,10 +606,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3946", 
+      "id": "298", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
@@ -671,7 +619,86 @@
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.30149, 
+          42.84194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "299", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Tokmok", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          72.9402, 
+          41.87079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "300", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Toktogul", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.30068, 
+          40.76994
+        ], 
+        "type": "Point"
+      }, 
+      "id": "301", 
+      "properties": {
+        "approvalDate": "2007-09-21", 
+        "closingDate": "2012-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9578058.68, 
+        "id": "38298-022", 
+        "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
+        "locationName": "Uzgen", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Completion", 
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,20 +710,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3947", 
+      "id": "302", 
       "properties": {
         "approvalDate": "2007-09-21", 
-        "closingDate": "2013-04-30", 
+        "closingDate": "2012-12-31", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 9578058.68, 
         "id": "38298-022", 
         "info": "The Project assists the government in reforming the primary vocational education (PVE) system and increasing skill training opportunities for adults and out of school youth", 
-        "locationName": "Ysyk-Kol", 
+        "locationName": "Ysyk-K\u00f6l", 
         "sectors": [
           "Education"
         ], 
         "status": "Completion", 
-        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT"
+        "title": "VOCATIONAL EDUCATION & SKILLS DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/38298-022/main"
       }, 
       "type": "Feature"
     }
@@ -709,6 +737,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

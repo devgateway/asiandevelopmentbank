@@ -3,25 +3,52 @@
     {
       "geometry": {
         "coordinates": [
+          90.0, 
+          24.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "992", 
+      "properties": {
+        "approvalDate": "2013-11-21", 
+        "closingDate": "2017-12-31", 
+        "commitmentAmount": 90000000.0, 
+        "disbursementAmount": 16000000.01, 
+        "id": "44213-016", 
+        "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
+        "locationName": "Bangladesh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           89.0, 
           25.0
         ], 
         "type": "Point"
       }, 
-      "id": "4711", 
+      "id": "993", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
-        "locationName": "Rajshahi Division", 
+        "locationName": "R\u0101jsh\u0101hi Division", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4712", 
+      "id": "994", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
         "locationName": "Dhaka Division", 
@@ -46,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4713", 
+      "id": "995", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
         "locationName": "Chittagong", 
@@ -71,7 +99,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4714", 
+      "id": "996", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
         "locationName": "Khulna Division", 
@@ -96,7 +125,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4715", 
+      "id": "997", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
         "locationName": "Borishal", 
@@ -121,7 +151,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4716", 
+      "id": "998", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
         "locationName": "Sylhet Division", 
@@ -146,7 +177,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4717", 
+      "id": "999", 
       "properties": {
         "approvalDate": "2013-11-21", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 90000000.0, 
-        "disbursementAmount": 56000000.0, 
+        "disbursementAmount": 16000000.01, 
         "id": "44213-016", 
         "info": "The proposed investment program will support the government's reform of secondary education (grades 6-12) into a system that builds the foundation for a skilled labor force and prepares youths to\u2026", 
         "locationName": "Rangpur Division", 
@@ -171,7 +203,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)"
+        "title": "MFF:SECONDARY EDUCATION SECTOR INVESTMENT PROGRAM-TRANCH1(SF)", 
+        "website": "http://www.adb.org/projects/44213-016/main"
       }, 
       "type": "Feature"
     }
@@ -184,6 +217,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

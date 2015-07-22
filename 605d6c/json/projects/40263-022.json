@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3988", 
+      "id": "341", 
       "properties": {
         "approvalDate": "2009-01-20", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 14000000.0, 
-        "disbursementAmount": 12244289.540000003, 
+        "disbursementAmount": 12014256.740000002, 
         "id": "40263-022", 
         "info": "The impact of the project will be increased efficiency, safety, and reliability in the transport sector, contributing to economic growth with improved distribution of\u2026", 
         "locationName": "Solomon Islands", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "DOMESTIC MARITIME SUPPORT (SECTOR) PROJECT"
+        "title": "DOMESTIC MARITIME SUPPORT (SECTOR) PROJECT", 
+        "website": "http://www.adb.org/projects/40263-022/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       168.8258569670002, 
       -6.599867445999806
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Solomon Islands"
   }, 
   "type": "FeatureCollection"

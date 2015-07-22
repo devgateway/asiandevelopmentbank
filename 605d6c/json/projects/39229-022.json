@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4027", 
+      "id": "6643", 
       "properties": {
         "approvalDate": "2008-10-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 14720000.0, 
-        "disbursementAmount": 14698346.950000001, 
+        "disbursementAmount": 14530500.63, 
         "id": "39229-022", 
         "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
         "locationName": "Hovd Aymag", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4028", 
+      "id": "6644", 
       "properties": {
         "approvalDate": "2008-10-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 14720000.0, 
-        "disbursementAmount": 14698346.950000001, 
+        "disbursementAmount": 14530500.63, 
         "id": "39229-022", 
         "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
         "locationName": "Bayanhongor Aymag", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4029", 
+      "id": "6645", 
       "properties": {
         "approvalDate": "2008-10-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 14720000.0, 
-        "disbursementAmount": 14698346.950000001, 
+        "disbursementAmount": 14530500.63, 
         "id": "39229-022", 
         "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
-        "locationName": "Suhbaatar Aymag", 
+        "locationName": "S\u00fchbaatar Aymag", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4030", 
+      "id": "6646", 
       "properties": {
         "approvalDate": "2008-10-24", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 14720000.0, 
-        "disbursementAmount": 14698346.950000001, 
+        "disbursementAmount": 14530500.63, 
         "id": "39229-022", 
         "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
         "locationName": "Selenge Aymag", 
@@ -96,7 +99,34 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT"
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6647", 
+      "properties": {
+        "approvalDate": "2008-10-24", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14720000.0, 
+        "disbursementAmount": 14530500.63, 
+        "id": "39229-022", 
+        "info": "The Project will develop value chains to deliver unique premium value products to niche markets", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRICULTURAL AND RURAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/39229-022/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +139,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

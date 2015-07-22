@@ -3,142 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          85.35, 
-          27.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2366", 
-      "properties": {
-        "approvalDate": "2014-03-06", 
-        "closingDate": "2020-02-29", 
-        "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
-        "id": "43448-013", 
-        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
-        "locationName": "Kathmandu Valley", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.30194, 
-          27.69162
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2367", 
-      "properties": {
-        "approvalDate": "2014-03-06", 
-        "closingDate": "2020-02-29", 
-        "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
-        "id": "43448-013", 
-        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
-        "locationName": "Bishnumati Khola", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.41667, 
-          27.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2368", 
-      "properties": {
-        "approvalDate": "2014-03-06", 
-        "closingDate": "2020-02-29", 
-        "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
-        "id": "43448-013", 
-        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
-        "locationName": "Bagmati Zone", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.36171, 
-          27.79657
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2369", 
-      "properties": {
-        "approvalDate": "2014-03-06", 
-        "closingDate": "2020-02-29", 
-        "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
-        "id": "43448-013", 
-        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
-        "locationName": "Shivapuri", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          85.2897, 
-          27.6525
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2370", 
-      "properties": {
-        "approvalDate": "2014-03-06", 
-        "closingDate": "2020-02-29", 
-        "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
-        "id": "43448-013", 
-        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
-        "locationName": "Bagmati River", 
-        "sectors": [
-          "Agriculture, natural resources and rural development"
-        ], 
-        "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           85.41351, 
           27.75463
         ], 
         "type": "Point"
       }, 
-      "id": "2371", 
+      "id": "2383", 
       "properties": {
         "approvalDate": "2014-03-06", 
         "closingDate": "2020-02-29", 
         "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43448-013", 
         "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
         "locationName": "Sundarijal", 
@@ -146,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2372", 
+      "id": "2384", 
       "properties": {
         "approvalDate": "2014-03-06", 
         "closingDate": "2020-02-29", 
         "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43448-013", 
         "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
-        "locationName": "Nagmati Khola", 
+        "locationName": "N\u0101gmati Khola", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2373", 
+      "id": "2385", 
       "properties": {
         "approvalDate": "2014-03-06", 
         "closingDate": "2020-02-29", 
         "commitmentAmount": 4500000.0, 
-        "disbursementAmount": 450000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43448-013", 
         "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
         "locationName": "Kathmandu Valley", 
@@ -196,7 +73,112 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT"
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.30194, 
+          27.69162
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2386", 
+      "properties": {
+        "approvalDate": "2014-03-06", 
+        "closingDate": "2020-02-29", 
+        "commitmentAmount": 4500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43448-013", 
+        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
+        "locationName": "Bishnumat\u012b Khola", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.41667, 
+          27.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2387", 
+      "properties": {
+        "approvalDate": "2014-03-06", 
+        "closingDate": "2020-02-29", 
+        "commitmentAmount": 4500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43448-013", 
+        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
+        "locationName": "B\u0101gmat\u012b Zone", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.36171, 
+          27.79657
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2388", 
+      "properties": {
+        "approvalDate": "2014-03-06", 
+        "closingDate": "2020-02-29", 
+        "commitmentAmount": 4500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43448-013", 
+        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
+        "locationName": "Shivapuri", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.2897, 
+          27.6525
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2389", 
+      "properties": {
+        "approvalDate": "2014-03-06", 
+        "closingDate": "2020-02-29", 
+        "commitmentAmount": 4500000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43448-013", 
+        "info": "The Bagmati River Basin Improvement Project aims to improve water security and resilience to potential climate change impact in the Bagmati River Basin", 
+        "locationName": "Bagmati River", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "BAGMATI RIVER BASIN IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43448-013/main"
       }, 
       "type": "Feature"
     }
@@ -209,6 +191,12 @@
       88.1690674240001, 
       30.416904195000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Nepal"
   }, 
   "type": "FeatureCollection"

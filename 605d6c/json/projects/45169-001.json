@@ -3,37 +3,12 @@
     {
       "geometry": {
         "coordinates": [
-          73.79485, 
-          42.74613
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3911", 
-      "properties": {
-        "approvalDate": "2014-01-17", 
-        "closingDate": "2020-04-30", 
-        "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 39373.82, 
-        "id": "45169-001", 
-        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
-        "locationName": "Jaiyl", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           72.80826, 
           40.51506
         ], 
         "type": "Point"
       }, 
-      "id": "3912", 
+      "id": "266", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -46,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3913", 
+      "id": "267", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -71,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3914", 
+      "id": "268", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -96,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3915", 
+      "id": "269", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -121,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3916", 
+      "id": "270", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -146,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,7 +138,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3917", 
+      "id": "271", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -171,7 +151,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,7 +164,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3918", 
+      "id": "272", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -196,7 +177,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,7 +190,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3919", 
+      "id": "273", 
       "properties": {
         "approvalDate": "2014-01-17", 
         "closingDate": "2020-04-30", 
@@ -221,7 +203,34 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ"
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.79485, 
+          42.74613
+        ], 
+        "type": "Point"
+      }, 
+      "id": "274", 
+      "properties": {
+        "approvalDate": "2014-01-17", 
+        "closingDate": "2020-04-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 39373.82, 
+        "id": "45169-001", 
+        "info": "The project will improve national and regional connectivity by reconstructing and rehabilitating an estimated 120 km of crucial road sections between Bishkek and Osh, and will include road safety\u2026", 
+        "locationName": "Jaiyl", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC CORRIDOR 3(BISHKEK-OSH ROAD)IMPROVEMENT PROJ", 
+        "website": "http://www.adb.org/projects/45169-001/main"
       }, 
       "type": "Feature"
     }
@@ -234,6 +243,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

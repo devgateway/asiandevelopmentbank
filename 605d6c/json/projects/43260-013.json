@@ -3,140 +3,15 @@
     {
       "geometry": {
         "coordinates": [
-          105.0, 
-          12.83333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5971", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Thom", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.33333, 
-          11.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5972", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Speu", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.55, 
-          12.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5973", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Chhnang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.58333, 
-          12.08333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5974", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Cham", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.0, 
-          13.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5975", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Banteay Meanchey", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           103.66667, 
           12.33333
         ], 
         "type": "Point"
       }, 
-      "id": "5976", 
+      "id": "5989", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 12000000.0, 
         "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
@@ -146,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5977", 
+      "id": "5990", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
+        "closingDate": "2014-12-31", 
         "commitmentAmount": 12000000.0, 
         "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
@@ -171,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -179,331 +56,6 @@
       "geometry": {
         "coordinates": [
           106.25, 
-          13.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5978", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Stung Treng", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.5, 
-          14.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5979", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Otar Meanchey", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.0, 
-          13.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5980", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Siem Reap", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.11667, 
-          13.83333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5981", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Ratanakiri", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.0, 
-          13.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5982", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Preah Vihear", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.91394, 
-          11.57489
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5983", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Phnom Penh", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.6, 
-          12.86667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5984", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Pailin", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.0, 
-          12.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5985", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Mondolkiri", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.5, 
-          11.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5986", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 12000000.0, 
-        "disbursementAmount": 6004691.95, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Koh Kong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.0, 
-          12.83333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5987", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Thom", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.33333, 
-          11.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5988", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Speu", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.55, 
-          12.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5989", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Chhnang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.58333, 
-          12.08333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5990", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Kampong Cham", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.0, 
           13.75
         ], 
         "type": "Point"
@@ -511,84 +63,9 @@
       "id": "5991", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Banteay Meanchey", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.66667, 
-          12.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5992", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Pursat", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.08333, 
-          12.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5993", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
-        "id": "43260-013", 
-        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Battambang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.25, 
-          13.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "5994", 
-      "properties": {
-        "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Stung Treng", 
@@ -596,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5995", 
+      "id": "5992", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
-        "locationName": "Otar Meanchey", 
+        "locationName": "\u014et\u00e2r M\u00e9anchey", 
         "sectors": [
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5996", 
+      "id": "5993", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Siem Reap", 
@@ -646,7 +125,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5997", 
+      "id": "5994", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Ratanakiri", 
@@ -671,7 +151,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5998", 
+      "id": "5995", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Preah Vihear", 
@@ -696,7 +177,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "5999", 
+      "id": "5996", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Phnom Penh", 
@@ -721,7 +203,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6000", 
+      "id": "5997", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Pailin", 
@@ -746,7 +229,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6001", 
+      "id": "5998", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Mondolkiri", 
@@ -771,7 +255,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6002", 
+      "id": "5999", 
       "properties": {
         "approvalDate": "2013-01-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 18000000.0, 
-        "disbursementAmount": 1311011.25, 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
         "id": "43260-013", 
         "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
         "locationName": "Koh Kong", 
@@ -796,7 +281,554 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)"
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          12.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6000", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Thom", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.33333, 
+          11.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6001", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Speu", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.55, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6002", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Chhnang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.58333, 
+          12.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6003", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Cham", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.0, 
+          13.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6004", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6004691.95, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Banteay Meanchey", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.66667, 
+          12.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6005", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Pursat", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.08333, 
+          12.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6006", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Battambang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.25, 
+          13.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6007", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Stung Treng", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.5, 
+          14.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6008", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "\u014et\u00e2r M\u00e9anchey", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.0, 
+          13.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6009", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Siem Reap", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.11667, 
+          13.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6010", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Ratanakiri", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6011", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Preah Vihear", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.91394, 
+          11.57489
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6012", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Phnom Penh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.6, 
+          12.86667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6013", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Pailin", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          12.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6014", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Mondolkiri", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.5, 
+          11.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6015", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Koh Kong", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          12.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6016", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Thom", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.33333, 
+          11.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6017", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Speu", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.55, 
+          12.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6018", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Chhnang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.58333, 
+          12.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6019", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Kampong Cham", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.0, 
+          13.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6020", 
+      "properties": {
+        "approvalDate": "2013-01-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 18000000.0, 
+        "disbursementAmount": 806139.89, 
+        "id": "43260-013", 
+        "info": "ESDP III is proposed as the third program in the sequence of education sector development programs. It will build upon and extend the achievements of ESDP I and ESDP II", 
+        "locationName": "Banteay Meanchey", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "THIRD EDUCATION SECTOR DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43260-013/main"
       }, 
       "type": "Feature"
     }
@@ -809,6 +841,12 @@
       107.61051639900009, 
       14.704581605000087
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Cambodia"
   }, 
   "type": "FeatureCollection"

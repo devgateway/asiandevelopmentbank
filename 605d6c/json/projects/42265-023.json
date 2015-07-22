@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3223", 
+      "id": "8371", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 81000000.0, 
-        "disbursementAmount": 3931429.79, 
+        "disbursementAmount": 3516992.0, 
         "id": "42265-023", 
         "info": "The MFF adopts a strategic and integrated approach to sustainable urban environmental improvement in Guwahati and Dibrugarh, Assam, including water supply, wastewater treatment, solid waste\u2026", 
         "locationName": "Guwahati", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ASSAM URBAN INFRASTRUCTURE INVESTMENT PROJECT-TRANCHE 1"
+        "title": "ASSAM URBAN INFRASTRUCTURE INVESTMENT PROJECT-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42265-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3224", 
+      "id": "8372", 
       "properties": {
         "approvalDate": "2012-03-09", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 81000000.0, 
-        "disbursementAmount": 3931429.79, 
+        "disbursementAmount": 3516992.0, 
         "id": "42265-023", 
         "info": "The MFF adopts a strategic and integrated approach to sustainable urban environmental improvement in Guwahati and Dibrugarh, Assam, including water supply, wastewater treatment, solid waste\u2026", 
         "locationName": "Dibrugarh", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "ASSAM URBAN INFRASTRUCTURE INVESTMENT PROJECT-TRANCHE 1"
+        "title": "ASSAM URBAN INFRASTRUCTURE INVESTMENT PROJECT-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42265-023/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

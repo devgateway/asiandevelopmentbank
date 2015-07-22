@@ -3,242 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          100.6334, 
-          -0.2159
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1958", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Payakumbuh", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          100.35427, 
-          -0.94924
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1959", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Padang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          124.84892, 
-          1.48218
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1960", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Manado", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.0, 
-          -5.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1961", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Provinsi Lampung", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          113.70317, 
-          -8.16604
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1962", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Jember", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.61861, 
-          -6.90389
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1963", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Bandung", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          115.0, 
-          -8.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1964", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Bali", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          128.16976, 
-          -3.65947
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1965", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Pulau Ambon", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          123.6075, 
-          -10.1718
-        ], 
-        "type": "Point"
-      }, 
-      "id": "1966", 
-      "properties": {
-        "approvalDate": "2012-11-21", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
-        "id": "42099-013", 
-        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
-        "locationName": "Kupang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           119.4221, 
           -5.14
         ], 
         "type": "Point"
       }, 
-      "id": "1967", 
+      "id": "5618", 
       "properties": {
         "approvalDate": "2012-11-21", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
+        "disbursementAmount": 5432688.96, 
         "id": "42099-013", 
         "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
         "locationName": "Makassar", 
@@ -246,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1968", 
+      "id": "5619", 
       "properties": {
         "approvalDate": "2012-11-21", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
+        "disbursementAmount": 5432688.96, 
         "id": "42099-013", 
         "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
         "locationName": "Samarinda", 
@@ -271,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1969", 
+      "id": "5620", 
       "properties": {
         "approvalDate": "2012-11-21", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 75000000.0, 
-        "disbursementAmount": 6512134.54, 
+        "disbursementAmount": 5432688.96, 
         "id": "42099-013", 
         "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
         "locationName": "Pontianak", 
@@ -296,7 +73,242 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT"
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.6334, 
+          -0.2159
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5621", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Payakumbuh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.35427, 
+          -0.94924
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5622", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Padang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.84892, 
+          1.48218
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5623", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Manado", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5624", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Provinsi Lampung", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.70317, 
+          -8.16604
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5625", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Jember", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.61861, 
+          -6.90389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5626", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Bandung", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          115.0, 
+          -8.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5627", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Bali", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          128.16976, 
+          -3.65947
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5628", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Pulau Ambon", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.6075, 
+          -10.1718
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5629", 
+      "properties": {
+        "approvalDate": "2012-11-21", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 5432688.96, 
+        "id": "42099-013", 
+        "info": "The project will focus on four priority areas: (i) manufacturing; (ii) agro-business (iii) infrastructure and (iv) energy and mining", 
+        "locationName": "Kupang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "POLYTECHNIC EDUCATION DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42099-013/main"
       }, 
       "type": "Feature"
     }
@@ -309,6 +321,12 @@
       140.97762699400008, 
       5.910101630000099
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Indonesia"
   }, 
   "type": "FeatureCollection"

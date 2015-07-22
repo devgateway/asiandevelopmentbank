@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7133", 
+      "id": "1950", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Xin Barag Youqi", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,38 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7134", 
+      "id": "1951", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43029-013", 
+        "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
+        "locationName": "Manzhouli Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.43333, 
+          49.6
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1952", 
+      "properties": {
+        "approvalDate": "2013-12-17", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Manzhouli", 
@@ -46,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7135", 
+      "id": "1953", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
-        "locationName": "Hulunbei'er", 
+        "locationName": "Hulunbei\u2019er Shi", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7136", 
+      "id": "1954", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Amgalang", 
@@ -96,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7137", 
+      "id": "1955", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Baogedewula", 
@@ -121,7 +151,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,20 +164,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7138", 
+      "id": "1956", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
-        "locationName": "Beiersumu", 
+        "locationName": "Bei\u2019er", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7139", 
+      "id": "1957", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Xinbaolige", 
@@ -171,7 +203,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,20 +216,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7140", 
+      "id": "1958", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
-        "locationName": "Alatan'mole New Barag Youqi", 
+        "locationName": "Alatan'molezhen", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7141", 
+      "id": "1959", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Ebuduge Port", 
@@ -221,57 +255,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          118.20844, 
-          48.06533
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7142", 
-      "properties": {
-        "approvalDate": "2013-12-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
-        "id": "43029-013", 
-        "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
-        "locationName": "Ebuduge Port", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          118.20844, 
-          48.06533
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7143", 
-      "properties": {
-        "approvalDate": "2013-12-17", 
-        "closingDate": "2018-06-30", 
-        "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
-        "id": "43029-013", 
-        "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
-        "locationName": "Ebuduge Port", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7144", 
+      "id": "1960", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Nuogannuo'er", 
@@ -296,7 +281,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7145", 
+      "id": "1961", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Wubu'erbaolige", 
@@ -321,7 +307,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7146", 
+      "id": "1962", 
       "properties": {
         "approvalDate": "2013-12-17", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 20000000.0, 
+        "disbursementAmount": 0.0, 
         "id": "43029-013", 
         "info": "The following activities will be undertaken under the project: (i) upgrade a section of the provincial highway in Inner Mongolia Autonomous Region (IMAR) of the PRC, (ii) upgrade rural roads, (iii)\u2026", 
         "locationName": "Alatanhadagacha", 
@@ -346,7 +333,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT"
+        "title": "INNER MONGOLIA ROAD DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43029-013/main"
       }, 
       "type": "Feature"
     }
@@ -359,6 +347,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

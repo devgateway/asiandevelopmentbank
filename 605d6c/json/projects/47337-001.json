@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1800", 
+      "id": "2947", 
       "properties": {
         "approvalDate": "2013-12-23", 
         "closingDate": "2014-12-31", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Implementation", 
-        "title": "EMERGENCY ASSISTANCE FOR RELIEF & RECOVERY FROM TYPHOON YOLANDA"
+        "title": "EMERGENCY ASSISTANCE FOR RELIEF & RECOVERY FROM TYPHOON YOLANDA", 
+        "website": "http://www.adb.org/projects/47337-001/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       126.61768639400017, 
       21.122381903000033
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Philippines"
   }, 
   "type": "FeatureCollection"

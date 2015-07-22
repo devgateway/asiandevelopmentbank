@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1841", 
+      "id": "5456", 
       "properties": {
         "approvalDate": "2007-03-15", 
         "closingDate": "2013-12-31", 
@@ -20,8 +20,9 @@
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO", 
+        "website": "http://www.adb.org/projects/35183-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1842", 
+      "id": "5457", 
       "properties": {
         "approvalDate": "2007-03-15", 
         "closingDate": "2013-12-31", 
@@ -45,8 +46,9 @@
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO", 
+        "website": "http://www.adb.org/projects/35183-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1843", 
+      "id": "5458", 
       "properties": {
         "approvalDate": "2007-03-15", 
         "closingDate": "2013-12-31", 
@@ -70,8 +72,9 @@
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO", 
+        "website": "http://www.adb.org/projects/35183-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1844", 
+      "id": "5459", 
       "properties": {
         "approvalDate": "2007-03-15", 
         "closingDate": "2013-12-31", 
@@ -95,8 +98,9 @@
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO", 
+        "website": "http://www.adb.org/projects/35183-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,7 +112,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1845", 
+      "id": "5460", 
       "properties": {
         "approvalDate": "2007-03-15", 
         "closingDate": "2013-12-31", 
@@ -120,8 +124,9 @@
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
-        "status": "Completion", 
-        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO"
+        "status": "Implementation", 
+        "title": "SUSTAINABLE AQUACULTURE DEVT FOR FOOD SECURITY & POVERTY REDUCTIO", 
+        "website": "http://www.adb.org/projects/35183-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       140.97762699400008, 
       5.910101630000099
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Indonesia"
   }, 
   "type": "FeatureCollection"

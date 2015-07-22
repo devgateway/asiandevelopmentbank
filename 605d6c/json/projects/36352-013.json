@@ -8,20 +8,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "681", 
+      "id": "4578", 
       "properties": {
         "approvalDate": "2008-10-06", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 196000000.0, 
-        "disbursementAmount": 166880743.07, 
+        "disbursementAmount": 158672131.82, 
         "id": "36352-013", 
         "info": "The Project's objective is to  contribute to meet Viet Nam's increasing power demand in an environmentally sustainable and socially inclusive manner", 
-        "locationName": "Huyen Nam Giang", 
+        "locationName": "Huy\u1ec7n Nam Giang", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "SONG BUNG 4 HYDROPOWER PROJECT"
+        "title": "SONG BUNG 4 HYDROPOWER PROJECT", 
+        "website": "http://www.adb.org/projects/36352-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,7 +35,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

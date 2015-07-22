@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3781", 
+      "id": "6178", 
       "properties": {
         "approvalDate": "2012-06-19", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 95000000.0, 
-        "disbursementAmount": 66049095.769999996, 
+        "disbursementAmount": 52034090.12, 
         "id": "45150-001", 
         "info": "The project comprises reconstructing an approximate 7.7km road section and constructing an approximate 57.3 km bypass", 
         "locationName": "Taraz", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT"
+        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT", 
+        "website": "http://www.adb.org/projects/45150-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3782", 
+      "id": "6179", 
       "properties": {
         "approvalDate": "2012-06-19", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 95000000.0, 
-        "disbursementAmount": 66049095.769999996, 
+        "disbursementAmount": 52034090.12, 
         "id": "45150-001", 
         "info": "The project comprises reconstructing an approximate 7.7km road section and constructing an approximate 57.3 km bypass", 
-        "locationName": "Zhambyl Audany", 
+        "locationName": "Zhambyl A\u016bdany", 
         "sectors": [
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT"
+        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT", 
+        "website": "http://www.adb.org/projects/45150-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3783", 
+      "id": "6180", 
       "properties": {
         "approvalDate": "2012-06-19", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 95000000.0, 
-        "disbursementAmount": 66049095.769999996, 
+        "disbursementAmount": 52034090.12, 
         "id": "45150-001", 
         "info": "The project comprises reconstructing an approximate 7.7km road section and constructing an approximate 57.3 km bypass", 
         "locationName": "Zhambyl Oblysy", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT"
+        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT", 
+        "website": "http://www.adb.org/projects/45150-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3784", 
+      "id": "6181", 
       "properties": {
         "approvalDate": "2012-06-19", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 95000000.0, 
-        "disbursementAmount": 66049095.769999996, 
+        "disbursementAmount": 52034090.12, 
         "id": "45150-001", 
         "info": "The project comprises reconstructing an approximate 7.7km road section and constructing an approximate 57.3 km bypass", 
         "locationName": "Bayzak District", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT"
+        "title": "CAREC CORRIDOR 1(TARAZ BYPASS) PROJECT", 
+        "website": "http://www.adb.org/projects/45150-001/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       87.3237960210001, 
       55.434550273000085
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kz.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Kazakhstan"
   }, 
   "type": "FeatureCollection"

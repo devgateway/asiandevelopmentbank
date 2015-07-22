@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1778", 
+      "id": "2925", 
       "properties": {
         "approvalDate": "2013-03-22", 
         "closingDate": "2020-12-31", 
@@ -21,7 +21,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1779", 
+      "id": "2926", 
       "properties": {
         "approvalDate": "2013-03-22", 
         "closingDate": "2020-12-31", 
@@ -46,7 +47,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1780", 
+      "id": "2927", 
       "properties": {
         "approvalDate": "2013-03-22", 
         "closingDate": "2020-12-31", 
@@ -71,7 +73,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1781", 
+      "id": "2928", 
       "properties": {
         "approvalDate": "2013-03-22", 
         "closingDate": "2020-12-31", 
@@ -96,7 +99,8 @@
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT"
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       126.61768639400017, 
       21.122381903000033
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Philippines"
   }, 
   "type": "FeatureCollection"

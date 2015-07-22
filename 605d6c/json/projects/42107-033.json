@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4863", 
+      "id": "10666", 
       "properties": {
         "approvalDate": "2011-04-12", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 240000000.0, 
-        "disbursementAmount": 50628406.99999999, 
+        "disbursementAmount": 44801741.70999999, 
         "id": "42107-033", 
         "info": "The objective of the Investment Program is to finance projects with the following activities:\n1.  road development (reconstruction of about 222 km of the A380 highway);\n2", 
         "locationName": "Romiton Tumani", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC CORRIDOR 2ROAD INVESTMENT PROGRAM - TRANCHE 2"
+        "title": "MFF-CAREC CORRIDOR 2ROAD INVESTMENT PROGRAM - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/42107-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4864", 
+      "id": "10667", 
       "properties": {
         "approvalDate": "2011-04-12", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 240000000.0, 
-        "disbursementAmount": 50628406.99999999, 
+        "disbursementAmount": 44801741.70999999, 
         "id": "42107-033", 
         "info": "The objective of the Investment Program is to finance projects with the following activities:\n1.  road development (reconstruction of about 222 km of the A380 highway);\n2", 
         "locationName": "Peshku Tumani", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC CORRIDOR 2ROAD INVESTMENT PROGRAM - TRANCHE 2"
+        "title": "MFF-CAREC CORRIDOR 2ROAD INVESTMENT PROGRAM - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/42107-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4865", 
+      "id": "10668", 
       "properties": {
         "approvalDate": "2011-04-12", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 240000000.0, 
-        "disbursementAmount": 50628406.99999999, 
+        "disbursementAmount": 44801741.70999999, 
         "id": "42107-033", 
         "info": "The objective of the Investment Program is to finance projects with the following activities:\n1.  road development (reconstruction of about 222 km of the A380 highway);\n2", 
         "locationName": "Kishlak", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "MFF-CAREC CORRIDOR 2ROAD INVESTMENT PROGRAM - TRANCHE 2"
+        "title": "MFF-CAREC CORRIDOR 2ROAD INVESTMENT PROGRAM - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/42107-033/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       73.14864058400016, 
       45.55871897400006
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Uzbekistan"
   }, 
   "type": "FeatureCollection"

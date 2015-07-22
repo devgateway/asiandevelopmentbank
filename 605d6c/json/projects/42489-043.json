@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4900", 
+      "id": "10706", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 58000000.0, 
-        "disbursementAmount": 17838599.14, 
+        "disbursementAmount": 9093213.57, 
         "id": "42489-043", 
         "info": "On 28 August 2009, the Government of the Republic of Uzbekistan (the Government) signed a Financing Framework Agreement (FFA) with the Asian Development Bank (ADB) for a multitranche financing\u2026", 
         "locationName": "Xorazm Viloyati", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3"
+        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42489-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4901", 
+      "id": "10707", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 58000000.0, 
-        "disbursementAmount": 17838599.14, 
+        "disbursementAmount": 9093213.57, 
         "id": "42489-043", 
         "info": "On 28 August 2009, the Government of the Republic of Uzbekistan (the Government) signed a Financing Framework Agreement (FFA) with the Asian Development Bank (ADB) for a multitranche financing\u2026", 
         "locationName": "Jizzakh Province", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3"
+        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42489-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4902", 
+      "id": "10708", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 58000000.0, 
-        "disbursementAmount": 17838599.14, 
+        "disbursementAmount": 9093213.57, 
         "id": "42489-043", 
         "info": "On 28 August 2009, the Government of the Republic of Uzbekistan (the Government) signed a Financing Framework Agreement (FFA) with the Asian Development Bank (ADB) for a multitranche financing\u2026", 
         "locationName": "Andijan", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3"
+        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42489-043/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4903", 
+      "id": "10709", 
       "properties": {
         "approvalDate": "2012-02-16", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 58000000.0, 
-        "disbursementAmount": 17838599.14, 
+        "disbursementAmount": 9093213.57, 
         "id": "42489-043", 
         "info": "On 28 August 2009, the Government of the Republic of Uzbekistan (the Government) signed a Financing Framework Agreement (FFA) with the Asian Development Bank (ADB) for a multitranche financing\u2026", 
         "locationName": "Karakalpakstan", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3"
+        "title": "WATER SUPPLY & SANITATION SRVS INVSTMENT PROG-TRANCHE 3", 
+        "website": "http://www.adb.org/projects/42489-043/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       73.14864058400016, 
       45.55871897400006
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Uzbekistan"
   }, 
   "type": "FeatureCollection"

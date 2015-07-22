@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          81.00274, 
-          7.93965
-        ], 
-        "type": "Point"
-      }, 
-      "id": "200", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Polonnaruwa", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           81.0, 
           8.0
         ], 
         "type": "Point"
       }, 
-      "id": "201", 
+      "id": "3663", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Polonnaruwa District", 
@@ -46,132 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.26667, 
-          8.45
-        ], 
-        "type": "Point"
-      }, 
-      "id": "202", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Mutur", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.1185, 
-          6.1241
-        ], 
-        "type": "Point"
-      }, 
-      "id": "203", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Hambantota", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.4997, 
-          7.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "204", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Batticaloa District", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.6924, 
-          7.7102
-        ], 
-        "type": "Point"
-      }, 
-      "id": "205", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Batticaloa", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.5, 
-          8.33333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "206", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 4300000.0, 
-        "disbursementAmount": 3851437.23, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Anuradhapura District", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "207", 
+      "id": "3664", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Polonnaruwa", 
@@ -196,32 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.0, 
-          8.0
-        ], 
-        "type": "Point"
-      }, 
-      "id": "208", 
-      "properties": {
-        "approvalDate": "2011-07-22", 
-        "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
-        "id": "31501-033", 
-        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
-        "locationName": "Polonnaruwa District", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "209", 
+      "id": "3665", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Mutur", 
@@ -246,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "210", 
+      "id": "3666", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Hambantota", 
@@ -271,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "211", 
+      "id": "3667", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Batticaloa District", 
@@ -296,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "212", 
+      "id": "3668", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Batticaloa", 
@@ -321,7 +151,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "213", 
+      "id": "3669", 
       "properties": {
         "approvalDate": "2011-07-22", 
         "closingDate": "2014-12-31", 
-        "commitmentAmount": 13300000.0, 
-        "disbursementAmount": 10286090.399999999, 
+        "commitmentAmount": 4300000.0, 
+        "disbursementAmount": 3569359.79, 
         "id": "31501-033", 
         "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
         "locationName": "Anuradhapura District", 
@@ -346,7 +177,190 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL"
+        "title": "SECONDARY TOWNS & RURAL COM.-BASED WATER SUP & SAN. PRJ-ADDT'L", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.0, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3670", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Polonnaruwa District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.00274, 
+          7.93965
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3671", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Polonnaruwa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.26667, 
+          8.45
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3672", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Mutur", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.1185, 
+          6.1241
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3673", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Hambantota", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.4997, 
+          7.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3674", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Batticaloa District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.6924, 
+          7.7102
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3675", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Batticaloa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5, 
+          8.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3676", 
+      "properties": {
+        "approvalDate": "2011-07-22", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 13300000.0, 
+        "disbursementAmount": 8915446.959999999, 
+        "id": "31501-033", 
+        "info": "The overall goal of the Project is to contribute to poverty alleviation efforts and to promote human development, by improving access to safe water and sanitation of poor populations, thereby\u2026", 
+        "locationName": "Anuradhapura District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY TWNS & RURAL COM.-BASED WTR SUP. & SAN. PRJ-ADTL", 
+        "website": "http://www.adb.org/projects/31501-033/main"
       }, 
       "type": "Feature"
     }
@@ -359,6 +373,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

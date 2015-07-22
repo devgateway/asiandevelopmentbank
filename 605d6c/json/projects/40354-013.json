@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "799", 
+      "id": "4698", 
       "properties": {
         "approvalDate": "2010-09-07", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Health"
         ], 
         "status": "Completion", 
-        "title": "HEALTH HUMAN RESOURCES SECTOR DEVELOPMENT PROGRAM (PROGRAM LOAN)"
+        "title": "HEALTH HUMAN RESOURCES SECTOR DEVELOPMENT PROGRAM (PROGRAM LOAN)", 
+        "website": "http://www.adb.org/projects/40354-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "800", 
+      "id": "4699", 
       "properties": {
         "approvalDate": "2010-09-07", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 13002121.98, 
+        "disbursementAmount": 10932198.31, 
         "id": "40354-013", 
         "info": "The Health Human Resources Sector Development Program (HHRSDP) will address key human and financial resource management challenges and constraints in the health sector to improve access and quality\u2026", 
         "locationName": "Vietnam", 
@@ -46,7 +47,8 @@
           "Health"
         ], 
         "status": "Implementation", 
-        "title": "HEALTH HUMAN RESOURCES SECTOR DEVELOPMENT PROGRAM (PROJECT LOAN)"
+        "title": "HEALTH HUMAN RESOURCES SECTOR DEVELOPMENT PROGRAM (PROJECT LOAN)", 
+        "website": "http://www.adb.org/projects/40354-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,7 +61,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

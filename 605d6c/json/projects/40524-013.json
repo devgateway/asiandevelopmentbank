@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6965", 
+      "id": "1745", 
       "properties": {
         "approvalDate": "2011-10-25", 
         "closingDate": "2016-09-19", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 54000000.0, 
+        "disbursementAmount": 49240000.0, 
         "id": "40524-013", 
         "info": "The project proposes to finance the reduction of energy intensity and emissions from energy-intensive industries  in Shandong Province through a financial intermediation loan (FIL)", 
         "locationName": "Shandong Sheng", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY EFFICIENCY & EMISSION REDUCTION PROJ IN SHANDONG PROVINCE"
+        "title": "ENERGY EFFICIENCY & EMISSION REDUCTION PROJ IN SHANDONG PROVINCE", 
+        "website": "http://www.adb.org/projects/40524-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6966", 
+      "id": "1746", 
       "properties": {
         "approvalDate": "2011-10-25", 
         "closingDate": "2016-09-19", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 54000000.0, 
+        "disbursementAmount": 49240000.0, 
         "id": "40524-013", 
         "info": "The project proposes to finance the reduction of energy intensity and emissions from energy-intensive industries  in Shandong Province through a financial intermediation loan (FIL)", 
         "locationName": "Linshu Xian", 
@@ -46,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY EFFICIENCY & EMISSION REDUCTION PROJ IN SHANDONG PROVINCE"
+        "title": "ENERGY EFFICIENCY & EMISSION REDUCTION PROJ IN SHANDONG PROVINCE", 
+        "website": "http://www.adb.org/projects/40524-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6967", 
+      "id": "1747", 
       "properties": {
         "approvalDate": "2011-10-25", 
         "closingDate": "2016-09-19", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 54000000.0, 
+        "disbursementAmount": 49240000.0, 
         "id": "40524-013", 
         "info": "The project proposes to finance the reduction of energy intensity and emissions from energy-intensive industries  in Shandong Province through a financial intermediation loan (FIL)", 
         "locationName": "Dongying Shi", 
@@ -71,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "ENERGY EFFICIENCY & EMISSION REDUCTION PROJ IN SHANDONG PROVINCE"
+        "title": "ENERGY EFFICIENCY & EMISSION REDUCTION PROJ IN SHANDONG PROVINCE", 
+        "website": "http://www.adb.org/projects/40524-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

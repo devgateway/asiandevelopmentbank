@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6224", 
+      "id": "114", 
       "properties": {
         "approvalDate": "2007-04-16", 
         "closingDate": "2014-09-30", 
         "commitmentAmount": 8300000.0, 
-        "disbursementAmount": 7643117.46, 
+        "disbursementAmount": 7490102.68, 
         "id": "37530-013", 
         "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
         "locationName": "Vahdat", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "RURAL DEVELOPMENT"
+        "title": "RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/37530-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6225", 
+      "id": "115", 
       "properties": {
         "approvalDate": "2007-04-16", 
         "closingDate": "2014-09-30", 
         "commitmentAmount": 8300000.0, 
-        "disbursementAmount": 7643117.46, 
+        "disbursementAmount": 7490102.68, 
         "id": "37530-013", 
         "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
         "locationName": "Roghun District", 
@@ -46,7 +47,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "RURAL DEVELOPMENT"
+        "title": "RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/37530-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6226", 
+      "id": "116", 
       "properties": {
         "approvalDate": "2007-04-16", 
         "closingDate": "2014-09-30", 
         "commitmentAmount": 8300000.0, 
-        "disbursementAmount": 7643117.46, 
+        "disbursementAmount": 7490102.68, 
         "id": "37530-013", 
         "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
         "locationName": "Varzob District", 
@@ -71,7 +73,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "RURAL DEVELOPMENT"
+        "title": "RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/37530-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6227", 
+      "id": "117", 
       "properties": {
         "approvalDate": "2007-04-16", 
         "closingDate": "2014-09-30", 
         "commitmentAmount": 8300000.0, 
-        "disbursementAmount": 7643117.46, 
+        "disbursementAmount": 7490102.68, 
         "id": "37530-013", 
         "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
-        "locationName": "Nohiyai Rudaki", 
+        "locationName": "Nohiyai R\u016bdak\u00ed", 
         "sectors": [
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "RURAL DEVELOPMENT"
+        "title": "RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/37530-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6228", 
+      "id": "118", 
       "properties": {
         "approvalDate": "2007-04-16", 
         "closingDate": "2014-09-30", 
         "commitmentAmount": 8300000.0, 
-        "disbursementAmount": 7643117.46, 
+        "disbursementAmount": 7490102.68, 
         "id": "37530-013", 
         "info": "The Project's expected impact is: farm and non-farm incomes of rural households are increased", 
         "locationName": "Faizobod District", 
@@ -121,7 +125,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "RURAL DEVELOPMENT"
+        "title": "RURAL DEVELOPMENT", 
+        "website": "http://www.adb.org/projects/37530-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       75.16412479700008, 
       41.039976705000086
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Tajikistan"
   }, 
   "type": "FeatureCollection"

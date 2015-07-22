@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1801", 
+      "id": "2948", 
       "properties": {
         "approvalDate": "2014-03-26", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 372103895.0, 
-        "disbursementAmount": 37489904.989999995, 
+        "disbursementAmount": 12000000.0, 
         "id": "46420-002", 
         "info": "The EAL will support the implementation of the government\u2019s KALAHI\u2013CIDSS National Community-Driven Development Project (KC-NCDDP) to restore basic social services and rebuild communities affected by\u2026", 
         "locationName": "Philippines", 
@@ -21,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "KALAHI-CIDSS NATIONAL COMMUNITY-DRIVEN DEVELOPMENT PROJECT"
+        "title": "KALAHI-CIDSS NATIONAL COMMUNITY-DRIVEN DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46420-002/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       126.61768639400017, 
       21.122381903000033
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Philippines"
   }, 
   "type": "FeatureCollection"

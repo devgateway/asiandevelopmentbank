@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3987", 
+      "id": "10917", 
       "properties": {
         "approvalDate": "2013-09-16", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Completion", 
-        "title": "ECONOMIC RECOVERY SUPPORT PROGRAM-SUBPROGRAM 2"
+        "title": "ECONOMIC RECOVERY SUPPORT PROGRAM-SUBPROGRAM 2", 
+        "website": "http://www.adb.org/projects/42503-023/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       202.68718509200005, 
       -8.94670989399988
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ck.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
     "name": "Cook Islands"
   }, 
   "type": "FeatureCollection"

@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4372", 
+      "id": "553", 
       "properties": {
         "approvalDate": "2008-10-21", 
         "closingDate": "2013-12-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY"
+        "title": "PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY", 
+        "website": "http://www.adb.org/projects/40517-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4373", 
+      "id": "554", 
       "properties": {
         "approvalDate": "2008-10-21", 
         "closingDate": "2014-12-31", 
         "commitmentAmount": 82000000.0, 
-        "disbursementAmount": 82000000.0, 
+        "disbursementAmount": 52000000.0, 
         "id": "40517-013", 
         "info": "The Public-Private Infrastructure Development Facility (PPIDF) includes and $82 million loan from ADB's ordinary capital resources (OCR), an $83 million equivalent loan from ADB's special funds\u2026", 
         "locationName": "Bangladesh", 
@@ -46,7 +47,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY"
+        "title": "PUBLIC-PRIVATE INFRASTRUCTURE DEVELOPMENT FACILITY", 
+        "website": "http://www.adb.org/projects/40517-013/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

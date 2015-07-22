@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1927", 
+      "id": "5542", 
       "properties": {
         "approvalDate": "2010-09-21", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 20275510.34, 
+        "disbursementAmount": 17797597.97, 
         "id": "39071-013", 
         "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
         "locationName": "Kota Medan", 
@@ -21,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT", 
+        "website": "http://www.adb.org/projects/39071-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1928", 
+      "id": "5543", 
       "properties": {
         "approvalDate": "2010-09-21", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 20275510.34, 
+        "disbursementAmount": 17797597.97, 
         "id": "39071-013", 
         "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
         "locationName": "Kotamadya Yogyakarta", 
@@ -46,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT", 
+        "website": "http://www.adb.org/projects/39071-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1929", 
+      "id": "5544", 
       "properties": {
         "approvalDate": "2010-09-21", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 20275510.34, 
+        "disbursementAmount": 17797597.97, 
         "id": "39071-013", 
         "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
         "locationName": "Kabupaten Bantul", 
@@ -71,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT", 
+        "website": "http://www.adb.org/projects/39071-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1930", 
+      "id": "5545", 
       "properties": {
         "approvalDate": "2010-09-21", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 35000000.0, 
-        "disbursementAmount": 20275510.34, 
+        "disbursementAmount": 17797597.97, 
         "id": "39071-013", 
         "info": "The Project will provide improved urban wastewater services in two regional governmtns (RGs): Kota Medan (provicne of North Sumatra) and Kota Yogyakarta (province of Yogyakarta) including neighboring\u2026", 
         "locationName": "Kabupaten Sleman", 
@@ -96,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT"
+        "title": "METROPOLITAN SANITATION MANAGEMENT AND HEALTH PROJECT", 
+        "website": "http://www.adb.org/projects/39071-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       140.97762699400008, 
       5.910101630000099
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Indonesia"
   }, 
   "type": "FeatureCollection"

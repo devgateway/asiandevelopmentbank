@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6247", 
+      "id": "4098", 
       "properties": {
         "approvalDate": "2010-12-13", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
+        "disbursementAmount": 11405648.780000001, 
         "id": "42252-022", 
         "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
         "locationName": "Chhukha Dzongkhag", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6248", 
+      "id": "4099", 
       "properties": {
         "approvalDate": "2010-12-13", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
+        "disbursementAmount": 11405648.780000001, 
         "id": "42252-022", 
         "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
         "locationName": "Tsirang Dzongkhag", 
@@ -46,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6249", 
+      "id": "4100", 
       "properties": {
         "approvalDate": "2010-12-13", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
+        "disbursementAmount": 11405648.780000001, 
         "id": "42252-022", 
         "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
         "locationName": "Sarpang Dzongkhag", 
@@ -71,207 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.23333, 
-          27.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6250", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Mongar Dzongkhag", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          89.08333, 
-          27.03333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6251", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Samtse Dzongkhag", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.61667, 
-          26.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6252", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Samdrup Jongkhar", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          90.85, 
-          27.08333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6253", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Zhemgang Dzongkhag", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.75, 
-          27.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6254", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Trashigang Dzongkhag", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          89.70886, 
-          27.91313
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6255", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Gasa", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          91.45466, 
-          27.58468
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6256", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Trashi Yangste", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          89.54151, 
-          27.08602
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6257", 
-      "properties": {
-        "approvalDate": "2010-12-13", 
-        "closingDate": "2015-12-31", 
-        "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
-        "id": "42252-022", 
-        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
-        "locationName": "Tsimalakha", 
-        "sectors": [
-          "Energy"
-        ], 
-        "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6258", 
+      "id": "4101", 
       "properties": {
         "approvalDate": "2010-12-13", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 21590000.0, 
-        "disbursementAmount": 12009564.55, 
+        "disbursementAmount": 11405648.780000001, 
         "id": "42252-022", 
         "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
         "locationName": "Lhuentse Dzongkhag", 
@@ -296,7 +99,216 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT"
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.23333, 
+          27.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4102", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Mongar Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.08333, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4103", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Samtse Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.61667, 
+          26.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4104", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Samdrup Jongkhar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.85, 
+          27.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4105", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Zhemgang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.75, 
+          27.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4106", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Trashigang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.70886, 
+          27.91313
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4107", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Gasa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.45466, 
+          27.58468
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4108", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Trashi Yangste", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.54151, 
+          27.08602
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4109", 
+      "properties": {
+        "approvalDate": "2010-12-13", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 21590000.0, 
+        "disbursementAmount": 11405648.780000001, 
+        "id": "42252-022", 
+        "info": "The Rural Renewable Energy Development Project (the Project) will help Bhutan (i) expand rural electrification for all households, and (ii) sustain its operations and energy security, through a mix\u2026", 
+        "locationName": "Tsimalakha", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RURAL RENEWABLE ENERGY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42252-022/main"
       }, 
       "type": "Feature"
     }
@@ -309,6 +321,12 @@
       92.08877648900014, 
       28.358398930786294
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Bhutan"
   }, 
   "type": "FeatureCollection"

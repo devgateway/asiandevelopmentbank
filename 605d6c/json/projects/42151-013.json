@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2726", 
+      "id": "7295", 
       "properties": {
         "approvalDate": "2009-12-22", 
         "closingDate": "2015-09-30", 
@@ -21,7 +21,8 @@
           "Industry and trade"
         ], 
         "status": "Implementation", 
-        "title": "KHADI REFORM AND DEVELOPMENT PROGRAM"
+        "title": "KHADI REFORM AND DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/42151-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

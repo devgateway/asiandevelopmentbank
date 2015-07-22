@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "793", 
+      "id": "4692", 
       "properties": {
         "approvalDate": "2010-09-27", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 120000000.0, 
-        "disbursementAmount": 113614366.97000001, 
+        "disbursementAmount": 113403648.79, 
         "id": "39538-023", 
         "info": "The SRCGFP will support  the agenda of the Government of Viet Nam for state-owned enterprise (SOE) reform by equitizing and transforming general corporations", 
         "locationName": "Vietnam", 
@@ -21,7 +21,8 @@
           "Public sector management"
         ], 
         "status": "Implementation", 
-        "title": "MFF-SOE REFORM & CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT 1"
+        "title": "MFF-SOE REFORM & CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT 1", 
+        "website": "http://www.adb.org/projects/39538-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "794", 
+      "id": "4693", 
       "properties": {
         "approvalDate": "2010-09-27", 
         "closingDate": "2017-12-31", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 2808015.4000000004, 
+        "disbursementAmount": 2726191.2, 
         "id": "39538-023", 
         "info": "The SRCGFP will support  the agenda of the Government of Viet Nam for state-owned enterprise (SOE) reform by equitizing and transforming general corporations", 
         "locationName": "Vietnam", 
@@ -46,7 +47,8 @@
           "Public sector management"
         ], 
         "status": "Implementation", 
-        "title": "MFF-SOE REFORM AND CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT1"
+        "title": "MFF-SOE REFORM AND CORPORATE GOVERNANCE FACIL PROGRAM-PROJECT1", 
+        "website": "http://www.adb.org/projects/39538-023/main"
       }, 
       "type": "Feature"
     }
@@ -59,7 +61,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

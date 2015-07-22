@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1651", 
+      "id": "4058", 
       "properties": {
         "approvalDate": "2013-01-25", 
         "closingDate": "2017-12-31", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "WOMEN'S ENTREPRENEURSHIP SUPPORT SECTOR DEVELOPMENT PROGRAM"
+        "title": "WOMEN'S ENTREPRENEURSHIP SUPPORT SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/45230-001/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1652", 
+      "id": "4059", 
       "properties": {
         "approvalDate": "2013-01-25", 
         "closingDate": "2017-12-31", 
@@ -46,7 +47,8 @@
           "Finance"
         ], 
         "status": "Implementation", 
-        "title": "WOMEN'S ENTREPRENEURSHIP SUPPORT SECTOR DEVELOPMENT PROGRAM"
+        "title": "WOMEN'S ENTREPRENEURSHIP SUPPORT SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/45230-001/main"
       }, 
       "type": "Feature"
     }
@@ -59,6 +61,12 @@
       46.602612346000086, 
       41.29045237300015
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-am.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Armenia"
   }, 
   "type": "FeatureCollection"

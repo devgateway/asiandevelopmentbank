@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6827", 
+      "id": "1605", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 199606007.06, 
+        "disbursementAmount": 190386282.91, 
         "id": "42017-013", 
         "info": "The project is located in the northwest of Heilongjiang province", 
         "locationName": "Yichun", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6828", 
+      "id": "1606", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 199606007.06, 
+        "disbursementAmount": 190386282.91, 
         "id": "42017-013", 
         "info": "The project is located in the northwest of Heilongjiang province", 
         "locationName": "Wudalianchi", 
@@ -46,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6829", 
+      "id": "1607", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 199606007.06, 
+        "disbursementAmount": 190386282.91, 
         "id": "42017-013", 
         "info": "The project is located in the northwest of Heilongjiang province", 
         "locationName": "Nenjiang Xian", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6830", 
+      "id": "1608", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 199606007.06, 
+        "disbursementAmount": 190386282.91, 
         "id": "42017-013", 
         "info": "The project is located in the northwest of Heilongjiang province", 
         "locationName": "Nenjiang", 
@@ -96,7 +99,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6831", 
+      "id": "1609", 
       "properties": {
         "approvalDate": "2010-07-02", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 200000000.0, 
-        "disbursementAmount": 199606007.06, 
+        "disbursementAmount": 190386282.91, 
         "id": "42017-013", 
         "info": "The project is located in the northwest of Heilongjiang province", 
         "locationName": "Longzhen", 
@@ -121,7 +125,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT"
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
       }, 
       "type": "Feature"
     }
@@ -134,6 +139,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

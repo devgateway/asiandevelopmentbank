@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4495", 
+      "id": "703", 
       "properties": {
         "approvalDate": "2011-06-23", 
         "closingDate": "2015-12-31", 
         "commitmentAmount": 23000000.0, 
-        "disbursementAmount": 14360803.93, 
+        "disbursementAmount": 14203764.41, 
         "id": "44142-013", 
         "info": "The proposed technical assistance loan will provide the facility to prepare a series of regional cooperation and integration (RCI) transport projects in roads and railways", 
         "locationName": "Bangladesh", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "SUBREGIONAL TRANSPORT PROJECT PREPARATORY FACILITY"
+        "title": "SUBREGIONAL TRANSPORT PROJECT PREPARATORY FACILITY", 
+        "website": "http://www.adb.org/projects/44142-013/main"
       }, 
       "type": "Feature"
     }
@@ -34,6 +35,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

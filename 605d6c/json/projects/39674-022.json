@@ -3,175 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          76.18709, 
-          42.46017
+          74.63333, 
+          42.9
         ], 
         "type": "Point"
       }, 
-      "id": "3838", 
+      "id": "185", 
       "properties": {
         "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
+        "closingDate": "2012-09-30", 
         "commitmentAmount": 20000000.0, 
         "disbursementAmount": 17536162.75, 
         "id": "39674-022", 
         "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Balykchy", 
+        "locationName": "Alamedinskiy Rayon", 
         "sectors": [
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.30149, 
-          42.84194
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3839", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Tokmok", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.99111, 
-          41.42866
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3840", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Naryn", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.75659, 
-          42.21552
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3841", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Kochkor", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.3326, 
-          42.83349
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3842", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Kemin", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.33333, 
-          42.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3843", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Chuyskiy Rayon", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.59, 
-          42.87
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3844", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Bishkek", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -183,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3845", 
+      "id": "186", 
       "properties": {
         "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
+        "closingDate": "2012-09-30", 
         "commitmentAmount": 20000000.0, 
         "disbursementAmount": 17536162.75, 
         "id": "39674-022", 
@@ -196,182 +47,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.63333, 
-          42.9
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3846", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Alamedinskiy Rayon", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          77.17805, 
-          42.59496
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3847", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Issyk - Kulskaya", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.27108, 
-          41.56807
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3848", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Tien Shan", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          74.964, 
-          42.636
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3849", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Ysyk-Ata", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.31115, 
-          40.55103
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3850", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Torugart", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          76.57973, 
-          42.09757
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3851", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Tong", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.75, 
-          42.21667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "3852", 
-      "properties": {
-        "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 17536162.75, 
-        "id": "39674-022", 
-        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
-        "locationName": "Kochkor", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,10 +60,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3853", 
+      "id": "187", 
       "properties": {
         "approvalDate": "2008-11-24", 
-        "closingDate": "2013-03-11", 
+        "closingDate": "2012-09-30", 
         "commitmentAmount": 20000000.0, 
         "disbursementAmount": 17536162.75, 
         "id": "39674-022", 
@@ -396,7 +73,372 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)"
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.18709, 
+          42.46017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "188", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Balykchy", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.59, 
+          42.87
+        ], 
+        "type": "Point"
+      }, 
+      "id": "189", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Bishkek", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.33333, 
+          42.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "190", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Chuyskiy Rayon", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          77.17805, 
+          42.59496
+        ], 
+        "type": "Point"
+      }, 
+      "id": "191", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Issyk - Kulskaya", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.3326, 
+          42.83349
+        ], 
+        "type": "Point"
+      }, 
+      "id": "192", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kemin", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75, 
+          42.21667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "193", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kochkor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.75659, 
+          42.21552
+        ], 
+        "type": "Point"
+      }, 
+      "id": "194", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kochkor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "195", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.99111, 
+          41.42866
+        ], 
+        "type": "Point"
+      }, 
+      "id": "196", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.27108, 
+          41.56807
+        ], 
+        "type": "Point"
+      }, 
+      "id": "197", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Tien Shan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.30149, 
+          42.84194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "198", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Tokmok", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          76.57973, 
+          42.09757
+        ], 
+        "type": "Point"
+      }, 
+      "id": "199", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Tong", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.31115, 
+          40.55103
+        ], 
+        "type": "Point"
+      }, 
+      "id": "200", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Torugart", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          74.964, 
+          42.636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "201", 
+      "properties": {
+        "approvalDate": "2008-11-24", 
+        "closingDate": "2012-09-30", 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 17536162.75, 
+        "id": "39674-022", 
+        "info": "The 500 kilometer (km) Bishkek-Torugart road is part of the Central Asia Regional Economic Cooperation (CAREC) Corridor 1 linking the Kyrgyz Republic with the People's Republic of China (PRC) and\u2026", 
+        "locationName": "Ysyk-Ata", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/39674-022/main"
       }, 
       "type": "Feature"
     }
@@ -409,6 +451,12 @@
       80.2575606690001, 
       43.261701558000084
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
     "name": "Kyrgyz Republic"
   }, 
   "type": "FeatureCollection"

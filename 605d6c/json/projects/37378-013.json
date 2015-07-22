@@ -3,42 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          80.00742, 
-          9.66845
-        ], 
-        "type": "Point"
-      }, 
-      "id": "164", 
-      "properties": {
-        "approvalDate": "2011-02-08", 
-        "closingDate": "2017-08-14", 
-        "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 3097024.0599999996, 
-        "id": "37378-013", 
-        "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026", 
-        "locationName": "Jaffna", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           80.40894, 
           9.39487
         ], 
         "type": "Point"
       }, 
-      "id": "165", 
+      "id": "3627", 
       "properties": {
         "approvalDate": "2011-02-08", 
         "closingDate": "2017-08-14", 
         "commitmentAmount": 20000000.0, 
-        "disbursementAmount": 3097024.0599999996, 
+        "disbursementAmount": 2647689.9499999997, 
         "id": "37378-013", 
         "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026", 
         "locationName": "Kilinochchi District", 
@@ -46,7 +21,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/37378-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "166", 
+      "id": "3628", 
       "properties": {
         "approvalDate": "2011-02-08", 
         "closingDate": "2017-08-14", 
-        "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 7516330.070000001, 
+        "commitmentAmount": 20000000.0, 
+        "disbursementAmount": 2647689.9499999997, 
         "id": "37378-013", 
         "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026", 
         "locationName": "Jaffna", 
@@ -71,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/37378-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "167", 
+      "id": "3629", 
       "properties": {
         "approvalDate": "2011-02-08", 
         "closingDate": "2017-08-14", 
         "commitmentAmount": 70000000.0, 
-        "disbursementAmount": 7516330.070000001, 
+        "disbursementAmount": 5873368.870000001, 
         "id": "37378-013", 
         "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026", 
         "locationName": "Kilinochchi District", 
@@ -96,7 +73,34 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT"
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/37378-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.00742, 
+          9.66845
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3630", 
+      "properties": {
+        "approvalDate": "2011-02-08", 
+        "closingDate": "2017-08-14", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 5873368.870000001, 
+        "id": "37378-013", 
+        "info": "The loan will implement a project to provide safe drinking water to the population of the city of Jaffna and its surrounding urban and rural area, estimated to contain 250,000 people, and sanitation\u2026", 
+        "locationName": "Jaffna", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "JAFFNA AND KILINOCHCHI WATER SUPPLY AND SANITATION PROJECT", 
+        "website": "http://www.adb.org/projects/37378-013/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"

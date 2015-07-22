@@ -8,10 +8,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4000", 
+      "id": "356", 
       "properties": {
         "approvalDate": "2006-11-17", 
-        "closingDate": "2013-10-18", 
+        "closingDate": "2013-01-31", 
         "commitmentAmount": 350000.0, 
         "disbursementAmount": 350000.0, 
         "id": "39581-012", 
@@ -21,7 +21,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)"
+        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)", 
+        "website": "http://www.adb.org/projects/39581-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4001", 
+      "id": "357", 
       "properties": {
         "approvalDate": "2006-11-17", 
-        "closingDate": "2013-10-18", 
+        "closingDate": "2013-01-31", 
         "commitmentAmount": 350000.0, 
         "disbursementAmount": 350000.0, 
         "id": "39581-012", 
         "info": "The Project is expected to increase economic growth and reduce poverty in the project area by (i) improving the accessibility of rural residents to markets, as well as economic and social services;\u2026", 
-        "locationName": "Wainari'i", 
+        "locationName": "Wainari\u2019i", 
         "sectors": [
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)"
+        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)", 
+        "website": "http://www.adb.org/projects/39581-012/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,10 +60,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4002", 
+      "id": "358", 
       "properties": {
         "approvalDate": "2006-11-17", 
-        "closingDate": "2013-10-18", 
+        "closingDate": "2013-01-31", 
         "commitmentAmount": 350000.0, 
         "disbursementAmount": 350000.0, 
         "id": "39581-012", 
@@ -71,7 +73,8 @@
           "Transport"
         ], 
         "status": "Completion", 
-        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)"
+        "title": "ROAD IMPROVEMENT (SECTOR) PROJECT (ADF)", 
+        "website": "http://www.adb.org/projects/39581-012/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       168.8258569670002, 
       -6.599867445999806
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Solomon Islands"
   }, 
   "type": "FeatureCollection"

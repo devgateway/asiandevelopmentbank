@@ -3,17 +3,43 @@
     {
       "geometry": {
         "coordinates": [
+          75.13573, 
+          32.92431
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6952", 
+      "properties": {
+        "approvalDate": "2007-12-28", 
+        "closingDate": "2015-04-30", 
+        "commitmentAmount": 42200000.0, 
+        "disbursementAmount": 29541522.45, 
+        "id": "41116-023", 
+        "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
+        "locationName": "Udhampur", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
           74.80298, 
           34.08842
         ], 
         "type": "Point"
       }, 
-      "id": "2552", 
+      "id": "6953", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
         "locationName": "Srinagar", 
@@ -21,7 +47,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2553", 
+      "id": "6954", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
         "locationName": "Kathua", 
@@ -46,7 +73,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2554", 
+      "id": "6955", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
         "locationName": "Kargil", 
@@ -71,7 +99,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2555", 
+      "id": "6956", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
         "locationName": "Jammu and Kashmir", 
@@ -96,7 +125,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2556", 
+      "id": "6957", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
         "locationName": "Jammu", 
@@ -121,7 +151,8 @@
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,20 +164,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2557", 
+      "id": "6958", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
-        "locationName": "Baramula", 
+        "locationName": "B\u0101ram\u016bla", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,45 +190,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2558", 
+      "id": "6959", 
       "properties": {
         "approvalDate": "2007-12-28", 
         "closingDate": "2015-04-30", 
         "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
+        "disbursementAmount": 29541522.45, 
         "id": "41116-023", 
         "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
-        "locationName": "Anantnag", 
+        "locationName": "Anantn\u0101g", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          75.13573, 
-          32.92431
-        ], 
-        "type": "Point"
-      }, 
-      "id": "2559", 
-      "properties": {
-        "approvalDate": "2007-12-28", 
-        "closingDate": "2015-04-30", 
-        "commitmentAmount": 42200000.0, 
-        "disbursementAmount": 31376923.439999998, 
-        "id": "41116-023", 
-        "info": "The proposed investment program will foster economic revival in J&K, where trade, services, and tourism are the principal drivers of the economy", 
-        "locationName": "Udhampur", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1"
+        "title": "MFF-JAMMU & KASHMIR URBAN SECTOR DEVT INVESTMENT PRGRM-PRJ 1", 
+        "website": "http://www.adb.org/projects/41116-023/main"
       }, 
       "type": "Feature"
     }
@@ -209,6 +217,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

@@ -3,192 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          118.68417, 
-          41.0025
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6705", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Pingquan", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          118.7, 
-          41.05
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6706", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Luzhangzi", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          117.66667, 
-          41.98333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6707", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Longtoushan", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          117.725, 
-          41.31167
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6708", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Longhua", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          114.38333, 
-          40.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6709", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Huai'an Xian", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          115.20111, 
-          40.40028
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6710", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Caobu", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          114.56865, 
-          38.17681
-        ], 
-        "type": "Point"
-      }, 
-      "id": "6711", 
-      "properties": {
-        "approvalDate": "2009-12-17", 
-        "closingDate": "2016-06-30", 
-        "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
-        "id": "40641-013", 
-        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
-        "locationName": "Jiaochangzhuang", 
-        "sectors": [
-          "Multisector"
-        ], 
-        "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           114.55944, 
           38.13972
         ], 
         "type": "Point"
       }, 
-      "id": "6712", 
+      "id": "1483", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Zhengding", 
@@ -196,7 +21,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -208,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6713", 
+      "id": "1484", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Zhao Xian", 
@@ -221,7 +47,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -233,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6714", 
+      "id": "1485", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Shifosijiuzhuang", 
@@ -246,7 +73,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -258,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6715", 
+      "id": "1486", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Shengfang", 
@@ -271,7 +99,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -283,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6716", 
+      "id": "1487", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Nanpi Xian", 
@@ -296,7 +125,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6717", 
+      "id": "1488", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Nanpi", 
@@ -321,7 +151,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -333,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6718", 
+      "id": "1489", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Huanggezhuang", 
@@ -346,7 +177,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6719", 
+      "id": "1490", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Dashiqiao", 
@@ -371,7 +203,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6720", 
+      "id": "1491", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Botou Shi", 
@@ -396,7 +229,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6721", 
+      "id": "1492", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Botou", 
@@ -421,7 +255,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -433,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6722", 
+      "id": "1493", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Bazhou", 
@@ -446,7 +281,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6723", 
+      "id": "1494", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Baigou", 
@@ -471,7 +307,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6724", 
+      "id": "1495", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Nanbaishezhen", 
@@ -496,7 +333,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6725", 
+      "id": "1496", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Yihezhuang", 
@@ -521,7 +359,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6726", 
+      "id": "1497", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Zhuolu Xian", 
@@ -546,7 +385,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6727", 
+      "id": "1498", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Zhangbei", 
@@ -571,7 +411,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6728", 
+      "id": "1499", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Weichang Manzu Mengguzu Zizhixian", 
@@ -596,7 +437,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,12 +450,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6729", 
+      "id": "1500", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Weichang", 
@@ -621,7 +463,8 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,12 +476,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "6730", 
+      "id": "1501", 
       "properties": {
         "approvalDate": "2009-12-17", 
         "closingDate": "2016-06-30", 
         "commitmentAmount": 100000000.0, 
-        "disbursementAmount": 79422703.14, 
+        "disbursementAmount": 65619191.81, 
         "id": "40641-013", 
         "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
         "locationName": "Pingquan Xian", 
@@ -646,7 +489,190 @@
           "Multisector"
         ], 
         "status": "Implementation", 
-        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ"
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          118.68417, 
+          41.0025
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1502", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "Pingquan", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          118.7, 
+          41.05
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1503", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "L\u00fczhangzi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.66667, 
+          41.98333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1504", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "Longtoushan", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          117.725, 
+          41.31167
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1505", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "Longhua", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.38333, 
+          40.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1506", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "Huai\u2019an Xian", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          115.20111, 
+          40.40028
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1507", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "Caobu", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          114.56865, 
+          38.17681
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1508", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 65619191.81, 
+        "id": "40641-013", 
+        "info": "The impact of the Project is sustained socioeconomic growth and improved health and living conditions in small cities and towns in Hebei province", 
+        "locationName": "Jiaochangzhuang", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "HEBEI SMALL CITIES & TOWNS DEVELOPMENT DEMONSTRATION SECTOR PROJ", 
+        "website": "http://www.adb.org/projects/40641-013/main"
       }, 
       "type": "Feature"
     }
@@ -659,6 +685,12 @@
       134.7725793870002, 
       53.56944447900004
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "China, People's Republic of"
   }, 
   "type": "FeatureCollection"

@@ -3,92 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          100.71806, 
-          46.19444
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4046", 
-      "properties": {
-        "approvalDate": "2007-08-27", 
-        "closingDate": "2015-07-01", 
-        "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
-        "id": "37697-013", 
-        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
-        "locationName": "Bayanhongor", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          113.27917, 
-          46.68056
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4047", 
-      "properties": {
-        "approvalDate": "2007-08-27", 
-        "closingDate": "2015-07-01", 
-        "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
-        "id": "37697-013", 
-        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
-        "locationName": "Baruun-Urt", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.775, 
-          46.26389
-        ], 
-        "type": "Point"
-      }, 
-      "id": "4048", 
-      "properties": {
-        "approvalDate": "2007-08-27", 
-        "closingDate": "2015-07-01", 
-        "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
-        "id": "37697-013", 
-        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
-        "locationName": "Arvayheer", 
-        "sectors": [
-          "Transport"
-        ], 
-        "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           96.25833, 
           46.37222
         ], 
         "type": "Point"
       }, 
-      "id": "4049", 
+      "id": "6663", 
       "properties": {
         "approvalDate": "2007-08-27", 
         "closingDate": "2015-07-01", 
         "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
+        "disbursementAmount": 25164705.59, 
         "id": "37697-013", 
         "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
         "locationName": "Altai", 
@@ -96,7 +21,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -108,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4050", 
+      "id": "6664", 
       "properties": {
         "approvalDate": "2007-08-27", 
         "closingDate": "2015-07-01", 
         "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
+        "disbursementAmount": 25164705.59, 
         "id": "37697-013", 
         "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
         "locationName": "Ulan Bator", 
@@ -121,7 +47,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -133,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4051", 
+      "id": "6665", 
       "properties": {
         "approvalDate": "2007-08-27", 
         "closingDate": "2015-07-01", 
         "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
+        "disbursementAmount": 25164705.59, 
         "id": "37697-013", 
         "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
         "locationName": "Erdenet", 
@@ -146,7 +73,8 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -158,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4052", 
+      "id": "6666", 
       "properties": {
         "approvalDate": "2007-08-27", 
         "closingDate": "2015-07-01", 
         "commitmentAmount": 35230000.0, 
-        "disbursementAmount": 32110209.06, 
+        "disbursementAmount": 25164705.59, 
         "id": "37697-013", 
         "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
         "locationName": "Bulgan", 
@@ -171,7 +99,86 @@
           "Transport"
         ], 
         "status": "Implementation", 
-        "title": "URBAN DEVELOPMENT SECTOR PROJECT"
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.71806, 
+          46.19444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6667", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Bayanhongor", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          113.27917, 
+          46.68056
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6668", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Baruun-Urt", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.775, 
+          46.26389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6669", 
+      "properties": {
+        "approvalDate": "2007-08-27", 
+        "closingDate": "2015-07-01", 
+        "commitmentAmount": 35230000.0, 
+        "disbursementAmount": 25164705.59, 
+        "id": "37697-013", 
+        "info": "The objectives of the Project is to improve the living conditions and the quality of life of the urban population.\n\nThe Project follows a sector lending approach and supports sector policies on urban\u2026", 
+        "locationName": "Arvayheer", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "URBAN DEVELOPMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/37697-013/main"
       }, 
       "type": "Feature"
     }
@@ -184,6 +191,12 @@
       119.90702681500011, 
       52.129584046000076
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Mongolia"
   }, 
   "type": "FeatureCollection"

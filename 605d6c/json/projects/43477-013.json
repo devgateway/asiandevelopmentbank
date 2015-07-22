@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4697", 
+      "id": "976", 
       "properties": {
         "approvalDate": "2012-11-29", 
         "closingDate": "2014-06-30", 
@@ -21,7 +21,8 @@
           "Finance"
         ], 
         "status": "Completion", 
-        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM"
+        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/43477-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4698", 
+      "id": "977", 
       "properties": {
         "approvalDate": "2012-11-29", 
         "closingDate": "2015-03-31", 
         "commitmentAmount": 155000000.0, 
-        "disbursementAmount": 150251447.04999998, 
+        "disbursementAmount": 25246104.95, 
         "id": "43477-013", 
         "info": "The program's impact will be a well functioning financial system that supports basic capital and investment needs, as well as Bangladesh's longer-term economic objectives", 
         "locationName": "Bangladesh", 
         "sectors": [
           "Finance"
         ], 
-        "status": "Completion", 
-        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM(SF)"
+        "status": "Implementation", 
+        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM(SF)", 
+        "website": "http://www.adb.org/projects/43477-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "4699", 
+      "id": "978", 
       "properties": {
         "approvalDate": "2012-11-29", 
         "closingDate": "2015-03-31", 
         "commitmentAmount": 50000000.0, 
-        "disbursementAmount": 49525934.16, 
+        "disbursementAmount": 30295018.55, 
         "id": "43477-013", 
         "info": "The program's impact will be a well functioning financial system that supports basic capital and investment needs, as well as Bangladesh's longer-term economic objectives", 
         "locationName": "Bangladesh", 
         "sectors": [
           "Finance"
         ], 
-        "status": "Completion", 
-        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM"
+        "status": "Implementation", 
+        "title": "SECOND CAPITAL MARKET DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/43477-013/main"
       }, 
       "type": "Feature"
     }
@@ -84,6 +87,12 @@
       92.64285119700017, 
       26.623544007000064
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
     "name": "Bangladesh"
   }, 
   "type": "FeatureCollection"

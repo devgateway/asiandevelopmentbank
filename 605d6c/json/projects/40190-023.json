@@ -3,25 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          105.0, 
-          18.0
+          107.83333, 
+          16.16667
         ], 
         "type": "Point"
       }, 
-      "id": "1159", 
+      "id": "5265", 
       "properties": {
         "approvalDate": "2012-12-21", 
         "closingDate": "2019-09-30", 
         "commitmentAmount": 45000000.0, 
-        "disbursementAmount": 2790371.7, 
+        "disbursementAmount": 2213750.17, 
         "id": "40190-023", 
         "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
-        "locationName": "Lao People's Democratic Republic", 
+        "locationName": "Vietnam", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT", 
+        "website": "http://www.adb.org/projects/40190-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,20 +34,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1160", 
+      "id": "5266", 
       "properties": {
         "approvalDate": "2012-12-21", 
         "closingDate": "2019-09-30", 
         "commitmentAmount": 45000000.0, 
-        "disbursementAmount": 2790371.7, 
+        "disbursementAmount": 2213750.17, 
         "id": "40190-023", 
         "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
-        "locationName": "Tinh Tien Giang", 
+        "locationName": "T\u1ec9nh Ti\u1ec1n Giang", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT", 
+        "website": "http://www.adb.org/projects/40190-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1161", 
+      "id": "5267", 
       "properties": {
         "approvalDate": "2012-12-21", 
         "closingDate": "2019-09-30", 
         "commitmentAmount": 45000000.0, 
-        "disbursementAmount": 2790371.7, 
+        "disbursementAmount": 2213750.17, 
         "id": "40190-023", 
         "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
-        "locationName": "Go Cong", 
+        "locationName": "G\u00f2 C\u00f4ng", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT", 
+        "website": "http://www.adb.org/projects/40190-023/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,20 +86,73 @@
         ], 
         "type": "Point"
       }, 
-      "id": "1162", 
+      "id": "5268", 
       "properties": {
         "approvalDate": "2012-12-21", 
         "closingDate": "2019-09-30", 
         "commitmentAmount": 45000000.0, 
-        "disbursementAmount": 2790371.7, 
+        "disbursementAmount": 2213750.17, 
         "id": "40190-023", 
         "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
-        "locationName": "Tinh Dong Thap", 
+        "locationName": "T\u1ec9nh \u0110\u1ed3ng Th\u00e1p", 
         "sectors": [
           "Agriculture, natural resources and rural development"
         ], 
         "status": "Implementation", 
-        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT"
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT", 
+        "website": "http://www.adb.org/projects/40190-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          18.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5269", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2019-09-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 2213750.17, 
+        "id": "40190-023", 
+        "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
+        "locationName": "Lao People's Democratic Republic", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT", 
+        "website": "http://www.adb.org/projects/40190-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5270", 
+      "properties": {
+        "approvalDate": "2012-12-21", 
+        "closingDate": "2019-09-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 2213750.17, 
+        "id": "40190-023", 
+        "info": "The impact of the Project will be reduced economic losses resulting from floods and droughts", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "GREATER MEKONG SUBREGION FLOOD &DROUGHT RISK MANGMNT &MIT", 
+        "website": "http://www.adb.org/projects/40190-023/main"
       }, 
       "type": "Feature"
     }
@@ -109,7 +165,13 @@
       109.47242272200018, 
       23.366275127000122
     ], 
-    "name": "Vietnam"
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
   }, 
   "type": "FeatureCollection"
 }

@@ -3,290 +3,15 @@
     {
       "geometry": {
         "coordinates": [
-          101.5, 
-          18.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7248", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Xaignabouli", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.41667, 
-          18.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7249", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Vientiane Province", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.75, 
-          16.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7250", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Khoueng Savannakhet", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.25, 
-          15.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7251", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Salavan", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.33333, 
-          21.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7252", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Khoueng Phongsali", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.5, 
-          20.16667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7253", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Khoueng Oudomxai", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.66667, 
-          20.25
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7254", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Luang Prabang Province", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.33333, 
-          20.91667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7255", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Louangnamtha", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.33333, 
-          17.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7256", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Khammouan", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.0, 
-          20.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7257", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Houaphan", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.0, 
-          14.75
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7258", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Champasak", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           102.6, 
           17.96667
         ], 
         "type": "Point"
       }, 
-      "id": "7259", 
+      "id": "6246", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
@@ -296,7 +21,8 @@
           "Health"
         ], 
         "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -308,10 +34,10 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7260", 
+      "id": "6247", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
         "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
@@ -321,132 +47,8 @@
           "Health"
         ], 
         "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.0, 
-          14.66667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7261", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Attapu", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.0, 
-          15.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7262", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Khoueng Xekong", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          100.5, 
-          20.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7263", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Khoueng Bokeo", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.33333, 
-          18.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7264", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Bolikhamxai", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.66667, 
-          18.08333
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7265", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2012-08-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 10000000.0, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Vientiane Prefecture", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Completion", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM"
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -458,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7266", 
+      "id": "6248", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Xaignabouli", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -483,20 +86,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7267", 
+      "id": "6249", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Vientiane Province", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -508,20 +112,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7268", 
+      "id": "6250", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Khoueng Savannakhet", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -533,20 +138,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7269", 
+      "id": "6251", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Salavan", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -558,20 +164,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7270", 
+      "id": "6252", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Khoueng Phongsali", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -583,20 +190,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7271", 
+      "id": "6253", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Khoueng Oudomxai", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -608,20 +216,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7272", 
+      "id": "6254", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Luang Prabang Province", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -633,20 +242,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7273", 
+      "id": "6255", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Louangnamtha", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -658,20 +268,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7274", 
+      "id": "6256", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Khammouan", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,20 +294,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7275", 
+      "id": "6257", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Houaphan", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,70 +320,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7276", 
+      "id": "6258", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Champasak", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.6, 
-          17.96667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7277", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Vientiane", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.5, 
-          19.41667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7278", 
-      "properties": {
-        "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
-        "id": "41376-022", 
-        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
-        "locationName": "Xiangkhouang", 
-        "sectors": [
-          "Health"
-        ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,20 +346,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7279", 
+      "id": "6259", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Attapu", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,20 +372,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7280", 
+      "id": "6260", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Khoueng Xekong", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,20 +398,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7281", 
+      "id": "6261", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Khoueng Bokeo", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,20 +424,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7282", 
+      "id": "6262", 
       "properties": {
         "approvalDate": "2009-11-23", 
-        "closingDate": "2015-06-30", 
+        "closingDate": "2012-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 10000000.0, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Bolikhamxai", 
         "sectors": [
           "Health"
         ], 
-        "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,12 +450,480 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7283", 
+      "id": "6263", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2012-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 10000000.0, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Vientiane Prefecture", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.6, 
+          17.96667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6264", 
       "properties": {
         "approvalDate": "2009-11-23", 
         "closingDate": "2015-06-30", 
         "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 9999999.999999998, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Vientiane", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.5, 
+          19.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6265", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Xiangkhouang", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          18.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6266", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Xaignabouli", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.41667, 
+          18.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6267", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Vientiane Province", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.75, 
+          16.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6268", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Khoueng Savannakhet", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.25, 
+          15.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6269", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Salavan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.33333, 
+          21.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6270", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Khoueng Phongsali", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.5, 
+          20.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6271", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Khoueng Oudomxai", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.66667, 
+          20.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6272", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Luang Prabang Province", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.33333, 
+          20.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6273", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Louangnamtha", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.33333, 
+          17.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6274", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Khammouan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.0, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6275", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Houaphan", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.0, 
+          14.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6276", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Champasak", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          14.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6277", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Attapu", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          15.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6278", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Khoueng Xekong", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.5, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6279", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Khoueng Bokeo", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.33333, 
+          18.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6280", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
+        "id": "41376-022", 
+        "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
+        "locationName": "Bolikhamxai", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.66667, 
+          18.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6281", 
+      "properties": {
+        "approvalDate": "2009-11-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 9521360.149999999, 
         "id": "41376-022", 
         "info": "The Health Sector Development Program (the HSDP), consisting of a program grant for policy reforms and an accompanying project grant, will support the Government's 7th Health Sector Development Plan,\u2026", 
         "locationName": "Vientiane Prefecture", 
@@ -896,7 +931,8 @@
           "Health"
         ], 
         "status": "Implementation", 
-        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT"
+        "title": "HEALTH SECTOR DEVELOPMENT PROGRAM - PROJECT GRANT", 
+        "website": "http://www.adb.org/projects/41376-022/main"
       }, 
       "type": "Feature"
     }
@@ -909,6 +945,12 @@
       107.66436324000011, 
       22.49604400700011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Lao PDR"
   }, 
   "type": "FeatureCollection"

@@ -8,7 +8,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2744", 
+      "id": "7380", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2016-03-30", 
@@ -16,12 +16,13 @@
         "disbursementAmount": 5235831.69, 
         "id": "37139-033", 
         "info": "The Project will assist in construction of the approximately 90 kilometer 400 KV D/C Loharinagpala-Koteshwar transmission\u2026", 
-        "locationName": "Uttarkashi", 
+        "locationName": "Uttark\u0101shi", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,7 +34,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2745", 
+      "id": "7381", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2016-03-30", 
@@ -41,12 +42,13 @@
         "disbursementAmount": 5235831.69, 
         "id": "37139-033", 
         "info": "The Project will assist in construction of the approximately 90 kilometer 400 KV D/C Loharinagpala-Koteshwar transmission\u2026", 
-        "locationName": "Tehri-Garhwal", 
+        "locationName": "Tehri-Garhw\u0101l", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,7 +60,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2746", 
+      "id": "7382", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2016-03-30", 
@@ -71,7 +73,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,7 +86,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "2747", 
+      "id": "7383", 
       "properties": {
         "approvalDate": "2009-02-25", 
         "closingDate": "2016-03-30", 
@@ -96,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2"
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

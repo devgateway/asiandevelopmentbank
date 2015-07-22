@@ -3,667 +3,17 @@
     {
       "geometry": {
         "coordinates": [
-          102.7515, 
-          20.73393
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7367", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Ngoy", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.72765, 
-          20.89077
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7368", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Namo", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.02338, 
-          16.53296
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7369", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Phin", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.73074, 
-          18.22568
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7370", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Khamkeut", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.84032, 
-          20.06257
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7371", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Houamuang", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.73128, 
-          20.35359
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7372", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Beng", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.31847, 
-          15.38199
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7373", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Dakchung", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.01088, 
-          14.56821
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7374", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Phouvong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.23158, 
-          15.02944
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7375", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Sanxai", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          107.04529, 
-          15.79886
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7376", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Khaleum", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          106.8748, 
-          16.35868
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7377", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Samouay", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.93677, 
-          16.94067
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7378", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Vilabouli", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.94077, 
-          17.30329
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7379", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Boualapha", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          105.29146, 
-          17.86886
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7380", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Na Kay", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          103.50898, 
-          19.27979
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7381", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Khoun", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.54561, 
-          19.93248
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7382", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Xam-Tai", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.95155, 
-          20.1739
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7383", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Nga", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          100.926, 
-          20.18744
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7384", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Pha Oudom", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          100.52639, 
-          20.67585
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7385", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Meung", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.41667, 
-          20.5
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7386", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Nale", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.0784, 
-          20.63194
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7387", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Viangphoukha", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          100.83104, 
-          20.98503
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7388", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Long", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          101.874, 
-          22.19586
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7389", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Gnot-Ou", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.18523, 
-          18.26282
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7390", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Sangthong", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          102.41, 
-          21.57
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7391", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Samphanh", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          104.34265, 
-          20.34447
-        ], 
-        "type": "Point"
-      }, 
-      "id": "7392", 
-      "properties": {
-        "approvalDate": "2011-11-15", 
-        "closingDate": "2019-06-30", 
-        "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
-        "id": "40368-022", 
-        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
-        "locationName": "Muang Viengxay", 
-        "sectors": [
-          "Education"
-        ], 
-        "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           106.33757, 
           16.76113
         ], 
         "type": "Point"
       }, 
-      "id": "7393", 
+      "id": "6403", 
       "properties": {
         "approvalDate": "2011-11-15", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Xepon", 
@@ -671,7 +21,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -683,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7394", 
+      "id": "6404", 
       "properties": {
         "approvalDate": "2011-11-15", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Xaignabouli", 
@@ -696,7 +47,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -708,12 +60,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7395", 
+      "id": "6405", 
       "properties": {
         "approvalDate": "2011-11-15", 
         "closingDate": "2019-06-30", 
         "commitmentAmount": 30000000.0, 
-        "disbursementAmount": 16926214.509999998, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Nong", 
@@ -721,7 +73,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -733,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7396", 
+      "id": "6406", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Ngoy", 
@@ -746,7 +99,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -758,12 +112,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7397", 
+      "id": "6407", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Namo", 
@@ -771,7 +125,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -783,12 +138,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7398", 
+      "id": "6408", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Phin", 
@@ -796,7 +151,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -808,12 +164,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7399", 
+      "id": "6409", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Khamkeut", 
@@ -821,7 +177,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -833,12 +190,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7400", 
+      "id": "6410", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Houamuang", 
@@ -846,7 +203,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -858,12 +216,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7401", 
+      "id": "6411", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Beng", 
@@ -871,7 +229,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -883,12 +242,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7402", 
+      "id": "6412", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Dakchung", 
@@ -896,7 +255,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -908,12 +268,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7403", 
+      "id": "6413", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Phouvong", 
@@ -921,7 +281,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -933,12 +294,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7404", 
+      "id": "6414", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Sanxai", 
@@ -946,7 +307,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -958,12 +320,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7405", 
+      "id": "6415", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Khaleum", 
@@ -971,7 +333,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -983,12 +346,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7406", 
+      "id": "6416", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Samouay", 
@@ -996,7 +359,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1008,12 +372,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7407", 
+      "id": "6417", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Vilabouli", 
@@ -1021,7 +385,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1033,12 +398,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7408", 
+      "id": "6418", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Boualapha", 
@@ -1046,7 +411,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1058,12 +424,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7409", 
+      "id": "6419", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Na Kay", 
@@ -1071,7 +437,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1083,12 +450,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7410", 
+      "id": "6420", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Khoun", 
@@ -1096,7 +463,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1108,12 +476,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7411", 
+      "id": "6421", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Xam-Tai", 
@@ -1121,7 +489,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1133,12 +502,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7412", 
+      "id": "6422", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Nga", 
@@ -1146,7 +515,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1158,12 +528,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7413", 
+      "id": "6423", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Pha Oudom", 
@@ -1171,7 +541,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1183,12 +554,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7414", 
+      "id": "6424", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Meung", 
@@ -1196,7 +567,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1208,12 +580,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7415", 
+      "id": "6425", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Nale", 
@@ -1221,7 +593,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1233,12 +606,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7416", 
+      "id": "6426", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Viangphoukha", 
@@ -1246,7 +619,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1258,12 +632,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7417", 
+      "id": "6427", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Long", 
@@ -1271,7 +645,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1283,12 +658,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7418", 
+      "id": "6428", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Gnot-Ou", 
@@ -1296,7 +671,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1308,12 +684,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7419", 
+      "id": "6429", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Sangthong", 
@@ -1321,7 +697,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1333,12 +710,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7420", 
+      "id": "6430", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Samphanh", 
@@ -1346,7 +723,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1358,12 +736,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7421", 
+      "id": "6431", 
       "properties": {
         "approvalDate": "2011-11-15", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 10000000.0, 
-        "disbursementAmount": 4869798.78, 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 12580339.41, 
         "id": "40368-022", 
         "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
         "locationName": "Muang Viengxay", 
@@ -1371,7 +749,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1383,7 +762,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7422", 
+      "id": "6432", 
       "properties": {
         "approvalDate": "2011-11-15", 
         "closingDate": "2016-12-31", 
@@ -1396,7 +775,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1408,7 +788,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7423", 
+      "id": "6433", 
       "properties": {
         "approvalDate": "2011-11-15", 
         "closingDate": "2016-12-31", 
@@ -1421,7 +801,8 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }, 
@@ -1433,7 +814,7 @@
         ], 
         "type": "Point"
       }, 
-      "id": "7424", 
+      "id": "6434", 
       "properties": {
         "approvalDate": "2011-11-15", 
         "closingDate": "2016-12-31", 
@@ -1446,7 +827,684 @@
           "Education"
         ], 
         "status": "Implementation", 
-        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM"
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.7515, 
+          20.73393
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6435", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Ngoy", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.72765, 
+          20.89077
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6436", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Namo", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.02338, 
+          16.53296
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6437", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Phin", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.73074, 
+          18.22568
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6438", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Khamkeut", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.84032, 
+          20.06257
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6439", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Houamuang", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.73128, 
+          20.35359
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6440", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Beng", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.31847, 
+          15.38199
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6441", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Dakchung", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.01088, 
+          14.56821
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6442", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Phouvong", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.23158, 
+          15.02944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6443", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Sanxai", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.04529, 
+          15.79886
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6444", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Khaleum", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.8748, 
+          16.35868
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6445", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Samouay", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.93677, 
+          16.94067
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6446", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Vilabouli", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.94077, 
+          17.30329
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6447", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Boualapha", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.29146, 
+          17.86886
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6448", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Na Kay", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.50898, 
+          19.27979
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6449", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Khoun", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.54561, 
+          19.93248
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6450", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Xam-Tai", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.95155, 
+          20.1739
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6451", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Nga", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.926, 
+          20.18744
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6452", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Pha Oudom", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.52639, 
+          20.67585
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6453", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Meung", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.41667, 
+          20.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6454", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Nale", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.0784, 
+          20.63194
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6455", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Viangphoukha", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          100.83104, 
+          20.98503
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6456", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Long", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.874, 
+          22.19586
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6457", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Gnot-Ou", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.18523, 
+          18.26282
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6458", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Sangthong", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.41, 
+          21.57
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6459", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Samphanh", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.34265, 
+          20.34447
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6460", 
+      "properties": {
+        "approvalDate": "2011-11-15", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 4869798.78, 
+        "id": "40368-022", 
+        "info": "The proposed Secondary Education Sector Development Program (SESDP) is a sector development program (SDP), consisting of (i) a program loan; and (ii) a project grant", 
+        "locationName": "Muang Viengxay", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SECONDARY EDUCATION SECTOR DEVELOPMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/40368-022/main"
       }, 
       "type": "Feature"
     }
@@ -1459,6 +1517,12 @@
       107.66436324000011, 
       22.49604400700011
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-la.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
     "name": "Lao PDR"
   }, 
   "type": "FeatureCollection"

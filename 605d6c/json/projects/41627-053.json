@@ -8,12 +8,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3502", 
+      "id": "8912", 
       "properties": {
         "approvalDate": "2012-11-19", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 30938179.810000002, 
+        "disbursementAmount": 30545177.35, 
         "id": "41627-053", 
         "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
         "locationName": "Kinnaur", 
@@ -21,7 +21,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4", 
+        "website": "http://www.adb.org/projects/41627-053/main"
       }, 
       "type": "Feature"
     }, 
@@ -33,12 +34,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3503", 
+      "id": "8913", 
       "properties": {
         "approvalDate": "2012-11-19", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 30938179.810000002, 
+        "disbursementAmount": 30545177.35, 
         "id": "41627-053", 
         "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
         "locationName": "Kalpa", 
@@ -46,7 +47,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4", 
+        "website": "http://www.adb.org/projects/41627-053/main"
       }, 
       "type": "Feature"
     }, 
@@ -58,20 +60,21 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3504", 
+      "id": "8914", 
       "properties": {
         "approvalDate": "2012-11-19", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 30938179.810000002, 
+        "disbursementAmount": 30545177.35, 
         "id": "41627-053", 
         "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
-        "locationName": "State of Himachal Pradesh", 
+        "locationName": "State of Him\u0101chal Pradesh", 
         "sectors": [
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4", 
+        "website": "http://www.adb.org/projects/41627-053/main"
       }, 
       "type": "Feature"
     }, 
@@ -83,12 +86,12 @@
         ], 
         "type": "Point"
       }, 
-      "id": "3505", 
+      "id": "8915", 
       "properties": {
         "approvalDate": "2012-11-19", 
         "closingDate": "2018-06-30", 
         "commitmentAmount": 315000000.0, 
-        "disbursementAmount": 30938179.810000002, 
+        "disbursementAmount": 30545177.35, 
         "id": "41627-053", 
         "info": "Output 1: Hydroelectric Power Capacity Addition:\nThe ADB Tranche 4 loan will fund the turn-key civil works contract for the Shongtong Karcham Hydroelectric project", 
         "locationName": "Sutlej River", 
@@ -96,7 +99,8 @@
           "Energy"
         ], 
         "status": "Implementation", 
-        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4"
+        "title": "HIMACHAL PRADESH CLEAN ENERGY DEVELOPMENT INVESTMENT PROGRAM T-4", 
+        "website": "http://www.adb.org/projects/41627-053/main"
       }, 
       "type": "Feature"
     }
@@ -109,6 +113,12 @@
       97.36225305200006, 
       35.49540557900009
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
     "name": "India"
   }, 
   "type": "FeatureCollection"

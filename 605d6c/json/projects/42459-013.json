@@ -3,350 +3,26 @@
     {
       "geometry": {
         "coordinates": [
-          79.9319, 
-          8.0454
-        ], 
-        "type": "Point"
-      }, 
-      "id": "228", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Puttalam", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.3352, 
-          6.9314
-        ], 
-        "type": "Point"
-      }, 
-      "id": "229", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Kegalle", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.2995, 
-          6.6482
-        ], 
-        "type": "Point"
-      }, 
-      "id": "230", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Ratnapura", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.2742, 
-          6.1958
-        ], 
-        "type": "Point"
-      }, 
-      "id": "231", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Galle", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.2865, 
-          6.2765
-        ], 
-        "type": "Point"
-      }, 
-      "id": "232", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Hambantota", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.56667, 
-          6.01667
-        ], 
-        "type": "Point"
-      }, 
-      "id": "233", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Matara", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.0468, 
-          7.1363
-        ], 
-        "type": "Point"
-      }, 
-      "id": "234", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Badulla", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          81.3562, 
-          7.0106
-        ], 
-        "type": "Point"
-      }, 
-      "id": "235", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Moneragala", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          79.8851, 
-          6.8532
-        ], 
-        "type": "Point"
-      }, 
-      "id": "236", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Colombo", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.1333, 
-          6.7976
-        ], 
-        "type": "Point"
-      }, 
-      "id": "237", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Kalutara", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.41306, 
-          8.31223
-        ], 
-        "type": "Point"
-      }, 
-      "id": "238", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "North Central", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.9775, 
-          7.2182
-        ], 
-        "type": "Point"
-      }, 
-      "id": "239", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Kandy", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
           80.93333, 
           7.51667
         ], 
         "type": "Point"
       }, 
-      "id": "240", 
+      "id": "3691", 
       "properties": {
         "approvalDate": "2011-10-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
+        "disbursementAmount": 8824684.03, 
         "id": "42459-013", 
         "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Matale", 
+        "locationName": "Wilgomuwa", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
-      }, 
-      "type": "Feature"
-    }, 
-    {
-      "geometry": {
-        "coordinates": [
-          80.3609, 
-          8.2027
-        ], 
-        "type": "Point"
-      }, 
-      "id": "241", 
-      "properties": {
-        "approvalDate": "2011-10-21", 
-        "closingDate": "2016-12-31", 
-        "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
-        "id": "42459-013", 
-        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Anuradhapura", 
-        "sectors": [
-          "Water supply and other urban infrastructure and services"
-        ], 
-        "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -358,20 +34,125 @@
         ], 
         "type": "Point"
       }, 
-      "id": "242", 
+      "id": "3692", 
       "properties": {
         "approvalDate": "2011-10-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
+        "disbursementAmount": 8824684.03, 
         "id": "42459-013", 
         "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Polonnaruwa", 
+        "locationName": "Welikanda", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.2865, 
+          6.2765
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3693", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Tissamaharama", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.56667, 
+          6.01667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3694", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Thihagoda", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.3562, 
+          7.0106
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3695", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Thampalawela", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.9319, 
+          8.0454
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3696", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Puttalam District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -383,20 +164,47 @@
         ], 
         "type": "Point"
       }, 
-      "id": "243", 
+      "id": "3697", 
       "properties": {
         "approvalDate": "2011-10-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
+        "disbursementAmount": 8824684.03, 
         "id": "42459-013", 
         "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Kurunegala", 
+        "locationName": "Polpithigama", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.0, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3698", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Polonnaruwa District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
       }, 
       "type": "Feature"
     }, 
@@ -408,20 +216,2127 @@
         ], 
         "type": "Point"
       }, 
-      "id": "244", 
+      "id": "3699", 
       "properties": {
         "approvalDate": "2011-10-21", 
         "closingDate": "2016-12-31", 
         "commitmentAmount": 59000000.0, 
-        "disbursementAmount": 11433144.48, 
+        "disbursementAmount": 8824684.03, 
         "id": "42459-013", 
         "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
-        "locationName": "Nuwara Eliya", 
+        "locationName": "Nuwara Eliya District", 
         "sectors": [
           "Water supply and other urban infrastructure and services"
         ], 
         "status": "Implementation", 
-        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT"
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.65417, 
+          7.70472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3700", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Naula", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2742, 
+          6.1958
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3701", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Nagoda", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.33333, 
+          6.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3702", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Moneragala District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.9775, 
+          7.2182
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3703", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Minipe", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.0468, 
+          7.1363
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3704", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Meegahakivula", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.1333, 
+          6.7976
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3705", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Menerigama", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.1128, 
+          6.5204
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3706", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Matugama", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.7073, 
+          7.6598
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3707", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Matale District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.3623, 
+          7.0043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3708", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Makulla", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0626, 
+          6.6398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3709", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Madurawala", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.2001, 
+          6.3434
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3710", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Lunugamwehera", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0794, 
+          6.2704
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3711", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Karandeniya", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.7073, 
+          7.3044
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3712", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kandy District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.56667, 
+          6.08333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3713", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kamburupitiya", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.1026, 
+          6.6031
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3714", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kalutara District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.3609, 
+          8.2027
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3715", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Galnewa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.25, 
+          6.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3716", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Galle District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.8202, 
+          8.5678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3717", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Galenbindunuwewa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0446, 
+          6.5399
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3718", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Dodangoda", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.8851, 
+          6.8532
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3719", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Divulpitiya", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.06667, 
+          7.93333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3720", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Divulana", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.3352, 
+          6.9314
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3721", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Deraniyagala", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2624, 
+          6.9776
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3722", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Dehiowita", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.79528, 
+          7.57583
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3723", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Chilaw", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.25, 
+          7.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3724", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Badulla District", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.41306, 
+          8.31223
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3725", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Anuradhapura", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4875, 
+          7.0132
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3726", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ambagamuwa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4359, 
+          7.4425
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3727", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Mawathagama Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5903, 
+          7.334
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3728", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Harispattuwa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4903, 
+          7.3508
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3729", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Thumpane Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2181, 
+          7.3316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3730", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Alawwa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.6764, 
+          7.5605
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3731", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ambanganga Korale Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.6832, 
+          7.4874
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3732", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Rattota Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4422, 
+          7.1665
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3733", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Aranayaka Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0926, 
+          8.0191
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3734", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Nawagattegama Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2225, 
+          8.1033
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3735", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ihala Giribawa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2995, 
+          6.6482
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3736", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ayagama Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.358, 
+          6.0358
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3737", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Imaduwa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.8473, 
+          7.6918
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3738", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Arachchikattuwa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.1343, 
+          7.2261
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3739", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ridimaliyadda South", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.8029, 
+          6.3688
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3740", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Embilipitiya Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.9581, 
+          7.6135
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3741", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Bingiriya Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.9484, 
+          7.4792
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3742", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Udubaddawa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.7231, 
+          8.1804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3743", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kalpitiya Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.3634, 
+          7.1023
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3744", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Bulathkohupitiya Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2186, 
+          7.0689
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3745", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ruwanwella Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.3613, 
+          7.0354
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3746", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Yatiyantota Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.7337, 
+          6.7208
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3747", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Imbulpe Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.7616, 
+          6.6213
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3748", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Balangoda Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4594, 
+          6.5715
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3749", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Nivithigala Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5153, 
+          6.6475
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3750", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Pelmadulla Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.1656, 
+          6.5108
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3751", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Agalawatta Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.2749, 
+          6.5088
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3752", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Palinda Nuwara Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.178, 
+          6.4118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3753", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Walallawita Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5458, 
+          6.5331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3754", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kahawatta Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.673, 
+          6.3923
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3755", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kolonna Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4137, 
+          6.36
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3756", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Neluwa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5047, 
+          8.09
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3757", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ipalogama Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.002, 
+          6.8265
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3758", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Bandarawela Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.9225, 
+          6.9652
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3759", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Uva Paranagama Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.2174, 
+          6.8724
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3760", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Badalkumbura Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.977, 
+          6.714
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3761", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Haldummulla Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.6116, 
+          6.2738
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3762", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Pasgoda Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.6858, 
+          6.2501
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3763", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Katuwana Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4729, 
+          6.2434
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3764", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Pitabeddara Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.649, 
+          6.0988
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3765", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Hakmana Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.586, 
+          6.1479
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3766", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Mulatiyana Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5088, 
+          6.1188
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3767", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Aturaliya Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4435, 
+          6.1374
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3768", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Akuressa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.1113, 
+          6.2077
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3769", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Hambantota Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.0087, 
+          6.2991
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3770", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Suriyawewa Division", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.4831, 
+          6.5524
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3771", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kataragama", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.0499, 
+          7.4681
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3772", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kuliyapitiya", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.7119, 
+          7.3664
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3773", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Panwila", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.3132, 
+          7.2396
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3774", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Galigamuwa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.5763, 
+          7.5636
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3775", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Yatawatta", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.4936, 
+          7.5383
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3776", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Ridigama", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.6759, 
+          8.6319
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3777", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Kebitigollewa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.8271, 
+          8.5796
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3778", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Horowupotana", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.541, 
+          7.0448
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3779", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Siyambalanduwa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          80.7625, 
+          8.845
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3780", 
+      "properties": {
+        "approvalDate": "2011-10-21", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 59000000.0, 
+        "disbursementAmount": 8824684.03, 
+        "id": "42459-013", 
+        "info": "The project will improve the effective delivery of local infrastructure and services by local authorities in less-developed areas of Sri Lanka", 
+        "locationName": "Padaviya Divisional Secretariat", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "LOCAL GOVERNMENT ENHANCEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/42459-013/main"
       }, 
       "type": "Feature"
     }
@@ -434,6 +2349,12 @@
       81.89031009200008, 
       9.829575914000145
     ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
     "name": "Sri Lanka"
   }, 
   "type": "FeatureCollection"
