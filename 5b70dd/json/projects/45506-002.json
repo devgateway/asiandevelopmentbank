@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          98.51736, 
+          39.74318
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1920", 
+      "properties": {
+        "approvalDate": "2013-08-06", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 10000000.0, 
+        "id": "45506-002", 
+        "info": "The project aims to promote environmentally sustainable and socioeconomically inclusive urban development in Jiuquan, Gansu province, by upgrading urban infrastructure and services", 
+        "locationName": "Jiuquan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "GANSU JIUQUAN INTEGRATED URBAN ENVIRONMENT IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/45506-002/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

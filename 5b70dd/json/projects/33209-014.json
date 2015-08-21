@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2598", 
+      "properties": {
+        "approvalDate": "2014-05-16", 
+        "closingDate": "2021-01-31", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 1200000.0, 
+        "id": "33209-014", 
+        "info": "Additional financing will continue to focus on rehabilitating and extending the irrigation coverage of farmer-managed irrigation systems in the central and eastern development regions", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "COMMUNITY-MANAGED IRRIGATED AGRICULTURE SECTOR PROJ-ADDL FINANCIN"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-07-15 16:32:51", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-30 18:13:18"
+    }, 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}

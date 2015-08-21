@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.0, 
+          41.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "226", 
+      "properties": {
+        "approvalDate": "2010-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 16700000.0, 
+        "disbursementAmount": 6007739.75, 
+        "id": "43456-023", 
+        "info": "While the entire power sector needs modernization, the Government places highest priority on loss reduction and strengthening governance", 
+        "locationName": "Kyrgyzstan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "POWER SECTOR IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/43456-023/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

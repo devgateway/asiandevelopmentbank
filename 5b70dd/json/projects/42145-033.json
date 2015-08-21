@@ -1,0 +1,99 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          43.85889, 
+          40.33694
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4010", 
+      "properties": {
+        "approvalDate": "2011-05-30", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 170000000.0, 
+        "disbursementAmount": 31035159.809999995, 
+        "id": "42145-033", 
+        "info": "Project 2 of the investment program will contribute to socioeconomic development in Armenia and expanded regional trade", 
+        "locationName": "Talin", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH-SOUTH ROAD CORRIDOR INVESTMENT PROGRAM - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/42145-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          44.36204, 
+          40.2991
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4011", 
+      "properties": {
+        "approvalDate": "2011-05-30", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 170000000.0, 
+        "disbursementAmount": 31035159.809999995, 
+        "id": "42145-033", 
+        "info": "Project 2 of the investment program will contribute to socioeconomic development in Armenia and expanded regional trade", 
+        "locationName": "Ashtarak", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH-SOUTH ROAD CORRIDOR INVESTMENT PROGRAM - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/42145-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          44.16667, 
+          40.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4012", 
+      "properties": {
+        "approvalDate": "2011-05-30", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 170000000.0, 
+        "disbursementAmount": 31035159.809999995, 
+        "id": "42145-033", 
+        "info": "Project 2 of the investment program will contribute to socioeconomic development in Armenia and expanded regional trade", 
+        "locationName": "Aragatsotni Marz", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-NORTH-SOUTH ROAD CORRIDOR INVESTMENT PROGRAM - TRANCHE 2", 
+        "website": "http://www.adb.org/projects/42145-033/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AM", 
+  "properties": {
+    "bounds": [
+      43.436293986000095, 
+      38.86370127400009, 
+      46.602612346000086, 
+      41.29045237300015
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-am.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Armenia"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          64.57005, 
+          31.82089
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10458", 
+      "properties": {
+        "approvalDate": "2012-01-21", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 43000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42094-042", 
+        "info": "The government requested ADB to finance the Gereshk Electricity Services Improvement Project", 
+        "locationName": "Gereshk", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-T", 
+        "website": "http://www.adb.org/projects/42094-042/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

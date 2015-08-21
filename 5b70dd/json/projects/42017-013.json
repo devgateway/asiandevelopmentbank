@@ -1,0 +1,151 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          128.87529, 
+          47.72143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1605", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 190386282.91, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Yichun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.16667, 
+          48.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1606", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 190386282.91, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Wudalianchi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.9677, 
+          49.34575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1607", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 190386282.91, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Nenjiang Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.21774, 
+          49.17414
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1608", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 190386282.91, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Nenjiang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.85, 
+          48.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1609", 
+      "properties": {
+        "approvalDate": "2010-07-02", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 200000000.0, 
+        "disbursementAmount": 190386282.91, 
+        "id": "42017-013", 
+        "info": "The project is located in the northwest of Heilongjiang province", 
+        "locationName": "Longzhen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND HEILONGJIANG ROAD NETWORK DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/42017-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

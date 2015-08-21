@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2018", 
+      "properties": {
+        "approvalDate": "2009-11-27", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 45100000.0, 
+        "disbursementAmount": 21196609.159999996, 
+        "id": "41022-022", 
+        "info": "The Project has three components", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND SMALL TOWNS WATER SUPPLY AND SANITATION SEC", 
+        "website": "http://www.adb.org/projects/41022-022/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          159.0, 
+          -8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "342", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Solomon Islands", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF", 
+        "website": "http://www.adb.org/projects/43381-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          161.0, 
+          -9.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "343", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Malaita Province", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF", 
+        "website": "http://www.adb.org/projects/43381-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          160.17562, 
+          -9.61933
+        ], 
+        "type": "Point"
+      }, 
+      "id": "344", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Guadalcanal Island", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF", 
+        "website": "http://www.adb.org/projects/43381-012/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          161.78517, 
+          -10.55751
+        ], 
+        "type": "Point"
+      }, 
+      "id": "345", 
+      "properties": {
+        "approvalDate": "2009-12-01", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 15000000.0, 
+        "disbursementAmount": 14999970.110000001, 
+        "id": "43381-012", 
+        "info": "To make the national network of provincial and secondary roads more efficient and effective the Solomon Islands Second Road Improvement (Sector) Project will (i) replace or upgrade about 30 water\u2026", 
+        "locationName": "Makira-Ulawa Province", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "SECOND ROAD IMPROVEMENT (SECTOR) PROJECT - ADF", 
+        "website": "http://www.adb.org/projects/43381-012/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "SB", 
+  "properties": {
+    "bounds": [
+      155.50798587300008, 
+      -12.290622653999918, 
+      168.8258569670002, 
+      -6.599867445999806
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-sb.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Solomon Islands"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          91.87198, 
+          24.89904
+        ], 
+        "type": "Point"
+      }, 
+      "id": "982", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 7280637.81, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Sylhet", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1", 
+        "website": "http://www.adb.org/projects/42378-015/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          91.38084, 
+          24.25305
+        ], 
+        "type": "Point"
+      }, 
+      "id": "983", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 7280637.81, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Shahaji B\u0101z\u0101r", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1", 
+        "website": "http://www.adb.org/projects/42378-015/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.286, 
+          24.85867
+        ], 
+        "type": "Point"
+      }, 
+      "id": "984", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 7280637.81, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Bangab\u0101ri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1", 
+        "website": "http://www.adb.org/projects/42378-015/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.56439, 
+          22.80978
+        ], 
+        "type": "Point"
+      }, 
+      "id": "985", 
+      "properties": {
+        "approvalDate": "2013-04-03", 
+        "closingDate": "2018-12-31", 
+        "commitmentAmount": 185000000.0, 
+        "disbursementAmount": 7280637.81, 
+        "id": "42378-015", 
+        "info": "The proposed investment program includes three tranches encompassing generation expansion and associated transmission and distribution improvements.  Tranche 1 mainly focuses on generation expansion", 
+        "locationName": "Khulna", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:POWER SYSTEM EXPNSION&EFFCNCY IMPRVMNT INVSTMNT PROG-TRANCHE1", 
+        "website": "http://www.adb.org/projects/42378-015/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,151 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          72.75, 
+          26.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9024", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Jodhpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45224-003/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.00889, 
+          26.99382
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9025", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Jaisalmer", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45224-003/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.16667, 
+          28.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9026", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Bikaner", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45224-003/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          71.5, 
+          25.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9027", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Barmer", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45224-003/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          73.18177, 
+          27.35333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "9028", 
+      "properties": {
+        "approvalDate": "2014-09-12", 
+        "closingDate": "2016-12-31", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45224-003", 
+        "info": "Rajasthan completed the installation of about 1767 MW of wind and 45 MW of solar generation at the end of 2011 using surplus transmission capacity in the grid", 
+        "locationName": "Bhadla", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "RAJASTHAN RENEWABLE ENERGY TRANSMISSION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/45224-003/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

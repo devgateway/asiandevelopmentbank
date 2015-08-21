@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2211", 
+      "properties": {
+        "approvalDate": "2012-02-13", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 65000000.0, 
+        "disbursementAmount": 45000000.0, 
+        "id": "35174-082", 
+        "info": "The program is a follow-on to the ongoing Education Sector Program, subprogram III,  which supports the Government of Nepal's 7-year (FY2010 FY2016) School Sector Reform Program (SSRP)", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SCHOOL SECTOR PROGRAM", 
+        "website": "http://www.adb.org/projects/35174-082/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}

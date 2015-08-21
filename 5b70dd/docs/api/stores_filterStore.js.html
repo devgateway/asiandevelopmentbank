@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JSDoc: Source: stores/filterStore.js</title>
+
+  <script src="scripts/prettify/prettify.js"> </script>
+  <script src="scripts/prettify/lang-css.js"> </script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+  <link rel="stylesheet/less" type="text/css" href="styles/jsdoc.less" />
+  <script type="text/javascript" src="scripts/less.js"></script>
+</head>
+
+<body>
+
+  <div id="main">
+
+    <h1 class="page-title">Source: stores/filterStore.js</h1>
+
+    
+
+
+  
+  <section>
+    <article>
+      <pre class="prettyprint source"><code>'use strict';
+
+
+var Reflux = require('reflux');
+var getRouter = require('../router.jsx').get;
+var FilterActions = require('../actions/filterActions');
+var SectorStore = require('./sectorStore');
+var ApprovalYearStore = require('./approvalYearStore');
+var DGSet = require('../util').DGSet;
+var constants = require('../constants');
+
+
+/**
+ * Keep a list of all the filter values so we can do select all
+ */
+var filtersContents = {
+  'sectors': [],
+  'approvalYear': [],
+};
+SectorStore.listen(function(sectors) {
+  filtersContents.sectors = Object.keys(sectors);
+});
+ApprovalYearStore.listen(function(years) {
+  filtersContents.approvalYear = Object.keys(years);
+});
+
+
+var FilterStore = Reflux.createStore({
+
+  init: function() {
+    this.data = {
+      sectors: new DGSet([]),
+      status: new DGSet([]),
+      approvalYear: new DGSet([]),
+    };
+    this.listenTo(FilterActions.refreshFromURL, this.onRefreshFromURL);
+  },
+
+  onRefreshFromURL: function() {
+    var query = getRouter().getCurrentQuery();
+    constants.categoricalFilterIds.forEach(function(id) {
+      this.data[id] = new DGSet(query[id] || []);
+    }, this);
+    this.emit();
+  },
+
+  getData: function() {
+    return this.data;
+  },
+
+  get: function() {
+    var _this = this;
+    return Object.keys(this.data).reduce(function(emittable, dataKey) {
+      emittable[dataKey] = _this.data[dataKey].asArray();
+      return emittable;
+    }, {});
+  },
+
+  emit: function() {
+    this.trigger(this.get());
+  },
+
+  getInitialState: function() {
+    return this.get();
+  },
+
+});
+
+
+module.exports = FilterStore;
+</code></pre>
+    </article>
+  </section>
+
+
+
+
+
+  </div>
+  <div class="api-mobile-bar"></div>
+  <nav class="navigation">
+    <div class="api-button-wrapper">
+      <a class="api-nav-toggle" href="#">
+        <span></span>
+      </a>
+    </div>
+    <div class="scroll-wrapper">
+      <h2><a href="index.html">Index</a></h2><h3>Global</h3><ul><li><a href="global.html#DGSet">DGSet</a></li><li><a href="global.html#filtersContents">filtersContents</a></li><li><a href="global.html#objectEq">objectEq</a></li><li><a href="global.html#SectorObj">SectorObj</a></li><li><a href="global.html#updatesLength">updatesLength</a></li></ul>
+    </div>
+  </nav>
+
+  <br clear="both">
+  <script type="text/javascript" src="scripts/jquery.js"></script>
+  <script type="text/javascript" src="scripts/linenumber.js"> </script>
+  <script type="text/javascript" src="scripts/main.js"></script>
+
+</body>
+</html>

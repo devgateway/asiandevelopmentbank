@@ -1,0 +1,2933 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          121.88333, 
+          18.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1914", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2007-03-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 33800000.0, 
+        "disbursementAmount": 21222747.87, 
+        "id": "33276-013", 
+        "info": "The long-term goals of the Project are enhanced coastal resources and reduced poverty among municipal fisherfolks", 
+        "locationName": "Cagayan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED COASTAL RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33276-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.03333, 
+          15.76667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1915", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2007-03-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 33800000.0, 
+        "disbursementAmount": 21222747.87, 
+        "id": "33276-013", 
+        "info": "The long-term goals of the Project are enhanced coastal resources and reduced poverty among municipal fisherfolks", 
+        "locationName": "Zambales", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED COASTAL RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33276-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.75, 
+          12.18333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1916", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2007-03-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 33800000.0, 
+        "disbursementAmount": 21222747.87, 
+        "id": "33276-013", 
+        "info": "The long-term goals of the Project are enhanced coastal resources and reduced poverty among municipal fisherfolks", 
+        "locationName": "Masbate", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED COASTAL RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33276-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.86667, 
+          10.71667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1917", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2007-03-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 33800000.0, 
+        "disbursementAmount": 21222747.87, 
+        "id": "33276-013", 
+        "info": "The long-term goals of the Project are enhanced coastal resources and reduced poverty among municipal fisherfolks", 
+        "locationName": "Cebu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED COASTAL RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33276-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.61667, 
+          9.13333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1918", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2007-03-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 33800000.0, 
+        "disbursementAmount": 21222747.87, 
+        "id": "33276-013", 
+        "info": "The long-term goals of the Project are enhanced coastal resources and reduced poverty among municipal fisherfolks", 
+        "locationName": "Siquijor", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED COASTAL RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33276-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          126.38333, 
+          7.05
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1919", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2007-03-28", 
+        "closingDate": "2014-06-30", 
+        "commitmentAmount": 33800000.0, 
+        "disbursementAmount": 21222747.87, 
+        "id": "33276-013", 
+        "info": "The long-term goals of the Project are enhanced coastal resources and reduced poverty among municipal fisherfolks", 
+        "locationName": "Davao Oriental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED COASTAL RESOURCES MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/33276-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.11667, 
+          7.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1920", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Lanao Del Sur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0, 
+          6.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1921", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Sulu", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          119.49982, 
+          4.73215
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1922", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Tawi-Tawi", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.95, 
+          13.41667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1923", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Marinduque", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.08333, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1924", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Mindoro Occidental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.48901, 
+          12.56783
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1925", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Mindoro Oriental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          118.5549, 
+          9.42206
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1926", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Palawan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.52311, 
+          12.47943
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1927", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Romblon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.03333, 
+          6.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1928", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Basilan", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.66667, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1929", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Zamboanga Del Norte", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.88333, 
+          14.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1930", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Camarines Norte", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.48333, 
+          13.63333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1931", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Camarines Sur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.0421, 
+          12.9098
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1932", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Sorsogon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.83333, 
+          10.46667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1933", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Negros Occidental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.0, 
+          9.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1934", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Negros Oriental", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.31917, 
+          11.13
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1935", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Eastern Samar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.5704, 
+          11.2424
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1936", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Leyte", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.4634, 
+          12.4997
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1937", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Northern Samar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.93333, 
+          11.53333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1938", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Samar", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.36667, 
+          7.53333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1939", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Zamboanga Sibugay", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.3194, 
+          7.9043
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1940", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Zamboanga Del Sur", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.25, 
+          7.46667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1941", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Maguindanao", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.39264, 
+          7.10844
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1942", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2008-12-08", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 70000000.0, 
+        "disbursementAmount": 16139175.030000001, 
+        "id": "37749-013", 
+        "info": "The Project will support the Government's Medium Term Philippine Development Plan (MTPDP) 2005-1010", 
+        "locationName": "Maguindanao", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "AGRARIAN REFORM COMMUNITIES PROJECT II", 
+        "website": "http://www.adb.org/projects/37749-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.5, 
+          11.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1943", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Visayas", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.0, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1944", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Mindanao", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0, 
+          16.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1945", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Luzon", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.64722, 
+          8.48222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1946", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Cagayan de Oro", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.59306, 
+          16.41639
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1947", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "Baguio City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.97175, 
+          14.59455
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1948", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-03-02", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 31100000.0, 
+        "disbursementAmount": 24541148.94, 
+        "id": "42001-013", 
+        "info": "The Project will (i) retrofit about 40 government-owned office buildings with efficient lighting; (ii) procure 13 million compact fluorescent lamps (CFLs) for distribution to residential and other\u2026", 
+        "locationName": "National Capital Region", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "PHILIPPINE ENERGY EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/42001-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1949", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2009-04-27", 
+        "closingDate": "2015-08-19", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 19210743.79, 
+        "id": "41664-013", 
+        "info": "To help achieve health-related MDGs of the Philippines, the Project will address low and inefficient public expenditures in health care by mobilizing additional off-budget credit for pro-poor\u2026", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Implementation", 
+        "title": "CREDIT FOR BETTER HEALTH CARE PROJECT", 
+        "website": "http://www.adb.org/projects/41664-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1950", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2010-09-14", 
+        "closingDate": "2016-03-31", 
+        "commitmentAmount": 400000000.0, 
+        "disbursementAmount": 334580512.96000004, 
+        "id": "43407-013", 
+        "info": "The project will support the Government of the Philippines in implementing and expanding its social protection agenda, especially the conditional cash transfer (CCT) program Pantawid Pamilyang\u2026", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Implementation", 
+        "title": "SOCIAL PROTECTION SUPPORT PROJECT", 
+        "website": "http://www.adb.org/projects/43407-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          119.9502, 
+          15.5363
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1951", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Masinloc", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.1469, 
+          9.6794
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1952", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Manjuyod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.66667, 
+          10.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1953", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Leyte", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.41667, 
+          16.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1954", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of La Union", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.2335, 
+          10.0266
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1955", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "La Libertad", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.82917, 
+          7.10667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1956", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Kabacan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.7825, 
+          11.18833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1957", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Jaro", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.66667, 
+          11.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1958", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Iloilo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.56444, 
+          10.69694
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1959", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Iloilo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.2742, 
+          10.1214
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1960", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Guihulngan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.3409, 
+          8.5883
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1961", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Dipolog City", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.20143, 
+          14.93039
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1962", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Castillejos", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.79167, 
+          7.20444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1963", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Carmen", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          119.9297, 
+          15.6254
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1964", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Candelaria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.56667, 
+          11.11667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1965", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Calinog", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.64722, 
+          8.48222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1966", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Cagayan de Oro", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.0569, 
+          15.158
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1967", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Cabangan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.54361, 
+          8.94917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1968", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Butuan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.66667, 
+          16.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1969", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Benguet", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.33306, 
+          16.53083
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1970", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Bauang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.59306, 
+          16.41639
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1971", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Baguio City", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.5, 
+          9.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1972", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Agusan del Norte", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.0, 
+          8.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1973", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Misamis Oriental", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.66667, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1974", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Zamboanga del Norte", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.16667, 
+          15.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1975", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Zambales", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.3259, 
+          10.3349
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1976", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Vallehermoso", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.01667, 
+          11.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1977", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Tolosa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.01556, 
+          11.10944
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1978", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Tanauan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.23433, 
+          14.87999
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1979", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Subic", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          119.9092, 
+          15.7654
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1980", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Santa Cruz", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.0803, 
+          15.0143
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1981", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "San Narciso", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.15733, 
+          14.97418
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1982", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "San Marcelino", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.07, 
+          15.06222
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1983", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Poblacion", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.99083, 
+          11.1575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1984", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Palo", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          119.9045, 
+          15.435
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1985", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Palauig", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.28278, 
+          14.82917
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1986", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Olongapo City", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.08333, 
+          7.01667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1987", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of North Cotabato", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.0, 
+          9.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1988", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Province of Negros Oriental", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.39667, 
+          16.53389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1989", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2012-03-12", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 62000000.0, 
+        "disbursementAmount": 8058827.91, 
+        "id": "41076-044", 
+        "info": "The project will result in improved accessibility of transport infrastructure and services", 
+        "locationName": "Naguilian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD IMPROVEMENT & INSTITUTIONAL DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41076-044/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.26306, 
+          7.88111
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1990", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-03-22", 
+        "closingDate": "2020-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 3059006.96, 
+        "id": "41220-013", 
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country", 
+        "locationName": "Lake Lanao", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.0, 
+          8.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1991", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-03-22", 
+        "closingDate": "2020-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 3059006.96, 
+        "id": "41220-013", 
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country", 
+        "locationName": "Province of Bukidnon", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          124.16667, 
+          9.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1992", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-03-22", 
+        "closingDate": "2020-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 3059006.96, 
+        "id": "41220-013", 
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country", 
+        "locationName": "Bohol", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.20612, 
+          17.22422
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1993", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-03-22", 
+        "closingDate": "2020-12-31", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 3059006.96, 
+        "id": "41220-013", 
+        "info": "The project will address unsustainable watershed management in four priority river basins of the country", 
+        "locationName": "Cordillera Administrative Region", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "INTEGRATED NATURAL RESOURCES AND ENVIRONMENTAL MANAGEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/41220-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.4161, 
+          14.2814
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1994", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Santa Cruz", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0509, 
+          14.6488
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1995", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Quezon City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.4815, 
+          10.1038
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1996", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Puerto Princesa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.01749, 
+          14.48156
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1997", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Paranaque City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0, 
+          15.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1998", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Province of Nueva Ecija", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.9822, 
+          14.6042
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1999", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "City of Manila", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.0409, 
+          14.5832
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2000", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Mandaluyong City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.90911, 
+          11.90027
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2001", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Malay", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.03269, 
+          14.55027
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2002", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Makati City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.2234, 
+          14.1798
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2003", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Los Banos", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.1631, 
+          13.9411
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2004", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Lipa City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          125.59845, 
+          7.06955
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2005", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Davao City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.34083, 
+          16.0475
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2006", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Dagupan", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.96667, 
+          14.65
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2007", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Caloocan City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.96648, 
+          15.48586
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2008", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Cabanatuan City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.53611, 
+          14.67611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2009", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Balanga", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          121.91932, 
+          11.98013
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2010", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Boracay Island", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          120.59794, 
+          15.48017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2011", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-09-27", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 658567.47, 
+        "id": "43207-013", 
+        "info": "The proposed project will replace 100,000 gasoline tricycles (motorcycles with a passenger sidecar) with three wheel plug-in electric vehicles running on an electric motor and rechargeable battery\u2026", 
+        "locationName": "Tarlac City", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MARKET TRANSFORMATION THRU-INTRO/-ENRGY EFFICIENT ELEC VEHICLES", 
+        "website": "http://www.adb.org/projects/43207-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          123.5, 
+          11.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2012", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2013-12-23", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 500000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "47337-001", 
+        "info": "The emergency assistance loan (EAL) supports the Government of the Philippines\u2019 fiscal response to meet additional public spending needs under its recovery program for areas affected by Typhoon\u2026", 
+        "locationName": "Visayas", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "EMERGENCY ASSISTANCE FOR RELIEF & RECOVERY FROM TYPHOON YOLANDA", 
+        "website": "http://www.adb.org/projects/47337-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2013", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2014-03-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 372103895.0, 
+        "disbursementAmount": 151498337.74, 
+        "id": "46420-002", 
+        "info": "The EAL will support the implementation of the government\u2019s KALAHI\u2013CIDSS National Community-Driven Development Project (KC-NCDDP) to restore basic social services and rebuild communities affected by\u2026", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "KALAHI-CIDSS NATIONAL COMMUNITY-DRIVEN DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46420-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2014", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2014-03-26", 
+        "closingDate": "2018-06-30", 
+        "commitmentAmount": 372103895.0, 
+        "disbursementAmount": 151498337.74, 
+        "id": "46420-002", 
+        "info": "The EAL will support the implementation of the government\u2019s KALAHI\u2013CIDSS National Community-Driven Development Project (KC-NCDDP) to restore basic social services and rebuild communities affected by\u2026", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "KALAHI-CIDSS NATIONAL COMMUNITY-DRIVEN DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/46420-002/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2015", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2014-02-14", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 250000000.0, 
+        "disbursementAmount": 250000000.0, 
+        "id": "44253-013", 
+        "info": "The program aims to improve service delivery in the Philippines by assisting the development of efficient and transparent local governments within an adequate and equitable fiscal framework", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "LOCAL GOVERNMENT FINANCE&FISCAL DECENTRALIZATION REFORM PROG-SUB1", 
+        "website": "http://www.adb.org/projects/44253-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2016", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2015-02-12", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43396-014", 
+        "info": "The program supports the government\u2019s key reform priorities aimed at employment generation by increasing competitiveness in the economy with an inclusive approach through the labor market", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Industry and trade"
+        ], 
+        "status": "Implementation", 
+        "title": "INCREASING COMPETITIVENESS FOR INCLUSIVE GROWTH PROGRAM - SUBPROGRAM 2", 
+        "website": "http://www.adb.org/projects/43396-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          122.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2017", 
+      "properties": {
+        "adminCode": "PH", 
+        "adminLocation": "Philippines", 
+        "approvalDate": "2015-02-10", 
+        "closingDate": "2020-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "45089-002", 
+        "info": "The SHSSP will support the development during 2014\u20132015 of senior high school (SHS) in the Philippines and the implementation of the SHS program during\u2026", 
+        "locationName": "Philippines", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "SENIOR HIGH SCHOOL SUPPORT PROGRAM", 
+        "website": "http://www.adb.org/projects/45089-002/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "PH", 
+  "metadata": {
+    "data_origin": "http://www.adb.org/iati/iati-activities-ph.xml", 
+    "download_date": "2015-08-20 17:48:38", 
+    "quarter": "Q3 2015", 
+    "run_date": "2015-08-20 21:59:29"
+  }, 
+  "properties": {
+    "bounds": [
+      116.95492597700016, 
+      4.655707098000107, 
+      126.61768639400017, 
+      21.122381903000033
+    ], 
+    "name": "Philippines"
+  }, 
+  "type": "FeatureCollection"
+}

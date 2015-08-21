@@ -1,0 +1,645 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.25, 
+          27.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2314", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Tanahun", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.5, 
+          28.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2315", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "R\u0101pt\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2316", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.91667, 
+          27.36667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2317", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "N\u0101r\u0101yan\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.5, 
+          27.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2318", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Lumbin\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.43333, 
+          27.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2319", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Bharatpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.31335, 
+          29.05977
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2320", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Mid Western", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.22301, 
+          27.45436
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2321", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Central Region", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.93829, 
+          28.17039
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2322", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Western Region", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.21184, 
+          28.02937
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2323", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Majhkot", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.90132, 
+          28.07217
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2324", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Dharampani", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.26486, 
+          27.97763
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2325", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 120000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Damauli", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.25, 
+          27.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2326", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Tanahun", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.5, 
+          28.33333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2327", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "R\u0101pt\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.0, 
+          28.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2328", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Nepal", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.91667, 
+          27.36667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2329", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "N\u0101r\u0101yan\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.5, 
+          27.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2330", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Lumbin\u012b Zone", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.43333, 
+          27.68333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2331", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Bharatpur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.31335, 
+          29.05977
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2332", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Mid Western", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          85.22301, 
+          27.45436
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2333", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Central Region", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.93829, 
+          28.17039
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2334", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Western Region", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          83.21184, 
+          28.02937
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2335", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Majhkot", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.90132, 
+          28.07217
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2336", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Dharampani", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          84.26486, 
+          27.97763
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2337", 
+      "properties": {
+        "approvalDate": "2013-04-22", 
+        "closingDate": "2021-06-30", 
+        "commitmentAmount": 30000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "43281-013", 
+        "info": "The project has three main components: (i) a medium-sized hydropower plant of 140 megawatts (MW) with significant water storage facilities and associated transmission lines to evacuate the generated\u2026", 
+        "locationName": "Damauli", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "TANAHU HYDROPOWER PROJECT(SF)", 
+        "website": "http://www.adb.org/projects/43281-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "NP", 
+  "properties": {
+    "bounds": [
+      80.03028772000005, 
+      26.343767802000087, 
+      88.1690674240001, 
+      30.416904195000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-np.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Nepal"
+  }, 
+  "type": "FeatureCollection"
+}

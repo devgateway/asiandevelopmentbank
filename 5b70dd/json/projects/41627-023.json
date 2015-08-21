@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          77.58333, 
+          31.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7378", 
+      "properties": {
+        "approvalDate": "2008-11-10", 
+        "closingDate": "2015-04-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 126457107.62, 
+        "id": "41627-023", 
+        "info": "The main objective is to help fulfill local demand, as Himachal Pradesh experiences energy shortages, especially in the winter months of December to February when river flows are at their lowest,\u2026", 
+        "locationName": "Shimla district", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIMACHAL PRADESH CLEAN ENERGY DEV'T INVESTMENT PROGRAM-TR1", 
+        "website": "http://www.adb.org/projects/41627-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.41667, 
+          31.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7379", 
+      "properties": {
+        "approvalDate": "2008-11-10", 
+        "closingDate": "2015-04-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 126457107.62, 
+        "id": "41627-023", 
+        "info": "The main objective is to help fulfill local demand, as Himachal Pradesh experiences energy shortages, especially in the winter months of December to February when river flows are at their lowest,\u2026", 
+        "locationName": "Kinnaur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-HIMACHAL PRADESH CLEAN ENERGY DEV'T INVESTMENT PROGRAM-TR1", 
+        "website": "http://www.adb.org/projects/41627-023/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

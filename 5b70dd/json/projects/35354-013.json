@@ -1,0 +1,619 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          96.0, 
+          36.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1345", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Qinghai Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.0, 
+          25.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1346", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Yunnan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.05372, 
+          35.21804
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1347", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Yuncheng Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.27306, 
+          38.46806
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1348", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Yinchuan", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          111.1629, 
+          35.60787
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1349", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Xinjiang Xian", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.44081, 
+          36.82446
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1350", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Xining Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.5, 
+          30.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1351", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Sichuan Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          112.0, 
+          37.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1352", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Shanxi Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.0, 
+          37.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1353", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Ningxia Huizu Zizhiqu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.73322, 
+          36.47444
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1354", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Lanzhou Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.83987, 
+          36.05701
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1355", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Lanzhou", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.81853, 
+          25.29437
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1356", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Kunming Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.71833, 
+          25.03889
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1357", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Kunming", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.0, 
+          27.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1358", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Guizhou Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.71, 
+          26.58
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1359", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Guiyang Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.71667, 
+          26.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1360", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Guiyang", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          102.0, 
+          38.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1361", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Gansu Sheng", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.87406, 
+          30.05705
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1362", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Chongqing Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.55278, 
+          29.56278
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1363", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Chongqing", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.87055, 
+          30.75982
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1364", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Chengdu Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          104.06667, 
+          30.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1365", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Chengdu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          106.38077, 
+          38.23779
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1366", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Yinchuan Shi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          107.40234, 
+          29.53523
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1367", 
+      "properties": {
+        "approvalDate": "2009-08-26", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 34088431.62, 
+        "id": "35354-013", 
+        "info": "The Lanzhou-Chongqing Railway (LCR) Development Project is in Chongqing municipality and the northwestern part of Sichuan and Gansu provinces, a relatively poor area", 
+        "locationName": "Chongqing", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "LANZHOU-CHONGQING RAILWAY DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/35354-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

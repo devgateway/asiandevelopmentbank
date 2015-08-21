@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6096", 
+      "properties": {
+        "approvalDate": "2008-02-18", 
+        "closingDate": "2014-10-31", 
+        "commitmentAmount": 27100000.0, 
+        "disbursementAmount": 26917443.240000002, 
+        "id": "38559-022", 
+        "info": "The Project will help the Government achieve its goal of poverty reduction and economic development by providing support for enhancing the quality of education through institutional capacity\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "ENHANCING EDUCATION QUALITY PROJECT", 
+        "website": "http://www.adb.org/projects/38559-022/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,71 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          93.0, 
+          26.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4012", 
+      "properties": {
+        "approvalDate": "2015-02-20", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47101-002", 
+        "info": "Tranche 1 investment components will be for (i) replacement of 60 MW, less efficient gas turbine generators in Lakwa with 70 MW, new and efficient plant; and (ii) capacity building component that\u2026", 
+        "locationName": "Assam", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ASSAM POWER SECTOR INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          94.85725, 
+          27.01356
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4013", 
+      "properties": {
+        "approvalDate": "2015-02-20", 
+        "closingDate": "2019-06-30", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47101-002", 
+        "info": "Tranche 1 investment components will be for (i) replacement of 60 MW, less efficient gas turbine generators in Lakwa with 70 MW, new and efficient plant; and (ii) capacity building component that\u2026", 
+        "locationName": "Lakwa", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "ASSAM POWER SECTOR INVESTMENT PROGRAM - TRANCHE 1"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-15 16:32:51", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-30 18:13:18"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

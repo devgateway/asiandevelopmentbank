@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          13.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5959", 
+      "properties": {
+        "approvalDate": "2010-10-22", 
+        "closingDate": "2011-04-30", 
+        "commitmentAmount": 10000000.0, 
+        "disbursementAmount": 10722365.01, 
+        "id": "41373-013", 
+        "info": "The program's objective is to assist in implementing public financial management (PFM) reforms in three rural development ministries, including support to strengthen the capacity of the National\u2026", 
+        "locationName": "Cambodia", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "PUBLIC FINANCIAL MANAGEMENT FOR RURAL DEVT PROG-SUBPROGRAM 2 (SP2", 
+        "website": "http://www.adb.org/projects/41373-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KH", 
+  "properties": {
+    "bounds": [
+      102.31342370600012, 
+      10.415773620000081, 
+      107.61051639900009, 
+      14.704581605000087
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kh.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Cambodia"
+  }, 
+  "type": "FeatureCollection"
+}

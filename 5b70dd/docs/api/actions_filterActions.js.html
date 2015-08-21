@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>JSDoc: Source: actions/filterActions.js</title>
+
+  <script src="scripts/prettify/prettify.js"> </script>
+  <script src="scripts/prettify/lang-css.js"> </script>
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <link type="text/css" rel="stylesheet" href="styles/prettify-tomorrow.css">
+  <link rel="stylesheet/less" type="text/css" href="styles/jsdoc.less" />
+  <script type="text/javascript" src="scripts/less.js"></script>
+</head>
+
+<body>
+
+  <div id="main">
+
+    <h1 class="page-title">Source: actions/filterActions.js</h1>
+
+    
+
+
+  
+  <section>
+    <article>
+      <pre class="prettyprint source"><code>'use strict';
+
+var assign = require('object-assign');
+var Reflux = require('reflux');
+var metaActions = require('./pageMetaActions');
+var getRouter = require('../router.jsx').get;
+var SectorStore = require('../stores/sectorStore');
+var ApprovalYearStore = require('../stores/approvalYearStore');
+
+
+/**
+ * Keep a list of all the filter values so we can do select-all
+ */
+var filtersContents = {
+  'sectors': [],
+  'approvalYear': [],
+};
+SectorStore.listen(function(sectors) {
+  filtersContents.sectors = Object.keys(sectors);
+});
+ApprovalYearStore.listen(function(years) {
+  filtersContents.approvalYear = Object.keys(years);
+});
+
+
+var FilterActions = {};
+
+
+FilterActions.setFilter = Reflux.createAction();
+FilterActions.setFilter.listen(function(filter, option) {
+  var query = getRouter().getCurrentQuery(),
+      options = query[filter],
+      update = {};
+  options = options ? options.slice() : [];  // copy, react-router gives us the original
+  if (options.indexOf(option) !== -1) {  // already in selection
+    return;
+  }
+  options.push(option);
+  update[filter] = options;
+  metaActions.transitionTo('country', {}, assign({}, query, update));
+});
+
+
+FilterActions.clearFilter = Reflux.createAction();
+FilterActions.clearFilter.listen(function(filter, option) {
+  var query = getRouter().getCurrentQuery(),
+      options = query[filter],
+      optIndex = options.indexOf(option),
+      update = {};
+  options = options ? options.slice() : [];  // copy, react-router gives us the original
+  if (optIndex === -1) {  // not in selection
+    return;
+  }
+  options.splice(optIndex, 1);  // delete mode
+  update[filter] = options;
+  metaActions.transitionTo('country', {}, assign({}, query, update));
+});
+
+
+FilterActions.selectAll = Reflux.createAction();
+FilterActions.selectAll.listen(function(filter) {
+  var query = getRouter().getCurrentQuery(),
+      update = {};
+  if (filtersContents[filter] === undefined) {
+    throw new Error('Could not select all for filter', filter);
+  }
+  update[filter] = filtersContents[filter];
+  metaActions.transitionTo('country', {}, assign({}, query, update));
+});
+
+
+FilterActions.selectNone = Reflux.createAction();
+FilterActions.selectNone.listen(function(filter) {
+  var query = getRouter().getCurrentQuery(),
+      newQuery = assign({}, query);
+  delete newQuery[filter];
+  metaActions.transitionTo('country', {}, newQuery);
+});
+
+
+FilterActions.refreshFromURL = Reflux.createAction();
+
+
+module.exports = FilterActions;
+</code></pre>
+    </article>
+  </section>
+
+
+
+
+
+  </div>
+  <div class="api-mobile-bar"></div>
+  <nav class="navigation">
+    <div class="api-button-wrapper">
+      <a class="api-nav-toggle" href="#">
+        <span></span>
+      </a>
+    </div>
+    <div class="scroll-wrapper">
+      <h2><a href="index.html">Index</a></h2><h3>Global</h3><ul><li><a href="global.html#DGSet">DGSet</a></li><li><a href="global.html#filtersContents">filtersContents</a></li><li><a href="global.html#objectEq">objectEq</a></li><li><a href="global.html#SectorObj">SectorObj</a></li><li><a href="global.html#updatesLength">updatesLength</a></li></ul>
+    </div>
+  </nav>
+
+  <br clear="both">
+  <script type="text/javascript" src="scripts/jquery.js"></script>
+  <script type="text/javascript" src="scripts/linenumber.js"> </script>
+  <script type="text/javascript" src="scripts/main.js"></script>
+
+</body>
+</html>
