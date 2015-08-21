@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          31.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7380", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 62400000.0, 
+        "disbursementAmount": 5235831.69, 
+        "id": "37139-033", 
+        "info": "The Project will assist in construction of the approximately 90 kilometer 400 KV D/C Loharinagpala-Koteshwar transmission\u2026", 
+        "locationName": "Uttark\u0101shi", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.66667, 
+          30.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7381", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 62400000.0, 
+        "disbursementAmount": 5235831.69, 
+        "id": "37139-033", 
+        "info": "The Project will assist in construction of the approximately 90 kilometer 400 KV D/C Loharinagpala-Koteshwar transmission\u2026", 
+        "locationName": "Tehri-Garhw\u0101l", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.25, 
+          30.25
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7382", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 62400000.0, 
+        "disbursementAmount": 5235831.69, 
+        "id": "37139-033", 
+        "info": "The Project will assist in construction of the approximately 90 kilometer 400 KV D/C Loharinagpala-Koteshwar transmission\u2026", 
+        "locationName": "Uttarakhand", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.61806, 
+          30.81833
+        ], 
+        "type": "Point"
+      }, 
+      "id": "7383", 
+      "properties": {
+        "approvalDate": "2009-02-25", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 62400000.0, 
+        "disbursementAmount": 5235831.69, 
+        "id": "37139-033", 
+        "info": "The Project will assist in construction of the approximately 90 kilometer 400 KV D/C Loharinagpala-Koteshwar transmission\u2026", 
+        "locationName": "Loharinagpala", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 2", 
+        "website": "http://www.adb.org/projects/37139-033/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

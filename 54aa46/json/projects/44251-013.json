@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          107.83333, 
+          16.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5416", 
+      "properties": {
+        "approvalDate": "2014-01-24", 
+        "closingDate": "2014-07-31", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 45179727.12, 
+        "id": "44251-013", 
+        "info": "The proposed FSDP will support initiatives under the Socio-Economic Development Strategy (SEDS), 2011\u20132020 to increase the role of the nonbank financial sector and deepen the financial markets in\u2026", 
+        "locationName": "Vietnam", 
+        "sectors": [
+          "Finance"
+        ], 
+        "status": "Completion", 
+        "title": "FINANCIAL SECTOR DEEPENING PROGRAM-SUBPROGRAM 1", 
+        "website": "http://www.adb.org/projects/44251-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "VN", 
+  "properties": {
+    "bounds": [
+      102.11865523300011, 
+      8.565578518000152, 
+      109.47242272200018, 
+      23.366275127000122
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-vn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Viet Nam"
+  }, 
+  "type": "FeatureCollection"
+}

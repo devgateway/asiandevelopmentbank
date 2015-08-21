@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          41.83333, 
+          41.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10886", 
+      "properties": {
+        "approvalDate": "2012-04-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 3402268.63, 
+        "id": "41122-043", 
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026", 
+        "locationName": "Kobuletis Raioni", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)", 
+        "website": "http://www.adb.org/projects/41122-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          41.87481, 
+          41.80316
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10887", 
+      "properties": {
+        "approvalDate": "2012-04-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 3402268.63, 
+        "id": "41122-043", 
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026", 
+        "locationName": "K'obulet'i", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)", 
+        "website": "http://www.adb.org/projects/41122-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          41.63593, 
+          41.64159
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10888", 
+      "properties": {
+        "approvalDate": "2012-04-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 3402268.63, 
+        "id": "41122-043", 
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026", 
+        "locationName": "Batumi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)", 
+        "website": "http://www.adb.org/projects/41122-043/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          42.0, 
+          41.66667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10889", 
+      "properties": {
+        "approvalDate": "2012-04-18", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 140000000.0, 
+        "disbursementAmount": 3402268.63, 
+        "id": "41122-043", 
+        "info": "The Project, financed from the multitranche finance facility (MFF) for Georgia Road Corridor Investment Program, provides additional financing of $140 million for Loan 2560-GEO  (the original\u2026", 
+        "locationName": "Ajaria", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 3(ADD'L FINANCING)", 
+        "website": "http://www.adb.org/projects/41122-043/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "GE", 
+  "properties": {
+    "bounds": [
+      39.985976355423105, 
+      41.044110820000114, 
+      46.694803101000076, 
+      43.57584259000011
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ge.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
+    "name": "Georgia"
+  }, 
+  "type": "FeatureCollection"
+}

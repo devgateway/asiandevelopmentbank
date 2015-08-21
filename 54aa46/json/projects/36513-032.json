@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          187.86667, 
+          -13.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "180", 
+      "properties": {
+        "approvalDate": "2008-01-08", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 5900000.0, 
+        "disbursementAmount": 4244488.93, 
+        "id": "36513-032", 
+        "info": "The SchoolNet and Community Access Project (the Project) will help the Government of Samoa (the Government) develop the capacity of relevant divisions of the Ministry of Education, Sports, and\u2026", 
+        "locationName": "Samoa", 
+        "sectors": [
+          "Information and communication technology"
+        ], 
+        "status": "Implementation", 
+        "title": "SCHOOLNET AND COMMUNITY ACCESS PROJECT", 
+        "website": "http://www.adb.org/projects/36513-032/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "WS", 
+  "properties": {
+    "bounds": [
+      187.21741783900012, 
+      -14.05282968499999, 
+      188.56230716200008, 
+      -13.46282317499994
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ws.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Samoa"
+  }, 
+  "type": "FeatureCollection"
+}

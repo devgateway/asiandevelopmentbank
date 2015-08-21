@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          68.71512, 
+          35.94458
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10543", 
+      "properties": {
+        "approvalDate": "2013-12-14", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 49100000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42094-075", 
+        "info": "The project consists of construction and commissioning of a new 500-kV/220-kV substation at Dashte Alwan to connect to a 500-kV transmission line traversing the Hindukush mountains via the Salang\u2026", 
+        "locationName": "Pul-e Khumr\u012b", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF:ENERGY SECTOR DEVELOPMENT INVESTMENT PROGRAM-T", 
+        "website": "http://www.adb.org/projects/42094-075/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

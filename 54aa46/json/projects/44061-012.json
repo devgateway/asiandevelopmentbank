@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          71.0, 
+          39.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "98", 
+      "properties": {
+        "approvalDate": "2011-04-13", 
+        "closingDate": "2013-10-31", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 45000000.0, 
+        "id": "44061-012", 
+        "info": "The Program aims to strengthen public resource management in Tajikistan through improved tax policy and administration, more effective and efficient social safety net programs, and improved public\u2026", 
+        "locationName": "Tajikistan", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENING PUBLIC RESOURCE MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/44061-012/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TJ", 
+  "properties": {
+    "bounds": [
+      67.34269006300022, 
+      36.67864084900019, 
+      75.16412479700008, 
+      41.039976705000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Tajikistan"
+  }, 
+  "type": "FeatureCollection"
+}

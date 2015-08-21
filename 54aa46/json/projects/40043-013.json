@@ -1,0 +1,177 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          68.61126, 
+          37.19041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10407", 
+      "properties": {
+        "approvalDate": "2011-01-18", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 4567936.7, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Qizil Qal\u2018ah", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWER TRANSMISSION INTERCONNECTION PROJEC", 
+        "website": "http://www.adb.org/projects/40043-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.857, 
+          36.72896
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10408", 
+      "properties": {
+        "approvalDate": "2011-01-18", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 4567936.7, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Kunduz", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWER TRANSMISSION INTERCONNECTION PROJEC", 
+        "website": "http://www.adb.org/projects/40043-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.64001, 
+          36.00118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10409", 
+      "properties": {
+        "approvalDate": "2011-01-18", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 4567936.7, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Puli Khumri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWER TRANSMISSION INTERCONNECTION PROJEC", 
+        "website": "http://www.adb.org/projects/40043-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.61126, 
+          37.19041
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10410", 
+      "properties": {
+        "approvalDate": "2007-05-20", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 35153902.41, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Qizil Qal\u2018ah", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWER TRANSMISSION INTERCONNECTION PROJ-AFHAN COMPONENT", 
+        "website": "http://www.adb.org/projects/40043-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.857, 
+          36.72896
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10411", 
+      "properties": {
+        "approvalDate": "2007-05-20", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 35153902.41, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Kunduz", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWER TRANSMISSION INTERCONNECTION PROJ-AFHAN COMPONENT", 
+        "website": "http://www.adb.org/projects/40043-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.64001, 
+          36.00118
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10412", 
+      "properties": {
+        "approvalDate": "2007-05-20", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 35000000.0, 
+        "disbursementAmount": 35153902.41, 
+        "id": "40043-013", 
+        "info": "The Project will interconnect the power grids in Afghanistan and Tajikistan.\n\nThe Project's scope will cover the construction of a 220 kilovolt (kV) double-circuit transmission line that will link\u2026", 
+        "locationName": "Puli Khumri", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "REGIONAL POWER TRANSMISSION INTERCONNECTION PROJ-AFHAN COMPONENT", 
+        "website": "http://www.adb.org/projects/40043-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AF", 
+  "properties": {
+    "bounds": [
+      60.48677779100012, 
+      29.38660532600005, 
+      74.89230676300014, 
+      38.473673402000145
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-af.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "Afghanistan"
+  }, 
+  "type": "FeatureCollection"
+}

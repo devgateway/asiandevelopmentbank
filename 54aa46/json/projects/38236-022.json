@@ -1,0 +1,697 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          69.70885, 
+          38.71731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "33", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Obigarm", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "34", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nimichi-Poy\u00ebn", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.15082, 
+          39.01084
+        ], 
+        "type": "Point"
+      }, 
+      "id": "35", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Novobod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.26273, 
+          39.01079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "36", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kaznok", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.50538, 
+          39.08611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "37", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kalanak", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.28867, 
+          38.98381
+        ], 
+        "type": "Point"
+      }, 
+      "id": "38", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kadara", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "39", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.73692, 
+          38.69331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "40", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.8, 
+          39.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "41", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Tojikobod District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "42", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "43", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.08629, 
+          38.87272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "44", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Nurobod", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "45", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2010-09-30", 
+        "commitmentAmount": 29500000.0, 
+        "disbursementAmount": 31205826.75, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai R\u016bdak\u00ed", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "DUSHANBE-KYRGYZ BORDER ROAD REHABILITATION PROJECT-PHASE II(TAJ)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.70885, 
+          38.71731
+        ], 
+        "type": "Point"
+      }, 
+      "id": "46", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Obigarm", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.67358, 
+          39.10055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "47", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nimichi-Poy\u00ebn", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.15082, 
+          39.01084
+        ], 
+        "type": "Point"
+      }, 
+      "id": "48", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Novobod", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.26273, 
+          39.01079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "49", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kaznok", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.50538, 
+          39.08611
+        ], 
+        "type": "Point"
+      }, 
+      "id": "50", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kalanak", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.28867, 
+          38.98381
+        ], 
+        "type": "Point"
+      }, 
+      "id": "51", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Kadara", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.77905, 
+          38.53575
+        ], 
+        "type": "Point"
+      }, 
+      "id": "52", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Dushanbe", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.73692, 
+          38.69331
+        ], 
+        "type": "Point"
+      }, 
+      "id": "53", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.8, 
+          39.2
+        ], 
+        "type": "Point"
+      }, 
+      "id": "54", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Tojikobod District", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          69.77, 
+          38.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "55", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Roghun District", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.35998, 
+          39.23491
+        ], 
+        "type": "Point"
+      }, 
+      "id": "56", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Rasht", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          70.08629, 
+          38.87272
+        ], 
+        "type": "Point"
+      }, 
+      "id": "57", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai Nurobod", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          68.58544, 
+          38.35096
+        ], 
+        "type": "Point"
+      }, 
+      "id": "58", 
+      "properties": {
+        "approvalDate": "2006-02-14", 
+        "closingDate": "2009-12-31", 
+        "commitmentAmount": 500000.0, 
+        "disbursementAmount": 492378.32, 
+        "id": "38236-022", 
+        "info": "The project of L2196-TAJ was approved in 2005, as a government priority", 
+        "locationName": "Nohiyai R\u016bdak\u00ed", 
+        "sectors": [
+          "Health"
+        ], 
+        "status": "Completion", 
+        "title": "HIV/AIDS AND MIGRATION (ADF)", 
+        "website": "http://www.adb.org/projects/38236-022/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TJ", 
+  "properties": {
+    "bounds": [
+      67.34269006300022, 
+      36.67864084900019, 
+      75.16412479700008, 
+      41.039976705000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Tajikistan"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          75.96667, 
+          41.43333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "211", 
+      "properties": {
+        "approvalDate": "2009-08-05", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 28000000.0, 
+        "disbursementAmount": 26972490.470000003, 
+        "id": "42399-013", 
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I", 
+        "locationName": "Naryn", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/42399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          75.81058, 
+          41.17017
+        ], 
+        "type": "Point"
+      }, 
+      "id": "212", 
+      "properties": {
+        "approvalDate": "2009-08-05", 
+        "closingDate": "2014-11-30", 
+        "commitmentAmount": 28000000.0, 
+        "disbursementAmount": 26972490.470000003, 
+        "id": "42399-013", 
+        "info": "The CAREC Transport Corridor I (Bishkek-Torugart Road) Project II will continue the rehabilitation work on the section from km 439 to km 476, next to Project I", 
+        "locationName": "At-Bashi", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "CAREC TRANSPORT CORRIDOR 1 (BISHKEK-TORUGART ROAD)", 
+        "website": "http://www.adb.org/projects/42399-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KG", 
+  "properties": {
+    "bounds": [
+      69.22629602000012, 
+      39.189236959000084, 
+      80.2575606690001, 
+      43.261701558000084
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-kg.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Kyrgyz Republic"
+  }, 
+  "type": "FeatureCollection"
+}

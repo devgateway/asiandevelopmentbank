@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          80.75, 
+          7.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "3501", 
+      "properties": {
+        "approvalDate": "2010-06-07", 
+        "closingDate": "2016-04-30", 
+        "commitmentAmount": 50000000.0, 
+        "disbursementAmount": 6233968.93, 
+        "id": "38356-013", 
+        "info": "The project aims to ensure greater sustainability of public investments in Sri Lanka, particularly in the less developed regions, through more effective public resource management", 
+        "locationName": "Sri Lanka", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "FISCAL MANAGEMENT EFFICIENCY PROJECT", 
+        "website": "http://www.adb.org/projects/38356-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "LK", 
+  "properties": {
+    "bounds": [
+      79.65577233200005, 
+      5.92373281500015, 
+      81.89031009200008, 
+      9.829575914000145
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-lk.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Sri Lanka"
+  }, 
+  "type": "FeatureCollection"
+}

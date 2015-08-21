@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          103.83333, 
+          -2.75
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5504", 
+      "properties": {
+        "approvalDate": "2009-12-10", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 84240000.0, 
+        "disbursementAmount": 83666681.25, 
+        "id": "38385-013", 
+        "info": "The Project forms part of the Government of Indonesia's ongoing flagship poverty reduction program the National Program for Community Empowerment (PNPM Mandiri)", 
+        "locationName": "South Sumatra", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL INFRASTRUCTURE SUPPORT TO THE PNPM MANDIRI PROJ II", 
+        "website": "http://www.adb.org/projects/38385-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          101.749, 
+          0.5005
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5505", 
+      "properties": {
+        "approvalDate": "2009-12-10", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 84240000.0, 
+        "disbursementAmount": 83666681.25, 
+        "id": "38385-013", 
+        "info": "The Project forms part of the Government of Indonesia's ongoing flagship poverty reduction program the National Program for Community Empowerment (PNPM Mandiri)", 
+        "locationName": "Provinsi Riau", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL INFRASTRUCTURE SUPPORT TO THE PNPM MANDIRI PROJ II", 
+        "website": "http://www.adb.org/projects/38385-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5506", 
+      "properties": {
+        "approvalDate": "2009-12-10", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 84240000.0, 
+        "disbursementAmount": 83666681.25, 
+        "id": "38385-013", 
+        "info": "The Project forms part of the Government of Indonesia's ongoing flagship poverty reduction program the National Program for Community Empowerment (PNPM Mandiri)", 
+        "locationName": "Provinsi Lampung", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL INFRASTRUCTURE SUPPORT TO THE PNPM MANDIRI PROJ II", 
+        "website": "http://www.adb.org/projects/38385-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          103.0, 
+          -1.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5507", 
+      "properties": {
+        "approvalDate": "2009-12-10", 
+        "closingDate": "2013-09-30", 
+        "commitmentAmount": 84240000.0, 
+        "disbursementAmount": 83666681.25, 
+        "id": "38385-013", 
+        "info": "The Project forms part of the Government of Indonesia's ongoing flagship poverty reduction program the National Program for Community Empowerment (PNPM Mandiri)", 
+        "locationName": "Provinsi Jambi", 
+        "sectors": [
+          "Multisector"
+        ], 
+        "status": "Completion", 
+        "title": "RURAL INFRASTRUCTURE SUPPORT TO THE PNPM MANDIRI PROJ II", 
+        "website": "http://www.adb.org/projects/38385-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

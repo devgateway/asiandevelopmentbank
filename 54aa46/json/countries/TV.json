@@ -1,0 +1,49 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          179.14478, 
+          -8.51719
+        ], 
+        "type": "Point"
+      }, 
+      "id": "2018", 
+      "properties": {
+        "adminCode": "TV", 
+        "adminLocation": "Tuvalu", 
+        "approvalDate": "2012-12-17", 
+        "closingDate": "2014-01-24", 
+        "commitmentAmount": 2350000.0, 
+        "disbursementAmount": 2350000.0, 
+        "id": "45395-001", 
+        "info": "The focus of ADB's program the Strengthened Public Financial Management Program (SPFMP) is consistent with the objectives of Tuvalu's National Strategy for Sustainable Development 2005-2015, known as\u2026", 
+        "locationName": "Tuvalu", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENED PUBLIC FINANCIAL MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/45395-001/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TV", 
+  "metadata": {
+    "data_origin": "http://www.adb.org/iati/iati-activities-tv.xml", 
+    "download_date": "2015-08-20 17:48:38", 
+    "quarter": "Q3 2015", 
+    "run_date": "2015-08-20 21:59:29"
+  }, 
+  "properties": {
+    "bounds": [
+      176.1252547540001, 
+      -9.420668226999808, 
+      179.90674889400017, 
+      -5.67750416499986
+    ], 
+    "name": "Tuvalu"
+  }, 
+  "type": "FeatureCollection"
+}

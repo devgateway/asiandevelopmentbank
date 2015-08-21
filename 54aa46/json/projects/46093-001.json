@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5630", 
+      "properties": {
+        "approvalDate": "2012-11-26", 
+        "closingDate": "2013-03-31", 
+        "commitmentAmount": 300000000.0, 
+        "disbursementAmount": 300000000.0, 
+        "id": "46093-001", 
+        "info": "The proposed program will support a key strategic pillar of the government's medium- and long-term development plans to achieve higher and more inclusive economic growth through improved domestic and\u2026", 
+        "locationName": "Indonesia", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "INCLUSIVE GROWTH THROUGH IMPROVED CONNECTIVITY PROGRAM-SUBPROG 1", 
+        "website": "http://www.adb.org/projects/46093-001/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

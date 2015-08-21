@@ -1,0 +1,151 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          84.24417, 
+          41.77389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1304", 
+      "properties": {
+        "approvalDate": "2008-05-26", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 150000000.0, 
+        "id": "39655-013", 
+        "info": "The Project will facilitate development of a more efficient national and regional transport system in Xinjiang", 
+        "locationName": "Luntai", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "XINJIANG REGIONAL ROAD IMPROVEMENT PROJ (KORLA-KUQA SECTION)", 
+        "website": "http://www.adb.org/projects/39655-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          82.93639, 
+          41.72778
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1305", 
+      "properties": {
+        "approvalDate": "2008-05-26", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 150000000.0, 
+        "id": "39655-013", 
+        "info": "The Project will facilitate development of a more efficient national and regional transport system in Xinjiang", 
+        "locationName": "Kucha", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "XINJIANG REGIONAL ROAD IMPROVEMENT PROJ (KORLA-KUQA SECTION)", 
+        "website": "http://www.adb.org/projects/39655-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.15231, 
+          41.76055
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1306", 
+      "properties": {
+        "approvalDate": "2008-05-26", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 150000000.0, 
+        "id": "39655-013", 
+        "info": "The Project will facilitate development of a more efficient national and regional transport system in Xinjiang", 
+        "locationName": "Korla", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "XINJIANG REGIONAL ROAD IMPROVEMENT PROJ (KORLA-KUQA SECTION)", 
+        "website": "http://www.adb.org/projects/39655-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          86.15, 
+          41.73333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1307", 
+      "properties": {
+        "approvalDate": "2008-05-26", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 150000000.0, 
+        "id": "39655-013", 
+        "info": "The Project will facilitate development of a more efficient national and regional transport system in Xinjiang", 
+        "locationName": "Bayingolin Mongol Zizhizhou", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "XINJIANG REGIONAL ROAD IMPROVEMENT PROJ (KORLA-KUQA SECTION)", 
+        "website": "http://www.adb.org/projects/39655-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          81.84629, 
+          40.55689
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1308", 
+      "properties": {
+        "approvalDate": "2008-05-26", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 150000000.0, 
+        "id": "39655-013", 
+        "info": "The Project will facilitate development of a more efficient national and regional transport system in Xinjiang", 
+        "locationName": "Aksu Diqu", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Completion", 
+        "title": "XINJIANG REGIONAL ROAD IMPROVEMENT PROJ (KORLA-KUQA SECTION)", 
+        "website": "http://www.adb.org/projects/39655-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

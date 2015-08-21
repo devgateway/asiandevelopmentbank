@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          187.86667, 
+          -13.8
+        ], 
+        "type": "Point"
+      }, 
+      "id": "143", 
+      "properties": {
+        "approvalDate": "2013-10-29", 
+        "closingDate": "2015-12-31", 
+        "commitmentAmount": 14000000.0, 
+        "disbursementAmount": 10000000.0, 
+        "id": "46384-001", 
+        "info": "The program is designed to improve the Government of Samoa\u2019s (government) capacity in public financial management and to strengthen the country\u2019s resilience to external shocks by supporting the\u2026", 
+        "locationName": "Samoa", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "PUBLIC SECTOR FINANCIAL MANAGEMENT PROGRAM", 
+        "website": "http://www.adb.org/projects/46384-001/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "WS", 
+  "properties": {
+    "bounds": [
+      187.21741783900012, 
+      -14.05282968499999, 
+      188.56230716200008, 
+      -13.46282317499994
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-ws.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Samoa"
+  }, 
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,46 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          78.5, 
+          23.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4019", 
+      "properties": {
+        "approvalDate": "2015-02-20", 
+        "closingDate": "2018-10-31", 
+        "commitmentAmount": 350000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "47270-001", 
+        "info": "The project will improve about 1600 km of major district roads in the state of Madhya Pradesh, in line with the state\u2019s road development plan for 2013-2033", 
+        "locationName": "Madhya Pradesh", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "MADHYA PRADESH DISTRICT CONNECTIVITY SECTOR"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-07-15 16:32:51", 
+      "quarter": "Q3 2015", 
+      "run_date": "2015-07-30 18:13:18"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

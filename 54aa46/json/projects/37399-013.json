@@ -1,0 +1,177 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4110", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 51000000.0, 
+        "disbursementAmount": 51000000.0, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4111", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 51000000.0, 
+        "disbursementAmount": 51000000.0, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Tsirang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.13333, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4112", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 51000000.0, 
+        "disbursementAmount": 51000000.0, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Wangdue Phodrang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          89.86667, 
+          27.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4113", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 29000000.0, 
+        "disbursementAmount": 29409852.25, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Dagana Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.16667, 
+          27.03333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4114", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 29000000.0, 
+        "disbursementAmount": 29409852.25, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Tsirang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          90.13333, 
+          27.5
+        ], 
+        "type": "Point"
+      }, 
+      "id": "4115", 
+      "properties": {
+        "approvalDate": "2009-02-13", 
+        "closingDate": "2013-12-31", 
+        "commitmentAmount": 29000000.0, 
+        "disbursementAmount": 29409852.25, 
+        "id": "37399-013", 
+        "info": "The Green Power Development Project has two components: (i) regional clean power trade, and (ii) renewable energy access for the poor", 
+        "locationName": "Wangdue Phodrang Dzongkhag", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Completion", 
+        "title": "GREEN POWER DEVELOPMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37399-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BT", 
+  "properties": {
+    "bounds": [
+      88.73006677200013, 
+      26.69614939400016, 
+      92.08877648900014, 
+      28.358398930786294
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bt.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:20"
+    }, 
+    "name": "Bhutan"
+  }, 
+  "type": "FeatureCollection"
+}

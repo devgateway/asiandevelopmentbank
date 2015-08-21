@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          68.937, 
+          37.8839
+        ], 
+        "type": "Point"
+      }, 
+      "id": "113", 
+      "properties": {
+        "approvalDate": "2013-12-23", 
+        "closingDate": "2021-01-31", 
+        "commitmentAmount": 136000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46418-001", 
+        "info": "The proposed Project will increase supply of renewable energy to national and regional power systems", 
+        "locationName": "Golovnaya Power Plant", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "GOLOVNAYA 240-MEGAWATT HYDROPOWER PLANT REHABILITA", 
+        "website": "http://www.adb.org/projects/46418-001/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "TJ", 
+  "properties": {
+    "bounds": [
+      67.34269006300022, 
+      36.67864084900019, 
+      75.16412479700008, 
+      41.039976705000086
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-tj.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:18"
+    }, 
+    "name": "Tajikistan"
+  }, 
+  "type": "FeatureCollection"
+}

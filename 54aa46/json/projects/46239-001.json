@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          120.0, 
+          -5.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5616", 
+      "properties": {
+        "approvalDate": "2012-07-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 500000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "46239-001", 
+        "info": "Like many other economies, the Indonesian economy has been affected by the deterioration in the global economic outlook and turbulence in the financial markets", 
+        "locationName": "Indonesia", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Implementation", 
+        "title": "PRECAUTIONARY FINANCING FACILITY", 
+        "website": "http://www.adb.org/projects/46239-001/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "ID", 
+  "properties": {
+    "bounds": [
+      95.01270592500012, 
+      -10.922621351999808, 
+      140.97762699400008, 
+      5.910101630000099
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-id.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Indonesia"
+  }, 
+  "type": "FeatureCollection"
+}

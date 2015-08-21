@@ -1,0 +1,47 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          105.0, 
+          46.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6678", 
+      "properties": {
+        "approvalDate": "2012-03-20", 
+        "closingDate": "2017-06-30", 
+        "commitmentAmount": 45000000.0, 
+        "disbursementAmount": 15986667.600000001, 
+        "id": "41193-015", 
+        "info": "The investment program is the government's top priority road investment after the ADB-financed Regional Road Development Project", 
+        "locationName": "Mongolia", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "WESTERN REGIONAL ROAD CORRIDOR INVESTMENT PROGRAM-TRANCHE 1 (SF)", 
+        "website": "http://www.adb.org/projects/41193-015/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "MN", 
+  "properties": {
+    "bounds": [
+      87.73570886300013, 
+      41.58614491800003, 
+      119.90702681500011, 
+      52.129584046000076
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-mn.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Mongolia"
+  }, 
+  "type": "FeatureCollection"
+}

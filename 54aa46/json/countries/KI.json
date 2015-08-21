@@ -1,0 +1,329 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          172.92079, 
+          1.35797
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1888", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2011-03-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 8020858.39, 
+        "id": "44281-013", 
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance", 
+        "locationName": "Betio", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.97696, 
+          1.3278
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1889", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2011-03-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 8020858.39, 
+        "id": "44281-013", 
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance", 
+        "locationName": "Tarawa", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.97495, 
+          1.32926
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1890", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2011-03-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 8020858.39, 
+        "id": "44281-013", 
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance", 
+        "locationName": "Bairiki", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          173.12689, 
+          1.36273
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1891", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2011-03-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 8020858.39, 
+        "id": "44281-013", 
+        "info": "The physical outputs of the Project will be (i) the rehabilitation or upgrading of the road network in South Tarawa, and (ii) trained and equipped community-based enterprises for road maintenance", 
+        "locationName": "Bikenibeu Town", 
+        "sectors": [
+          "Transport"
+        ], 
+        "status": "Implementation", 
+        "title": "ROAD REHABILITATION PROJECT", 
+        "website": "http://www.adb.org/projects/44281-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.97696, 
+          1.3278
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1892", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 750140.71, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Tarawa", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/43072-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.9336, 
+          1.35046
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1893", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 750140.71, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Betio Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/43072-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          173.12689, 
+          1.36273
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1894", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 750140.71, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Bikenibeu Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/43072-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.98034, 
+          1.32678
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1895", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2012-05-03", 
+        "closingDate": "2019-12-31", 
+        "commitmentAmount": 7560000.0, 
+        "disbursementAmount": 750140.71, 
+        "id": "43072-013", 
+        "info": "South Tarawa is formed by a series of islets located along the southern rim of Tarawa Atoll with a total land area of just 15.76 square kilometers (km2)", 
+        "locationName": "Bairiki Town", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "SOUTH TARAWA SANITATION IMPROVEMENT SECTOR PROJECT", 
+        "website": "http://www.adb.org/projects/43072-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.984, 
+          1.421
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1896", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2014-12-04", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 3000000.0, 
+        "disbursementAmount": 3000000.0, 
+        "id": "47314-001", 
+        "info": "The objective of the program is to achieve macroeconomic stability in the long run through stabilization of Revenue Equalization Revolving Fund s real value, a gradual current fiscal deficit\u2026", 
+        "locationName": "Kiribati", 
+        "sectors": [
+          "Public sector management"
+        ], 
+        "status": "Completion", 
+        "title": "STRENGTHENING FISCAL STABILITY PROGRAM", 
+        "website": "http://www.adb.org/projects/47314-001/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          172.97495, 
+          1.32926
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5331", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2012-06-19", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 2600000.0, 
+        "disbursementAmount": 1846895.07, 
+        "id": "42291-025", 
+        "info": "The proposed investment program will support the University of the South Pacific in expanding access to higher education in 12 Pacific island countries (PICs) with improved quality of learning\u2026", 
+        "locationName": "Bairiki", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "HIGHER EDUCATION IN THE PACIFIC INVESTMENT PROG-TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42291-025/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          173.01379, 
+          1.33389
+        ], 
+        "type": "Point"
+      }, 
+      "id": "5332", 
+      "properties": {
+        "adminCode": "KI", 
+        "adminLocation": "Kiribati", 
+        "approvalDate": "2014-05-27", 
+        "closingDate": "2016-06-30", 
+        "commitmentAmount": 1000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "42291-028", 
+        "info": "The USP has requested additional financing of $1.0 million from the overall MFF envelope for Project 1 for use in the construction of USP s Kiribati campus which revealed cost overruns during the\u2026", 
+        "locationName": "University of the South Pacific Center", 
+        "sectors": [
+          "Education"
+        ], 
+        "status": "Implementation", 
+        "title": "HIGHER EDUCATION IN THE PACIFIC INVESTMENT PROGRAM-TRANCHE1(AF)", 
+        "website": "http://www.adb.org/projects/42291-028/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "KI", 
+  "metadata": {
+    "data_origin": "http://www.adb.org/iati/iati-activities-ki.xml", 
+    "download_date": "2015-08-20 17:48:38", 
+    "quarter": "Q3 2015", 
+    "run_date": "2015-08-20 21:59:29"
+  }, 
+  "properties": {
+    "bounds": [
+      165, 
+      -11.46111419099988, 
+      195, 
+      4.723089911000102
+    ], 
+    "name": "Kiribati"
+  }, 
+  "type": "FeatureCollection"
+}

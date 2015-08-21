@@ -1,0 +1,697 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          66.0, 
+          38.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10571", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Qashqadaryo", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10572", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Bukhara", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.75, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10573", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Jondor Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.1, 
+          39.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10574", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Romiton Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.0, 
+          39.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10575", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Qiziltepa Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.74414, 
+          39.13079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10576", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Koson Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.42861, 
+          39.77472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10577", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Bukhara District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.0, 
+          42.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10578", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Navoiy Province", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.0, 
+          40.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10579", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Xatirchi Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.47472, 
+          38.79306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10580", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Kamashi District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.14139, 
+          38.52361
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10581", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Guzar District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.30306, 
+          40.22
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10582", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Navbakhor Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.03147, 
+          39.69976
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10583", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 32600000.0, 
+        "disbursementAmount": 23701747.180000003, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Zeravshan River Basin", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.0, 
+          38.58333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10584", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Qashqadaryo", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.0, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10585", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Bukhara", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          63.75, 
+          40.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10586", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Jondor Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.1, 
+          39.9
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10587", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Romiton Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.0, 
+          39.91667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10588", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Qiziltepa Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.74414, 
+          39.13079
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10589", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Koson Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.42861, 
+          39.77472
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10590", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Bukhara District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          64.0, 
+          42.0
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10591", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Navoiy Province", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.0, 
+          40.16667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10592", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Xatirchi Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.47472, 
+          38.79306
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10593", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Kamashi District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          66.14139, 
+          38.52361
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10594", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Guzar District", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          65.30306, 
+          40.22
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10595", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Navbakhor Tumani", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          67.03147, 
+          39.69976
+        ], 
+        "type": "Point"
+      }, 
+      "id": "10596", 
+      "properties": {
+        "approvalDate": "2007-09-27", 
+        "closingDate": "2015-03-31", 
+        "commitmentAmount": 27600000.0, 
+        "disbursementAmount": 25132906.369999997, 
+        "id": "37536-013", 
+        "info": "The Land degradation is a serious economic,social, and environmental problem in Uzbekistan and the rest Central Asia", 
+        "locationName": "Zeravshan River Basin", 
+        "sectors": [
+          "Agriculture, natural resources and rural development"
+        ], 
+        "status": "Implementation", 
+        "title": "LAND IMPROVEMENT PROJECT", 
+        "website": "http://www.adb.org/projects/37536-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "UZ", 
+  "properties": {
+    "bounds": [
+      55.975838663000076, 
+      37.18514740000002, 
+      73.14864058400016, 
+      45.55871897400006
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-uz.xml", 
+      "download_date": "2015-02-26 12:57:10", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:23"
+    }, 
+    "name": "Uzbekistan"
+  }, 
+  "type": "FeatureCollection"
+}

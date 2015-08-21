@@ -1,0 +1,125 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          88.91667, 
+          23.83333
+        ], 
+        "type": "Point"
+      }, 
+      "id": "986", 
+      "properties": {
+        "approvalDate": "2013-10-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6093668.359999999, 
+        "id": "44192-014", 
+        "info": "Bangladesh and India are establishing a cross-border link (the interconnection) between the western electrical grid of Bangladesh and the eastern electrical grid of India in 2013 to facilitate the\u2026", 
+        "locationName": "Kushtia District", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC BAN-IND ELECTRICAL GRID INTERCONNECTION PROJ-ADD FIN(SF)", 
+        "website": "http://www.adb.org/projects/44192-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.25155, 
+          24.10473
+        ], 
+        "type": "Point"
+      }, 
+      "id": "987", 
+      "properties": {
+        "approvalDate": "2013-10-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6093668.359999999, 
+        "id": "44192-014", 
+        "info": "Bangladesh and India are establishing a cross-border link (the interconnection) between the western electrical grid of Bangladesh and the eastern electrical grid of India in 2013 to facilitate the\u2026", 
+        "locationName": "Baharampur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC BAN-IND ELECTRICAL GRID INTERCONNECTION PROJ-ADD FIN(SF)", 
+        "website": "http://www.adb.org/projects/44192-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.86369, 
+          23.9649
+        ], 
+        "type": "Point"
+      }, 
+      "id": "988", 
+      "properties": {
+        "approvalDate": "2013-10-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6093668.359999999, 
+        "id": "44192-014", 
+        "info": "Bangladesh and India are establishing a cross-border link (the interconnection) between the western electrical grid of Bangladesh and the eastern electrical grid of India in 2013 to facilitate the\u2026", 
+        "locationName": "Bheram\u0101ra", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC BAN-IND ELECTRICAL GRID INTERCONNECTION PROJ-ADD FIN(SF)", 
+        "website": "http://www.adb.org/projects/44192-014/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          88.25, 
+          24.1
+        ], 
+        "type": "Point"
+      }, 
+      "id": "989", 
+      "properties": {
+        "approvalDate": "2013-10-23", 
+        "closingDate": "2014-12-31", 
+        "commitmentAmount": 12000000.0, 
+        "disbursementAmount": 6093668.359999999, 
+        "id": "44192-014", 
+        "info": "Bangladesh and India are establishing a cross-border link (the interconnection) between the western electrical grid of Bangladesh and the eastern electrical grid of India in 2013 to facilitate the\u2026", 
+        "locationName": "Murshidabad district", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "SASEC BAN-IND ELECTRICAL GRID INTERCONNECTION PROJ-ADD FIN(SF)", 
+        "website": "http://www.adb.org/projects/44192-014/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "BD", 
+  "properties": {
+    "bounds": [
+      88.02178959200009, 
+      20.73871491100003, 
+      92.64285119700017, 
+      26.623544007000064
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-bd.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "Bangladesh"
+  }, 
+  "type": "FeatureCollection"
+}

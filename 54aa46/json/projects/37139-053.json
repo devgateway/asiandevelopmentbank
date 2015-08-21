@@ -1,0 +1,99 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          74.80298, 
+          34.08842
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8916", 
+      "properties": {
+        "approvalDate": "2013-06-04", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37139-053", 
+        "info": "The project will expand the transmission evacuation system in Uttarakhand resulting in rapid expansion of hydropower", 
+        "locationName": "Srinagar", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 4", 
+        "website": "http://www.adb.org/projects/37139-053/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          79.43066, 
+          30.42553
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8917", 
+      "properties": {
+        "approvalDate": "2013-06-04", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37139-053", 
+        "info": "The project will expand the transmission evacuation system in Uttarakhand resulting in rapid expansion of hydropower", 
+        "locationName": "P\u012bpalkoti", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 4", 
+        "website": "http://www.adb.org/projects/37139-053/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          78.95693, 
+          29.21398
+        ], 
+        "type": "Point"
+      }, 
+      "id": "8918", 
+      "properties": {
+        "approvalDate": "2013-06-04", 
+        "closingDate": "2016-03-30", 
+        "commitmentAmount": 150000000.0, 
+        "disbursementAmount": 0.0, 
+        "id": "37139-053", 
+        "info": "The project will expand the transmission evacuation system in Uttarakhand resulting in rapid expansion of hydropower", 
+        "locationName": "Kashipur", 
+        "sectors": [
+          "Energy"
+        ], 
+        "status": "Implementation", 
+        "title": "UTTARAKHAND POWER SECTOR INVESTMENT PROGRAM-PROJECT 4", 
+        "website": "http://www.adb.org/projects/37139-053/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "IN", 
+  "properties": {
+    "bounds": [
+      68.1434025400001, 
+      6.74555084800015, 
+      97.36225305200006, 
+      35.49540557900009
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-in.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:22"
+    }, 
+    "name": "India"
+  }, 
+  "type": "FeatureCollection"
+}

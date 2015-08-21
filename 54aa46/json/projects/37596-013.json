@@ -1,0 +1,73 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          108.31667, 
+          22.81667
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1139", 
+      "properties": {
+        "approvalDate": "2006-07-06", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 96226159.36, 
+        "id": "37596-013", 
+        "info": "The Guangxi Nanning Urban Environmental Upgrading Project (the Project) is a key urban environmental improvement initiative of the Nanning municipal government (NMG) which aims to enhance the urban\u2026", 
+        "locationName": "Nanning", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "GUANGXI NANNING URBAN ENVIRONMENTAL UPGRADING PROJECT", 
+        "website": "http://www.adb.org/projects/37596-013/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          108.39558, 
+          22.78805
+        ], 
+        "type": "Point"
+      }, 
+      "id": "1140", 
+      "properties": {
+        "approvalDate": "2006-07-06", 
+        "closingDate": "2013-06-30", 
+        "commitmentAmount": 100000000.0, 
+        "disbursementAmount": 96226159.36, 
+        "id": "37596-013", 
+        "info": "The Guangxi Nanning Urban Environmental Upgrading Project (the Project) is a key urban environmental improvement initiative of the Nanning municipal government (NMG) which aims to enhance the urban\u2026", 
+        "locationName": "Qingxiushan Park", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Completion", 
+        "title": "GUANGXI NANNING URBAN ENVIRONMENTAL UPGRADING PROJECT", 
+        "website": "http://www.adb.org/projects/37596-013/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "CN", 
+  "properties": {
+    "bounds": [
+      73.6022563070002, 
+      15.775376695000048, 
+      134.7725793870002, 
+      53.56944447900004
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-cn.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:19"
+    }, 
+    "name": "China, People's Republic of"
+  }, 
+  "type": "FeatureCollection"
+}

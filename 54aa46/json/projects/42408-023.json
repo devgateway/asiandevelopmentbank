@@ -1,0 +1,99 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          45.41222, 
+          39.20889
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6768", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 60430679.52000001, 
+        "id": "42408-023", 
+        "info": "The Water Supply and Sanitation Investment Program (the Investment Program) will improve the quality and coverage of urban services in secondary towns and peri-urban areas surrounding Baku", 
+        "locationName": "Nakhchivan", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42408-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          47.74219, 
+          40.65056
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6769", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 60430679.52000001, 
+        "id": "42408-023", 
+        "info": "The Water Supply and Sanitation Investment Program (the Investment Program) will improve the quality and coverage of urban services in secondary towns and peri-urban areas surrounding Baku", 
+        "locationName": "G\u00f6y\u00e7ay", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42408-023/main"
+      }, 
+      "type": "Feature"
+    }, 
+    {
+      "geometry": {
+        "coordinates": [
+          49.89201, 
+          40.37767
+        ], 
+        "type": "Point"
+      }, 
+      "id": "6770", 
+      "properties": {
+        "approvalDate": "2009-12-17", 
+        "closingDate": "2015-06-30", 
+        "commitmentAmount": 75000000.0, 
+        "disbursementAmount": 60430679.52000001, 
+        "id": "42408-023", 
+        "info": "The Water Supply and Sanitation Investment Program (the Investment Program) will improve the quality and coverage of urban services in secondary towns and peri-urban areas surrounding Baku", 
+        "locationName": "Baku", 
+        "sectors": [
+          "Water supply and other urban infrastructure and services"
+        ], 
+        "status": "Implementation", 
+        "title": "MFF-WATER SUPPLY AND SANITATION INVESTMENT PROGRAM - TRANCHE 1", 
+        "website": "http://www.adb.org/projects/42408-023/main"
+      }, 
+      "type": "Feature"
+    }
+  ], 
+  "id": "AZ", 
+  "properties": {
+    "bounds": [
+      44.77455855300022, 
+      38.392644755, 
+      50.62574303500011, 
+      41.89044159000015
+    ], 
+    "metadata": {
+      "data_origin": "http://www.adb.org/iati/iati-activities-az.xml", 
+      "download_date": "2015-02-26 12:57:09", 
+      "quarter": "Q4 2014", 
+      "run_date": "2015-07-20 15:58:21"
+    }, 
+    "name": "Azerbaijan"
+  }, 
+  "type": "FeatureCollection"
+}
