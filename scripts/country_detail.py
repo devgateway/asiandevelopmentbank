@@ -177,7 +177,6 @@ def go(subpath=None):
          client_dir = os.path.join("client", "json")
     else:
          client_dir = os.path.join(subpath, "json")
-    client_dir = os.path.join("client", "json")
 
     data_dir = "data"
     download_url = "http://www.adb.org/iati/"
