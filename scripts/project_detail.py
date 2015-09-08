@@ -18,8 +18,8 @@ def go(subpath=None):
         client_glob = os.path.join("client", "json", "countries", "*.json")
         client_out = os.path.join("client", "json", "countries", "projects")
     else:
-        client_glob = os.path.join(subpath, "client", "json", "countries", "*.json")
-        client_out = os.path.join(subpath, "client", "json", "projects")
+        client_glob = os.path.join(subpath, "json", "countries", "*.json")
+        client_out = os.path.join(subpath, "json", "projects")
 
     count = 0
     print("Start project-detail task:")

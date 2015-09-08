@@ -159,9 +159,9 @@ def go(subpath=None):
 
     client_dir = ""
     if not subpath:
-        client_dir = os.path.join("client", "json")
+        client_dir = os.path.join("client", "csv")
     else:
-        client_dir = os.path.join(subpath, "client", "json")
+        client_dir = os.path.join(subpath, "csv")
     data_dir = "data"
     download_url = "http://www.adb.org/iati/"
 
